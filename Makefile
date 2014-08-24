@@ -1,10 +1,13 @@
 DEFAULT_LANG = en-US
 USER_GUIDE_PATH = books/User_Guide
 USER_GUIDE_CONFIGS = publican_cinnamon.cfg publican_mate.cfg
+TRANSLATIONS_FIRTSNAME = Clément
+TRANSLATIONS_SURNAME = Lefebvre
+TRANSLATIONS_EMAIL = root@linuxmint.com
 
 all: build
 
-build: clean build_dir user_guide
+build: clean pot po build_dir user_guide
 
 build_dir:
 	mkdir build
@@ -43,5 +46,15 @@ clean:
 pot:
 	for book_config in $(USER_GUIDE_CONFIGS); \
 	do \
-		cd $(USER_GUIDE_PATH) && publican update_pot --config=$$book_config && cd ../..; \
+		cd $(USER_GUIDE_PATH); \
+		publican update_pot --config=$$book_config; \
+		cd ../..; \
+	done
+
+po:
+	for book_config in $(USER_GUIDE_CONFIGS); \
+	do \
+		cd $(USER_GUIDE_PATH); \
+		publican update_po --config=$$book_config --firstname=$(TRANSLATIONS_FIRTSNAME) --surname=$(TRANSLATIONS_SURNAME) --email=$(TRANSLATIONS_EMAIL); \
+		cd ../..; \
 	done
