@@ -50,6 +50,7 @@ pot:
 		publican update_pot --config=$$book_config; \
 		cd ../..; \
 	done
+	python build_tools/merge_pot.py
 
 po:
 	for book_config in $(USER_GUIDE_CONFIGS); \
