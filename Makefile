@@ -18,7 +18,7 @@ user_guide:
 		cd $(USER_GUIDE_PATH); \
 		for lang in `ls`; \
 		do \
-			if [ -d "$$lang" -a "$$lang" != "pot" -a "$$lang" != "publish" ]; \
+			if [ -d "$$lang" -a "$$lang" != "pot" -a "$$lang" != "publish" -a "$$lang" != "tmp" ]; \
 			then \
 				if [ "$$lang" = "$(DEFAULT_LANG)" ]; \
 				then \
