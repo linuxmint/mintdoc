@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+<chapter id="introduction">
+	<title>Introduction to Linux Mint</title>
+    <para>Linux Mint is a computer operating system designed to work on most modern systems, including typical x86 and x64 PCs.</para>
+    <para>Linux Mint can be thought of as filling the same role as Microsoft's Windows, Apple's Mac OS, and the free BSD OS. Linux Mint is also designed to work in conjunction with other operating systems (including those listed above), and can automatically set up a &ldquo;dual boot&rdquo; or &ldquo;multi-boot&rdquo; environment (where the user is prompted as to which operating system to start at each boot-up) during its installation.</para>
+    <para>Linux Mint is a great operating system for individuals and for companies.</para>
+    
+	<sect1 id="history">
+		<title>History</title>
+		<para>Linux Mint is a very modern operating system; Its development started in 2006. It is,
+        however, built upon very mature and proven software layers, including the Linux kernel,
+        the GNU tools and the &EDITION; desktop. It also relies on the Ubuntu and Debian
+        projects and uses their systems as a base.</para>
+        <para>The Linux Mint project focuses on making the desktop more usable and more efficient
+        for everyday tasks performed by regular users. Underneath the desktop the operating
+        system also provides a huge collection of available software and a very well integrated
+        set of services.</para>
+        <para>Linux Mint saw a rapid rise in popularity and more and more people use it every day.</para>
+	</sect1>
+    
+    <sect1>
+        <title>Purpose</title>
+        <para>The purpose of Linux Mint is to provide a desktop operating system that home users and
+        companies can use at no cost and which is as efficient, easy to use, and elegant as
+        possible.</para>
+        <para>One of the ambitions of the Linux Mint project is to become the best operating system
+        available by making it easy for people to get to use advanced technologies, rather than by
+        simplifying them (and thereby reducing their capabilities), or by copying the approaches
+        taken by other developers.</para>
+        <para>The goal is to develop our own idea of the ideal desktop. We think that it is best to make
+        the most out of the modern technologies that exist under Linux and make it easy for
+        everybody to use its most advanced features.</para>
+    </sect1>
+    <sect1>
+        <title>Version numbers and codenames</title>
+        <para>Version numbers and codenames follow a unique logic in Linux Mint:</para>
+        <itemizedlist>
+            <listitem><para>Codenames provide a way to refer to versions of Linux Mint that is more familiar
+            than using a version number.</para></listitem>
+            <listitem><para>Since version 5, Linux Mint has followed a 6 months release cycle and uses a
+            simplified version scheme. The version number simply gets incremented every 6
+            months.</para></listitem>
+            <listitem><para>If revisions are made to a particular release (a bit like Service Packs in Windows)
+            its version number gets a minor revision increment. For instance &ldquo;3&rdquo; becomes
+            &ldquo;3.1&rdquo;.</para></listitem>
+            <listitem><para>Codenames in Linux Mint are always female names ending with &ldquo;a&rdquo;. They follow
+            the alphabetical order and the first letter of the codename corresponds to the index
+            of the version number in the alphabet.</para></listitem>
+        </itemizedlist>
+        <para>So far Linux Mint has used the following codenames:</para>
+        <table>
+            <title>Linux Mint codenames</title>
+            <tgroup cols='2' align='left' colsep='1' rowsep='1'>
+                <thead>
+                    <row>
+                        <entry>Version</entry>
+                        <entry>Codename</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>1.0</entry>
+                        <entry>Ada</entry>
+                    </row>
+                    <row>
+                        <entry>2.0</entry>
+                        <entry>Barbara</entry>
+                    </row>
+                    <row>
+                        <entry>2.1</entry>
+                        <entry>Bea</entry>
+                    </row>
+                    <row>
+                        <entry>2.2</entry>
+                        <entry>Bianca</entry>
+                    </row>
+                    <row>
+                        <entry>3.0</entry>
+                        <entry>Cassandra</entry>
+                    </row>
+                    <row>
+                        <entry>3.1</entry>
+                        <entry>Celena</entry>
+                    </row>
+                    <row>
+                        <entry>4.0</entry>
+                        <entry>Daryna</entry>
+                    </row>
+                    <row>
+                        <entry>4.0</entry>
+                        <entry>Daryna</entry>
+                    </row>
+                    <row>
+                        <entry>5</entry>
+                        <entry>Elyssa</entry>
+                    </row>
+                    <row>
+                        <entry>6</entry>
+                        <entry>Felicia</entry>
+                    </row>
+                    <row>
+                        <entry>7</entry>
+                        <entry>Gloria</entry>
+                    </row>
+                    <row>
+                        <entry>8</entry>
+                        <entry>Helena</entry>
+                    </row>
+                    <row>
+                        <entry>9</entry>
+                        <entry>Isadora</entry>
+                    </row>
+                    <row>
+                        <entry>10</entry>
+                        <entry>Julia</entry>
+                    </row>
+                    <row>
+                        <entry>11</entry>
+                        <entry>Katya</entry>
+                    </row>
+                    <row>
+                        <entry>12</entry>
+                        <entry>Lisa</entry>
+                    </row>
+                    <row>
+                        <entry>13</entry>
+                        <entry>Maya</entry>
+                    </row>
+                    <row>
+                        <entry>14</entry>
+                        <entry>Nadia</entry>
+                    </row>
+                    <row>
+                        <entry>15</entry>
+                        <entry>Olivia</entry>
+                    </row>
+                    <row>
+                        <entry>16</entry>
+                        <entry>Petra</entry>
+                    </row>
+                    <row>
+                        <entry>17</entry>
+                        <entry>Qiana</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </sect1>
+    <sect1>
+        <title>Editions</title>
+        <para>An Edition is a release of Linux Mint which is customized to address a certain set of
+        needs. This guide covers the &EDITION; Edition. Here are some of the most popular
+        editions:</para>
+        <itemizedlist>
+            <listitem><para>Cinnamon Edition (uses a Cinnamon desktop)</para></listitem>
+            <listitem><para>Mate Edition (uses a Mate desktop)</para></listitem>
+            <listitem><para>KDE Edition (uses a KDE desktop)</para></listitem>
+            <listitem><para>Xfce Edition (uses a Xfce desktop)</para></listitem>
+        </itemizedlist>
+        <para>If you don't know which edition to use, choose the MATE Edition. It's not as popular as
+        the Cinnamon Edition but it is compatible with a wider variety of hardware
+        specifications.</para>
+        <para>Note: If you intend to redistribute or to make commercial use of Linux Mint in the USA
+        or in Japan and if you're not sure about patent legislation you should use the &ldquo;No
+        Codecs&rdquo; installation images.</para>
+    </sect1>
+</chapter>
+
+

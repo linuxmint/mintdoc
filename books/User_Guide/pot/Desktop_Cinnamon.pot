@@ -1,0 +1,79 @@
+# 
+# AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0\n"
+"POT-Creation-Date: 2014-08-24 11:47+0200\n"
+"PO-Revision-Date: 2014-08-24 11:47+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: None\n"
+"MIME-Version: 1.0\n"
+"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction to the Desktop"
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid "This section of the guide will focus on the technologies and the tools that are specific to Linux Mint and provide information on some of the applications and technologies included by default in the Cinnamon Edition."
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid "The Cinnamon Desktop"
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid "The &ldquo;desktop&rdquo; is the component of the operating system which is responsible for the elements that appear on the desktop: The Panel, the Wallpaper, the Control Center, the menus...etc."
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid "The Cinnamon Edition of Linux Mint uses the &ldquo;Cinnamon&rdquo; desktop which is both intuitive and powerful."
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid "Desktop Settings"
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid "&ldquo;Desktop&rdquo; is a menu which allows you to rapidly configure the aspects of your Cinnamon Desktop that you will use the most."
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid "Launch it by clicking on &ldquo;Menu&rdquo; (in the bottom-left corner of your screen), then select &ldquo;System Settings&rdquo; and click on &ldquo;Desktop&rdquo;."
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid "Getting to know the menu"
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid "Linux Mint comes with the default Cinnamon menu. To open the menu click on the &ldquo;Menu&rdquo; button at the bottom-left corner of your screen or press CTRL+SUPER_L (&ldquo;Super_L&rdquo; is the left Windows key on your keyboard). Getting to know the menu"
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid "The &ldquo;Places&rdquo; menu"
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid "&ldquo;Places&rdquo; menu"
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid "When you choose the section called &ldquo;Places&rdquo; then you will see five entries. These entries give you quick access to the most important places within your Cinnamon Desktop."
+msgstr ""
+

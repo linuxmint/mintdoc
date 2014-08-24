@@ -1,0 +1,5 @@
+<!ENTITY PRODUCT "Linux Mint">
+<!ENTITY MINTVERSION "17">
+<!ENTITY BOOKID "User_Guide">
+<!ENTITY YEAR "2014">
+<!ENTITY HOLDER "| You need to change the HOLDER entity in the en-US/User_Guide.ent file |">

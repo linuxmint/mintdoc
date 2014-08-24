@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+<chapter id="desktop">
+    <title>Introduction to the Desktop</title>
+    <para>This section of the guide will focus on the technologies and the tools that are specific to
+    Linux Mint and provide information on some of the applications and technologies
+    included by default in the Cinnamon Edition.</para>
+    <sect1>
+        <title>The Cinnamon Desktop</title>
+        <para>The &ldquo;desktop&rdquo; is the component of the operating system which is responsible for the
+        elements that appear on the desktop: The Panel, the Wallpaper, the Control Center, the
+        menus...etc.</para>
+        <para>The Cinnamon Edition of Linux Mint uses the &ldquo;Cinnamon&rdquo; desktop which is both
+        intuitive and powerful.</para>
+        
+        <sect2>
+            <title>Desktop Settings</title>
+            <para>&ldquo;Desktop&rdquo; is a menu which allows you to rapidly configure the aspects of your Cinnamon
+            Desktop that you will use the most.</para>
+            <figure id="desktop-settings-figure">
+                <title>Desktop Settings</title>
+                <screenshot>
+                    <mediaobject>
+                        <imageobject>
+                            <imagedata fileref="images/desktops/cinnamon/desktop-settings.png" format="PNG" width="100%"/>
+                        </imageobject>
+                    </mediaobject>
+                </screenshot>
+            </figure>
+            <para>Launch it by clicking on &ldquo;Menu&rdquo; (in the bottom-left corner of your screen), then select
+            &ldquo;System Settings&rdquo; and click on &ldquo;Desktop&rdquo;.</para>
+        </sect2>
+        
+        <sect2>
+            <title>Getting to know the menu</title>
+            <para>Linux Mint comes with the default Cinnamon menu.
+            To open the menu click on the &ldquo;Menu&rdquo; button at the bottom-left corner of your screen or
+            press CTRL+SUPER_L (&ldquo;Super_L&rdquo; is the left Windows key on your keyboard).
+            Getting to know the menu</para>
+            
+            <sect3>
+                <title>The &ldquo;Places&rdquo; menu</title>
+                <figure id="places-menu-figure">
+                    <title>&ldquo;Places&rdquo; menu</title>
+                    <screenshot>
+                        <mediaobject>
+                            <imageobject>
+                                <imagedata fileref="images/desktops/cinnamon/places-menu.png" format="PNG" width="100%"/>
+                            </imageobject>
+                        </mediaobject>
+                    </screenshot>
+                </figure>
+                <para>When you choose the section called &ldquo;Places&rdquo; then you will see five entries. These entries
+                give you quick access to the most important places within your Cinnamon Desktop.</para>
+            </sect3>
+        </sect2>
+    </sect1>
+</chapter>
