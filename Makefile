@@ -23,12 +23,12 @@ user_guide:
 			then \
 				if [ "$$lang" = "$(DEFAULT_LANG)" ]; \
 				then \
-					publican build --config=$$book_config --langs=$$lang --formats=$(FORMATS) --pdftool=fop --publish; \
+					publican build --brand_dir=../../brands/Linux_Mint --config=$$book_config --langs=$$lang --formats=$(FORMATS) --pdftool=fop --publish; \
 					rm -rf tmp; \
 				else \
 					if [ "`publican lang_stats --lang=$$lang --config=$$book_config | grep 'Total for' | awk '{print $$4}'`" = "0" ]; \
 					then \
-						publican build --config=$$book_config --langs=$$lang --formats=$(FORMATS) --pdftool=fop --publish; \
+						publican build --brand_dir=../../brands/Linux_Mint --config=$$book_config --langs=$$lang --formats=$(FORMATS) --pdftool=fop --publish; \
 						rm -rf tmp; \
 					fi; \
 				fi; \
@@ -48,7 +48,7 @@ pot:
 	for book_config in $(USER_GUIDE_CONFIGS); \
 	do \
 		cd $(USER_GUIDE_PATH); \
-		publican update_pot --config=$$book_config; \
+		publican update_pot --brand_dir=../../brands/Linux_Mint --config=$$book_config; \
 		cd ../..; \
 	done
 
@@ -56,6 +56,6 @@ po:
 	for book_config in $(USER_GUIDE_CONFIGS); \
 	do \
 		cd $(USER_GUIDE_PATH); \
-		publican update_po --config=$$book_config --firstname=$(TRANSLATIONS_FIRTSNAME) --surname=$(TRANSLATIONS_SURNAME) --email=$(TRANSLATIONS_EMAIL); \
+		publican update_po --brand_dir=../../brands/Linux_Mint --config=$$book_config --firstname=$(TRANSLATIONS_FIRTSNAME) --surname=$(TRANSLATIONS_SURNAME) --email=$(TRANSLATIONS_EMAIL); \
 		cd ../..; \
 	done
