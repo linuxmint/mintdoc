@@ -4,6 +4,7 @@ USER_GUIDE_CONFIGS = publican_cinnamon.cfg publican_mate.cfg
 TRANSLATIONS_FIRTSNAME = Clément
 TRANSLATIONS_SURNAME = Lefebvre
 TRANSLATIONS_EMAIL = root@linuxmint.com
+FORMATS = pdf,html,html-single,html-desktop,txt,epub
 
 all: build
 
@@ -22,12 +23,12 @@ user_guide:
 			then \
 				if [ "$$lang" = "$(DEFAULT_LANG)" ]; \
 				then \
-					publican build --config=$$book_config --langs=$$lang --formats=pdf,html-single --pdftool=fop --publish; \
+					publican build --config=$$book_config --langs=$$lang --formats=$(FORMATS) --pdftool=fop --publish; \
 					rm -rf tmp; \
 				else \
 					if [ "`publican lang_stats --lang=$$lang --config=$$book_config | grep 'Total for' | awk '{print $$4}'`" = "0" ]; \
 					then \
-						publican build --config=$$book_config --langs=$$lang --formats=pdf,html-single --pdftool=fop --publish; \
+						publican build --config=$$book_config --langs=$$lang --formats=$(FORMATS) --pdftool=fop --publish; \
 						rm -rf tmp; \
 					fi; \
 				fi; \
@@ -50,7 +51,6 @@ pot:
 		publican update_pot --config=$$book_config; \
 		cd ../..; \
 	done
-	python build_tools/merge_pot.py
 
 po:
 	for book_config in $(USER_GUIDE_CONFIGS); \
