@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0\n"
-"POT-Creation-Date: 2014-09-03 12:16+0200\n"
-"PO-Revision-Date: 2014-09-03 12:16+0200\n"
+"POT-Creation-Date: 2014-09-03 17:07+0200\n"
+"PO-Revision-Date: 2014-09-03 17:07+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: None\n"
 "MIME-Version: 1.0\n"
@@ -360,5 +360,30 @@ msgstr ""
 #. Tag: para
 #, no-c-format
 msgid "Note: If you intend to redistribute or to make commercial use of Linux Mint in the USA or in Japan and if you're not sure about patent legislation you should use the &ldquo;No Codecs&rdquo; installation images."
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid "Where to find help"
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid "The Linux Mint community is very helpful and very active. If you have questions or a problem related to Linux Mint, you should be able to get help from other users online."
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid "First, make sure to register with the \"Linux Mint Forums\". This is the very first place where you can find help: <ulink url=\"http://www.linuxmint.com/forum\">http://www.linuxmint.com/forum</ulink>."
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid "If you want to chat with other users you can connect to the IRC chat room. Under Linux Mint simply launch \"XChat\" from the menu. If you’re using another operating system or another IRC client make sure to connect to the \"irc.spotchat.org\" server and to join the channels \"#linuxmint-help\" and \"#linuxmint-chat\"."
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid "Linux Mint uses Ubuntu<footnote><para>Ubuntu is another operating system based on GNU/Linux.</para></footnote> repositories<footnote><para>A repository is an online service by which software is stored and made available for the operating system to install and update from. Most operating systems based on GNU/Linux use repositories and connect to them via HTTP or FTP to install and upgrade their software.</para></footnote> (more on what this means later) and is fully compatible with it so most of the resources, articles, tutorials, and software made for Ubuntu also work for Linux Mint. If you can’t find help on a specific subject, make sure to search on the same subject for Ubuntu."
 msgstr ""
 

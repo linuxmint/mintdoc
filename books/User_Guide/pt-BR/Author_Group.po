@@ -17,11 +17,6 @@ msgstr ""
 msgid "Linux Mint"
 msgstr ""
 
-#. Tag: orgname
-#, no-c-format
-#~ msgid "Enter your organisation's name here."
-#~ msgstr ""
-
 #. Tag: orgdiv
 #, no-c-format
 #~ msgid "Enter your organisational division here."
@@ -30,6 +25,11 @@ msgstr ""
 #. Tag: surname
 #, no-c-format
 #~ msgid "Enter your surname here."
+#~ msgstr ""
+
+#. Tag: orgname
+#, no-c-format
+#~ msgid "Enter your organisation's name here."
 #~ msgstr ""
 
 #. Tag: firstname
