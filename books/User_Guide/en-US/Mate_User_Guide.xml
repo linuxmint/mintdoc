@@ -7,9 +7,9 @@
 ]>
 <book>
 	<xi:include href="Book_Info.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	<xi:include href="Introduction.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	<xi:include href="Desktop_Mate.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	<xi:include href="SoftwareManagement.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	<xi:include href="user-guide-common-introduction.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	<xi:include href="user-guide-mate-desktop.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	<xi:include href="user-guide-common-softwaremanagement.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<!--<xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<index />-->
 </book>

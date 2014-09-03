@@ -30,9 +30,11 @@ msgstr "&PRODUCT;"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"A short overview and summary of the book's subject and purpose, "
-"traditionally no more than one paragraph long. Note: the abstract will "
-"appear in the front matter of your book and will also be placed in the "
-"description field of the book's RPM spec file."
+msgid "An introduction to Linux Mint. The object of this book is to get you started and make it easy for you to use Linux Mint and to feel comfortable with it."
 msgstr ""
+
+#. Tag: para
+#, no-c-format
+#~ msgid "A short overview and summary of the book's subject and purpose, traditionally no more than one paragraph long. Note: the abstract will appear in the front matter of your book and will also be placed in the description field of the book's RPM spec file."
+#~ msgstr ""
+

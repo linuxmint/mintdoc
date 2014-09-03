@@ -7,12 +7,10 @@
 	<title>Official User Guide</title>
 	<subtitle>&EDITION; Edition</subtitle>
 	<productname>&PRODUCT;</productname>
-	<productnumber>&MINTVERSION;</productnumber>
-	<edition>0</edition>
-	<pubsnumber>0</pubsnumber>
+	<productnumber>&MINTVERSION;</productnumber>	
 	<abstract>
 		<para>
-			A short overview and summary of the book's subject and purpose, traditionally no more than one paragraph long. Note: the abstract will appear in the front matter of your book and will also be placed in the description field of the book's RPM spec file.
+			An introduction to Linux Mint. The object of this book is to get you started and make it easy for you to use Linux Mint and to feel comfortable with it.
 		</para>
 	</abstract>
 	<corpauthor>
@@ -23,6 +21,6 @@
 		</inlinemediaobject>
 	</corpauthor>
 	<xi:include href="Common_Content/Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	<xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	<!--<xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />-->
 </bookinfo>
 
