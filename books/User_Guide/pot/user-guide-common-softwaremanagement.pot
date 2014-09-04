@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0\n"
-"POT-Creation-Date: 2014-09-04 11:26+0200\n"
-"PO-Revision-Date: 2014-09-04 11:26+0200\n"
+"POT-Creation-Date: 2014-09-04 12:10+0200\n"
+"PO-Revision-Date: 2014-09-04 12:10+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: None\n"
 "MIME-Version: 1.0\n"
@@ -232,6 +232,11 @@ msgstr ""
 msgid "The easiest way to install software in Linux Mint is to use the <wordasword>Software Manager</wordasword>."
 msgstr ""
 
+#. Tag: title
+#, no-c-format
+msgid "The Software Manager"
+msgstr ""
+
 #. Tag: para
 #, no-c-format
 msgid "Open the <guimenu>Menu</guimenu> and select <guimenuitem>Software Manager</guimenuitem>."
@@ -250,6 +255,11 @@ msgstr ""
 #. Tag: para
 #, no-c-format
 msgid "If you want to install more than one application at a time or see more technical information about the packages, you can use <wordasword>Synaptic</wordasword>."
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid "Synaptic, the Package Manager"
 msgstr ""
 
 #. Tag: para

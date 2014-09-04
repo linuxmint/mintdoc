@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0\n"
-"POT-Creation-Date: 2014-09-04 11:26+0200\n"
-"PO-Revision-Date: 2014-09-04 11:26+0200\n"
+"POT-Creation-Date: 2014-09-04 12:10+0200\n"
+"PO-Revision-Date: 2014-09-04 12:10+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: None\n"
 "MIME-Version: 1.0\n"
@@ -19,61 +19,81 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "This section of the guide will focus on the technologies and the tools that are specific to Linux Mint and provide information on some of the applications and technologies included by default in the Cinnamon Edition."
+msgid "The <wordasword>desktop</wordasword> is the component of the operating system which is responsible for the elements that appear on the desktop: The <wordasword>Panel</wordasword>, the <wordasword>Wallpaper</wordasword>, the <wordasword>Control Center</wordasword>, the menus... etc."
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid "The Cinnamon Edition of Linux Mint uses the Cinnamon desktop which is both intuitive and powerful."
 msgstr ""
 
 #. Tag: title
 #, no-c-format
-msgid "The Cinnamon Desktop"
+msgid "The Menu"
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "The &ldquo;desktop&rdquo; is the component of the operating system which is responsible for the elements that appear on the desktop: The Panel, the Wallpaper, the Control Center, the menus...etc."
-msgstr ""
-
-#. Tag: para
-#, no-c-format
-msgid "The Cinnamon Edition of Linux Mint uses the &ldquo;Cinnamon&rdquo; desktop which is both intuitive and powerful."
+msgid "In Cinnamon, almost everything is accessible from the 'Menu'. To open it, click on <guimenu>Menu</guimenu> at the bottom-left of your screen, or press <keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L is the left Windows key on your keyboard)."
 msgstr ""
 
 #. Tag: title
 #, no-c-format
-msgid "Desktop Settings"
+msgid "The Cinnamon Menu"
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "&ldquo;Desktop&rdquo; is a menu which allows you to rapidly configure the aspects of your Cinnamon Desktop that you will use the most."
-msgstr ""
-
-#. Tag: para
-#, no-c-format
-msgid "Launch it by clicking on &ldquo;Menu&rdquo; (in the bottom-left corner of your screen), then select &ldquo;System Settings&rdquo; and click on &ldquo;Desktop&rdquo;."
+msgid "The menu is used to launch applications, to access the system settings, and to reach common places and open recent files."
 msgstr ""
 
 #. Tag: title
 #, no-c-format
-msgid "Getting to know the menu"
+msgid "Places"
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Linux Mint comes with the default Cinnamon menu. To open the menu click on the &ldquo;Menu&rdquo; button at the bottom-left corner of your screen or press CTRL+SUPER_L (&ldquo;Super_L&rdquo; is the left Windows key on your keyboard). Getting to know the menu"
-msgstr ""
-
-#. Tag: title
-#, no-c-format
-msgid "The &ldquo;Places&rdquo; menu"
-msgstr ""
-
-#. Tag: title
-#, no-c-format
-msgid "&ldquo;Places&rdquo; menu"
+msgid "In Linux Mint, all your personal data is stored in your <wordasword>Home</wordasword> directory."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "When you choose the section called &ldquo;Places&rdquo; then you will see five entries. These entries give you quick access to the most important places within your Cinnamon Desktop."
+msgid "As well as your files, this directory also contains pre-defined sub-directories such as <wordasword>Documents</wordasword>, <wordasword>Music</wordasword>, <wordasword>Videos</wordasword>...etc which you can use to better organize your files."
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid "Other important places are your <wordasword>Desktop</wordasword> folder (which containsn the files visible on your desktop), the filesystem (which contains all system files and directories), removable devices connected to the computer, the network and bookmarks (you can bookmark any directory to gain quick-access to it)."
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid "To quickly access one of these places, perform one of the following actions:"
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid "Click on <guimenu>Menu</guimenu> and select <guisubmenu>Places</guisubmenu>"
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid "Launch <wordasword>Nemo</wordasword>, the Cinnamon file manager, by clicking on <guimenu>Menu</guimenu> and selecting <guimenuitem>Files</guimenuitem>. Then, within Nemo, you can access common places by clicking on them in the sidebar, on the left of the window."
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid "Nemo, the file manager, listing the content of the Home directory and providing quick-access to common places from the left sidebar."
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid "System Settings"
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid "To launch the system settings, click on <guimenu>Menu</guimenu> and select <guimenuitem>System Settings</guimenuitem>."
 msgstr ""
 

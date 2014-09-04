@@ -232,6 +232,11 @@ msgstr ""
 msgid "The easiest way to install software in Linux Mint is to use the <wordasword>Software Manager</wordasword>."
 msgstr ""
 
+#. Tag: title
+#, no-c-format
+msgid "Using the Software Manager"
+msgstr ""
+
 #. Tag: para
 #, no-c-format
 msgid "Open the <guimenu>Menu</guimenu> and select <guimenuitem>Software Manager</guimenuitem>."
@@ -250,6 +255,11 @@ msgstr ""
 #. Tag: para
 #, no-c-format
 msgid "If you want to install more than one application at a time or see more technical information about the packages, you can use <wordasword>Synaptic</wordasword>."
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid "Synaptic, the Package Manager"
 msgstr ""
 
 #. Tag: para
