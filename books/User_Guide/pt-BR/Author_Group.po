@@ -22,9 +22,9 @@ msgstr ""
 #~ msgid "Enter your surname here."
 #~ msgstr ""
 
-#. Tag: orgdiv
+#. Tag: orgname
 #, no-c-format
-#~ msgid "Enter your organisational division here."
+#~ msgid "Enter your organisation's name here."
 #~ msgstr ""
 
 #. Tag: firstname
@@ -32,8 +32,8 @@ msgstr ""
 #~ msgid "Enter your first name here."
 #~ msgstr ""
 
-#. Tag: orgname
+#. Tag: orgdiv
 #, no-c-format
-#~ msgid "Enter your organisation's name here."
+#~ msgid "Enter your organisational division here."
 #~ msgstr ""
 

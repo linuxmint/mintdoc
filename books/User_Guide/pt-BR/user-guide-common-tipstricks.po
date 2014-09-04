@@ -94,7 +94,7 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-#~ msgid "The more you get used to this the faster you'll get at copying and pasting content. This technique also works on most Unix and GNU/Linux operating systems."
+#~ msgid "The buffer used by the mouse is not the same as the one used by the Cinnamon desktop. So you can actually copy something with your mouse and copy something else with “CTRL+C” or with the “Edit” menu. Thanks to this you can copy two elements at a time and depending on how you copied them you can paste them with either the middle mouse button or with “CTRL+V” or the “Edit” menu."
 #~ msgstr ""
 
 #. Tag: para
@@ -104,6 +104,6 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-#~ msgid "The buffer used by the mouse is not the same as the one used by the Cinnamon desktop. So you can actually copy something with your mouse and copy something else with “CTRL+C” or with the “Edit” menu. Thanks to this you can copy two elements at a time and depending on how you copied them you can paste them with either the middle mouse button or with “CTRL+V” or the “Edit” menu."
+#~ msgid "The more you get used to this the faster you'll get at copying and pasting content. This technique also works on most Unix and GNU/Linux operating systems."
 #~ msgstr ""
 

@@ -12,6 +12,7 @@
 	<xi:include href="user-guide-mate-desktop.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<xi:include href="user-guide-common-softwaremanagement.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<xi:include href="user-guide-common-tipstricks.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	<xi:include href="user-guide-common-conclusion.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<!--<xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<index />-->
 </book>
