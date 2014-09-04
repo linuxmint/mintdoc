@@ -4,50 +4,30 @@
 <chapter id="introduction">
 	<title>Introduction to Linux Mint</title>
     <para>Linux Mint is a computer operating system designed to work on most modern systems, including typical x86 and x64 PCs.</para>
-    <para>Linux Mint can be thought of as filling the same role as Microsoft's Windows, Apple's Mac OS, and the free BSD OS. Linux Mint is also designed to work in conjunction with other operating systems (including those listed above), and can automatically set up a &ldquo;dual boot&rdquo; or &ldquo;multi-boot&rdquo; environment (where the user is prompted as to which operating system to start at each boot-up) during its installation.</para>
+    <para>Linux Mint can be thought of as filling the same role as Microsoft's Windows, Apple's Mac OS, and the free BSD OS. Linux Mint is also designed to work in conjunction with other operating systems (including those listed above), and can automatically set up a <wordasword>dual boot</wordasword> or <wordasword>multi-boot</wordasword> environment (where the user is prompted as to which operating system to start at each boot-up) during its installation.</para>
     <para>Linux Mint is a great operating system for individuals and for companies.</para>
     
 	<sect1 id="history">
 		<title>History</title>
-		<para>Linux Mint is a very modern operating system; Its development started in 2006. It is,
-        however, built upon very mature and proven software layers, including the Linux kernel,
-        the GNU tools and the &EDITION; desktop. It also relies on the Ubuntu and Debian
-        projects and uses their systems as a base.</para>
-        <para>The Linux Mint project focuses on making the desktop more usable and more efficient
-        for everyday tasks performed by regular users. Underneath the desktop the operating
-        system also provides a huge collection of available software and a very well integrated
-        set of services.</para>
+		<para>Linux Mint is a very modern operating system; Its development started in 2006. It is, however, built upon very mature and proven software layers, including the Linux kernel, the GNU tools and the &EDITION; desktop. It also relies on the Ubuntu and Debian projects and uses their systems as a base.</para>
+        <para>The Linux Mint project focuses on making the desktop more usable and more efficient for everyday tasks performed by regular users. Underneath the desktop the operating system also provides a huge collection of available software and a very well integrated set of services.</para>
         <para>Linux Mint saw a rapid rise in popularity and more and more people use it every day.</para>
 	</sect1>
     
     <sect1>
         <title>Purpose</title>
-        <para>The purpose of Linux Mint is to provide a desktop operating system that home users and
-        companies can use at no cost and which is as efficient, easy to use, and elegant as
-        possible.</para>
-        <para>One of the ambitions of the Linux Mint project is to become the best operating system
-        available by making it easy for people to get to use advanced technologies, rather than by
-        simplifying them (and thereby reducing their capabilities), or by copying the approaches
-        taken by other developers.</para>
-        <para>The goal is to develop our own idea of the ideal desktop. We think that it is best to make
-        the most out of the modern technologies that exist under Linux and make it easy for
-        everybody to use its most advanced features.</para>
+        <para>The purpose of Linux Mint is to provide a desktop operating system that home users and companies can use at no cost and which is as efficient, easy to use, and elegant as possible.</para>
+        <para>One of the ambitions of the Linux Mint project is to become the best operating system available by making it easy for people to get to use advanced technologies, rather than by simplifying them (and thereby reducing their capabilities), or by copying the approaches taken by other developers.</para>
+        <para>The goal is to develop our own idea of the ideal desktop. We think that it is best to make the most out of the modern technologies that exist under Linux and make it easy for everybody to use its most advanced features.</para>
     </sect1>
     <sect1>
         <title>Version numbers and codenames</title>
         <para>Version numbers and codenames follow a unique logic in Linux Mint:</para>
         <itemizedlist>
-            <listitem><para>Codenames provide a way to refer to versions of Linux Mint that is more familiar
-            than using a version number.</para></listitem>
-            <listitem><para>Since version 5, Linux Mint has followed a 6 months release cycle and uses a
-            simplified version scheme. The version number simply gets incremented every 6
-            months.</para></listitem>
-            <listitem><para>If revisions are made to a particular release (a bit like Service Packs in Windows)
-            its version number gets a minor revision increment. For instance &ldquo;3&rdquo; becomes
-            &ldquo;3.1&rdquo;.</para></listitem>
-            <listitem><para>Codenames in Linux Mint are always female names ending with &ldquo;a&rdquo;. They follow
-            the alphabetical order and the first letter of the codename corresponds to the index
-            of the version number in the alphabet.</para></listitem>
+            <listitem><para>Codenames provide a way to refer to versions of Linux Mint that is more familiar than using a version number.</para></listitem>
+            <listitem><para>Since version 5, Linux Mint has followed a 6 months release cycle and uses a simplified version scheme. The version number simply gets incremented every 6 months.</para></listitem>
+            <listitem><para>If revisions are made to a particular release (a bit like Service Packs in Windows) its version number gets a minor revision increment. For instance <wordasword>3</wordasword> becomes <wordasword>3.1</wordasword>.</para></listitem>
+            <listitem><para>Codenames in Linux Mint are always female names ending with <wordasword>a</wordasword> They follow the alphabetical order and the first letter of the codename corresponds to the index of the version number in the alphabet.</para></listitem>
         </itemizedlist>
         <para>So far Linux Mint has used the following codenames:</para>
         <table>
@@ -150,28 +130,22 @@
     </sect1>
     <sect1>
         <title>Editions</title>
-        <para>An Edition is a release of Linux Mint which is customized to address a certain set of
-        needs. This guide covers the &EDITION; Edition. Here are some of the most popular
-        editions:</para>
+        <para>An Edition is a release of Linux Mint which is customized to address a certain set of needs. This guide covers the &EDITION; Edition. Here are some of the most popular editions:</para>
         <itemizedlist>
             <listitem><para>Cinnamon Edition (uses a Cinnamon desktop)</para></listitem>
             <listitem><para>Mate Edition (uses a Mate desktop)</para></listitem>
             <listitem><para>KDE Edition (uses a KDE desktop)</para></listitem>
             <listitem><para>Xfce Edition (uses a Xfce desktop)</para></listitem>
         </itemizedlist>
-        <para>If you don't know which edition to use, choose the MATE Edition. It's not as popular as
-        the Cinnamon Edition but it is compatible with a wider variety of hardware
-        specifications.</para>
-        <para>Note: If you intend to redistribute or to make commercial use of Linux Mint in the USA
-        or in Japan and if you're not sure about patent legislation you should use the &ldquo;No
-        Codecs&rdquo; installation images.</para>
+        <para>If you don't know which edition to use, choose the MATE Edition. It's not as popular as the Cinnamon Edition but it is compatible with a wider variety of hardware specifications.</para>
+        <note><para>If you intend to redistribute or to make commercial use of Linux Mint in the USA or in Japan and if you're not sure about patent legislation you should use the <guilabel>No Codecs</guilabel> installation images.</para></note>
     </sect1>
 
     <sect1>
         <title>Where to find help</title>
         <para>The Linux Mint community is very helpful and very active. If you have questions or a problem related to Linux Mint, you should be able to get help from other users online.</para>
-        <para>First, make sure to register with the "Linux Mint Forums". This is the very first place where you can find help: <ulink url="http://www.linuxmint.com/forum">http://www.linuxmint.com/forum</ulink>.</para>
-        <para>If you want to chat with other users you can connect to the IRC chat room. Under Linux Mint simply launch "XChat" from the menu. If you’re using another operating system or another IRC client make sure to connect to the "irc.spotchat.org" server and to join the channels "#linuxmint-help" and "#linuxmint-chat".</para>
+        <para>First, make sure to register with the <guilabel>Linux Mint Forums</guilabel>. This is the very first place where you can find help: <ulink url="http://www.linuxmint.com/forum">http://www.linuxmint.com/forum</ulink>.</para>
+        <para>If you want to chat with other users you can connect to the IRC chat room. Under Linux Mint simply launch <guilabel>Hexchat</guilabel> from the menu. If you’re using another operating system or another IRC client make sure to connect to the <guilabel>irc.spotchat.org</guilabel> server and to join the channels <guilabel>#linuxmint-help</guilabel> and <guilabel>#linuxmint-chat</guilabel>.</para>
         <para>Linux Mint uses Ubuntu<footnote><para>Ubuntu is another operating system based on GNU/Linux.</para></footnote> repositories<footnote><para>A repository is an online service by which software is stored and made available for the operating system to install and update from. Most operating systems based on GNU/Linux use repositories and connect to them via HTTP or FTP to install and upgrade their software.</para></footnote> (more on what this means later) and is fully compatible with it so most of the resources, articles, tutorials, and software made for Ubuntu also work for Linux Mint. If you can’t find help on a specific subject, make sure to search on the same subject for Ubuntu.</para>
     </sect1>
 
