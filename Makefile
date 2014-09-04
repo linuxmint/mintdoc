@@ -24,13 +24,11 @@ user_guide:
 				if [ "$$lang" = "$(DEFAULT_LANG)" ]; \
 				then \
 					publican build --brand_dir=../../brands/Linux_Mint --config=$$book_config --langs=$$lang --formats=$(FORMATS) --pdftool=fop --publish; \
-					rm -rf tmp; \
 				else \
-					if [ "`publican lang_stats --lang=$$lang --config=$$book_config | grep 'Total for' | awk '{print $$4}'`" = "0" ]; \
-					then \
+					#if [ "`publican lang_stats --lang=$$lang --config=$$book_config | grep 'Total for' | awk '{print $$4}'`" = "0" ]; \
+					#then \
 						publican build --brand_dir=../../brands/Linux_Mint --config=$$book_config --langs=$$lang --formats=$(FORMATS) --pdftool=fop --publish; \
-						rm -rf tmp; \
-					fi; \
+					#fi; \
 				fi; \
 			fi; \
 		done; \

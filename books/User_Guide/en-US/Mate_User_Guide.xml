@@ -5,7 +5,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Mate_User_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<book>
+<book id="index">
 	<xi:include href="Book_Info.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<xi:include href="user-guide-common-introduction.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<xi:include href="user-guide-common-installation.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />

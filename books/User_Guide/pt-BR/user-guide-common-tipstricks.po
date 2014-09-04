@@ -99,11 +99,11 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-#~ msgid "The more you get used to this the faster you'll get at copying and pasting content. This technique also works on most Unix and GNU/Linux operating systems."
+#~ msgid "Now click on some other part of the document to move the cursor there and click the middle button of your mouse (or the wheel-click if you have a mouse with a wheel, or both the left and right buttons together if your mouse only has two buttons... everything's been thought of, apart from those weird Mac mice with only one button). As you can see the text you previously selected has now been pasted."
 #~ msgstr ""
 
 #. Tag: para
 #, no-c-format
-#~ msgid "Now click on some other part of the document to move the cursor there and click the middle button of your mouse (or the wheel-click if you have a mouse with a wheel, or both the left and right buttons together if your mouse only has two buttons... everything's been thought of, apart from those weird Mac mice with only one button). As you can see the text you previously selected has now been pasted."
+#~ msgid "The more you get used to this the faster you'll get at copying and pasting content. This technique also works on most Unix and GNU/Linux operating systems."
 #~ msgstr ""
 
