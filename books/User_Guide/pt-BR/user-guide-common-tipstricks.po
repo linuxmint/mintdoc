@@ -94,16 +94,16 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-#~ msgid "Now click on some other part of the document to move the cursor there and click the middle button of your mouse (or the wheel-click if you have a mouse with a wheel, or both the left and right buttons together if your mouse only has two buttons... everything's been thought of, apart from those weird Mac mice with only one button). As you can see the text you previously selected has now been pasted."
-#~ msgstr ""
-
-#. Tag: para
-#, no-c-format
 #~ msgid "The buffer used by the mouse is not the same as the one used by the Cinnamon desktop. So you can actually copy something with your mouse and copy something else with “CTRL+C” or with the “Edit” menu. Thanks to this you can copy two elements at a time and depending on how you copied them you can paste them with either the middle mouse button or with “CTRL+V” or the “Edit” menu."
 #~ msgstr ""
 
 #. Tag: para
 #, no-c-format
 #~ msgid "The more you get used to this the faster you'll get at copying and pasting content. This technique also works on most Unix and GNU/Linux operating systems."
+#~ msgstr ""
+
+#. Tag: para
+#, no-c-format
+#~ msgid "Now click on some other part of the document to move the cursor there and click the middle button of your mouse (or the wheel-click if you have a mouse with a wheel, or both the left and right buttons together if your mouse only has two buttons... everything's been thought of, apart from those weird Mac mice with only one button). As you can see the text you previously selected has now been pasted."
 #~ msgstr ""
 

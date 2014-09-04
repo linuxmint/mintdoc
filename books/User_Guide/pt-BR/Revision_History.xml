@@ -6,7 +6,7 @@
 	 <simpara>
 		<revhistory>
 			<revision>
-				<revnumber>0.0-0.132</revnumber>
+				<revnumber>0.0-0.156</revnumber>
 				<date>Thu Sep 4 2014</date>
 				<author>
 					<firstname>Clément</firstname>
@@ -18,6 +18,438 @@
 						<member></member>
 					</simplelist>
 				</revdescription>
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.155</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.154</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.153</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.152</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.151</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.150</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.149</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.148</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.147</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.146</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.145</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.144</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.143</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.142</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.141</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.140</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.139</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.138</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.137</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.136</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.135</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.134</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.133</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			 <revision>
+				<revnumber>0.0-0.132</revnumber>
+				 <date>Thu Sep 4 2014</date>
+				 <author>
+					<firstname>Clément</firstname>
+					 <surname>Lefebvre</surname>
+					 <email>root@linuxmint.com</email>
+
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member></member>
+
+					</simplelist>
+
+				</revdescription>
+
 			</revision>
 			 <revision>
 				<revnumber>0.0-0.131</revnumber>
