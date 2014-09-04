@@ -503,13 +503,13 @@ msgstr ""
 msgid "The history of updates"
 msgstr ""
 
-#. Tag: title
-#, no-c-format
-#~ msgid "Synaptic &amp; APT"
-#~ msgstr ""
-
 #. Tag: para
 #, no-c-format
 #~ msgid "Open the menu and select &ldquo;Terminal&rdquo;. Then type the following command:"
+#~ msgstr ""
+
+#. Tag: title
+#, no-c-format
+#~ msgid "Synaptic &amp; APT"
 #~ msgstr ""
 

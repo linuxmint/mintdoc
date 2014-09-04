@@ -11,6 +11,7 @@
 	<xi:include href="user-guide-common-installation.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<xi:include href="user-guide-cinnamon-desktop.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<xi:include href="user-guide-common-softwaremanagement.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	<xi:include href="user-guide-common-tipstricks.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<!--<xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<index />-->
 </book>
