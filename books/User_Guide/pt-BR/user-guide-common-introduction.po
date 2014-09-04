@@ -24,7 +24,7 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Linux Mint can be thought of as filling the same role as Microsoft's Windows, Apple's Mac OS, and the free BSD OS. Linux Mint is also designed to work in conjunction with other operating systems (including those listed above), and can automatically set up a &ldquo;dual boot&rdquo; or &ldquo;multi-boot&rdquo; environment (where the user is prompted as to which operating system to start at each boot-up) during its installation."
+msgid "Linux Mint can be thought of as filling the same role as Microsoft's Windows, Apple's Mac OS, and the free BSD OS. Linux Mint is also designed to work in conjunction with other operating systems (including those listed above), and can automatically set up a <wordasword>dual boot</wordasword> or <wordasword>multi-boot</wordasword> environment (where the user is prompted as to which operating system to start at each boot-up) during its installation."
 msgstr ""
 
 #. Tag: para
@@ -94,12 +94,12 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "If revisions are made to a particular release (a bit like Service Packs in Windows) its version number gets a minor revision increment. For instance &ldquo;3&rdquo; becomes &ldquo;3.1&rdquo;."
+msgid "If revisions are made to a particular release (a bit like Service Packs in Windows) its version number gets a minor revision increment. For instance <wordasword>3</wordasword> becomes <wordasword>3.1</wordasword>."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Codenames in Linux Mint are always female names ending with &ldquo;a&rdquo;. They follow the alphabetical order and the first letter of the codename corresponds to the index of the version number in the alphabet."
+msgid "Codenames in Linux Mint are always female names ending with <wordasword>a</wordasword> They follow the alphabetical order and the first letter of the codename corresponds to the index of the version number in the alphabet."
 msgstr ""
 
 #. Tag: para
@@ -359,7 +359,7 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Note: If you intend to redistribute or to make commercial use of Linux Mint in the USA or in Japan and if you're not sure about patent legislation you should use the &ldquo;No Codecs&rdquo; installation images."
+msgid "If you intend to redistribute or to make commercial use of Linux Mint in the USA or in Japan and if you're not sure about patent legislation you should use the <guilabel>No Codecs</guilabel> installation images."
 msgstr ""
 
 #. Tag: title
@@ -374,12 +374,12 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "First, make sure to register with the \"Linux Mint Forums\". This is the very first place where you can find help: <ulink url=\"http://www.linuxmint.com/forum\">http://www.linuxmint.com/forum</ulink>."
+msgid "First, make sure to register with the <guilabel>Linux Mint Forums</guilabel>. This is the very first place where you can find help: <ulink url=\"http://www.linuxmint.com/forum\">http://www.linuxmint.com/forum</ulink>."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "If you want to chat with other users you can connect to the IRC chat room. Under Linux Mint simply launch \"XChat\" from the menu. If you’re using another operating system or another IRC client make sure to connect to the \"irc.spotchat.org\" server and to join the channels \"#linuxmint-help\" and \"#linuxmint-chat\"."
+msgid "If you want to chat with other users you can connect to the IRC chat room. Under Linux Mint simply launch <guilabel>Hexchat</guilabel> from the menu. If you’re using another operating system or another IRC client make sure to connect to the <guilabel>irc.spotchat.org</guilabel> server and to join the channels <guilabel>#linuxmint-help</guilabel> and <guilabel>#linuxmint-chat</guilabel>."
 msgstr ""
 
 #. Tag: para
