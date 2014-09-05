@@ -102,14 +102,9 @@ msgstr ""
 #~ msgid "The Cinnamon Desktop"
 #~ msgstr ""
 
-#. Tag: para
-#, no-c-format
-#~ msgid "When you choose the section called &ldquo;Places&rdquo; then you will see five entries. These entries give you quick access to the most important places within your Cinnamon Desktop."
-#~ msgstr ""
-
 #. Tag: title
 #, no-c-format
-#~ msgid "The &ldquo;Places&rdquo; menu"
+#~ msgid "Desktop Settings"
 #~ msgstr ""
 
 #. Tag: para
@@ -122,9 +117,9 @@ msgstr ""
 #~ msgid "&ldquo;Places&rdquo; menu"
 #~ msgstr ""
 
-#. Tag: title
+#. Tag: para
 #, no-c-format
-#~ msgid "Getting to know the menu"
+#~ msgid "When you choose the section called &ldquo;Places&rdquo; then you will see five entries. These entries give you quick access to the most important places within your Cinnamon Desktop."
 #~ msgstr ""
 
 #. Tag: para
@@ -132,9 +127,14 @@ msgstr ""
 #~ msgid "This section of the guide will focus on the technologies and the tools that are specific to Linux Mint and provide information on some of the applications and technologies included by default in the Cinnamon Edition."
 #~ msgstr ""
 
+#. Tag: para
+#, no-c-format
+#~ msgid "Linux Mint comes with the default Cinnamon menu. To open the menu click on the &ldquo;Menu&rdquo; button at the bottom-left corner of your screen or press CTRL+SUPER_L (&ldquo;Super_L&rdquo; is the left Windows key on your keyboard). Getting to know the menu"
+#~ msgstr ""
+
 #. Tag: title
 #, no-c-format
-#~ msgid "Desktop Settings"
+#~ msgid "Getting to know the menu"
 #~ msgstr ""
 
 #. Tag: para
@@ -142,13 +142,13 @@ msgstr ""
 #~ msgid "&ldquo;Desktop&rdquo; is a menu which allows you to rapidly configure the aspects of your Cinnamon Desktop that you will use the most."
 #~ msgstr ""
 
-#. Tag: para
+#. Tag: title
 #, no-c-format
-#~ msgid "The &ldquo;desktop&rdquo; is the component of the operating system which is responsible for the elements that appear on the desktop: The Panel, the Wallpaper, the Control Center, the menus...etc."
+#~ msgid "The &ldquo;Places&rdquo; menu"
 #~ msgstr ""
 
 #. Tag: para
 #, no-c-format
-#~ msgid "Linux Mint comes with the default Cinnamon menu. To open the menu click on the &ldquo;Menu&rdquo; button at the bottom-left corner of your screen or press CTRL+SUPER_L (&ldquo;Super_L&rdquo; is the left Windows key on your keyboard). Getting to know the menu"
+#~ msgid "The &ldquo;desktop&rdquo; is the component of the operating system which is responsible for the elements that appear on the desktop: The Panel, the Wallpaper, the Control Center, the menus...etc."
 #~ msgstr ""
 

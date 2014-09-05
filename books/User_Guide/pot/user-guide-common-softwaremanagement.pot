@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0\n"
-"POT-Creation-Date: 2014-09-05 11:55+0200\n"
-"PO-Revision-Date: 2014-09-05 11:55+0200\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-09-05 15:49+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: None\n"
 "MIME-Version: 1.0\n"
@@ -15,11 +15,6 @@ msgstr ""
 #. Tag: title
 #, no-c-format
 msgid "Software Management"
-msgstr ""
-
-#. Tag: title
-#, no-c-format
-msgid "Package Management in Linux Mint"
 msgstr ""
 
 #. Tag: para
@@ -320,8 +315,8 @@ msgstr ""
 #. Tag: screen
 #, no-c-format
 msgid "\n"
-"                        <command>apt install <replaceable>opera</replaceable></command>\n"
-"                    "
+"                    <command>apt install <replaceable>opera</replaceable></command>\n"
+"                "
 msgstr ""
 
 #. Tag: para
@@ -352,8 +347,8 @@ msgstr ""
 #. Tag: screen
 #, no-c-format
 msgid "\n"
-"                        <command>apt remove <replaceable>opera</replaceable></command>\n"
-"                "
+"                    <command>apt remove <replaceable>opera</replaceable></command>\n"
+"            "
 msgstr ""
 
 #. Tag: title

@@ -17,11 +17,6 @@ msgstr ""
 msgid "Software Management"
 msgstr ""
 
-#. Tag: title
-#, no-c-format
-msgid "Package Management in Linux Mint"
-msgstr ""
-
 #. Tag: para
 #, no-c-format
 msgid "If you have installed Linux for the first time, then you may not be familiar with the concept of organizing software into <wordasword>packages</wordasword>."
@@ -321,8 +316,8 @@ msgstr ""
 #, no-c-format
 msgid ""
 "\n"
-"                        <command>apt install <replaceable>opera</replaceable></command>\n"
-"                    "
+"                    <command>apt install <replaceable>opera</replaceable></command>\n"
+"                "
 msgstr ""
 
 #. Tag: para
@@ -354,8 +349,8 @@ msgstr ""
 #, no-c-format
 msgid ""
 "\n"
-"                        <command>apt remove <replaceable>opera</replaceable></command>\n"
-"                "
+"                    <command>apt remove <replaceable>opera</replaceable></command>\n"
+"            "
 msgstr ""
 
 #. Tag: title
@@ -512,6 +507,11 @@ msgstr ""
 #, no-c-format
 msgid "The history of updates"
 msgstr ""
+
+#. Tag: title
+#, no-c-format
+#~ msgid "Package Management in Linux Mint"
+#~ msgstr ""
 
 #. Tag: title
 #, no-c-format

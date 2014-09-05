@@ -35,7 +35,7 @@ msgstr ""
 
 #. Tag: title
 #, no-c-format
-#~ msgid "Linux Mint User Guide"
+#~ msgid "Linux Mint"
 #~ msgstr ""
 
 #. Tag: title
@@ -45,7 +45,7 @@ msgstr ""
 
 #. Tag: title
 #, no-c-format
-#~ msgid "Linux Mint"
+#~ msgid "Linux Mint User Guide"
 #~ msgstr ""
 
 #. Tag: para

@@ -8,14 +8,33 @@ Standards-Version: 3.7.2
 Package: mint-user-guide-cinnamon
 Architecture: all
 Depends: yelp
-Conflicts: mint-user-guide-mate
+Provides: mint-user-guide
+Conflicts: mint-user-guide-mate, mint-user-guide-kde, mint-user-guide-xfce
 Description: The Linux Mint User Guide - Cinnamon Edition
  An easy to read guide to get you started with Linux Mint. 
 
 Package: mint-user-guide-mate
 Architecture: all
 Depends: yelp
-Conflicts: mint-user-guide-cinnamon
+Provides: mint-user-guide
+Conflicts: mint-user-guide-cinnamon, mint-user-guide-kde, mint-user-guide-xfce
 Description: The Linux Mint User Guide - MATE Edition
  An easy to read guide to get you started with Linux Mint.
+
+Package: mint-user-guide-kde
+Architecture: all
+Depends: yelp
+Provides: mint-user-guide
+Conflicts: mint-user-guide-mate, mint-user-guide-cinnamon, mint-user-guide-xfce
+Description: The Linux Mint User Guide - KDE Edition
+ An easy to read guide to get you started with Linux Mint.
+
+Package: mint-user-guide-xfce
+Architecture: all
+Depends: yelp
+Provides: mint-user-guide
+Conflicts: mint-user-guide-mate, mint-user-guide-kde, mint-user-guide-cinnamon
+Description: The Linux Mint User Guide - Xfce Edition
+ An easy to read guide to get you started with Linux Mint.
+
 
