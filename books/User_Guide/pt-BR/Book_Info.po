@@ -15,8 +15,8 @@ msgstr ""
 
 #. Tag: title
 #, no-c-format
-msgid "Official User Guide"
-msgstr "Guia Oficial do Usuário"
+msgid "User Guide"
+msgstr ""
 
 #. Tag: subtitle
 #, no-c-format
@@ -30,8 +30,23 @@ msgstr "&PRODUCT;"
 
 #. Tag: para
 #, no-c-format
-msgid "An introduction to Linux Mint. The object of this book is to get you started and make it easy for you to use Linux Mint and to feel comfortable with it."
+msgid "An introduction to Linux Mint. The object of this guide is to get you started and make it easy for you to use Linux Mint and to feel comfortable with it."
 msgstr ""
+
+#. Tag: title
+#, no-c-format
+#~ msgid "Linux Mint User Guide"
+#~ msgstr ""
+
+#. Tag: title
+#, no-c-format
+#~ msgid "Official User Guide"
+#~ msgstr "Guia Oficial do Usuário"
+
+#. Tag: title
+#, no-c-format
+#~ msgid "Linux Mint"
+#~ msgstr ""
 
 #. Tag: para
 #, no-c-format

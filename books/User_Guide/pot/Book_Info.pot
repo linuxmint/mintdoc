@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0\n"
-"POT-Creation-Date: 2014-09-04 16:07+0200\n"
-"PO-Revision-Date: 2014-09-04 16:07+0200\n"
+"POT-Creation-Date: 2014-09-05 11:55+0200\n"
+"PO-Revision-Date: 2014-09-05 11:55+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: None\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 #. Tag: title
 #, no-c-format
-msgid "Official User Guide"
+msgid "User Guide"
 msgstr ""
 
 #. Tag: subtitle
@@ -29,6 +29,6 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "An introduction to Linux Mint. The object of this book is to get you started and make it easy for you to use Linux Mint and to feel comfortable with it."
+msgid "An introduction to Linux Mint. The object of this guide is to get you started and make it easy for you to use Linux Mint and to feel comfortable with it."
 msgstr ""
 

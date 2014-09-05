@@ -97,44 +97,9 @@ msgstr ""
 msgid "To launch the system settings, click on <guimenu>Menu</guimenu> and select <guimenuitem>System Settings</guimenuitem>."
 msgstr ""
 
-#. Tag: para
-#, no-c-format
-#~ msgid "This section of the guide will focus on the technologies and the tools that are specific to Linux Mint and provide information on some of the applications and technologies included by default in the Cinnamon Edition."
-#~ msgstr ""
-
-#. Tag: title
-#, no-c-format
-#~ msgid "Desktop Settings"
-#~ msgstr ""
-
 #. Tag: title
 #, no-c-format
 #~ msgid "The Cinnamon Desktop"
-#~ msgstr ""
-
-#. Tag: para
-#, no-c-format
-#~ msgid "&ldquo;Desktop&rdquo; is a menu which allows you to rapidly configure the aspects of your Cinnamon Desktop that you will use the most."
-#~ msgstr ""
-
-#. Tag: para
-#, no-c-format
-#~ msgid "Linux Mint comes with the default Cinnamon menu. To open the menu click on the &ldquo;Menu&rdquo; button at the bottom-left corner of your screen or press CTRL+SUPER_L (&ldquo;Super_L&rdquo; is the left Windows key on your keyboard). Getting to know the menu"
-#~ msgstr ""
-
-#. Tag: title
-#, no-c-format
-#~ msgid "&ldquo;Places&rdquo; menu"
-#~ msgstr ""
-
-#. Tag: para
-#, no-c-format
-#~ msgid "Launch it by clicking on &ldquo;Menu&rdquo; (in the bottom-left corner of your screen), then select &ldquo;System Settings&rdquo; and click on &ldquo;Desktop&rdquo;."
-#~ msgstr ""
-
-#. Tag: title
-#, no-c-format
-#~ msgid "Getting to know the menu"
 #~ msgstr ""
 
 #. Tag: para
@@ -149,6 +114,41 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
+#~ msgid "Launch it by clicking on &ldquo;Menu&rdquo; (in the bottom-left corner of your screen), then select &ldquo;System Settings&rdquo; and click on &ldquo;Desktop&rdquo;."
+#~ msgstr ""
+
+#. Tag: title
+#, no-c-format
+#~ msgid "&ldquo;Places&rdquo; menu"
+#~ msgstr ""
+
+#. Tag: title
+#, no-c-format
+#~ msgid "Getting to know the menu"
+#~ msgstr ""
+
+#. Tag: para
+#, no-c-format
+#~ msgid "This section of the guide will focus on the technologies and the tools that are specific to Linux Mint and provide information on some of the applications and technologies included by default in the Cinnamon Edition."
+#~ msgstr ""
+
+#. Tag: title
+#, no-c-format
+#~ msgid "Desktop Settings"
+#~ msgstr ""
+
+#. Tag: para
+#, no-c-format
+#~ msgid "&ldquo;Desktop&rdquo; is a menu which allows you to rapidly configure the aspects of your Cinnamon Desktop that you will use the most."
+#~ msgstr ""
+
+#. Tag: para
+#, no-c-format
 #~ msgid "The &ldquo;desktop&rdquo; is the component of the operating system which is responsible for the elements that appear on the desktop: The Panel, the Wallpaper, the Control Center, the menus...etc."
+#~ msgstr ""
+
+#. Tag: para
+#, no-c-format
+#~ msgid "Linux Mint comes with the default Cinnamon menu. To open the menu click on the &ldquo;Menu&rdquo; button at the bottom-left corner of your screen or press CTRL+SUPER_L (&ldquo;Super_L&rdquo; is the left Windows key on your keyboard). Getting to know the menu"
 #~ msgstr ""
 

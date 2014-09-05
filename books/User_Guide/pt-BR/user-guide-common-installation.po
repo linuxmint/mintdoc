@@ -502,77 +502,12 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-#~ msgid "Select your timezone."
-#~ msgstr ""
-
-#. Tag: para
-#, no-c-format
-#~ msgid "Confirm your choices."
-#~ msgstr ""
-
-#. Tag: para
-#, no-c-format
-#~ msgid "Select your keyboard layout."
-#~ msgstr ""
-
-#. Tag: para
-#, no-c-format
 #~ msgid "<synopsys>C:</synopsys>"
 #~ msgstr ""
 
 #. Tag: para
 #, no-c-format
-#~ msgid "When you’re ready click the “Continue” button."
-#~ msgstr ""
-
-#. Tag: para
-#, no-c-format
-#~ msgid "Select your language"
-#~ msgstr ""
-
-#. Tag: para
-#, no-c-format
-#~ msgid "Set your personal details."
-#~ msgstr ""
-
-#. Tag: para
-#, no-c-format
-#~ msgid "<screenshot> <mediaobject> <imageobject> <imagedata fileref=\"images/isolinux.png\" format=\"PNG\" width=\"400\" /> </imageobject> </mediaobject> </screenshot>"
-#~ msgstr ""
-
-#. Tag: para
-#, no-c-format
-#~ msgid "blah"
-#~ msgstr ""
-
-#. Tag: para
-#, no-c-format
-#~ msgid "Otherwise, you can visit the Linux Mint download page here: http://www.linuxmint.com/download.php."
-#~ msgstr ""
-
-#. Tag: para
-#, no-c-format
-#~ msgid "Select your language and press the “Continue” button."
-#~ msgstr ""
-
-#. Tag: title
-#, no-c-format
-#~ msgid "User settings"
-#~ msgstr ""
-
-#. Tag: para
-#, no-c-format
-#~ msgid "<synopsys>cd ~/Desktop</synopsys>"
-#~ msgstr ""
-
-#. Tag: title
-#, no-c-format
-#~ msgid "Installation checklist"
-#~ msgstr ""
-
-#. Tag: title
-#, no-c-format
-#~ msgid "Timezone selection"
+#~ msgid "Select your timezone."
 #~ msgstr ""
 
 #. Tag: para
@@ -582,27 +517,17 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-#~ msgid "Check that everything is fine before installing."
+#~ msgid "blah"
 #~ msgstr ""
 
 #. Tag: title
 #, no-c-format
-#~ msgid "Installation types"
+#~ msgid "Timezone selection"
 #~ msgstr ""
 
 #. Tag: title
 #, no-c-format
-#~ msgid "Language selection"
-#~ msgstr ""
-
-#. Tag: para
-#, no-c-format
-#~ msgid "<synopsys>md5sum linuxmint.iso</synopsys>"
-#~ msgstr ""
-
-#. Tag: title
-#, no-c-format
-#~ msgid "Installation summary"
+#~ msgid "Installation checklist"
 #~ msgstr ""
 
 #. Tag: title
@@ -612,11 +537,86 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-#~ msgid "<synopsys>cd \\</synopsys>"
+#~ msgid "Select your language and press the “Continue” button."
 #~ msgstr ""
 
 #. Tag: para
 #, no-c-format
 #~ msgid "Then choose the edition you're interested in."
+#~ msgstr ""
+
+#. Tag: para
+#, no-c-format
+#~ msgid "<synopsys>cd ~/Desktop</synopsys>"
+#~ msgstr ""
+
+#. Tag: para
+#, no-c-format
+#~ msgid "Check that everything is fine before installing."
+#~ msgstr ""
+
+#. Tag: para
+#, no-c-format
+#~ msgid "When you’re ready click the “Continue” button."
+#~ msgstr ""
+
+#. Tag: para
+#, no-c-format
+#~ msgid "<synopsys>md5sum linuxmint.iso</synopsys>"
+#~ msgstr ""
+
+#. Tag: para
+#, no-c-format
+#~ msgid "<synopsys>cd \\</synopsys>"
+#~ msgstr ""
+
+#. Tag: para
+#, no-c-format
+#~ msgid "Select your language"
+#~ msgstr ""
+
+#. Tag: para
+#, no-c-format
+#~ msgid "Confirm your choices."
+#~ msgstr ""
+
+#. Tag: title
+#, no-c-format
+#~ msgid "Installation summary"
+#~ msgstr ""
+
+#. Tag: para
+#, no-c-format
+#~ msgid "Select your keyboard layout."
+#~ msgstr ""
+
+#. Tag: para
+#, no-c-format
+#~ msgid "Otherwise, you can visit the Linux Mint download page here: http://www.linuxmint.com/download.php."
+#~ msgstr ""
+
+#. Tag: title
+#, no-c-format
+#~ msgid "Language selection"
+#~ msgstr ""
+
+#. Tag: para
+#, no-c-format
+#~ msgid "<screenshot> <mediaobject> <imageobject> <imagedata fileref=\"images/isolinux.png\" format=\"PNG\" width=\"400\" /> </imageobject> </mediaobject> </screenshot>"
+#~ msgstr ""
+
+#. Tag: para
+#, no-c-format
+#~ msgid "Set your personal details."
+#~ msgstr ""
+
+#. Tag: title
+#, no-c-format
+#~ msgid "User settings"
+#~ msgstr ""
+
+#. Tag: title
+#, no-c-format
+#~ msgid "Installation types"
 #~ msgstr ""
 

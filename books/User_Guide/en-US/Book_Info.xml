@@ -4,13 +4,13 @@
 %BOOK_ENTITIES;
 ]>
 <bookinfo id="book-Documentation-User_Guide-User_Guide">
-	<title>Official User Guide</title>
+	<title>User Guide</title>
 	<subtitle>&EDITION; Edition</subtitle>
 	<productname>&PRODUCT;</productname>
-	<productnumber>&MINTVERSION;</productnumber>	
+	<productnumber>&MINTVERSION;</productnumber>
 	<abstract>
 		<para>
-			An introduction to Linux Mint. The object of this book is to get you started and make it easy for you to use Linux Mint and to feel comfortable with it.
+			An introduction to Linux Mint. The object of this guide is to get you started and make it easy for you to use Linux Mint and to feel comfortable with it.
 		</para>
 	</abstract>
 	<corpauthor>

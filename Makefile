@@ -4,7 +4,7 @@ USER_GUIDE_CONFIGS = publican_cinnamon.cfg publican_mate.cfg
 TRANSLATIONS_FIRTSNAME = Clément
 TRANSLATIONS_SURNAME = Lefebvre
 TRANSLATIONS_EMAIL = root@linuxmint.com
-FORMATS = pdf,html,html-single,html-desktop,txt,epub
+FORMATS = pdf,html#,html-single,html-desktop,txt,epub
 
 all: build
 
@@ -25,10 +25,10 @@ user_guide:
 				then \
 					publican build --brand_dir=../../brands/Linux_Mint --config=$$book_config --langs=$$lang --formats=$(FORMATS) --pdftool=fop --publish; \
 				else \
-					#if [ "`publican lang_stats --lang=$$lang --config=$$book_config | grep 'Total for' | awk '{print $$4}'`" = "0" ]; \
-					#then \
+					if [ "`publican lang_stats --lang=$$lang --config=$$book_config | grep 'Total for' | awk '{print $$4}'`" = "0" ]; \
+					then \
 						publican build --brand_dir=../../brands/Linux_Mint --config=$$book_config --langs=$$lang --formats=$(FORMATS) --pdftool=fop --publish; \
-					#fi; \
+					fi; \
 				fi; \
 			fi; \
 		done; \

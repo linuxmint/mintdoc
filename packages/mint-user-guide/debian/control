@@ -8,12 +8,14 @@ Standards-Version: 3.7.2
 Package: mint-user-guide-cinnamon
 Architecture: all
 Depends: yelp
-Description: The Official User Guide for Linux Mint Cinnamon Edition
+Conflicts: mint-user-guide-mate
+Description: The Linux Mint User Guide - Cinnamon Edition
  An easy to read guide to get you started with Linux Mint. 
 
 Package: mint-user-guide-mate
 Architecture: all
 Depends: yelp
-Description: The Official User Guide for Linux Mint MATE Edition
+Conflicts: mint-user-guide-cinnamon
+Description: The Linux Mint User Guide - MATE Edition
  An easy to read guide to get you started with Linux Mint.
 
