@@ -38,11 +38,11 @@ for language in languages.keys():
 			os.system("cp %s/%s_User_Guide.xml ./index.docbook" % (source_dir, book))
             
             # Find the title
--			title = commands.getoutput("grep \<title\> Book_Info.xml").replace('<title>', '').replace('</title>', '').strip()
--			# set the subtitle as the title
--			os.system("sed  -i 's/\<subtitle\>.*\<subtitle\>/subtitle>%s<\/subtitle/' Book_Info.xml" % title)
--			# set the title as the product name and version number
--			os.system("sed  -i 's/\<title\>.*\<title\>/title>\&PRODUCT; \&MINTVERSION;<\/title/' Book_Info.xml")
+			title = commands.getoutput("grep \<title\> Book_Info.xml").replace('<title>', '').replace('</title>', '').strip()
+			# set the subtitle as the title
+			os.system("sed  -i 's/\<subtitle\>.*\<subtitle\>/subtitle>%s<\/subtitle/' Book_Info.xml" % title)
+			# set the title as the product name and version number
+			os.system("sed  -i 's/\<title\>.*\<title\>/title>\&PRODUCT; \&MINTVERSION;<\/title/' Book_Info.xml")
 
 			# clean up images
 			for name in books:
