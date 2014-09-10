@@ -24,13 +24,16 @@ user_guide:
 				if [ "$$lang" = "$(DEFAULT_LANG)" ]; \
 				then \
 					publican build --brand_dir=../../brands/Linux_Mint --config=$$book_config --langs=$$lang --formats=$(FORMATS) --pdftool=fop --publish; \
+					mv tmp/$$lang/xml publish/$$lang/Linux_Mint/`grep "ENTITY MINTVERSION" en-US/User_Guide.ent | awk -F'"' '{print $$2}'`/xml_$$book_config; \
 				else \
 					if [ "`publican lang_stats --lang=$$lang --config=$$book_config | grep 'Total for' | awk '{print $$4}'`" = "0" ]; \
 					then \
 						publican build --brand_dir=../../brands/Linux_Mint --config=$$book_config --langs=$$lang --formats=$(FORMATS) --pdftool=fop --publish; \
+						mv tmp/$$lang/xml publish/$$lang/Linux_Mint/`grep "ENTITY MINTVERSION" en-US/User_Guide.ent | awk -F'"' '{print $$2}'`/xml_$$book_config; \
 					fi; \
 				fi; \
 			fi; \
+			echo ; \
 		done; \
 		cd ../..; \
 	done
@@ -40,6 +43,7 @@ user_guide:
 clean:
 	rm -rf tmp
 	rm -rf build
+	rm -rf $(USER_GUIDE_PATH)/tmp
 	rm -rf $(USER_GUIDE_PATH)/publish
 
 pot:
