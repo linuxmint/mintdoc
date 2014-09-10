@@ -1,6 +1,6 @@
 DEFAULT_LANG = en-US
 USER_GUIDE_PATH = books/User_Guide
-USER_GUIDE_CONFIGS = publican_cinnamon.cfg publican_mate.cfg
+USER_GUIDE_DESKTOPS = cinnamon mate kde xfce
 TRANSLATIONS_FIRTSNAME = Clément
 TRANSLATIONS_SURNAME = Lefebvre
 TRANSLATIONS_EMAIL = root@linuxmint.com
@@ -14,7 +14,7 @@ build_dir:
 	mkdir build
 
 user_guide:
-	for book_config in $(USER_GUIDE_CONFIGS); \
+	for desktop in $(USER_GUIDE_DESKTOPS); \
 	do \
 		cd $(USER_GUIDE_PATH); \
 		for lang in `ls`; \
@@ -23,13 +23,13 @@ user_guide:
 			then \
 				if [ "$$lang" = "$(DEFAULT_LANG)" ]; \
 				then \
-					publican build --brand_dir=../../brands/Linux_Mint --config=$$book_config --langs=$$lang --formats=$(FORMATS) --pdftool=fop --publish; \
-					mv tmp/$$lang/xml publish/$$lang/Linux_Mint/`grep "ENTITY MINTVERSION" en-US/User_Guide.ent | awk -F'"' '{print $$2}'`/xml_$$book_config; \
+					publican build --brand_dir=../../brands/Linux_Mint --config=publican_$$desktop.cfg --langs=$$lang --formats=$(FORMATS) --pdftool=fop --publish; \
+					mv tmp/$$lang/xml publish/$$lang/Linux_Mint/`grep "ENTITY MINTVERSION" en-US/User_Guide.ent | awk -F'"' '{print $$2}'`/xml_$$desktop; \
 				else \
-					if [ "`publican lang_stats --lang=$$lang --config=$$book_config | grep 'Total for' | awk '{print $$4}'`" = "0" ]; \
+					if [ "`publican lang_stats --lang=$$lang --config=publican_$$desktop.cfg | grep 'Total for' | awk '{print $$4}'`" = "0" ]; \
 					then \
-						publican build --brand_dir=../../brands/Linux_Mint --config=$$book_config --langs=$$lang --formats=$(FORMATS) --pdftool=fop --publish; \
-						mv tmp/$$lang/xml publish/$$lang/Linux_Mint/`grep "ENTITY MINTVERSION" en-US/User_Guide.ent | awk -F'"' '{print $$2}'`/xml_$$book_config; \
+						publican build --brand_dir=../../brands/Linux_Mint --config=publican_$$desktop.cfg --langs=$$lang --formats=$(FORMATS) --pdftool=fop --publish; \
+						mv tmp/$$lang/xml publish/$$lang/Linux_Mint/`grep "ENTITY MINTVERSION" en-US/User_Guide.ent | awk -F'"' '{print $$2}'`/xml_$$desktop; \
 					fi; \
 				fi; \
 			fi; \
@@ -47,17 +47,17 @@ clean:
 	rm -rf $(USER_GUIDE_PATH)/publish
 
 pot:
-	for book_config in $(USER_GUIDE_CONFIGS); \
+	for desktop in $(USER_GUIDE_DESKTOPS); \
 	do \
 		cd $(USER_GUIDE_PATH); \
-		publican update_pot --brand_dir=../../brands/Linux_Mint --config=$$book_config; \
+		publican update_pot --brand_dir=../../brands/Linux_Mint --config=publican_$$desktop.cfg; \
 		cd ../..; \
 	done
 
 po:
-	for book_config in $(USER_GUIDE_CONFIGS); \
+	for desktop in $(USER_GUIDE_DESKTOPS); \
 	do \
 		cd $(USER_GUIDE_PATH); \
-		publican update_po --brand_dir=../../brands/Linux_Mint --config=$$book_config --firstname=$(TRANSLATIONS_FIRTSNAME) --surname=$(TRANSLATIONS_SURNAME) --email=$(TRANSLATIONS_EMAIL); \
+		publican update_po --brand_dir=../../brands/Linux_Mint --config=publican_$$desktop.cfg --firstname=$(TRANSLATIONS_FIRTSNAME) --surname=$(TRANSLATIONS_SURNAME) --email=$(TRANSLATIONS_EMAIL); \
 		cd ../..; \
 	done
