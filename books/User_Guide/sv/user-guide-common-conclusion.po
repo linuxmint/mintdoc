@@ -1,0 +1,48 @@
+# Swedish translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-26 12:28+0000\n"
+"Last-Translator: Jan-Olof Svensson <jan-olof.svensson@abc.se>\n"
+"Language-Team: Swedish <sv@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Conclusion"
+msgstr "Slutord"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"There's a lot more to learn about Linux Mint and about Linux in general. "
+"This guide was just an overview of some of the aspects related to your "
+"desktop. By now you should feel more comfortable with using it and you "
+"should have a better understanding of some of its components. Where are you "
+"going to go next? Will you learn how to use the terminal? Will you give "
+"other desktops a try? It's entirely up to you. Remember, Linux is about fun "
+"and the community is there to help. Take your time and learn a little bit "
+"every day. There's always something new no matter how much you know already."
+msgstr ""
+"Det finns mycket mer att lära om Linux Mint och om Linux i allmänhet. Den "
+"här guiden är bara en kortfattad beskrivning av ditt nya operativsystem. Den "
+"bör dock ha gett dig grundläggande kunskaper i att använda den "
+"skrivbordsmiljö du valt.\r\n"
+"\r\n"
+"Hur du vill fortsätta bestämmer du själv. Det finns alltid något nytt att "
+"lära sig och det finns alltid många som gärna hjälper dig."
+
+#. Tag: para
+#, no-c-format
+msgid "Enjoy Linux and thank you for choosing Linux Mint."
+msgstr "Ha kul med Linux och tack än en gång för att du valde Linux Mint."

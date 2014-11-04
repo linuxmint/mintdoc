@@ -1,0 +1,155 @@
+# Korean translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-23 14:31+0000\n"
+"Last-Translator: 박정규(Jung-Kyu Park) <bagjunggyu@gmail.com>\n"
+"Language-Team: Korean <ko@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction to the Desktop"
+msgstr "데스크탑 소개"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <wordasword>desktop</wordasword> is the component of the operating "
+"system which is responsible for the elements that appear on the desktop: The "
+"<wordasword>Panel</wordasword>, the <wordasword>Wallpaper</wordasword>, the "
+"<wordasword>Control Center</wordasword>, the menus... etc."
+msgstr ""
+"<wordasword>바탕화면 </wordasword>은 바탕화면에 나타나는 요소들을 다루는 운영체제의 구성 요소입니다: 운영체제 구성 "
+"요소란 <wordasword>패널 </wordasword>, the <wordasword>배경 화면 </wordasword>, the "
+"<wordasword>제어판 </wordasword>, 메뉴... 등을 말합니다."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Cinnamon Edition of Linux Mint uses the Cinnamon desktop which is both "
+"intuitive and powerful."
+msgstr "리눅스 민트의 시나몬 에디션은 직관적이고 강력한 시나몬 데스크탑인 시나몬 데스크탑을 사용합니다."
+
+#. Tag: title
+#, no-c-format
+msgid "The Menu"
+msgstr "메뉴"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Cinnamon, almost everything is accessible from the 'Menu'. To open it, "
+"click on <guimenu>Menu</guimenu> at the bottom-left of your screen, or press "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
+"is the left Windows key on your keyboard)."
+msgstr ""
+"시나몬에서는, 거의 모든 일을 '메뉴'를 통해서 이용 가능합니다.메뉴를 여시려면, 화면 왼쪽 아래의 <guimenu>메뉴 "
+"</guimenu>를 클릭하시거나, "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo>를 "
+"누르세요(Super_L 키는 왼쪽 윈도 키에 해당합니다)."
+
+#. Tag: title
+#, no-c-format
+msgid "The Cinnamon Menu"
+msgstr "시나몬 메뉴"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The menu is used to launch applications, to access the system settings, and "
+"to reach common places and open recent files."
+msgstr ""
+"메뉴는 프로그램들을 실행하거나, 시스템 설정에 들어가거나, 설정된 폴더 위치로 바로 가거나, 최근에 열어본 파일들을 확인할 때 이용됩니다."
+
+#. Tag: title
+#, no-c-format
+msgid "Places"
+msgstr "위치"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Linux Mint, all your personal data is stored in your "
+"<wordasword>Home</wordasword> directory."
+msgstr ""
+"리눅스 민트에서는, 여러분의 모든 개인 정보가 사용자의 <wordasword>Home</wordasword> 디렉터리에 저장되어 있습니다."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"As well as your files, this directory also contains pre-defined sub-"
+"directories such as <wordasword>Documents</wordasword>, "
+"<wordasword>Music</wordasword>, <wordasword>Videos</wordasword>...etc which "
+"you can use to better organize your files."
+msgstr ""
+"여러분들의 파일들뿐만 아니라, 이 디렉터리는 <wordasword>문서 </wordasword>, <wordasword>음악 "
+"</wordasword>, <wordasword>비디오 </wordasword>... 등등 파일을 좀 더 잘 관리할 수 있도록 미리 "
+"설정된 서브-디렉터리들을 포함하고 있습니다."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Other important places are your <wordasword>Desktop</wordasword> folder "
+"(which containsn the files visible on your desktop), the filesystem (which "
+"contains all system files and directories), removable devices connected to "
+"the computer, the network and bookmarks (you can bookmark any directory to "
+"gain quick-access to it)."
+msgstr ""
+"다른 중요한 위치들로는 (바탕화면에 보일 파일들이 있는) <wordasword>바탕화면 </wordasword>폴더, (모든 시스템 "
+"파일들과 디렉터리들을 포함하는) 파일 시스템, 네트워크와 (어느 디렉터리로든 빨리 갈수 있도록 즐겨찾기가 가능한) 북마크 등이 있습니다."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To quickly access one of these places, perform one of the following actions:"
+msgstr "이 위치들 중 한 곳에 빠르게 접근하시려면, 다음 중 한 가지를 하시면 됩니다."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Click on <guimenu>Menu</guimenu> and select <guisubmenu>Places</guisubmenu>"
+msgstr "<guimenu>메뉴</guimenu>를 클릭하고 <guisubmenu>위치</guisubmenu>를 선택하세요"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Launch <wordasword>Nemo</wordasword>, the Cinnamon file manager, by clicking "
+"on <guimenu>Menu</guimenu> and selecting <guimenuitem>Files</guimenuitem>. "
+"Then, within Nemo, you can access common places by clicking on them in the "
+"sidebar, on the left of the window."
+msgstr ""
+"<guimenu>메뉴 </guimenu>에서 <guimenuitem>파일 </guimenuitem>을 클릭하셔서 "
+"<wordasword>니모</wordasword>를 실행하세요. 그러면, 니모에서, 창 왼쪽의 사이드바에 있는 기본 위치들에 접근하실 수 "
+"있습니다."
+
+#. Tag: title
+#, no-c-format
+msgid ""
+"Nemo, the file manager, listing the content of the Home directory and "
+"providing quick-access to common places from the left sidebar."
+msgstr "파일 매니저 니모는 홈 디렉터리의 내용들을 보여주며, 왼쪽 사이드바의 기본 위치에 빨리 갈 수 있게 해줍니다."
+
+#. Tag: title
+#, no-c-format
+msgid "System Settings"
+msgstr "시스템 설정"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To launch the system settings, click on <guimenu>Menu</guimenu> and select "
+"<guimenuitem>System Settings</guimenuitem>."
+msgstr ""
+"시스템 설정을 열기 위해서는 <guimenu>메뉴</guimenu>를 클릭하고 <guimenuitem>시스템 "
+"설정</guimenuitem>을 선택하세요."

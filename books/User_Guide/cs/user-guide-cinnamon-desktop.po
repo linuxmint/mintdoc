@@ -1,0 +1,171 @@
+# Czech translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-22 17:55+0000\n"
+"Last-Translator: Ondřej Kolín <ondrej.kolin@gmail.com>\n"
+"Language-Team: Czech <cs@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction to the Desktop"
+msgstr "Úvod do prostředí"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <wordasword>desktop</wordasword> is the component of the operating "
+"system which is responsible for the elements that appear on the desktop: The "
+"<wordasword>Panel</wordasword>, the <wordasword>Wallpaper</wordasword>, the "
+"<wordasword>Control Center</wordasword>, the menus... etc."
+msgstr ""
+"<wordasword>Prostředí</wordasword> je součást operačních systémů, která je "
+"zodpovědná za to, co se vám objevuje na ploše: "
+"<wordasword>Panel</wordasword>, <wordasword>pozadí</wordasword>, "
+"<wordasword>Nastavení systému</wordasword>, různá menu ..."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Cinnamon Edition of Linux Mint uses the Cinnamon desktop which is both "
+"intuitive and powerful."
+msgstr ""
+"Edice Cinnamon operačního systému Linux Mint používá právě prostředí "
+"Cinnamon, které je jak intuitivní i mocný"
+
+#. Tag: title
+#, no-c-format
+msgid "The Menu"
+msgstr "Menu"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Cinnamon, almost everything is accessible from the 'Menu'. To open it, "
+"click on <guimenu>Menu</guimenu> at the bottom-left of your screen, or press "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
+"is the left Windows key on your keyboard)."
+msgstr ""
+"V Cinnamonu je prakticky všechno přístupné z 'Menu'. Pokud ho chcete "
+"otevřít, klepněte na <guimenu>Menu</guimenu> v levé spodní části obrazovky, "
+"nebo stiskněte zkratku "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
+"je levá Windows klávesa na Vaší klávesnici)"
+
+#. Tag: title
+#, no-c-format
+msgid "The Cinnamon Menu"
+msgstr "Cinnamon menu"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The menu is used to launch applications, to access the system settings, and "
+"to reach common places and open recent files."
+msgstr ""
+"Menu slouží ke spouštění aplikací, nastavení systému, k přístupu na obvyklá "
+"místa a otevření posledně použitých souborů"
+
+#. Tag: title
+#, no-c-format
+msgid "Places"
+msgstr "Místa"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Linux Mint, all your personal data is stored in your "
+"<wordasword>Home</wordasword> directory."
+msgstr ""
+"V Linux Mintu jsou všechna Vaše data uložena v adresáři "
+"<wordasword>Domov</wordasword>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"As well as your files, this directory also contains pre-defined sub-"
+"directories such as <wordasword>Documents</wordasword>, "
+"<wordasword>Music</wordasword>, <wordasword>Videos</wordasword>...etc which "
+"you can use to better organize your files."
+msgstr ""
+"Dále se zde nachází předpřipravené složky "
+"<wordasword>Dokumenty</wordasword>, <wordasword>Hudba</wordasword>, "
+"<wordasword>Videa</wordasword> a další, které Vám mohou usnadnit organizaci "
+"souborů."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Other important places are your <wordasword>Desktop</wordasword> folder "
+"(which containsn the files visible on your desktop), the filesystem (which "
+"contains all system files and directories), removable devices connected to "
+"the computer, the network and bookmarks (you can bookmark any directory to "
+"gain quick-access to it)."
+msgstr ""
+"Jiné důležité místo je složka <wordasword>Plocha</wordasword> (která "
+"obsahuje souboru viditelné na Vaší ploše), souborový systém (který obsahuje "
+"úplně vše, co v počítači máte), odpojitelná zařízení připojená k počítači, "
+"síť a záložky (kde můžete ukládat složky tak, aby jste k nim měli vždy "
+"rychlý přístup)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To quickly access one of these places, perform one of the following actions:"
+msgstr ""
+"Pokud se chcete rychle dostat do nějakého takového místa, zkuste jednu z "
+"následujících variant:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Click on <guimenu>Menu</guimenu> and select <guisubmenu>Places</guisubmenu>"
+msgstr ""
+"Otevřete <guimenu>Menu</guimenu> a klikněte na <guisubmenu>Místa</guisubmenu>"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Launch <wordasword>Nemo</wordasword>, the Cinnamon file manager, by clicking "
+"on <guimenu>Menu</guimenu> and selecting <guimenuitem>Files</guimenuitem>. "
+"Then, within Nemo, you can access common places by clicking on them in the "
+"sidebar, on the left of the window."
+msgstr ""
+"Spusťte <wordasword>Nemo</wordasword>, Cinnamon správce souboru, klepnutím "
+"na <guimenu>Menu</guimenu> a zvolením <guimenuitem>Místa</guimenuitem>. "
+"Poté, právě skrze Nemo, se můžete dostat na běžná místa klepnutím na ně v "
+"levé části okna ."
+
+#. Tag: title
+#, no-c-format
+msgid ""
+"Nemo, the file manager, listing the content of the Home directory and "
+"providing quick-access to common places from the left sidebar."
+msgstr ""
+"Nemo, správce souborů, zobrazující obsah domovského adresáře a nabízející "
+"rychlý přístup k běžným místům v systému na levém postranním panelu"
+
+#. Tag: title
+#, no-c-format
+msgid "System Settings"
+msgstr "Nastavení systému"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To launch the system settings, click on <guimenu>Menu</guimenu> and select "
+"<guimenuitem>System Settings</guimenuitem>."
+msgstr ""
+"Systémová nastavení spustíte otevřením <guimenu>Menu</guimenu> a kliknutím "
+"na <guimenuitem>Nastavení systému</guimenuitem>."

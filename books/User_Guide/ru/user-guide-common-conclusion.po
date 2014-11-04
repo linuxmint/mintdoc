@@ -1,0 +1,50 @@
+# Russian translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-29 08:35+0000\n"
+"Last-Translator: CyberTailor <Vyalkov.02@gmail.com>\n"
+"Language-Team: Russian <ru@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Conclusion"
+msgstr "В качестве заключения"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"There's a lot more to learn about Linux Mint and about Linux in general. "
+"This guide was just an overview of some of the aspects related to your "
+"desktop. By now you should feel more comfortable with using it and you "
+"should have a better understanding of some of its components. Where are you "
+"going to go next? Will you learn how to use the terminal? Will you give "
+"other desktops a try? It's entirely up to you. Remember, Linux is about fun "
+"and the community is there to help. Take your time and learn a little bit "
+"every day. There's always something new no matter how much you know already."
+msgstr ""
+"Здесь Вы очень много узнали о Linux Mint и о Linux в целом. Это руководство "
+"было просто обзором некоторых аспектов, связанных с вашим рабочим "
+"окружением. К этому моменту вы должны чувствовать себя более комфортно с "
+"помощью его, и вы должны иметь лучшее понимание некоторых его компонентов. "
+"Куда Вы собираетесь идти дальше? Будете ли Вы знать, как использовать "
+"терминал? Будете ли вы пробовать другие рабочие окружения? Это полностью "
+"зависит от вас. Помните, Linux является весёлым сообществом, где Вам "
+"помогут. Потратьте время и узнавайте немного каждый день. Там есть всегда "
+"что-то новое, сколько бы вы уже не знали."
+
+#. Tag: para
+#, no-c-format
+msgid "Enjoy Linux and thank you for choosing Linux Mint."
+msgstr "Наслаждайтесь Linux и спасибо за выбор Linux Mint."

@@ -1,0 +1,44 @@
+# Chinese (Hong Kong) translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-13 11:53+0000\n"
+"Last-Translator: tomoe_musashi <hkg.musashi@gmail.com>\n"
+"Language-Team: Chinese (Hong Kong) <zh_HK@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Conclusion"
+msgstr "總結"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"There's a lot more to learn about Linux Mint and about Linux in general. "
+"This guide was just an overview of some of the aspects related to your "
+"desktop. By now you should feel more comfortable with using it and you "
+"should have a better understanding of some of its components. Where are you "
+"going to go next? Will you learn how to use the terminal? Will you give "
+"other desktops a try? It's entirely up to you. Remember, Linux is about fun "
+"and the community is there to help. Take your time and learn a little bit "
+"every day. There's always something new no matter how much you know already."
+msgstr ""
+"其實還有許多關於 Linux Mint 與一般 Linux 的知識需要學習。本指南只是一份與您桌面部分相關的總覽。現在您應該可以更輕鬆地使用 Linux "
+"Mint，並對當中元件有更好的理解。您下一步要做什麼呢？學習如何使用終端機？試用另外一種桌面？一切都是依照您的喜好。請記著，Linux "
+"是非常有趣的，而整個社群都樂意提供協助。慢慢來，每天學習一點。無論您已經知道多少，亦都總有新奇的知識等著您。"
+
+#. Tag: para
+#, no-c-format
+msgid "Enjoy Linux and thank you for choosing Linux Mint."
+msgstr "請享受 Linux 並感謝您選擇 Linux Mint。"

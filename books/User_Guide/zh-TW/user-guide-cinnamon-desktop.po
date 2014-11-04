@@ -1,0 +1,150 @@
+# Chinese (Traditional) translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-05 21:06+0000\n"
+"Last-Translator: Steven Liao <stevenliao0119@yahoo.com.tw>\n"
+"Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction to the Desktop"
+msgstr "桌面導覽"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <wordasword>desktop</wordasword> is the component of the operating "
+"system which is responsible for the elements that appear on the desktop: The "
+"<wordasword>Panel</wordasword>, the <wordasword>Wallpaper</wordasword>, the "
+"<wordasword>Control Center</wordasword>, the menus... etc."
+msgstr ""
+"<wordasword>桌面</wordasword> 是作業系統中負責出現在其上元素的元件: 如 "
+"<wordasword>面板</wordasword>，<wordasword>桌布</wordasword>，<wordasword>控制台</word"
+"asword>，選單... 等。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Cinnamon Edition of Linux Mint uses the Cinnamon desktop which is both "
+"intuitive and powerful."
+msgstr "Linux Mint Cinnamon 版使用直覺而強大的 Cinnamon 桌面。"
+
+#. Tag: title
+#, no-c-format
+msgid "The Menu"
+msgstr "選單"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Cinnamon, almost everything is accessible from the 'Menu'. To open it, "
+"click on <guimenu>Menu</guimenu> at the bottom-left of your screen, or press "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
+"is the left Windows key on your keyboard)."
+msgstr ""
+"在 Cinnamon，您可以透過「選單」存取絕大部分的東西。您可以點擊畫面左下角的 <guimenu>選單</guimenu> 來開啟它，或是按 "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
+"是您鍵盤左邊的 Windows 鍵)。"
+
+#. Tag: title
+#, no-c-format
+msgid "The Cinnamon Menu"
+msgstr "Cinnamon 選單"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The menu is used to launch applications, to access the system settings, and "
+"to reach common places and open recent files."
+msgstr "選單是用來啟動應用程式，存取系統設定，到達常用位置，與開啟最近使用過的檔案。"
+
+#. Tag: title
+#, no-c-format
+msgid "Places"
+msgstr "位置"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Linux Mint, all your personal data is stored in your "
+"<wordasword>Home</wordasword> directory."
+msgstr "在 Linux Mint，所有您的個人資料都儲存在您的 <wordasword>家</wordasword> 目錄。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"As well as your files, this directory also contains pre-defined sub-"
+"directories such as <wordasword>Documents</wordasword>, "
+"<wordasword>Music</wordasword>, <wordasword>Videos</wordasword>...etc which "
+"you can use to better organize your files."
+msgstr ""
+"除了您的檔案之外，這個目錄裡也包含了預先定義的子目錄，如: "
+"<wordasword>文件</wordasword>，<wordasword>音樂</wordasword>，<wordasword>影片</worda"
+"sword>... 等，來協助您整理您的檔案。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Other important places are your <wordasword>Desktop</wordasword> folder "
+"(which containsn the files visible on your desktop), the filesystem (which "
+"contains all system files and directories), removable devices connected to "
+"the computer, the network and bookmarks (you can bookmark any directory to "
+"gain quick-access to it)."
+msgstr ""
+"其他重要的位置包含您的 <wordasword>桌面</wordasword> 資料夾 (包含顯示在您桌面的檔案)，檔案系統 "
+"(包含所有系統檔案與目錄)，連接到電腦的可移除式裝置，網路與書籤 (您可以把任何目錄加入書籤以快速存取)。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To quickly access one of these places, perform one of the following actions:"
+msgstr "若要快速存取這些位置，請執行以下其中一項動作:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Click on <guimenu>Menu</guimenu> and select <guisubmenu>Places</guisubmenu>"
+msgstr "點擊 <guimenu>選單</guimenu> 並選擇 <guisubmenu>位置</guisubmenu>"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Launch <wordasword>Nemo</wordasword>, the Cinnamon file manager, by clicking "
+"on <guimenu>Menu</guimenu> and selecting <guimenuitem>Files</guimenuitem>. "
+"Then, within Nemo, you can access common places by clicking on them in the "
+"sidebar, on the left of the window."
+msgstr ""
+"您可以點擊 <guimenu>選單</guimenu> 並選擇 <guimenuitem>檔案</guimenuitem>，來啟動 Cinnamon "
+"的檔案管理員 <wordasword>Nemo</wordasword>。在 Nemo 裡，您可以點擊視窗左側邊欄的常用位置來存取它們。"
+
+#. Tag: title
+#, no-c-format
+msgid ""
+"Nemo, the file manager, listing the content of the Home directory and "
+"providing quick-access to common places from the left sidebar."
+msgstr "Nemo 檔案管理員會列出家目錄的內容，並在左側邊攔提供常用位置的快速存取。"
+
+#. Tag: title
+#, no-c-format
+msgid "System Settings"
+msgstr "系統設定"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To launch the system settings, click on <guimenu>Menu</guimenu> and select "
+"<guimenuitem>System Settings</guimenuitem>."
+msgstr ""
+"要啟動系統設定，請點擊 <guimenu>選單</guimenu> 並選擇 <guimenuitem>系統設定</guimenuitem>。"

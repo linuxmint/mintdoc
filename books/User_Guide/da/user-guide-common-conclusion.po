@@ -1,0 +1,50 @@
+# Danish translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-09-30 18:45+0000\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: Danish <da@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Conclusion"
+msgstr "Konklusion"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"There's a lot more to learn about Linux Mint and about Linux in general. "
+"This guide was just an overview of some of the aspects related to your "
+"desktop. By now you should feel more comfortable with using it and you "
+"should have a better understanding of some of its components. Where are you "
+"going to go next? Will you learn how to use the terminal? Will you give "
+"other desktops a try? It's entirely up to you. Remember, Linux is about fun "
+"and the community is there to help. Take your time and learn a little bit "
+"every day. There's always something new no matter how much you know already."
+msgstr ""
+"Der er meget mere at lære om Linux Mint og Linux i almindelighed. Denne "
+"vejledning gav kun et overblik over nogle af forholdene vedrørende dit "
+"skrivebord. Du burde nu føle dig mere tryg ved Linux Mint og have en bedre "
+"forståelse af nogle af dets komponenter. Hvordan vil du komme videre her "
+"fra? Vil du lære, hvordan man bruger terminalen? Vil du prøve andre "
+"skriveborde? Det er helt op til dig. Husk, Linux handler om at have det "
+"sjovt og fællesskabet er der til at hjælpe. Lær en lille smule hver dag i "
+"dit eget tempo. Der er altid noget nyt at lære, uanset hvor meget du "
+"allerede ved."
+
+#. Tag: para
+#, no-c-format
+msgid "Enjoy Linux and thank you for choosing Linux Mint."
+msgstr "Nyd Linux og tak fordi du valgte Linux Mint."

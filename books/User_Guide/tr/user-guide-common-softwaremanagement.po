@@ -1,0 +1,1275 @@
+# Turkish translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-27 21:27+0000\n"
+"Last-Translator: kelebek333 <Unknown>\n"
+"Language-Team: Turkish <tr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Software Management"
+msgstr "Yazılım Yönetimi"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you have installed Linux for the first time, then you may not be familiar "
+"with the concept of organizing software into "
+"<wordasword>packages</wordasword>."
+msgstr ""
+"Eğer Linux'u ilk defa yükledi iseniz, <wordasword>packages</wordasword> "
+"halinde düzenlenmiş yazılım kavramına aşina olmayabilirsiniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You will soon become familiar with package management and appreciate the "
+"advantages it offers in terms of security, control and ease of use."
+msgstr ""
+"Paket yönetimine aşina oldukça, bunun güvenlik, kontrol ve kullanım "
+"kolaylığı yönünden avantajlarını kavrayabilirsiniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"We have tried to make it so that all or most of your hardware was detected "
+"and drivers were installed automatically so that your computer would work "
+"out of the box. We have also tried to make it so that you could do many of "
+"the things you want to without having to look around for third party "
+"software on websites. You may have noticed that your Linux Mint installation "
+"already has a full office suite, a professional-quality image-editing "
+"solution, an IM and an IRC client, a disk burner, and several media players "
+"(as well as many other basic accessories). Relax, it's okay! You haven't "
+"stolen anything! This is what free software is all about! And the truly "
+"great thing about package management in Linux Mint and generally is that you "
+"should never need to look far and wide for extra software, even when the "
+"time comes that you do want more functionality from your Linux Mint system."
+msgstr ""
+"Sisteminizdeki donanımların çoğunun algılanması ve sürücülerinin otomatik "
+"olarak yüklenmesi, ayrıca genel kullanım için gerekli olabilecek "
+"yazılımların hazır halde bulunmasını sağlayarak kutusundan çıktığı gibi "
+"kullanabileceğiniz bir işletim sistemi yapmaya çalıştık. Ayrıca üçüncü parti "
+"yazılımları web siteleri üzerinde aramamanız için gerekli olan herşeyin "
+"sunulduğu bir sistem oluşturmak da amaçlarımızdan biriydi. Linux Mint "
+"kurulumundan sonra sizinde farkedeceğiniz üzere; eksiksiz bir ofis paketi, "
+"profesyonel resim işleme çözümü, anlık ileti ve IRC mesajlaşma yazılımları, "
+"CD/DVD yazma programı, birkaç ortam oynatıcısı (ve daha bir çok temel donatı "
+"yazılımı) kurulu olarak gelmektedir. Rahatlayın ve arkanıza yaslanın! Tüm "
+"bunlara rağmen yasal olmayan hiç bir işlem yapmadınız! İşte özgür yazılımın "
+"manası budur! Ek olarak Linux Mint'teki paket yönetimini gerçekten harika "
+"kılan yön ise, kurulu sisteminizi daha işlevsel yapmak istediğinizde "
+"internette yazılım arayarak vakit kaybetmeyecek olmanızdır."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"This section is intended to explain how this works and the advantages that "
+"it can bring to you. It's a bit long, but hopefully it will provide you with "
+"a good understanding of the philosophy behind package management and why it "
+"is considered a Good Thing (a phrase commonly capitalized by Linux users to "
+"mean that something is squarely in the category of good). If you're in a "
+"hurry, you can skip to the next section which will tell you how to actually "
+"use the package system."
+msgstr ""
+"Bu bölüm size paket yönetiminin nasıl çalıştığını ve avantajlarını "
+"açıklamayı amaçlamaktadır. Paket Yönetiminin arkasındaki felsefeyi iyice "
+"anlamanızı sağlayacak  bu bölüm biraz uzun gelebilir, ama bu şekilde niçin "
+"“Faydalı Bir Şey (a Good Thing)*”  olduğunu kavramanıza yardımcı olacaktır. "
+"Eğer acele ediyorsanız bu bölümü atlayıp, bir sonraki paket sisteminin etkin "
+"kullanımını anlatan bölüme geçebilirsiniz.  *Bu deyim (a Good Thing) Linux "
+"kullanıcıları tarafından kullanılmakta olan ve bir şeyin deneyimle "
+"onaylanarak kabul edildiği manasına gelmektedir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The problems with browsing software vendors' websites and downloading and "
+"installing the software they offer are many:"
+msgstr ""
+"Yazılım üreticilerinin sitelerini ya da başka kaynakları araştırarak "
+"indirilen uygulamalar aşağıdaki sorunları içerebilir:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is difficult or impossible to find out if the software has been tested to "
+"work with your operating system"
+msgstr ""
+"İşletim Sisteminiz ile sorunsuzca çalıştığı test edilmiş bir yazılım "
+"sürümünü bulmak ya çok zor ya da imkansızdır"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know how this software will interact with "
+"the other software installed on your system"
+msgstr ""
+"Kurulumunu yapacağınız yazılımın sisteminizdeki diğer yazılımlar ile uyum "
+"sorunları olup olmadığını bilmek ya çok zor ya da imkansızdır"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know if you can place your trust that "
+"software from an unknown developer software will not cause any harm, willful "
+"or negligent, to your system Even if you know about a specific piece of "
+"software and its developer, you cannot be entirely sure that you are not "
+"downloading an executable that has been swapped out by a malicious third "
+"party for some type of malware."
+msgstr ""
+"Bilinmeyen geliştirici tarafından geliştirilmiş bir uygulamaya güvenmek, "
+"sisteminize zarar verip vermeyeceğini anlamak ya çok zor ya da imkansızdır. "
+"Belirli bir yazılım ya da geliştiricisi hakkında bilgiye sahip olursanız "
+"dahi, yazılımı indirirken  bazı unsurlarının üçüncü parti zararlı bir "
+"yazılım tarafından değiştirilmediğine emin olamazsınız."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Furthermore, a problem with downloading and installing multiple different "
+"programs, from multiple different developers, is that there is no managerial "
+"infrastructure. Before you say “big deal”, consider how you are going to "
+"keep all these different pieces of software up to date. If you get tired of "
+"a program and want to remove it, how do you know how to achieve that? The "
+"program in question might not have come with a removal option, and even if "
+"it did, much of the time this will fail to remove the software cleanly and "
+"completely. In a very real sense, when you ran that installer program, you "
+"gave up some of your control of your computer to a program written entirely "
+"by a complete stranger."
+msgstr ""
+"Bunlara ek olarak, birbirinden farklı üretici ve geliştiriciler tarafından "
+"hazırlanmış çok çeşitli uygulamaları sisteminize indirmek ve kurmak, "
+"sisteminizi daha az yönetilebilir bir yapıya dönüştürür. Böyle bir öneriyi "
+"kabul etmeden önce, bu kadar farklı sayıda yazılımın tamamını nasıl güncel "
+"tutacağınızı düşünmelisiniz. Eğer kurulumunu gerçekleştirdiğiniz bir "
+"programı kullanmaktan vazgeçip kaldırmak isterseniz, bunu nasıl "
+"gerçekleştireceğinizi bilemeyebilirsiniz. Kurulumunu gerçekleştirdiğiniz "
+"uygulamanın dosyaları içinde kaldırılmasını sağlayacak bir program da "
+"olmayabilir ya da çoğu zaman sisteminizden tamamen kaldırılmasını "
+"sağlayamayabilir. Bir uygulamanın kurulum aracını çalıştırdığınızda, "
+"bilgisayarınızın bazı unsurlarının kontrolünü tam anlamıyla  yabancı biri "
+"tarafından geliştirilmiş  bu araca verirsiniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Finally, software which is distributed in this way is often, by virtue of "
+"necessity, “static”. This means that not only do you need to download the "
+"program itself, but also all of the data libraries that are required for it "
+"to run. Since a third-party software developer cannot know which data "
+"libraries you may already have available on your system, the only way that "
+"they can guarantee it will run on your system is by supplying all of the "
+"data libraries it needs along with the program itself. This means bigger "
+"downloads, and it means that when the time comes to update a given library, "
+"it needs to be done separately for all those programs using it, instead of "
+"just once. In summary, the distribution of static software results in the "
+"unnecessary duplication of a lot of work."
+msgstr ""
+"Sonuç olarak genellikle bu yolla dağıtılan yazılımlar gereklilikleri "
+"sebebiyle “statik”tir. Bu programın çalışması için sadece uygulamanın "
+"kendisinin yeterli olmayacağı manasına gelir, siz onunla birlikte çalışması "
+"için bağımlı olabilecek başka uygulama kütüphanelerini de indirirsiniz. "
+"Yazılımın geliştiricisi sizin sisteminizde hangi 3. parti "
+"uygulamaların/kütüphanelerin kurulu olduğunu bilemeyeceği için, gerekli tüm "
+"bileşenleri de içinde sunarak uygulamanın sorunsuz çalışmasının garantisini "
+"verebilir. Bu daha büyük indirme dosyaları manasına geldiği gibi, bir "
+"güncellemeyle birlikte uygulamanın sorunsuz çalışması için gerekli "
+"kütüphanelerin ve bileşenlerin de ayrı olarak güncellenmesinin gerektiği "
+"anlamına gelmektedir. Özet olarak, statik yazılımların dağıtımı bir çok "
+"gereksiz iş yükü tekrarına sebep olur."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Package management in Linux Mint, and GNU/Linux operating systems in "
+"general, has been established for some time and is the preferred method for "
+"managing software as it avoids all of these issues. We've been safely and "
+"automatically installing our software since the early 1990s."
+msgstr ""
+"Linux Mint ve diğer GNU/Linux işletim sistemlerinde bu tür sorunlardan uzak "
+"durmak ve yazılımları yönetmek için tercih edilen yöntem paket yönetimi "
+"olmuştur. Bizler 1990'lı yıllardan beri yazılımlarımızı güvenli ve otomatik "
+"olarak yüklüyoruz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Software is first written by a developer, as you might expect, and this end "
+"of the production chain is known as “upstream”. As a user of a Linux "
+"distribution, you are referred to as being at the furthest point "
+"“downstream” (unless you're an admin, in which case your users are the "
+"furthest point downstream, but you knew that because you're an admin). Once "
+"the developer is happy with the program or the update to the program they "
+"have written, they will release the source code for it. They will also "
+"communicate in their documentation which data libraries or other programs "
+"they took advantage of when they were writing the program. They have been "
+"doing this for some time and there are standardized and venerable ways for "
+"them to do this. Note that, with a few exceptions (usually either hardware "
+"manufacturers who release drivers for Linux, like nVidia or ATI, or certain "
+"major companies like Adobe, who we can trust) they release the actual source "
+"code for the program, that is, the list of instructions in that program in a "
+"human readable form. This has a number of implications, but most importantly "
+"for this discussion it means that they are willing to have their software "
+"peer reviewed by anyone and everyone with an Internet connection. It's "
+"awfully difficult to sneak spyware into your program when you're letting "
+"everyone see what you've written!"
+msgstr ""
+"Yazılımlar ilk olarak bir geliştirici tarafından yazılırlar ve bu sizlerinde "
+"tahmin ettiğiniz üzere, üretim zincirinin halkalarında \"kaynak\" "
+"(\"upstream\") olarak bilinir. Bir Linux dağıtımı kullanıcısı iseniz,  siz "
+"bu yukarıdan aşağı akışın (\"downstream\") son halkası durumundasınızdır "
+"(bir yönetici (admin) olmanız durumunda, sizin kullanıcınız bu zincirin son "
+"halkasıdır, zaten bir yönetici iseniz bunu biliyorsunuzdur). Eğer "
+"geliştirici yazdığı programdan ya da yazılmış programın için hazırlanmış "
+"güncellemeden memnun olursa, onun kaynak kodlarını yayınlar. Uygulamalar "
+"yazılırken kullandıkları veri kütüphaneleri ve uygulamayı yazarken "
+"avantajlarından yararlandıkları diğer programları da dökümantasyon içine "
+"alarak iletişim kurarlar. Bu işlem belirli zamanlarda ve belli bir standarta "
+"göre yapılır. Not olarak, bunun bir kaç istisnasının olduğunu belirtelim "
+"(genellikle donanım üreticilerinin Linux için yayınladığı sürücüler, nVidia "
+"ve ATI gibi, Adobe gibi belirli büyük firmalar), bunlar dışındaki "
+"uygulamaların mevcut kaynak kodları, uygulamadaki bir talimat listesi ile "
+"beraber, içeriklerini kişilerin anlayabileceği bir biçimle yayınlanırr. "
+"Böyle yapılmasının bir kaç etkisi mevcuttur, ama en önemli tartışma konusu "
+"geliştiricilerin ürettikleri yazılımları interneti olan herkesin erişimine "
+"ve incelemesine açmasıdır.  Böylece isteyen herkes uygulamanın kaynak "
+"kodlarını görebildiği için casus  yazılım gibi güvenlik riski doğurabilecek "
+"durumlar imkansız hale gelir!"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The software now moves down the stream to package maintainers, who are "
+"either volunteers or paid employees working for a Linux distribution. It is "
+"their responsibility to compile the source code for the software, test it on "
+"the distribution to make sure that it works, resolve any problems that they "
+"encounter and finally package the compiled (i.e., machine-readable) software "
+"in a convenient format. This package contains the executable program(s), "
+"their configuration files, and the instructions the package management "
+"software needs to successfully install it. Note that it won't ordinarily "
+"contain any static libraries, since it doesn't need to – the libraries are "
+"provided by other packages, and are therefore known as shared libraries. "
+"Your package management software will know if that a particular package "
+"requires another package to be installed first (like a shared library), "
+"because, as you will remember, the data libraries and related packages "
+"needed for the software to work were declared further upstream and that "
+"information is included in the package. The instructions are sufficiently "
+"detailed that even specific versions of other packages can be requested to "
+"ensure interoperability. The finished package is then uploaded to a special "
+"file server, which is called a software repository."
+msgstr ""
+"Yazılım akışının bir sonraki basamağı olarak kaynak dosyası paket "
+"bakımcılarına gelir, bunlar bir dağıtımda gönüllü veya ücretli olarak görev "
+"alabilirler.  Onların sorumluluğu ise kaynak kodda hazırlanmış programı "
+"derlemek, dağıtım üzerinde doğru çalıştığını test etmek, karşılaşılabilecek "
+"sorunları çözmek ve sonuç olarak derlenmiş (yani makine dilinin "
+"okuyabileceği hale getirilmiş) yazılımı uygun biçimde paketlemektir. Bu "
+"paket programın çalıştırılabilir uygulamalarını, yapılandırma dosyalarını ve "
+"paket yöneticisinin programı başarılı bir şekilde kurabilmesine ihtiyacı "
+"olan yükleme talimatlarını barındırır. Bu paketlerin statik kütüphaneler "
+"içermediğini ve bunun gerekmediğini unutmayın. İhtiyaç duyulan kütüphaneler "
+"başka paketler tarafından sunulurlar ve bu nedenle bunlar paylaşılmış "
+"kütüphaneler olarak bilinir. Paket yönetimi yazılımı, uygulama kurulurken "
+"belirli bir pakete ihtiyaç duyulduğunu veya bunun daha önce kurulması "
+"gerektiğini bilecektir (örneğin paylaşılan kütüphaneler gibi), çünkü "
+"hatırlayacağınız gibi, yazılım tarafından ihtiyaç duyulacak veri "
+"kütüphaneleri ile ilgili paketler hakkında bilgiler kaynak dosyada ayrıca "
+"listenerek belirtiliyordu. Talimatlar yeterince ayrıntılı olarak diğer "
+"paketlerin belirli sürümlerini bile içerdiğinden, birlikte çalışabilirliği "
+"sağlamak için talep edilebilecektir. Paket hazırlığında özel bir dosya "
+"sunucusuna yüklenir ve biz bunu depo olarak isimlendiriyoruz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is from that single location that you are able to download and install "
+"the software you need. You will know that the location is bona fide, because "
+"it is signed with a certificate that your package manager will check. You "
+"will also know that each individual package that you install is secure, "
+"because each package is itself signed by a GPG key, which your package "
+"manager will also check. Your package manager will even run an MD5 sum on "
+"each package to make sure that nothing went wrong when it was downloading, "
+"just like we did before with the LiveDVD iso. Notice how it's doing all of "
+"this for you. You're just sitting back, sipping a martini, and chatting in "
+"#linuxmint on xchat. The package manager has downloaded the packages you "
+"have selected, it will follow, to the letter (computers are fastidious in "
+"following instructions), the instructions in the package to perfectly "
+"install your software, and all of its dependencies, in the right order. "
+"There is no space for human error – if the package worked on the "
+"maintainer's computer, then it ought to on yours because the package manager "
+"will follow exactly the same procedure."
+msgstr ""
+"Bu size aynı konumdan ihtiyacınız olan yazılımı indirip kurabilme imkanı "
+"verir. İndirdiğiniz konumun iyi niyetli olduğunu bilirsiniz, çünkü paket "
+"yöneticisi yazılımın bir sertifika ile imzalandığını kontrol edilecektir. "
+"Ayrıca yüklediğiniz her özel paketin güvenli olduğunu da bilirsiniz, çünkü "
+"her paket kendini GPG anahtarı ile imzalamıştır, paket yöneticiniz bunu da "
+"kontrol edecektir. Paket yöneticiniz, indirme sırasında herşeyin yolunda "
+"gittiğinden emin olmak için her paketin MD5 sum kontrolünü yapabilir, daha "
+"önce çalışan DVD iso dosyası için yaptığımız gibi. Dikkat ettiyseniz her şey "
+"sizin adınıza yapılıyor. Siz sadece arkanıza yaslanın ve çayınızı yudumlayıb "
+"ya da #linuxmint xchat kanalında sohbet edin. Paket Yöneticisi seçtiğiniz "
+"uygulamaları indirecek, takip edecek, (bilgisayarınız için aşağıdaki "
+"talimatlara özen gösterilerek)  yazılımın ve onun tüm bağımlı olduğu "
+"paketlerin başarılı biçimde kurulumunu sağlamak amacıyla paketler içindeki "
+"talimatlara harfi harfine uyacaktır. Burada insan hatasına yer yoktur, eğer "
+"paketler paket bakımcısının bilgisayarında çalıştıysa, sizinkinde de "
+"çalışacaktır. Çünkü paket yöneticisi, tam olarak aynı prosedürü izleyecektir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"When it comes time to check for software updates, your package manager will "
+"automatically compare the software version that you have against what is "
+"available in the repository, and do all the necessary work to keep your "
+"system running smoothly and securely. So, if version 2.4 of BestSoft is "
+"uploaded to the repository, and you have version 2.3, the package manager "
+"will compare those version numbers, and offer to install the latest version, "
+"taking care, of course, of all the dependencies for the newer version of the "
+"software."
+msgstr ""
+"Bir yazılım için güncellemesi için kontrol zamanı geldiğinde, paket "
+"yöneticisi yazılımın yüklü sürümü ile depodaki kullanılabilir sürümünü "
+"otomatik olarak karşılaştırır, sisteminizi sorunsuz ve güvenli tutmak için "
+"gerekli tüm çalışmaları yapar. Örneğin, depoya BestSoft 2.4 sürümü yüklendi "
+"ve sizin sisteminizde yazılımının 2.3 sürümü kurulu olsun. Paket yöneticisi "
+"bu sürüm numaralarını karşılaştırır, ve size son sürümü yüklemeniz için "
+"öneride bulunur. Bir diğer dikkat çekici husus ise, pek tabii yazılımın yeni "
+"sürümü yüklenirken tüm bağımlı bileşenlerinin de güncellemesi olup olmadığı "
+"kontrol edilecektir."
+
+#. Tag: para
+#, no-c-format
+msgid "Sounding good yet? It gets better."
+msgstr "Kulağa hoş geliyor değil mi? Bundan daha iyileri de mevcut."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Humans err where computers don't and from time to time something may go "
+"wrong in this process. Perhaps you will, by accident, install hardware "
+"drivers for the wrong piece of hardware and this might break something. "
+"We've all done that. Or perhaps there's a bug or your favorite feature was "
+"removed by the program's developer for some reason. These problems "
+"demonstrate, paradoxically, the strength and security of package management. "
+"Because your package manager keeps fastidious records of everything it ever "
+"does, it is able to reverse installations, cleanly and completely. It will "
+"make sure that removing one package doesn't break any others, and you can "
+"even tell it specifically to do things like not automatically upgrade "
+"certain packages, because you like them the way they are, or to revert to an "
+"earlier version. Finally, the whole process is very heavily peer-reviewed. "
+"Because you are part of a large community of Linux users, all using the same "
+"repositories to obtain their software, if anything goes wrong you can be "
+"absolutely sure there will be a big fuss about it, and that the problem will "
+"be resolved quickly! In this way, software distribution in GNU/Linux "
+"distributions is very much based on trust, from the moment the original "
+"developer displays their source code for all to see, to the open discussion "
+"on the distribution's website. You can be confident in the software you "
+"obtain, not only because of the security protocols already mentioned, but "
+"because if anything does go wrong everyone will be talking about it!"
+msgstr ""
+"Zaman zaman bilgisayar haricinde insan hataları sebebiyle bu işlemde bir "
+"şeyler hatalı gidebilir. Belki kaza sonucu olarak bir donanım parçasına ait "
+"yanlış sürücüyü yükleyebililirsiniz ve bu bir şeyleri kırabilir. Hepimiz "
+"böyle şeyler yapmışızdır. Ya da muhtemelen bir hata (bug) sebebiyle ya da "
+"herhangi bir sebepten en sevdiğiniz özellik uygulamanın geliştiricisi "
+"tarafından silinebilir. Bu olası sorunlar paradoksal olarak paket "
+"yöneticisinin gücünü ve güvenliğini gösterir. Çünkü paket yöneticisi yapılan "
+"her işlemin titizlikle kaydını altında tutar, böylece kurulumları temiz ve "
+"tam olarak geri almanıza imkan verir.  Bir paketi silerken bir diğerinin "
+"zarar görmeyeceğinden emin olmanızı sağlayabilir, ve hatta bazı beğendiğiniz "
+"paketlerin otomatik yükseltilmemesini sağlayarak belirli bir sürümde "
+"tutabilir, ya da önceki sürüme döndürebilirsiniz. Sonuç olarak, tüm bu "
+"işlemler çok büyük bir dikkatle incelenerek yapılmaktadır. Çünkü siz büyük "
+"bir Linux kullanıcıları topluluğunun parçasısınız, tüm kullanıcılar "
+"yazılımlarını kurmak için aynı depoyu kullanırlar ve kesinlikle emin "
+"olabilirsiniz ki bir sorun ortaya çıktığında bunun hakkında büyük bir "
+"tartışma konusu açılıp, kısa süre içerisinde sorun çözülecektir! Bunların "
+"sayesinde GNU/Linux dağıtımlarında yayınlanan yazılımlar güven üzerine "
+"kurulur, resmi geliştiricinin yazılımın kaynak kodlarını herkesin "
+"görebileceği şekilde yayınlamasından, dağıtımın web sitesinde açık bir "
+"tartışmaya kadar. Sadece bahsettiğimiz güvenlik sebepleri dolayısıyla değil, "
+"eğer herhangi bir şey yanlış giderse herkes bu hata hakkında konuşacağı için "
+"de elde ettiğiniz yazılımdan emin olabilirsiniz."
+
+#. Tag: para
+#, no-c-format
+msgid "Let's look again at our list of problems and see what we have solved:"
+msgstr ""
+"Şimdi sorun listemize tekrar bakalım ve onları nasıl çözdüğümüze görelim;"
+
+#. Tag: entry
+#, no-c-format
+msgid "Problem"
+msgstr "Sorun"
+
+#. Tag: entry
+#, no-c-format
+msgid "Solution"
+msgstr "Çözüm"
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"It is difficult or impossible to find out if the software has been tested to "
+"work with your operating system."
+msgstr ""
+"İşletim Sisteminiz ile sorunsuzca çalıştığı test edilmiş bir yazılım "
+"sürümünü bulmak ya çok zor ya da imkansızdır"
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"You know that the software available to you through the repository has been "
+"thoroughly tested by the package maintainer and the testing team to work "
+"with your operating system. They won't want to get it wrong, mostly on "
+"principle, but also because if they do they'll soon be getting lots of "
+"emails."
+msgstr ""
+"Bildiğiniz üzere işletim sisteminiz ile çalışacak mevcut yazılımlar paket "
+"bakımcısı ve test ekibi tarafından test edilerek depo aracılığı ile size "
+"sunulurlar. Onlar bir hata olmasını genel bir prensip olarak istemezler, "
+"aynı zamanda böyle bir durum olursa çok fazla e-posta alacaklardır."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know how this software will interact with "
+"the other software installed on your system."
+msgstr ""
+"Kurulumunu yapacağınız yazılımın sisteminizdeki diğer yazılımlar ile uyum "
+"sorunları olup olmadığını bilmek ya çok zor ya da imkansızdır."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Similarly, package maintainers try their utmost to ensure that packages "
+"won't conflict with other packages offered by their distribution. Of course, "
+"they might not have every last package installed on their testing machines "
+"(in fact, usually package maintainers build their packages on clean "
+"installations to ensure that they are standard), but if a member of the user "
+"community finds out that there is a problem, they will no doubt let the "
+"distribution team know, and the problem will be fixed, or at least worked "
+"on. Unless you are a beta tester, then you are unlikely to ever see such a "
+"conflict, because that's what beta testing is for."
+msgstr ""
+"Benzer şekilde, paket bakımcıları hazırladıkları paketlerin dağıtımlar "
+"tarafından sunulan diğer paketler ile çakışmaması için özen gösterirler. "
+"Elbette, onların test sistemleri üzerinde kurulu olan her paketi kontrol "
+"edemezler (paket bakımcıları bu sebeple, paketleri hazırlarken genel olarak "
+"yeni yüklenmiş bir sistem kullanırlar), fakat kullanıcı topluluğunun bir "
+"üyesi bir hata bulursa, bunu şüphesiz dağıtım ekibine bildirecektir, bu "
+"şekilde ya problemi çözülecek ya da en azından çözülmesi için çalışmaya "
+"başlanacaktır. Bir beta testçisi olmadığınız sürece, böyle bir çakışmayı "
+"görmeniz çok olası değildir. Zaten bu beta testlerinin hedefi de, olası "
+"sorunları bulup çözmektir."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know if you can place your trust in the "
+"developer that their software will not cause any harm, willful or negligent, "
+"to your system."
+msgstr ""
+"Tanınmayan üretici tarafından geliştirilmiş bir uygulamaya güvenmek, "
+"sisteminize zarar verip vermeyeceğini anlamak ya çok zor ya da imkansızdır."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Package maintainers are hardly likely to package software they know will "
+"harm people's computers (including their own)! Only software which is known "
+"and trusted will ever make it to the repository."
+msgstr ""
+"Paket bakımcıları (kendilerininkini de içerecek biçimde) hangi yazılımların "
+"insanların bilgisayarlarına zarar verip vermeceğini kuvvetle bilirler! "
+"Sadece bilinen ve güvenilen yazılımlar depoya girebilir."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Even if you know about a specific piece of software and its developer, you "
+"cannot be entirely sure that you are not downloading an executable that has "
+"been swapped out by a malicious third party for some type of malware."
+msgstr ""
+"Belirli bir yazılım ya da geliştiricisi hakkında bilgiye sahip olsanız dahi, "
+"yazılımı indirirken bazı unsurlarının üçüncü parti zararlı bir yazılım "
+"tarafından değiştirilmediğine emin olamazsınız."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"In addition to the usual security measures put in place by the institutions "
+"who own the servers (usually prestigious academic or research institutions, "
+"or large companies), the repository and packages themselves are secured by "
+"certificates and GPG keys. If something's gone wrong, your package manager "
+"will tell you about it. The present author, in ten years of using Linux, has "
+"never once known anything to go wrong in this respect."
+msgstr ""
+"Sunucuların sahibi olduğu kurumlar (genellikle saygın akademi ya da "
+"araştırma kurumları ile büyük firmalar) tarafından konulmuş olağan güvenlik "
+"önlemleri sayesinde, depolar ve paketler GPG anahtarları ve sertifikalar "
+"yardımıyla kendilerini güvence altına alırlar. Eğer bir şey yanlış giderse, "
+"paket yöneticiniz size bunun hakkunda bilgi verecektir. Bu belgenin yazarı, "
+"10 yıldır Linux kullanıyor ve bu zaman boyunca güvenini sarsacak bir durumla "
+"karşılaşmamıştır."
+
+#. Tag: entry
+#, no-c-format
+msgid "It is difficult to remove (all traces of) installed programs."
+msgstr "Kurulu uygulamaları (tüm izleriyle birlikte) silmek zordur."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Because the package management software keeps a complete record of all of "
+"its actions, it is quite capable of reversing any steps that it took in the "
+"past, while ensuring that removing one package will not cause any other "
+"package to fail."
+msgstr ""
+"Paket Yönetimi yapılan bütün işlemlerin kaydını tutmaktadır ve böylece "
+"geçmişteki tüm adımları geri alma konusunda oldukça iyi yetenek "
+"gösterebilmektedir, bir paket silinirken bir sorun ortaya çıkmamasını ve "
+"diğer paketlerin bundan etkinlenmemesini sağlayabilmektedir."
+
+#. Tag: entry
+#, no-c-format
+msgid "Static packages are big and clunky."
+msgstr "Statik paketler büyük ve hantaldır."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Because you're using package management, you will only ever download static "
+"libraries when there is no shared alternative. If you need new shared data "
+"libraries to install a given program, your package manager will know this "
+"and install them for you automatically. You will only ever have to download "
+"a shared library once because, well, it's shared by all the programs that "
+"need it. If you end up removing the last package that needs a shared "
+"library, then the package management software will remove that too. But, if "
+"you decide that you do want to keep the shared object anyway, perhaps "
+"because you just know you'll need it later, then you can tell the package "
+"management software to do that, too."
+msgstr ""
+"Çünkü paket yönetimi kullanıyorsunuz, paylaşılan bir kütüphane alternatifi "
+"yoksa sadece o zaman statik kütüphane indireceksiniz. Eğer belirli bir "
+"programı yüklemek için yeni bir paylaşılan kütüphaneye ihtiyaç varsa, paket "
+"yöneticisiniz bunu anlayıp sizin için otomatik olarak yükleyecektir. Aynı "
+"paylaşılan kütüphaneye ihtiyacı olan başka bir uygulama kurmak "
+"istediğinizde, bu kütüphaneyi indirip yeniden kurmanıza da gerek kalmayacak. "
+"Diğer programlar da  aynı paylaşılan kütüphaneyi kullanacağı için bir "
+"kereliğine indirmek kurmak yeterli olacak. Eğer sisteminizden aynı "
+"paylaşılmış kütüphaneyi kullanan son programı da kaldırırsanız, paket "
+"yönetimi bu paylaşılan kütüphaneyi de kaldıracaktır. Fakat paylaşılan "
+"kütüphanelere daha sonradan ihtiyacınız olabileceği için, paket yönetimine "
+"bu kütüphanelerini tutmasını da söyleyebilirsiniz."
+
+#. Tag: entry
+#, no-c-format
+msgid "I'm still not convinced."
+msgstr "Hala ikna olmadım"
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Good! Post a message on the forums about it if you have a genuine concern "
+"about package management, or to ask about other people's experiences. It "
+"bears repeating that the package method of distribution in GNU/Linux relies "
+"on trust, so if there's a problem, we want to hear about it!"
+msgstr ""
+"Güzel! Paket yönetimi hakkında gerçekten merak ettiğiniz bir husus için "
+"foruma bir mesaj gönderebilir ya da diğer kişilere (kullanıcılara) "
+"deneyimlerini sorabilirsiniz. Şunu yinelemekte fayda var, GNU/Linux "
+"dağıtımlarındaki paket yöntemi güvene dayalıdır, bu yüzden eğer bir problem "
+"varsa, bunu duymak isteriz!"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"A final word. You may have been subjected to rumors to the effect that Linux "
+"isn't finished yet, or that if you use Linux then you are a beta-tester, or "
+"that Linux software is unstable. These are all half truths. “Linux” will "
+"never be “finished”, any more than any other major operating system can be "
+"considered “finished”. From the Linux kernel to the artwork on your screen, "
+"all the elements of your operating system will always be under some kind of "
+"development. This is because programmers are working hard to keep us up to "
+"date with the latest developments in programming and hardware technology. "
+"This does not mean that the software available for you to use is of bad "
+"quality. The base system at the core of Linux Mint has been under heavy "
+"development for about two decades now, and is very mature, stable, and "
+"proven. While there are definitely unstable versions of most of the software "
+"on your operating system, you won't be using them because you're not a beta "
+"tester. You know you're not a beta tester, because you're reading this. The "
+"software available to you on the repositories you use will always be stable "
+"and well tested, unless you change those repositories to the ones used by "
+"the testers (in which case congratulations, you've just become a tester). "
+"It's a bit of a no-brainer, really."
+msgstr ""
+"Son bir söz. Linux'un henüz bitmediği ya da eğer Linux kullanıyorsanız bir "
+"beta testçisi olduğunuz ya da Linux yazılımlarının kararlı olmadıkları gibi "
+"söylentilere maruz kalmış olabilirsiniz. Bunların hepsi yarım yamalak "
+"gerçeklerdir. “Linux” asla \"bitmiş\" olmayacak, daha da fazlası diğer "
+"önemli işletim sistemleri de “bitmiş” olarak değerlendirilemez. Linux "
+"çekirdeğinden (kernel) ekranınızdaki sanatsal çalışmalara kadar, işletim "
+"sisteminin tüm bileşenleri daima bir çeşit geliştirme içerisinde olacaktır. "
+"Bu sizin kullanımınıza sunulan mecut yazılımların kötü kalitede olduğu "
+"manasına da gelmemektedir. Bunun nedeni; programcıların uygulama geliştirme "
+"ve donanım teknolojilerindeki son yeniliklerler için bizleri güncel tutma "
+"çalışmalarıdır. Bunun anlamı şu an kullanmakta olduğunuz yazılımın "
+"kalitesinin kötü olduğu değildir. Linux Mint'in taban sisteminin çekirdeği "
+"yaklaşık yirmi yıldır ağır bir geliştirme altındadır, bu oldukça "
+"olgunlaşmış, kararlı ve kendini kanıtlamış bir yapıdır. İşletim sisteminizde "
+"kesinlikle kararlı olmayan olmayan yazılımlar kullanmayacaksınız, çünkü siz "
+"bir beta testçisi değilsiniz. Artık bir beta testçisi olmadığınızı "
+"biliyorsunuz, çünkü bu belgeyi okuyorsunuz. Depolarda sizin kullanımınıza "
+"sunulan mevcut yazılımlar daima kararlı ve iyice test edilmişlerdir, siz "
+"depoları test için hazırlanmış olanlarla değiştirmediğiniz sürece böyledir "
+"(böyle bir durumda siz de artık bir beta testçisi sayılabilirsiniz). Fakat "
+"bu yeni kullanıcılar için akılcı sayılabilecek bir uygulama değildir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"So, to summarize with an example, when you install Opera, Real Player or "
+"Google Earth in Linux Mint, these applications do not come from their "
+"original developers (Opera, Real and Google). Of course the upstream "
+"application comes from these developers, but only after they've been "
+"properly packaged and tested do they become available for you. So, in other "
+"words, you should never need to go and browse the Internet to look for "
+"software, as everything you need is available and already tested for you and "
+"for your system by the Linux Mint and Ubuntu teams. All you need to do is "
+"choose what you want to do."
+msgstr ""
+"Yani, bir örnek vererek özetlemek gerekirse, Opera, Real Player ya da Google "
+"Earth gibi yazılımları Linux Mint'e yüklediğinizde, bu uygulamalar doğrudan "
+"olarak orijinal geliştiricilerinden gelmez (Opera, Real ve Google'dan). "
+"Tabii ki kaynak olarak yazılımlar bu geliştiricilerden geliyor, fakat sonra "
+"uygun şekilde paketleniyor ve test edilip sizin yükleyebilmeniz için hazır "
+"hale getiriliyor. Yani, başka bir deyişle, yazılımı internet üzerinde "
+"aramaya ihtiyaç duymuyorsunuz, sisteminizin ihtiyacı olan herşey Linux Mint "
+"ve Ubuntu takımı tarafından test ediliyor ve kuruluma hazır hale "
+"getiriliyor. Yapmanız gereken tek şey, ne yapmak istiyorsanız bunu seçmektir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint will update itself automatically through a tool called the Update "
+"Manager, which will update not only the base operating system, but all the "
+"software installed on your machine as well."
+msgstr ""
+"Linux Mint, Güncelleme Yöneticisi isimli aracı ile kendi kendini otomatik "
+"olarak günceller, bu güncelleme sadece ana işletim sistemini kapsamaz, "
+"makinenizde yüklü olan tüm yazılımların güncellemesi de yapılır."
+
+#. Tag: para
+#, no-c-format
+msgid "It's that simple. Whew!"
+msgstr "İşte bu kadar basit. Müthiş!"
+
+#. Tag: title
+#, no-c-format
+msgid "Installing software"
+msgstr "Yazılım yükleme"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Some of the most popular applications that are not installed by default in "
+"Linux Mint are Opera, Skype, Acrobat Reader, Google Earth and Real Player."
+msgstr ""
+"Opera, Skype, Acrobat Reader, Google Earth ve Real Player gibi çok "
+"kullanılan uygulamaların bazıları Linux Mint ile öntanımlı olarak kurulu "
+"gelmez."
+
+#. Tag: title
+#, no-c-format
+msgid "Using the Software Manager"
+msgstr "Yazılım Yöneticisinin Kullanımı"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The easiest way to install software in Linux Mint is to use the "
+"<wordasword>Software Manager</wordasword>."
+msgstr ""
+"Linux Mint'e en kolay yoldan yazılım yüklemek için <wordasword>Yazılım "
+"Yöneticisi</wordasword> aracını kullanın."
+
+#. Tag: title
+#, no-c-format
+msgid "The Software Manager"
+msgstr "Yazılım Yöneticisi"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Open the <guimenu>Menu</guimenu> and select <guimenuitem>Software "
+"Manager</guimenuitem>."
+msgstr ""
+"<guimenu>Menü</guimenu> 'yü açın ve <guimenuitem>Yazılım "
+"Yöneticisi</guimenuitem> aracını seçin."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Software Manager lets you browse the software made available for Linux "
+"Mint. You can browse by category, search by keyword or sort the software by "
+"rating and popularity."
+msgstr ""
+"Yazılım Yöneticisi ile Linux Mint için kullanılabilir yazılımlara "
+"gözatabilirsiniz. Bu araştırmanızı kategorilerle, anahtar kelimelerle arama "
+"yaparak ya da yazılımları puanlama ve popülerliklerine göre sıralayarak "
+"yapabilirsiniz."
+
+#. Tag: title
+#, no-c-format
+msgid "Using Synaptic"
+msgstr "Synaptic kullanımı"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you want to install more than one application at a time or see more "
+"technical information about the packages, you can use "
+"<wordasword>Synaptic</wordasword>."
+msgstr ""
+"Eğer bir seferde birden fazla yazılım yüklemek ve paketler hakkında daha "
+"fazla teknik bilgi görmek istiyorsanız, <wordasword>Synaptic</wordasword> "
+"uygulamasını kullanabilirsiniz."
+
+#. Tag: title
+#, no-c-format
+msgid "Synaptic, the Package Manager"
+msgstr "Synaptic, Paket Yöneticisi"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Open the <guimenu>Menu</guimenu> and select <guimenuitem>Synaptic Package "
+"Manager</guimenuitem>."
+msgstr ""
+"<guimenu>Menü</guimenu> 'yü açınız ve <guimenuitem>Synaptic Paket "
+"Yöneticisi</guimenuitem> aracını seçiniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Let's see how we can install Opera (an alternative to the Firefox Web "
+"browser):"
+msgstr ""
+"Haydi birlikte Opera (Firefox web tarayıcısı için bir alternatif) "
+"uymalamasını nasıl yükleyeceğimizi görelim."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Click on the <guibutton>Search</guibutton> button and type "
+"<wordasword>opera</wordasword>."
+msgstr ""
+"<guibutton>Arama</guibutton> düğmesi/satırı üstüne tıklayın ve "
+"<wordasword>opera</wordasword> yazın."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Go through the list of packages and find the one corresponding to the Opera "
+"Web Browser."
+msgstr ""
+"Paket listesinin üzerine gidin ve Opera Web Tarayıcısına karşılık gelen "
+"paketi bulun."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Tick the box and select <guimenuitem>Mark for Installation</guimenuitem>."
+msgstr ""
+"Paketi işaretleyin ve sağ tıklayıp <guimenuitem>Kurulum İçin "
+"İşaretle</guimenuitem> seçeneğini seçin."
+
+#. Tag: para
+#, no-c-format
+msgid "Click on the <guibutton>Apply</guibutton> button."
+msgstr "<guibutton>Uygula</guibutton> düğmesi üstüne tıklayın."
+
+#. Tag: title
+#, no-c-format
+msgid "Using APT"
+msgstr "APT kullanımı"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"APT is by far the most powerful package management tool in Linux Mint. Yet "
+"it's extremely simple to use."
+msgstr ""
+"APT, Linux Mint'de kullanılan çok güçlü bir paket yönetim aracıdır. Ancak "
+"kullanımıda bir o kadar basittir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It's a command though, not a program with a graphical interface. If you're "
+"starting with Linux you'll probably prefer the Software Manager or Synaptic "
+"at first. As time goes on you'll likely enjoy things to be faster and more "
+"efficient."
+msgstr ""
+"Bu komutları kullanır ve grafik arayüze sahip bir uygulama değildir. Eğer "
+"Linux'a yeni başladıysanız, muhtemelen ilk olarak Yazılım Yöneticisi ya da "
+"Synaptic'i tercih edeceksiniz. Zaman geçtikçe ve bu şeylerden zevk aldıkça, "
+"daha hızlı ve etkili kullanım için tercih edeceksiniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Now let's see how we could have installed Opera using the APT command line "
+"tool."
+msgstr ""
+"Haydi şimdi bir komut satırı aracı olan APT ile Opera'yı nasıl "
+"kurabileceğimizi görelim."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Open the <guimenu>Menu</guimenu> and select "
+"<guimenuitem>Terminal</guimenuitem>. Then type the following command:"
+msgstr ""
+"<guimenu>Menü</guimenu>'yü açın ve <guimenuitem>Uçbirim</guimenuitem>i "
+"seçin. Sonra aşağıdaki komutu yazın:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                    <command>apt install "
+"<replaceable>opera</replaceable></command>\n"
+"                "
+msgstr ""
+"\n"
+"                    <command>apt install "
+"<replaceable>opera</replaceable></command>\n"
+"                "
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Make sure Synaptic is closed before using APT. Synaptic is using APT in the "
+"background so both can't run at the same time. The same goes for the "
+"Software Manager."
+msgstr ""
+"APT'yi kullanırken Synaptic'in kapalı olduğundan emin olunuz. Synaptic "
+"arkaplanda APT'yi kullandığından dolayı ikisi aynı anda çalışamaz. Aynı "
+"durum Yazılım Yöneticisi için de geçerlidir."
+
+#. Tag: title
+#, no-c-format
+msgid "Removing software"
+msgstr "Yazılımın kaldırılması"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You can use the Software Manager to remove software. Simply find the "
+"software you want to remove and click on <guibutton>Remove</guibutton>."
+msgstr ""
+"Yazılımı silmek için Yazılım Yöneticisini kullanabilirsiniz. Bunun için, "
+"silmek istediğiniz yazılımı bulunuz ve <guibutton>Kaldır</guibutton> "
+"düğmesine tıklayınız."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"With Synaptic, you can remove packages by clicking on them and by selecting "
+"<guimenuitem>Mark for Removal</guimenuitem>. Changes are applied after you "
+"click on the <guibutton>Apply</guibutton> button."
+msgstr ""
+"Synaptic ile, silmek istediğiniz yazılımı işaretleyiniz ve sağ tıklayarak "
+"<guimenuitem>Kaldırma İçin İşaretle</guimenuitem> seçeneğini seçiniz. "
+"Değişiklikler <guibutton>Uygula</guibutton> düğmesine tıkladığınızda "
+"gerçekleşecektir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"With APT it's even simpler... say you want to remove Opera, open a "
+"<guimenuitem>Terminal</guimenuitem> from the <guimenu>Menu</guimenu> and "
+"type:"
+msgstr ""
+"APT ile daha da basittir... Opera'yı kaldırmak istiyorsanız, "
+"<guimenu>Menü</guimenu> 'den bir <guimenuitem>Uçbirim</guimenuitem> açınız "
+"ve yazınız:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                    <command>apt remove "
+"<replaceable>opera</replaceable></command>\n"
+"            "
+msgstr ""
+"\n"
+"                    <command>sudo apt remove "
+"<replaceable>opera</replaceable></command>\n"
+"            "
+
+#. Tag: title
+#, no-c-format
+msgid "Updating software"
+msgstr "Yazılımın güncellenmesi"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If a new version of any package installed on your computer is made available "
+"you can upgrade to it. It may be a security update for some component of the "
+"operating system, it may be an optimization in one specific library or it "
+"may even be a newer version of Firefox. Basically, your system is made of "
+"packages and any part of it can be updated by updating some of those "
+"packages. This means replacing the current package with a newer version."
+msgstr ""
+"Bilgisayarınızda kurulu olan herhangi bir paket için yeni bir sürüm "
+"mevcutsa, bu sürüme güncelleme yapabilirsiniz. Bunlar, işletim sisteminin "
+"bazı bileşenleri için bir güvenlik güncellemesi olabileceği gibi, belirli "
+"bir kütüphanenin iyileştirmesini de içerebilir ya da Firefox'un yeni bir "
+"sürümü olabilir. Temel olarak, sisteminiz paketlerden oluşmaktadır ve bu "
+"sistemin herhangi bir parçasının güncellemesi, paketlerin güncellenmesi ile "
+"yapılabilir. Bu mevcut paketin daha yeni paket ile yer değiştirildiğ "
+"manasına gelmektedir."
+
+#. Tag: para
+#, no-c-format
+msgid "There are many ways to do this but only one of them is recommended."
+msgstr ""
+"Bunu yapmak için pek çok yol vardır fakat bunlardan bir tanesi "
+"önerilmektedir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You could use APT to upgrade all your packages with one simple command "
+"(<command>apt upgrade</command>) but we recommend you don't do so. The "
+"reason is that it doesn't make any distinctions in selecting which updates "
+"to apply and assumes that you want all of them."
+msgstr ""
+"APT kullanarak tüm  paketlerinizi tek bir basit komutla güncelleyebilirsiniz "
+"(<command>apt upgrade</command>) fakat biz bu yöntemi önermiyoruz. Bunun "
+"sebebi bu araçların güncelleme yaparken hiçbir ayrım yapmadan, sistemde "
+"kurulu tüm paketler için güncelleme yapılmak istenildiğini öngörüp "
+"uygulamasıdır."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Some parts of the system are safe to update and some others aren't. For "
+"instance, by updating your kernel (the part which is responsible among other "
+"things for hardware recognition) you might break your sound support, your "
+"wireless card support or even some applications (such as VMWare and "
+"Virtualbox) which are closely linked to the kernel."
+msgstr ""
+"Sistemin bazı parçalarını güncellemek diğerleri kadar sorunsuz olmayabilir. "
+"Örnek olarak, çekirdek (kernel) (her şeyin donanımı tanıyıp kullanabilmesi "
+"için gerekli olan temel parça) güncellemesi yaparsanız ses ve kablosuz ağ "
+"kartı desteği kırılabilir, hatta çekirdekle yakından bağlantılı olarak "
+"çalışan bazı uygulamaların (VMWare ve VirtualBox gibi) düzgün çalışmamasına "
+"neden olabilirsiniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint comes with a tool called the Update Manager. It gives more "
+"information about updates and lets you define how safe an update must be "
+"before you want to apply it. It looks like a shield and sits on the bottom-"
+"right corner of your screen."
+msgstr ""
+"Linux Mint, Güncelleme Yöneticisi olarak isimlendirilen bir araç ile "
+"birlikte gelir. Bu araç güncellemeleri yüklemeden önce, bunlar hakkında "
+"fazlaca bilgi vererek güvenli bir güncelleme tanımlamanızı sağlar. "
+"Ekranınızın sağ alt köşesinde bulunan kalkan görünümlü bir simgesi vardır."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you place your mouse pointer on top of it, it will tell you either that "
+"your system is up to date or, if it isn't, how many updates are available."
+msgstr ""
+"Eğer farenizi bunun üzerine getirirseniz, size sisteminizin güncel olup "
+"olmadığını, güncel değilse kaç adet güncellemenin mevcut olduğu hakkında "
+"bilgi gösterecektir."
+
+#. Tag: title
+#, no-c-format
+msgid "The list of available updates"
+msgstr "Mevcut güncellemelerin listesi"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you click on the lock icon, the Update Manager opens and shows you the "
+"updates that are available. The interface is very easy to use. For each "
+"package update you can read the description, the changelog (this is where "
+"developers explain their changes when they modify the package), and "
+"eventually if Linux Mint assigned warnings or extra information about the "
+"updates. You can also see which version is currently installed on your "
+"computer and which version is available for you to update to. Also you have "
+"a symbol showing if it's a package update or a security update."
+msgstr ""
+"Eğer sağ alt köşedeki kalkan simgeye tıklarsanız, Güncelleştirme Yöneticisi "
+"açılır ve size mevcut güncellemeleri gösterir. Arayüz oldukça kolay bir "
+"kullanıma sahiptir. Her paket güncellemesinin açıklamasını okuyabilir, "
+"değişim kayıtlarını (günlük (log) dosyası geliştiricilerin paketlerin "
+"nerelerinde değişiklik ve düzenleme yaptıklarını açılar) inceleyebilir ve "
+"son olarak Linux Mint ek bir uyarı tanımladı veya bilgi paylaştı ise bunlara "
+"ulaşabilirsiniz. Ayrıca paketlerin hangi sürümlerinin kurulu olduğu ve "
+"mevcut güncelleme ile hangi sürümünün kurulabileceği bilgilerine de ulaşmak "
+"mümkün. Güncellemelerin türleri de farklı simgelerle tanımlanmıştır, örneğin "
+"paket güncellemesi, güvenlik güncellemesi gibi."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Finally, you can see the stability level assigned to the package update. "
+"Each package update brings improvements or fixes security issues but that "
+"doesn't mean they're risk-free and can't introduce new bugs. The stability "
+"level is assigned to each package by Linux Mint and gives you an indication "
+"of how safe it is for you to apply an update."
+msgstr ""
+"Son olarak, paket güncellemeleri için atanmış kararlılık seviyelerini de "
+"görebilirsiniz. Her paket güncellemesi birtakım iyileştirmeler getirir ya da "
+"güvenlik sorunlarını düzeltir, fakat bu onların risksiz olduğu ve yeni "
+"hatalara neden olmayacağı anlamına gelmez. Her paket için kararlılık "
+"seviyesi Linux Mint tarafından belirlenir ve uygulanacak bir güncellemenin "
+"ne kadar güvenli olduğunun göstergesidir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Of course you can click on the columns to sort by stability level, status, "
+"package name or by version. You can select all updates or unselect all of "
+"them by using the <guibutton>Clear</guibutton> and <guibutton>Select "
+"All</guibutton> buttons."
+msgstr ""
+"Elbette sütunlar üzerine tıklayarak kararlılık seviyesi, durum, paket ismi "
+"ya da sürüm numarasına göre sıralama yapabilirsiniz. "
+"<guibutton>Temizle</guibutton> ve <guibutton>Tümünü Seç</guibutton> "
+"düğmelerini kullanarak tüm paketleri seçebilir ya da tüm seçimi "
+"kaldırabilirsiniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Level 1 and Level 2 updates are risk-free and you should always apply them. "
+"Level 3 updates should be safe but, although we recommend you take them, "
+"make sure you look over them on the list of updates. If you experience a "
+"problem with a particular Level 3 update, tell the Linux Mint development "
+"team so they can take measures to make that update a Level 4 or a Level 5 so "
+"as to warn or even discourage others against applying it."
+msgstr ""
+"Seviye 1 ve seviye 2 güncellemeleri risksiz güncellemelerdir ve onları daima "
+"uygulamalısınız. Seviye 3 güncellemelerinin güvenli olması beklenir ve buna "
+"rağmen bunları yüklemenizi ve güncelleme listesini gözden geçirdiğinizden "
+"emin olmanızı öneriyoruz. Eğer bazı seviye 3 güncellemelerinden dolayı bir "
+"problem deneyimi yaşarsanız, bunu Linux Mint geliştirici takımına iletiniz, "
+"böylece onlar da önlem olarak güncelleme seviyesini 4 ya da 5 olarak "
+"tanımlayıp, diğer kullanıcıları bu yüklemeyi yapmadan önce onları uyararak "
+"sorunlu bir paketi yüklemeyi engelleyebilirler."
+
+#. Tag: title
+#, no-c-format
+msgid "The Update Manager preferences"
+msgstr "Güncelleme Yöneticisi tercihleri"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you click on the <guibutton>Preferences</guibutton> button you should see "
+"the screen above. By default the Update Manager tells you about Level 1, 2 "
+"and 3 updates. You can decide to make Level 4 and 5 "
+"<guilabel>visible</guilabel>. This will make more updates appear in the "
+"list. If you want to you can even make Level 4 and 5 updates "
+"<guilabel>safe</guilabel> (although this is not recommended). This will "
+"cause them to be selected by default within the Update Manager."
+msgstr ""
+"Eğer <guibutton>Tercihler</guibutton> seçeneğine tıklarsanız yukarıdaki "
+"ekranı görebilirsiniz. Varsayılan olarak 1, 2 ve 3 seviye güncellemeler "
+"etkin haldedir. Seviye 4 ve 5 olanları da <guilabel>görünür</guilabel> hale "
+"getirmeye karar verebilirsiniz. Bu güncelleme listesinde daha fazla "
+"güncellemeyi görünür yapacaktır. Eğer isterseniz 4 ve 5 seviye olanları bile "
+"<guilabel>güvenli</guilabel> olarak (buna rağmen tavsiye etmiyoruz) "
+"işaretleyebilirsiniz. Bu düzenlemeyi yaptığınız takdirde bunlar Güncelleme "
+"Yöneticisinde varsayılan olarak seçilmiş olacaklardır."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Update Manager only counts 'safe' updates. So when it tells you your "
+"system is up to date, it means there are no updates available assigned with "
+"a level that you defined as being 'safe'."
+msgstr ""
+"Güncelleme Yöneticisi sadece 'güvenli' olarak işaretlenmiş seviyeleri hesaba "
+"katar. Yani, sisteminizin güncel olduğunu belirtildiğinde, bu sadece sizin "
+"'güvenli' olarak işaretlediğiniz seviyelerde güncelleme olmadığı anlamına "
+"gelir."
+
+#. Tag: para
+#, no-c-format
+msgid "The Update Manager only shows 'visible' updates in the list."
+msgstr ""
+"Güncelleme Yöneticisi listesinde sadece 'görünür' olarak işaretlenmiş "
+"seviyedeki güncellemeler gösterilir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"For example, if you made all levels 'visible' and only Level 1 and 2 'safe', "
+"you would see a lot of updates in the list, but the Update Manager would "
+"probably tell you that your system was up to date."
+msgstr ""
+"Örnek olarak, tüm seviyeleri 'görünür' yaptığınızı ve sadece 1 ve 2 "
+"seviyeleri 'güvenli' olarak işaretlediğinizi varsayalım, bu durumda listede "
+"pek çok güncelleme göreceksiniz.  Ama Güncelleştirme Yöneticisi sadece "
+"'güvenli' olarak işaretli olduğundan 1 ve 2 seviye güncellemeleri "
+"yükleyecektir ve muhtemelen sonrasında size sisteminizin güncel olduğunu "
+"bildirecektir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <guilabel>Auto-Refresh</guilabel> tab allows you to define how often the "
+"Update Manager checks for updates."
+msgstr ""
+"<guilabel>Otomatik-Yenile</guilabel> sekmesi Güncelleme Yöneticisinin "
+"güncellemeleri hangi sıklıkla kontrol edeceğini tanımlamanıza imkan verir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <guilabel>Update Method</guilabel> tab lets you define how the Update "
+"Manager checks for new updates."
+msgstr ""
+"<guilabel>Güncelleme Yöntemi</guilabel> sekmesi Güncelleme Yöneticisinin "
+"yeni güncellemeleri nasıl kontrol edeceğini tanımlamanıza imkan verir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <guilabel>Include dist-upgrade packages</guilabel> option allows you to "
+"define whether the Update Manager should install new dependencies or not. "
+"For instance if package A version 1 was installed on your computer and "
+"package A version 2 became available, but version 2 had a new dependency on "
+"package B which isn't installed on your computer... what would happen?"
+msgstr ""
+"<guilabel>Yeni Dağıtım Güncelleme Paketleri</guilabel> seçeneği, Güncelleme "
+"Yöneticisinin yeni bağımlılıkları yükleyip yüklememesini tanımlamanıza izin "
+"verir. Mesela, eğer A paketinin 1. sürümü sizin sisteminizde yüklü olsun ve "
+"A paketinin 2. sürüm güncellemesi hazır olsun, fakat A paketinin 2. sürümü "
+"yeni bir bağımlılık gerektirsin ve bu bağımlılık B Paketi içinde sunuluyor "
+"diyelim. Bu B paketi sizin sisteminide kurulu değilse bu durumda ne olacak?"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you left this checkbox unchecked, version 2 would not appear as an update "
+"in the list of updates."
+msgstr ""
+"Eğer bu kutucuğu işaretlemezseniz, A paketinin sürüm 2  güncellemesi "
+"güncelleme listesinde görünmeyecektir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you checked this checkbox, it would, and if selected it would install "
+"package B as a dependency."
+msgstr ""
+"Eğer bu kutucuğu işaretlerseniz, seçiminize bağlı olarak A paketinin 2. "
+"sürümüyle birlikte B Paketi de bağımlı olarak yüklenecektir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Be careful with this option as dependency can install new packages on your "
+"behalf but they can also sometimes remove packages you already have "
+"installed."
+msgstr ""
+"Bu seçeneği işaretlerken dikkatli olunuz, yeni paketleri bağımlılıklardan "
+"dolayı sizin adınıza yükleyeceği gibi, bazen de halihazırda kurulu olan "
+"paketleri kaldırabilir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In the <guilabel>Ignored packages</guilabel> tab you can define packages for "
+"which you do not want to receive updates. '?' and '*' wildcard characters "
+"are supported."
+msgstr ""
+"<guilabel>Yoksayılan paketler</guilabel> sekmesinde güncelleme almak "
+"istemediğiniz paketleri tanımlayabilirsiniz. “?” ve “*” gibi değişken "
+"karakterlerini desteklemektedir."
+
+#. Tag: para
+#, no-c-format
+msgid "The <guilabel>Proxy</guilabel> tab lets you define proxy settings."
+msgstr ""
+"<guilabel>Proxy</guilabel> sekmesi proxy ile ilgili ayarları tanımlamanıza "
+"imkan verir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The last tab lets you change the icons used by the Update Manager in the "
+"system tray."
+msgstr ""
+"Son sekme ise Güncelleme Yöneticisinin sistem çekmecesinde görünen "
+"simgelerini değiştirmenize izin verir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you get errors with the Update Manager, you can check the logs. Right "
+"click on the lock icon in the system tray and select "
+"<guilabel>Information</guilabel>. The following screen appears:"
+msgstr ""
+"Eğer Güncelleşme Yöneticisi ile ilgili bir hata mesajı alırsanız, günlük "
+"(log) dosyalarını kontrol edebilirsiniz. Sistem çekmecesindeki kalkan "
+"simgesine sağ fare sağ tuşu ile tıklayıp “Bilgi” komutunu seçiniz. Aşağıdaki "
+"ekran görünecektir."
+
+#. Tag: title
+#, no-c-format
+msgid "The Update Manager logs"
+msgstr "Güncelleme Yöneticisi günlük kayıtları"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In this screen you can see the process ID of the Update Manager and the "
+"content of its log file."
+msgstr ""
+"Bu ekranda Güncelleme Yöneticisinin işlem numarasını (ID), ve günlük (log) "
+"dosyasının içeriğini görebilirsiniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You can also review the updates that were applied on your system by clicking "
+"on the <guimenu>View</guimenu> menu and by selecting <guimenuitem>History of "
+"Updates</guimenuitem>."
+msgstr ""
+"<guimenu>Görünüm</guimenu> menüsüne tıklayıp <guimenuitem>Güncelleme "
+"Geçmişini</guimenuitem> açarak sisteminize uygulanmış güncellemeleri "
+"inceleyebilirsiniz."
+
+#. Tag: title
+#, no-c-format
+msgid "The history of updates"
+msgstr "Güncelleme geçmişi"

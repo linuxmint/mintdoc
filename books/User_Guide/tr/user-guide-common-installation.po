@@ -1,0 +1,973 @@
+# Turkish translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-21 18:55+0000\n"
+"Last-Translator: kelebek333 <Unknown>\n"
+"Language-Team: Turkish <tr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Installation of Linux Mint"
+msgstr "Linux Mint Kurulumu"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You can download the Linux Mint operating system for free. It comes as an "
+"ISO file which you need to burn to a blank DVD<footnote><para>It is also "
+"possible to write the ISO image to a USB stick or other memory device and "
+"boot from that, or to boot from the ISO image on the hard drive, but these "
+"options are somewhat more advanced and the method presented here is "
+"recommended. For help with alternative methods of installing and running "
+"Linux Mint, please visit the forums.</para></footnote>. The liveDVD is then "
+"bootable and provides a fully-functional operating system which you can try "
+"without affecting your PC. In layman's terms, when you put Linux Mint on a "
+"DVD and place it into your computer, you can try it out while leaving your "
+"current system intact."
+msgstr ""
+"Linux Mint işletim sistemini ücretsiz indirebilirsiniz. Bu boş bir DVD'ye "
+"yazdırabileceğiniz bir ISO dosyası olarak gelir<footnote><para>Bu ISO imaj "
+"dosyasını bir USB belleğe ya da farklı bellek aygıtlarına da yazdırabilir ve "
+"bunlarla açılış yapabilirsiniz. ISO dosyası ile harddiskten de açılış "
+"yapabilirsiniz, fakat bu seçenek ileri seviyede ayarlar yapmanıza ihtiyaç "
+"duyar ve önceki seçenekler kadar tavsiye edilebilir değildir. Farklı kurulum "
+"ve çalıştırma yöntemleri için forumu ziyaret ederek yardım "
+"alabilirsiniz.</para></footnote>.  Çalışabilir DVD/USB ile açılış "
+"yapabilirsiniz ve  PC'niz hiçbir şekilde etkilemeden tüm fonksiyonları ile "
+"kullanabileceğiniz bir işletim sistemini deneme imkanı bulabilirsiniz. "
+"Basitçe açıklamak gerekirse, Linux Mint'i DVD/USB'ye yükleyip "
+"bilgisayarınızda var olan sistemi bozmadan deneyebilirsiniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you like what you see when running the liveDVD you can decide to install "
+"the system to your hard drive. All the necessary tools (partitioning and "
+"installation tools) are present on the DVD."
+msgstr ""
+"Eğer çalışan DVD/USB ile deneyerek gördüklerinizi beğendiyseniz, sistemi "
+"harddiskinize yüklemeye karar verebilirsiniz. Tüm gerekli araçları (disk "
+"bölümleme ve kurulum araçları)  DVD/USB'de hazır olarak bulacaksınız."
+
+#. Tag: title
+#, no-c-format
+msgid "Download the ISO"
+msgstr "ISO Dosyasını İndirme"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To download Linux Mint, visit the download page at <ulink "
+"url=\"http://www.linuxmint.com/download.php\">http://www.linuxmint.com/downlo"
+"ad.php</ulink> and choose the edition you're interested in."
+msgstr ""
+"Linux Mint'i indirmek için, <ulink "
+"url=\"http://www.linuxmint.com/download.php\">http://www.linuxmint.com/downlo"
+"ad.php</ulink> bağlantısındaki indirme sayfasını ziyaret ediniz ederek "
+"ilginizi çeken sürümü seçebilirsiniz."
+
+#. Tag: para
+#, no-c-format
+msgid "From this page, you should find:"
+msgstr "Bu sayfada bulabilecekleriniz:"
+
+#. Tag: para
+#, no-c-format
+msgid "an MD5 signature"
+msgstr "bir MD5 imzası"
+
+#. Tag: para
+#, no-c-format
+msgid "a torrent link"
+msgstr "bir torrent bağlantısı"
+
+#. Tag: para
+#, no-c-format
+msgid "a list of download mirrors"
+msgstr "indirme yansılarının bir listesi"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The file you need to download is an ISO file. There are two ways to download "
+"this file, by torrent (a Peer to Peer protocol) or via a download mirror "
+"(HTTP or FTP protocol). Once your download is finished, you can ensure your "
+"ISO file isn’t corrupted by checking its signature with the MD5."
+msgstr ""
+"İndirmeye ihtiyacınız olan bir ISO dosyasıdır. Bu dosyayı torrent (bir Peer "
+"to Peer protokolü) veya indirme yansılarını (HTTP ya da FTP protokolü) "
+"kullanarak iki farklı yolla indirebilirsiniz. İndirme işlemi bittiğinde, MD5 "
+"imzası ile kontrol ederek ISO dosyasının bozulmadığının sağlamasını "
+"yapabilirsiniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you don't have a broadband connection, or if your Internet access is too "
+"slow you can order the DVD from <ulink "
+"url=\"http://www.osdisc.com\">http://www.osdisc.com</ulink>."
+msgstr ""
+"Eğer geniş bant bağlantıya sahip değilseniz ya da internet erişiminiz çok "
+"yavaşsa, buradan <ulink "
+"url=\"http://www.osdisc.com\">http://www.osdisc.com</ulink> DVD siparişi "
+"verebilirsiniz."
+
+#. Tag: title
+#, no-c-format
+msgid "Via torrent"
+msgstr "Torrent ile"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Torrent is a Peer to Peer (P2P) protocol. Basically, instead of downloading "
+"from a central location, a torrent lets you download the ISO file in parts "
+"from different people across the Internet."
+msgstr ""
+"Torrent bir Peer to Peer (P2P) protokolüdür. Bir torrent basitçe, merkezi "
+"bir konumdan indirme yerine,  ISO dosyasının internet üzerinde farklı "
+"kullanıcılardan parçalar halinde indirmenize yardımcı olur."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The more people who download the ISO file, the faster the download speed "
+"gets. This is the preferred and recommended way to download Linux Mint."
+msgstr ""
+"Bu yöntemle ISO dosyasını paylaşarak daha fazla kişi indirdiği için, daha "
+"hızlı indirme hızına ulaşabilirsiniz. Bu Linux Mint'i indirmek için tercih "
+"edilen ve önerilen bir yöntemdir."
+
+#. Tag: title
+#, no-c-format
+msgid "Install a Torrent client"
+msgstr "Bir Torrent istemcisi yükleyin"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You need a piece of software called a \"torrent client\" in order to "
+"download files via torrent."
+msgstr ""
+"Torrent ile indirme yapabilmek için, \"torrent istemcisi\" olarak "
+"adlandırılan bir yazılıma ihtiyaç duyacaksınız."
+
+#. Tag: para
+#, no-c-format
+msgid "If you run Linux Mint you already have a torrent client installed."
+msgstr ""
+"Eğer  Linux Mint'i kullanıyorsanız halihazırda önyüklü olarak gelen bir "
+"torrent istemcisine sahipsiniz demektir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you run another Linux distribution, you can install \"Transmission\"."
+msgstr ""
+"Eğer farklı bir Linux dağıtımı kullanıyorsanız, \"Transmission\" "
+"uygulamasını yükleyebilirsiniz."
+
+#. Tag: para
+#, no-c-format
+msgid "If you run Windows you can use µTorrent."
+msgstr "Eğer Windows kullanıyorsanız µTorrent uygulamasını deneyebilirsiniz."
+
+#. Tag: title
+#, no-c-format
+msgid "Download the Torrent file"
+msgstr "Torrent dosyasını indirme"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The next step is to follow the torrent link from the Linux Mint website and "
+"to download the .torrent file. This file is very small. After it downloads, "
+"you should open it with your torrent client."
+msgstr ""
+"Bir sonraki adım, Linux Mint web sitesindeki torrent bağlantısını takip "
+"ederek .torrent uzantılı dosyayı indirmektir. Bu dosya çok küçüktür. "
+"İndirdikten sonra, bunu torrent istemcisi ile açabilirsiniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The torrent client will probably ask you where you want to save the ISO. "
+"Select a destination and then wait for the download to complete."
+msgstr ""
+"Torrent istemcisi ISO dosyasını nereye kaydetmek istediğinizi sorabilir. Bir "
+"hedef belirleyin ve indirme işleminin tamamlanmasını bekleyin."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"For more information about the torrent protocol, visit <ulink "
+"url=\"http://en.wikipedia.org/wiki/BitTorrent\">http://en.wikipedia.org/wiki/"
+"BitTorrent</ulink>."
+msgstr ""
+"Torrent protokolü hakkında daha fazla bilgi için,  <ulink "
+"url=\"http://tr.wikipedia.org/wiki/BitTorrent\">http://tr.wikipedia.org/wiki/"
+"BitTorrent</ulink> adresini ziyaret ediniz."
+
+#. Tag: title
+#, no-c-format
+msgid "Via direct download"
+msgstr "Doğrudan (sunucudan) indirme ile"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you can’t, or do not choose to use the torrent protocol, then look at the "
+"list of download mirrors and pick one of them. They’ll provide a link to the "
+"ISO file itself which you can just click to start the download."
+msgstr ""
+"Eğer torrent protokolünü kullanmak istemiyorsanız, indirme yansıları "
+"listesinde bakabilir bunlardan birini seçebilirsiniz.  Paylaştığımız ISO "
+"dosyası bağlantılarından herhangi birine tıklayarak indirme işlemini "
+"başlatabilirsiniz."
+
+#. Tag: title
+#, no-c-format
+msgid "Read the release notes"
+msgstr "Sürüm notlarını okuyun"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Your download is probably going to last at least an hour, so now would be "
+"the perfect time for you to get familiar with the new features coming with "
+"the release you’re currently downloading."
+msgstr ""
+"İndirme işleminiz ortalama bir internet bağlantısına göre en az 1 saat "
+"süreceğinden, bu süreç indirmekte olduğunuz sürümün yeni özelliklerini "
+"öğrenmek için iyi bir fırsat olacaktır."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The release notes are featured on the Linux Mint web page and answer the "
+"following questions:"
+msgstr ""
+"Linux Mint web sayfasında öne çıkan sürüm notlarını ve aşağıdaki soruların "
+"cevaplarını bulabilirsiniz:"
+
+#. Tag: para
+#, no-c-format
+msgid "What are the new features delivered in this release?"
+msgstr "Bu sürümle gelen yenilikler nelerdir?"
+
+#. Tag: para
+#, no-c-format
+msgid "What are the known problems of this release?"
+msgstr "Bu sürümle ilgili bilinen sorunlar nelerdir?"
+
+#. Tag: para
+#, no-c-format
+msgid "How do I upgrade from the previous release?"
+msgstr "Önceki sürümden nasıl yükseltme yapabilirim?"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"They also contain screenshots of the latest release. Of course, you could "
+"find out about most features highlighted in the release notes by simply "
+"using the operating system, but you might miss a few things, so it is most "
+"reliable to read the release notes."
+msgstr ""
+"Ayrıca bu sayfalar üzerinden son sürüme ait ekran görüntülerine de "
+"ulaşabilirsiniz. Elbette işletim sisteminin kullanımı ve belirgin "
+"özelliklerinin kullanımını kolaylaştıran bilgileri bulabilirsiniz, ama bazı "
+"şeyleri de kaçırabilirsiniz, bu nedenle sürüm notlarını okumanız daha "
+"güvenli olacaktır."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The release notes for Linux Mint 17 Qiana are available at <ulink "
+"url=\"http://www.linuxmint.com/rel_qiana.php\">http://www.linuxmint.com/rel_q"
+"iana.php</ulink>"
+msgstr ""
+"Linux Mint 17 Qiana sürüm notlarına <ulink "
+"url=\"http://www.linuxmint.com/rel_qiana.php\">http://www.linuxmint.com/rel_q"
+"iana.php</ulink> bağlantısından ulaşılabilir."
+
+#. Tag: title
+#, no-c-format
+msgid "Check the MD5"
+msgstr "MD5 kontrolü"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You’ve read the release notes, you just can’t wait to play with the new "
+"features or try Linux Mint, and your download just finished successfully. "
+"You’re ready to burn a DVD and to boot on it… but hey! Wait for a second!"
+msgstr ""
+"Sürüm notlarını okudunuz ve Linux Mint'in indirmiş olduğunuz yeni sürümünü "
+"çalıştırmak ya da denemek için bekleyemiyorsunuz. DVD'ye veya USB belleğe "
+"yazmak ve sisteminizi başlatmak için hazırsınız... Ama dikkat! Biraz daha "
+"bekleyin!"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If that DVD is faulty you will experience weird bugs and will have a lot of "
+"trouble finding help. The two most common reasons for a DVD to be faulty are:"
+msgstr ""
+"Eğer DVD'ye ya da USB belleğe yazmak için indirdiğiniz ISO dosyası hatalar "
+"içeriyorsa, yardım bulmakta zorlanabileceğiniz ilginç hatalar ile "
+"karşılaşabilirsiniz. ISO dosyasını yazdırdığınız bir DVD'nin ya da USB "
+"belleğin hatalı çalışmasının genel iki nedeni şunlar olabilir:"
+
+#. Tag: para
+#, no-c-format
+msgid "An issue with the download causing problems in your ISO file"
+msgstr "ISO dosyası indirilirken bir sorun olmuş olabilir"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"An error during the burn process that alters the contents of your burned "
+"liveDVD"
+msgstr ""
+"Çalışan DVD/USB bellek oluşturma işlemi sırasındaki bir hata içeriği "
+"değiştirmiş olabilir"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The MD5 signature, which is present on the download page, provides a quick "
+"way for you to make sure that your ISO file is exactly like it should be. "
+"So, let’s check the ISO file you just downloaded before we burn it and save "
+"ourselves from a lot of potential problems."
+msgstr ""
+"İndirme sayfasında mevcut bulunan MD5 güvenlik kodunu kullanmak, indirmiş "
+"olduğunuz ISO dosyasının doğrulamasını sağlamak için hızlı bir yöntemdir. Bu "
+"sebeple, olası sorunlarla karşılaşmamak için DVD'ye ya da USB belleğe "
+"yazdırmadan önce ISO dosyanın MD5 güvenlik doğrulamasını muhakkak yapınız."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you run any version of Linux you probably already have the md5sum program "
+"installed. Open a terminal and “cd” to the directory where your ISO file is "
+"(for instance, if “linuxmint.iso” is on the Desktop), open a terminal and "
+"type:"
+msgstr ""
+"Eğer zaten herhangi bir Linux dağıtımı kullanıyorsanız, sisteminizde md5sum "
+"uygulaması hali hazırda yüklüdür. Bir uçbirim penceresi açınız ve “cd” "
+"komutu ile ISO dosyasının bulunduğu konuma geliniz (örnek olarak,  eğer "
+"“linuxmint-i386.iso” isimli dosya masaüstündeyse) ve uçbirime şunları "
+"yazmalısınız:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                <command>cd ~/Desktop</command>\n"
+"                <command>md5sum "
+"<replaceable>myfile.iso</replaceable></command>\n"
+"            "
+msgstr ""
+"\n"
+"                <command>cd ~/Masaüstü</command>\n"
+"                <command>md5sum "
+"<replaceable>linuxmint.iso</replaceable></command>\n"
+"            "
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"This command should output a series of numbers and letters which comprise "
+"the MD5 sum, or signature, of your ISO file. By design, any small change to "
+"the ISO file will cause this signature to be significantly different, "
+"allowing us to verify that the file is exactly as it should be."
+msgstr ""
+"Bu komut ISO dosyasının MD5sum değerlerini karşılaştırabilmek için harfler "
+"ve numaralar serisinden oluşan bir çıktı verir. Tasarımı gereği; ISO "
+"dosyasındaki ufacık bir değişiklik bile bu seri numarasının önemli ölçüde "
+"farklı oluşmasına neden olur, böylece biz bu değerleri karşılaştırarak ISO "
+"dosyasının doğruluk sağlamasını yapabiliriz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Compare that signature with the one on the download page of the Linux Mint "
+"website. If the two signatures are the same, then you know your ISO file is "
+"exactly the same as the original and you can now get ready to burn it on DVD."
+msgstr ""
+"Linux Mint'i indirdiğiniz sitede yayınlanan MD5 güvenlik kodu ile, komutu "
+"çalıştırdığınızda aldığınız çıktıyı karşılaştırmalısınız. Eğer "
+"karşılaştırılan iki imza da birbiriyle tamamen aynı ise, bu durum  ISO "
+"dosyası indirilirken bir sorun oluşmadığı ve orjinal ISO dosyasına sahip "
+"olduğunuz anlamına gelir. Artık ISO dosyasını DVD'ye veya USB belleğe "
+"yazdırmaya hazırsınız demektir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you happen to run Windows, chances are you don’t have md5sum installed. "
+"You can get it from here: <ulink "
+"url=\"http://www.etree.org/md5com.html\">http://www.etree.org/md5com.html</ul"
+"ink>"
+msgstr ""
+"Eğer Windows kullanıyorsanız,  kurulu bir md5sum kontrol uygulamasına sahip "
+"değilsinizdir. Bu uygulamayı paylaşılan bağlantıdan indirebiliniz: <ulink "
+"url=\"http://www.etree.org/md5com.html\">http://www.etree.org/md5com.html</ul"
+"ink>"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Place the ISO file and the md5sum.exe in the same place (let’s say in C:\\) "
+"and run “cmd.exe”. In the command line environment, type the following "
+"commands:"
+msgstr ""
+"İndirdiğiniz md5sum.exe dosyasını (C:\\ dizini, sistemin kurulu olduğu "
+"dizin) ile aynı alana taşıyanız. Komut satırı ortamında, aşağıdaki komutları "
+"yazınız:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                <command>C:</command>\n"
+"                <command>cd \\</command>\n"
+"                <command>md5sum "
+"<replaceable>myfile.iso</replaceable></command>\n"
+"            "
+msgstr ""
+"\n"
+"                <command>C:</command>\n"
+"                <command>cd \\</command>\n"
+"                <command>md5sum "
+"<replaceable>linuxmint.iso</replaceable></command>\n"
+"            "
+
+#. Tag: para
+#, no-c-format
+msgid "Then compare the signature to the one present on the website."
+msgstr "Sonra bu imza ile web sistesinde hazır bulunan imzayı karşılaştırın."
+
+#. Tag: title
+#, no-c-format
+msgid "Burn the ISO to DVD"
+msgstr "ISO dosyasını DVD'ye yazmak"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Now that you have checked the ISO file with MD5, you are ready to burn it to "
+"a DVD."
+msgstr ""
+"Şimdi MD5 kontrolünü yaptığınıza göre, ISO dosyasını DVD'ye yazdırmaya "
+"hazırsınız."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Get a blank DVD-R (a DVD-RW should work as well, but this type of media is "
+"known to have compatibility issues) and your favorite marker and label the "
+"DVD. Although labeling your DVDs sounds trivial, you should be sure to do "
+"so, as you can easily end up with 20 unlabeled and unidentifiable discs on "
+"your desk. :)"
+msgstr ""
+"Boş bir DVD-R alın (bir DVD-RW'de olabilir, ama bu ortam türünün uyumluluk "
+"sorunlarına sebep olduğu biliniyor) ve uygun bir işaretleyici ile DVD'ye "
+"etiketini yazın. DVD'leri etiketlemek önemsiz gibi görünsede, bunu "
+"yaptığınızdan emin olmalısınız. Böylece masaüstünüzde bulunabilecek bir çok "
+"etiketsiz ve tanımsız disk arasında rahatlıkla bulabilirsiniz. :)"
+
+#. Tag: para
+#, no-c-format
+msgid "Insert the blank DVD-R in the drive and get ready to burn the ISO."
+msgstr ""
+"ISO dosyasını yazmaya hazırlanmak için boş DVD-R ortamını sürücüye "
+"yerleştirin."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you’re running Linux with Cinnamon right-click on the ISO file and "
+"select: open with: Brasero, choose “Burn image” and follow the steps given "
+"there."
+msgstr ""
+"Eğer Linux ile Cinnamon ortamını kullanıyorsanız, ISO dosyasına sağ tıklayıp "
+"Birlikte Aç seçeneğinden Brasero ile açınız ve \"Yazdır\" seçeneği ile "
+"açılan adımları takip ediniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you’re running Linux with KDE, launch K3B and in the “Tools” menu choose "
+"“Write ISO Image”."
+msgstr ""
+"Eğer Linux ile KDE ortamını kullanıyorsanız, K3B uygulamasını açıp "
+"\"Araçlar\" menüsünden \"ISO imajı yazdır\" seçeneğini seçiniz."
+
+#. Tag: para
+#, no-c-format
+msgid "If you’re running Windows you can use a program like InfraRecorder."
+msgstr ""
+"Eğer Windows kullanıyorsanız, InfraRecorder benzeri bir uygulamayı "
+"kullanarak benzer adımları takip edebilirsiniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Make sure to burn the ISO image to disk, and not to write the ISO file to "
+"the disk. A very common mistake, especially for people using Nero, is to "
+"actually burn the ISO file on the disk as a data file. The ISO file is an "
+"image of a disk so it needs to be burnt not as a file which will appear on "
+"the disk, but as an ISO image which will be decompressed and whose content "
+"will be burnt onto the disc. After burning the DVD you shouldn't see the ISO "
+"file within the disc, but rather folders like “casper” or “isolinux”. Most "
+"burning software has a special option for this."
+msgstr ""
+"ISO dosyasını DVD'ye kalıp olarak yazdırdığınızdan emin olunuz, bunu dosya "
+"olarak yazdırmamalısınız. Bu özellikle Nero programını kullananlar için "
+"genel olarak rastlanılabilen bir hatadır, ISO dosyası diske bir veri dosyası "
+"olarak yazdırılabilmektedir. ISO dosyası bir disk kalıbıdır, bu yüzden DVD "
+"içinde görünecek tek bir dosya olarak değil, ama bunun yerine bir ISO kalıp "
+"dosyasının içeriği çıkartılacak biçimde ve tüm dosya içeriği diske "
+"yazdırılmalıdır. DVD'yi yazdırdıktan sonra içinde ISO dosyasını görmemeniz "
+"gerekir, bunun yerine “casper” ya da “isolinux” benzeri klasörleri "
+"görmelisiniz. Çoğu yazdırma programı bunun (disk kalıbı yazdırma) için özel "
+"bir seçeneğe sahiptir."
+
+#. Tag: title
+#, no-c-format
+msgid "Boot the LiveDVD"
+msgstr "Çalışan DVD ile açılış"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Place the DVD in the drive and restart the computer. You should now see the "
+"following screen:"
+msgstr ""
+"DVD'yi sürücüye yerleştirin ve sisteminizi yeniden başlatın. Şimdi aşağıdaki "
+"ekranı görmelisiniz:"
+
+#. Tag: title
+#, no-c-format
+msgid "The boot screen"
+msgstr "Açılış (boot) ekranı"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you don’t see this screen and your PC boots as usual it’s probably "
+"because your BIOS is not set to boot on DVD. Restart the computer and press "
+"F1, F2, Delete, or Escape (or whatever key lets you enter the BIOS "
+"configuration) and change your BIOS settings to tell your computer to boot "
+"from its DVD drive."
+msgstr ""
+"Eğer bu başlangıç ekranını görmediyseniz ve bilgisayarınız her zamanki gibi "
+"başladıysa, muhtemelen DVD okuyucu BIOS seçeneklerinden başlangıç için "
+"ayarlanmamıştır. Sisteminizi yeniden başlatıp F1, F8,  Delete ya da Esc "
+"tuşlarına (yani BIOS seçeneklerini değiştirmenizi sağlayacak ayar bölümüne "
+"hangi tuş ile girilebiliyorsa buna) basınız ve BIOS ayarlarını "
+"bilgisayarınızın DVD'den açılmasını sağlayacak sekilde düzenleyiniz."
+
+#. Tag: title
+#, no-c-format
+msgid "Install Linux Mint on your hard drive"
+msgstr "Sabit Diske Linux Mint kurulumu"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"From the first screen choose the default <guilabel>Start Linux "
+"Mint</guilabel> option and press Enter. After a little while the live system "
+"should be ready and you should see the desktop."
+msgstr ""
+"İlk ekranda varsayılan olarak seçili bulunan <guilabel>Start Linux "
+"Mint</guilabel> (Linux Mint'i Başlat) seçeneğinin üzerinde Enter tuşuna "
+"basınız. Kısa bir süre sonra çalışan sistem hazır olacaktır ve siz "
+"masaüstünü göreceksiniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"At this stage Linux Mint is not installed on your computer, it’s simply "
+"running from the DVD. The system you have in front of you is, however, "
+"almost exactly the same as the one you will have on your computer after the "
+"installation is finished."
+msgstr ""
+"Bu aşamada Linux Mint bilgisayarınıza kurulu değildir, sadece DVD'den "
+"çalışmaktadır. Bununla birlikte önünüzdeki sistem, neredeyse kurulum "
+"sonrasında bilgisayarınızda sahip olacağınız sistemin birebir aynısıdır."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Have fun with it and see if you like it. Bear in mind that when running from "
+"the DVD, Linux Mint runs significantly slower than it does when it is "
+"installed on a hard drive, since it has to read data from the DVD drive, "
+"which is a slower medium than the hard drive."
+msgstr ""
+"Bunun keyfini tadını çıkartın, bakalım beğenecek misiniz? Unutmayın ki şu an "
+"sisteminizi DVD üzerinden çalıştırıyorsunuz, bu sebeple Linux Mint'in "
+"harddiskinizde yüklü olmasına göre daha yavaş çalışabilir. DVD ortamı, "
+"verileri okumada sabit diske göre çok daha yavaştır."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"When you are ready, double-click on the <guilabel>Install Linux "
+"Mint</guilabel> icon located on the desktop. The Installer appears:"
+msgstr ""
+"Hazır olduğunuzda, masaüstündeki <guilabel>Install Linux Mint</guilabel> "
+"(Linux Mint'i Kur) simgesine çift tıklayın. Böylece Kurulum sihirbazı "
+"başlayacaktır:"
+
+#. Tag: title
+#, no-c-format
+msgid "The language selection screen"
+msgstr "Dil seçim ekranı"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you haven’t read the release notes yet, and you have an Internet "
+"connection, then this an ideal opportunity to review them; simply click on "
+"the underlined link. It is highly recommended that users read the release "
+"notes prior to installation in order to advise themselves of new features, "
+"as well as any issues that might affect their particular hardware "
+"configuration."
+msgstr ""
+"Eğer henüz sürüm notlarını okumadıysanız ve internet bağlantısına da "
+"sahipseniz, şu an gözatmak için bir ideal zaman olacaktır. Altı çizili "
+"bağlantıya tıklayarak sürüm notlarına erişebilirsiniz. Bu kullanıcılar için "
+"tavsiye edilecek bir husustur, böylece kurulum öncesinde sürüm notlarını "
+"okuyarak yeni özellikler hakkında bilgi sahibi olabilir, donanım "
+"yapılandırmanızı etkileyebilecek sorunlarla ilgili paylaşılan önerileri de "
+"değerlendirebilirsiniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Select your language and press the <guibutton>Continue</guibutton> button."
+msgstr ""
+"Dilinizi seçiniz ve <guibutton>Devam Et</guibutton> düğmesine basınız."
+
+#. Tag: title
+#, no-c-format
+msgid "Checking that everything is fine..."
+msgstr "Herşeyin uygun olduğu kontrol ediliyor..."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In the next screen, make sure you're connected to a power source (if you're "
+"using a laptop), the Internet and that you have the recommended amount of "
+"disk space. Then press the <guibutton>Continue</guibutton> button."
+msgstr ""
+"Sonraki ekranda, bir güç kaynağına bağlı olduğunuz (eğer dizüstü bir sistem "
+"kullanıyorsanız), internet erişiminiz ve tavsiye edilen miktarda disk alanı "
+"olduğundan emin olmak için bir kontrol yapılacaktır. Sonrasında "
+"<guibutton>Devam Et</guibutton> düğmesine basınız."
+
+#. Tag: title
+#, no-c-format
+msgid "Choosing an installation type"
+msgstr "Kurulum türünün seçilmesi"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In the next screen you can assign your entire hard drive to Linux Mint or "
+"install it alongside other operating systems. Alternatively, you can also "
+"define and assign the partitions manually."
+msgstr ""
+"Sonraki ekrandan Linux Mint'i sabit diskinizin tümüne kurabilirsiniz ya da "
+"diğer işletim sistemleri ile birlikte çalışabilecek şekilde kurulum "
+"yapabilirsiniz. Alternatif olarak, kurulum yapacağınız sabit disk "
+"bölümlerini tanımlayabilir ve elle atayabilirsiniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you choose to use the entire disk, its content will be erased and Linux "
+"Mint will be installed as the only operating system on your computer."
+msgstr ""
+"Eğer “Diski sil ve Linux Mint yükle” seçeneğini seçerseniz, bu sabit "
+"diskinizdeki tüm bölümleri ve içeriklerini silecek ve Linux Mint tek işletim "
+"sistemi olacak şekilde kurulum yapılacaktır."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you choose to install it alongside other operating systems, the installer "
+"will use the free space available on other partitions to create a new one "
+"for Linux Mint. You will be asked how much space you want to allocate to it. "
+"The installer will then shrink a partition and take care of everything for "
+"you. Post-installation your computer will have a boot screen from which "
+"you'll be able to boot all your operating systems."
+msgstr ""
+"Eğer diğer işletim sistemlerinin yanına kur seçeneğini seçerseniz, kurulum "
+"sihirbazı diğer işletim sisteminin kullandığı disk alanındaki boşluktan "
+"Linux Mint kurulumu için yeni bir bölüm oluşturacaktır. Kurulum için tahsis "
+"etmek isteyeceğiniz alan boyutunu siz belirleyebilirsiniz. Kurulum sihirbazı "
+"diğer sistemin kurulu olduğu bölümü sizin için küçülterek yeni bölümü "
+"otomatik olarak oluşturacaktır. Kurulum sonrası bilgisayarınızdaki tüm "
+"işletim sistemlerini açabileceğiniz bir açılış ekranına sahip olacaksınız."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you choose to specify partitions manually, a partition editor will "
+"appear, giving you full control over the partitioning of your hard drive. "
+"This is recommended only to advanced users who understand how partitioning "
+"works under Linux. Note that Linux Mint requires a partition of at least 6GB "
+"and that the recommended size for a swap partition is 1.5 times the amount "
+"of RAM available on the computer."
+msgstr ""
+"Eğer belirli bir disk bölümünü (Başka bir şeçeneği ile...) elle seçmeyi "
+"tercih ederseniz, size diskiniz üzerinde disk bölümlemesi yapmak için tam "
+"kontrol imkanı verecek bir disk bölümleme düzenleyicisi görünecektir. Bu "
+"Linux üzerinde disk bölümlemesinin nasıl yapılacağını bilen ileri seviye "
+"kullanıcılara önerilir. Not, Linux Mint'in kurulacağı disk bölümünün boyutu "
+"için en az 8 GB'lık bir alan, takas alanı içinde RAM miktarının 1,5 katı "
+"kadar bir alan ayırmanız önerilir."
+
+#. Tag: title
+#, no-c-format
+msgid "The installation summary screen"
+msgstr "Kurulum özeti ekranı"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Choose the appropriate option and click on the <guibutton>Install "
+"Now</guibutton> button. At this stage, the installation is going on in the "
+"background and the installer asks you setup questions:"
+msgstr ""
+"Sizin için uygun seçeneği seçip, <guibutton>Şimdi Yükle</guibutton> "
+"düğmesine tıklayınız. Bu aşamada, kurulum yapılandırma arka plana gidecek ve "
+"size kurulum ile ilgili sorular sorulacaktır."
+
+#. Tag: title
+#, no-c-format
+msgid "Choosing a timezone"
+msgstr "Saat dilimi seçimi"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Choose your location on the map by clicking on the city which is the nearest "
+"to you. The purpose of this step is to identify your time zone. Make sure "
+"the <guilabel>Current time</guilabel> appears correctly and click the "
+"<guibutton>Continue</guibutton> button."
+msgstr ""
+"Harita üzerindeki size en yakın şehre tıklayarak konumunuzu seçiniz. Bu "
+"adımın amacı saat diliminizi belirlemektir. <guilabel>Geçerli "
+"zaman</guilabel> diliminin doğru göründüğünden emin oldunuz ve sonra "
+"<guibutton>Devam Et</guibutton> düğmesine tıklayınız."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Sometimes the installer doesn't properly handle Summer/Winter time "
+"adjustments, so even by selecting the proper city you might see a difference "
+"of an hour or so with the correct time. Simply ignore this at this stage and "
+"remember to make sure that the time is correct after you reboot in your "
+"newly installed Linux Mint desktop."
+msgstr ""
+"Yükleyici bazen yaz/kış zaman ayarını düzgün olarak işleyemeyebilir, bu "
+"durumda seçilen şehir ve geçerli zaman arasında 1 saatlik bir farklılık "
+"görebilirsiniz. Bu aşamayı basitçe es geçiniz ve sisteminizi yeniden "
+"başlattığınızda ulaşacağınız, yeni kurulmuş olan Linux Mint masaüstünde "
+"bununla ilgili düzeltmeyi yapmayı unutmayınız."
+
+#. Tag: title
+#, no-c-format
+msgid "Choosing a keyboard layout"
+msgstr "Kalvye düzeni seçimi"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Select your keyboard layout. If you are not sure about exactly which layout "
+"matches the keyboard you have, click on the text field at the bottom of the "
+"screen and start typing with your keyboard. Make sure the keys you press "
+"match the characters that appear in the text field in order to ensure you "
+"have selected the right keyboard layout. Some layouts only differ with "
+"respect to accents, numbers and punctuation signs, so make sure to test "
+"these as well."
+msgstr ""
+"Klavye düzenini seçiniz. Seçtiğiniz klavye düzeninin sahip olduğunuz klavye "
+"ile eşleştiğinden emin değilseniz, ekranın altındaki metin alanına "
+"tıklayınız ve klavyenizin tuşlarına basarak bir şeyler yazmaya başlayınız. "
+"Bastığınız tuş karakterlerinin metin alanında doğru göründüğünden ve bu "
+"sınama ile doğru düzeni seçtiğinizden emin olunuz. Bazı klavye düzenlerinde "
+"(şivelerle ilgili) üst karakterler, sayılar ya da noktalama işaretleri "
+"farklı olabilir. Bu sebeple bunları da test etmeyi atlamayınız."
+
+#. Tag: para
+#, no-c-format
+msgid "When you’re ready click the <guibutton>Continue</guibutton> button."
+msgstr ""
+"Hazır olduğunuzda <guibutton>Devam Et</guibutton> düğmesine tıklayınız."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Enter your real name and a username and password. Every time you’ll use "
+"Linux Mint you’ll use your account with this username and password. Once "
+"Linux Mint is installed you’ll be able to define other accounts if other "
+"people are to use this computer."
+msgstr ""
+"Gerçek adınızı, bir kullanıcı adı ve şifrenizi giriniz. Linux Mint'i her "
+"kullanmak istediğinizde, hesabınız ile ilgili bu kullanıcı adı ve şifrenizi "
+"kullanacaksınız. Eğer bu bilgisayarı kullanan başka kişilerde varsa, Linux "
+"Mint kurulumundan sonra onlar için de bir kullanıcı hesabı atayabilirsiniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Also give your computer a name. This name will be used by your computer on "
+"the network or in various places of the system. If you’ve never really "
+"thought about naming your computers, then now is the time. People commonly "
+"pick flower (dahlia, rose, tulip) or planet (mars, jupiter, pluto) names for "
+"the computers on their network. It’s entirely up to you what you want to "
+"use, but make sure to pick a name you like and that you will easily remember."
+msgstr ""
+"Ayrıca bilgisayarınıza bir isim veriniz. Bu isim bilgisayarınız tarafından "
+"ağ üzerinde kullanılacağı gibi, sistemin pek çok yerinde tanımlama amaçlı da "
+"kullanılacaktır. Eğer şimdiye kadar bilgisayarınızı gerçekten isimlendirmedi "
+"iseniz, şimdi tam sırası olacaktır. İnsanlar ağ üzerindeki bilgisayarlarına "
+"genellikle çiçek (papatya, gül, lale) ya da gezegen (mars, jupiter, neptün) "
+"ismi verirler. Nasıl bir isim vereceğiniz tamamen size kalmış, ama "
+"hoşlanacağınız ve kolaylıkla hatırlayabileceğiniz bir isim seçitiğinizden "
+"emin olunuz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Capital letters, spaces and special characters are not permitted in the "
+"username or in the name of the computer."
+msgstr ""
+"Kullanıcı adı ve bilgisayar isminde büyük harf, boşluk ve özel karakterlere "
+"izin verilmez."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you're the only one using the computer and you want to bypass the login "
+"screen, check the option <guilabel>Log in automatically</guilabel>."
+msgstr ""
+"Eğer bilgisayarı sadece bir kişi kullanacaksa ve kullanıcı giriş ekranını "
+"kullanmak istemiyorsanız, <guilabel>Otomatik giriş yap</guilabel> seçeneğini "
+"işaretleyerek pasifleştirebilirsiniz."
+
+#. Tag: para
+#, no-c-format
+msgid "When you’re ready click on the <guibutton>Forward</guibutton> button."
+msgstr ""
+"Hazır olduğunuzda <guibutton>Devam Et</guibutton> düğmesine tıklayınız."
+
+#. Tag: title
+#, no-c-format
+msgid "The user settings screen"
+msgstr "Kullanıcı ayar ekranı"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The installer might detect other operating systems on your computer and ask "
+"you if you want to migrate some personal information. Typically this allows "
+"you to migrate bookmarks, contacts, favorites and other sorts of personal "
+"information from other operating systems installed on your hard disk drive "
+"into the newly installed Linux Mint. When you’re ready click on the "
+"<guibutton>Continue</guibutton> button."
+msgstr ""
+"Kurulum sihirbazı sisteminizde kurulu başka işletim sistemleri olduğunu "
+"algılayabilir ve bazı bireysel bilgileri transfer edip etmeyeceğinizi "
+"sorabilir. Bu işlem genel olarak diğer işletim  sistemindeki yer imleri, "
+"kişi listesi, sık kullanılan listesi ve bazı genel ayarları, harddiskinize "
+"yeni yüklemekte olduğunuz Linux Mint'e transfer etmenize imkan verir. Hazır "
+"olduğunuzda “Devam Et” düğmesine tıklayınız."
+
+#. Tag: title
+#, no-c-format
+msgid "The installation usually takes between 10 and 15 minutes"
+msgstr "Kurulum ortalama 10 - 15 dakika arası bir süre alır"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The installer will download packages from the Internet to support the "
+"language you’ve selected. Your computer needs to be connected to the "
+"Internet for this to work. Otherwise just <guibutton>skip</guibutton> that "
+"step and you’ll be able to add support for your language after the "
+"installation is finished and you’ve rebooted into your new system."
+msgstr ""
+"Kurulum sihirbazı tercih ettiğiniz dil ile ilgili destek paketlerini "
+"internetten indirecektir. Bu işlemin yapılabilmesi için bilgisayarınızın "
+"internete bağlı olmasına ihtiyaç vardır. Bununla birlikte "
+"<guibutton>atla</guibutton> düğmesi ile bu adımı es geçebilir ve kurulum "
+"sonrasında sistemi yeniden başlatdığınızda dil desteğini yükleyebilirsiniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Once the installation is done click the <guibutton>Restart Now</guibutton> "
+"button and the liveDVD or LiveUSB environment will shut down."
+msgstr ""
+"Kurulum tamamlanıp <guibutton>Şimdi Yeniden Başlat</guibutton> düğmesine "
+"tıkladığınızda, Çalışan DVD ya da USB ortamı sona erecektir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"When prompted, remove the DVD from the drive or remove the USB and press "
+"Enter. Your PC is now ready to boot Linux Mint from the hard drive."
+msgstr ""
+"DVD ya da USB aygıtın çıkartılması ile ilgili uyarıyı gördüğünüzde, aygıtı "
+"çıkartın ve Giriş (Enter) tuşuna basın. Bilgisayarınız artık Linux Mint'i "
+"harddiskten başlatmak için hazırdır."
+
+#. Tag: title
+#, no-c-format
+msgid "Reboot the computer"
+msgstr "Bilgisayarı yeniden başlat"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Upon reboot, if you have more than one operating system installed, you "
+"should see a boot menu. Once Linux Mint is finished loading you should see a "
+"new screen inviting you to enter your username and password. This screen is "
+"the “MDM Login Manager” and is commonly called “MDM”. Enter the password you "
+"chose during the installation."
+msgstr ""
+"Sisteminizi yeniden başlattıktan sonra, eğer birden fazla kurulu işletim "
+"sistemine sahipseniz, bir açılış menüsü görebilirsiniz. Linux Mint "
+"yüklenmesi yüklemesi bitince, kullanıcı adınızı ve şifrenizi girmenizi "
+"isteyen bir ekran göreceksiniz. Bu ekrana \"MDM Giriş Yöneticisi\" denir ve "
+"genel olarak kısaca “MDM” olarak adlandırılır. Kurulum sırasında belirlemiş "
+"olduğunuz şifrenizi giriniz."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"By default, your “root” password is the same as the password you chose "
+"during the installation. If you do not know what this means, then don't "
+"worry about it."
+msgstr ""
+"Varsayılan “root” şifreniz kurulum sırasında belirlemiş olduğunuz şifrenizin "
+"aynısıdır. Eğer bunun ne anlama geldiğini bilmiyorsanız, dert etmenize de "
+"gerek yok."

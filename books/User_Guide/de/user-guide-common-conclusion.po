@@ -1,0 +1,51 @@
+# German translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-06 15:16+0000\n"
+"Last-Translator: Tobias Bannert <Unknown>\n"
+"Language-Team: German <de@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Conclusion"
+msgstr "Fazit"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"There's a lot more to learn about Linux Mint and about Linux in general. "
+"This guide was just an overview of some of the aspects related to your "
+"desktop. By now you should feel more comfortable with using it and you "
+"should have a better understanding of some of its components. Where are you "
+"going to go next? Will you learn how to use the terminal? Will you give "
+"other desktops a try? It's entirely up to you. Remember, Linux is about fun "
+"and the community is there to help. Take your time and learn a little bit "
+"every day. There's always something new no matter how much you know already."
+msgstr ""
+"Über Linux Minut und Linux im allgemeinen gibt es noch viel zu lernen. "
+"Dieser Leitfaden war nur ein Überblick, über einige Aspekte der "
+"Arbeitsumgebung. Jetzt sollten Sie ein besseres Gefühl beim Gebrauch haben, "
+"und einige Komponente besser verstehen. Was wollen Sie als nächstes machen? "
+"Wollen Sie lernen, wie man das Terminals benutzt? Werden Sie anderen "
+"Arbeitsumgebungen ausprobieren? Es liegt alleine bei Ihnen. Nicht vergessen, "
+"Linux ist da, um Spaß zu haben und die Gemeinschaft ist da, um zu helfen. "
+"Nehmen Sie sich Zeit und lernen Sie täglich ein Bisschen mehr. Es gibt immer "
+"etwas Neues zu lernen, auch für erfahrene Benutzer."
+
+#. Tag: para
+#, no-c-format
+msgid "Enjoy Linux and thank you for choosing Linux Mint."
+msgstr ""
+"Genießen Sie Linux und danke, dass Sie sich für Linux Mint entschieden haben."

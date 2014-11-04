@@ -1,0 +1,171 @@
+# Romanian translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-01 10:27+0000\n"
+"Last-Translator: Flaviu <flaviu@gmx.com>\n"
+"Language-Team: Romanian <ro@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction to the Desktop"
+msgstr "Introducere în mediul desktop"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <wordasword>desktop</wordasword> is the component of the operating "
+"system which is responsible for the elements that appear on the desktop: The "
+"<wordasword>Panel</wordasword>, the <wordasword>Wallpaper</wordasword>, the "
+"<wordasword>Control Center</wordasword>, the menus... etc."
+msgstr ""
+"<wordasword>Desktop</wordasword>-ul este componenta sistemului de operare "
+"care este responsabil pentru elementele care apar pe desktop: "
+"<wordasword>Panou</wordasword>, <wordasword>Wallpaper</ wordasword>, "
+"<wordasword>Centrul de Control </ wordasword>, meniuri etc ..."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Cinnamon Edition of Linux Mint uses the Cinnamon desktop which is both "
+"intuitive and powerful."
+msgstr ""
+"Ediția Cinnamon (\"Scorțișoară\") de Linux Mint utilizează desktop-ul "
+"Cinnamon care este atât intuitiv cât și puternic."
+
+#. Tag: title
+#, no-c-format
+msgid "The Menu"
+msgstr "Meniul"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Cinnamon, almost everything is accessible from the 'Menu'. To open it, "
+"click on <guimenu>Menu</guimenu> at the bottom-left of your screen, or press "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
+"is the left Windows key on your keyboard)."
+msgstr ""
+"În Cinnamon aproape totul este accesibil din \"Meniu\". Pentru a-l deschide "
+"fă clic pe <guimenu>Meniu</guimenu> în partea jos-stânga a ecranului sau "
+"apăsă <keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> "
+"(Super_L este tasta Windows stânga de pe tastatură)."
+
+#. Tag: title
+#, no-c-format
+msgid "The Cinnamon Menu"
+msgstr "Meniul Cinnamon"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The menu is used to launch applications, to access the system settings, and "
+"to reach common places and open recent files."
+msgstr ""
+"Meniul este folosit pentru a lansa aplicații, pentru a accesa setările de "
+"sistem și pentru a ajunge în locuri obișnuite și fișiere recent deschise."
+
+#. Tag: title
+#, no-c-format
+msgid "Places"
+msgstr "Locații"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Linux Mint, all your personal data is stored in your "
+"<wordasword>Home</wordasword> directory."
+msgstr ""
+"În Linux Mint toate datele dumneavoastră cu caracter personal sunt stocate "
+"în directorul tău <wordasword>Acasă</wordasword>.."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"As well as your files, this directory also contains pre-defined sub-"
+"directories such as <wordasword>Documents</wordasword>, "
+"<wordasword>Music</wordasword>, <wordasword>Videos</wordasword>...etc which "
+"you can use to better organize your files."
+msgstr ""
+"Precum și fișiere tale acest director conține de asemenea  sub-directoare "
+"pre-definite cum ar fi <wordasword>Documente</wordasword>, "
+"<wordasword>Muzică</wordasword>, <wordasword>Video</wordasword> ... etc, "
+"care  se pot folosi  pentru a organiza mai bine fișierele."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Other important places are your <wordasword>Desktop</wordasword> folder "
+"(which containsn the files visible on your desktop), the filesystem (which "
+"contains all system files and directories), removable devices connected to "
+"the computer, the network and bookmarks (you can bookmark any directory to "
+"gain quick-access to it)."
+msgstr ""
+"Alte locuri importante sunt dosarul tău <wordasword>Desktop</ wordasword> "
+"(care conține fisierele vizibile de pe desktop), sistemul de fișiere (care "
+"conține toate fișierele de sistem și directoare), dispozitive mobile "
+"conectate la computer, rețea și semne de carte (poți marca orice director "
+"pentru a avea acces rapid la el)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To quickly access one of these places, perform one of the following actions:"
+msgstr ""
+"Pentru a accesa rapid unul dintre aceste locuri efectuează una dintre "
+"următoarele acțiuni:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Click on <guimenu>Menu</guimenu> and select <guisubmenu>Places</guisubmenu>"
+msgstr ""
+"Fă clic pe <guimenu>Meniu</guimenu> și selectează "
+"<guisubmenu>Locuri</guisubmenu>"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Launch <wordasword>Nemo</wordasword>, the Cinnamon file manager, by clicking "
+"on <guimenu>Menu</guimenu> and selecting <guimenuitem>Files</guimenuitem>. "
+"Then, within Nemo, you can access common places by clicking on them in the "
+"sidebar, on the left of the window."
+msgstr ""
+"Lansarea lui <wordasword>Nemo</wordasword>, managerul de fișiere Cinnamon, "
+"făcând clic pe <guimenu>Meniu</guimenu> și selectând "
+"<guimenuitem>Fișiere</guimenuitem>. Apoi în cadrul Nemo poți accesa locuri "
+"obișnuite făcând clic pe ele în bara laterală, pe partea stângă a ferestrei."
+
+#. Tag: title
+#, no-c-format
+msgid ""
+"Nemo, the file manager, listing the content of the Home directory and "
+"providing quick-access to common places from the left sidebar."
+msgstr ""
+"Nemo, managerul de fișiere, afișează conținutul directorului Acasă și oferă "
+"acces rapid la locațiile obișnuite din bara laterală stânga."
+
+#. Tag: title
+#, no-c-format
+msgid "System Settings"
+msgstr "Configurări de sistem"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To launch the system settings, click on <guimenu>Menu</guimenu> and select "
+"<guimenuitem>System Settings</guimenuitem>."
+msgstr ""
+"Pentru a lansa configurări de sistem, fă clic pe <guimenu>Meniu</guimenu> și "
+"selecteazăi <guimenuitem>Configurări de sistem</guimenuitem>."

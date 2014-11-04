@@ -1,0 +1,44 @@
+# Catalan translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-12 20:01+0000\n"
+"Last-Translator: Isidro Pisa <isidro@utils.info>\n"
+"Language-Team: Catalan <ca@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "User Guide"
+msgstr "Guia de l'usuari"
+
+#. Tag: subtitle
+#, no-c-format
+msgid "&EDITION; Edition"
+msgstr "Edició &EDITION;"
+
+#. Tag: productname
+#, no-c-format
+msgid "&PRODUCT;"
+msgstr "&PRODUCT;"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"An introduction to Linux Mint. The object of this guide is to get you "
+"started and make it easy for you to use Linux Mint and to feel comfortable "
+"with it."
+msgstr ""
+"Una introducció a Linux Mint. L'objecte d'aquesta guia és ajudar-lo a "
+"començar i fer que li sigui fàcil utilitzar Linux Mint i se senti còmode amb "
+"ell."

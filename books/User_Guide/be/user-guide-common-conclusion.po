@@ -1,0 +1,50 @@
+# Belarusian translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-25 18:41+0000\n"
+"Last-Translator: segray <segray@tut.by>\n"
+"Language-Team: Belarusian <be@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Conclusion"
+msgstr "Выснова"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"There's a lot more to learn about Linux Mint and about Linux in general. "
+"This guide was just an overview of some of the aspects related to your "
+"desktop. By now you should feel more comfortable with using it and you "
+"should have a better understanding of some of its components. Where are you "
+"going to go next? Will you learn how to use the terminal? Will you give "
+"other desktops a try? It's entirely up to you. Remember, Linux is about fun "
+"and the community is there to help. Take your time and learn a little bit "
+"every day. There's always something new no matter how much you know already."
+msgstr ""
+"Ёсць шмат цiкавага ў Linux Mint i ў Linux навогул. Гэтае кіраўніцтва "
+"з'яўляецца аглядам толькi некаторых аспектаў, звязаных з вашым працоўным "
+"асяродзем. Зараз вы будзеце адчуваць сябе больш камфортна, выкарыстоўваючы "
+"яго, i вы лепш зразумееце некаторыя яго кампаненты. Куды вы  пойдзеце далей? "
+"Цi вы даведаецеся, як выкарыстоўваць тэрмiнал, цi паспрабуеце iншыя "
+"працоўныя асяроззi? Гэта цалкам залежыць ад вас. Памятайце толькi, што Linux "
+"- гэта цікава, і Linux-супольнасць заўсёды дапаможа вам. Вылучайце крыху "
+"часу кожны дзень, каб даведацца аб чымсцi новым. Там заўседы ёсць нешта "
+"новае, незалежна ад таго, колькі вы ўжо ведаеце."
+
+#. Tag: para
+#, no-c-format
+msgid "Enjoy Linux and thank you for choosing Linux Mint."
+msgstr "Атрымлівайце асалоду ад Linux і дзякуем Вас за выбар Linux Mint."

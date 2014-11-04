@@ -1,0 +1,49 @@
+# Spanish translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-20 12:14+0000\n"
+"Last-Translator: Isidro Pisa <isidro@utils.info>\n"
+"Language-Team: Spanish <es@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Conclusion"
+msgstr "Conclusión"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"There's a lot more to learn about Linux Mint and about Linux in general. "
+"This guide was just an overview of some of the aspects related to your "
+"desktop. By now you should feel more comfortable with using it and you "
+"should have a better understanding of some of its components. Where are you "
+"going to go next? Will you learn how to use the terminal? Will you give "
+"other desktops a try? It's entirely up to you. Remember, Linux is about fun "
+"and the community is there to help. Take your time and learn a little bit "
+"every day. There's always something new no matter how much you know already."
+msgstr ""
+"Hay mucho más que aprender sobre Linux Mint y sobre Linux en general. Esta "
+"guía ha sido sólo una visión general de algunos aspectos del escritorio. A "
+"estas alturas usted ya debe sentirse más cómodo con su uso y debe tener una "
+"mejor comprensión de algunos componentes del escritorio. ¿A dónde puede "
+"dirigirse ahora? ¿Quiere aprender a utilizar el terminal? ¿Tal vez probar "
+"otros escritorios? La elección es sólo suya. Recuerde que Linux es divertido "
+"y la comunidad está ahí para ayudarle. Tómese su tiempo y aprenda un poco "
+"cada día. Siempre hay algo nuevo, no importa cuánto se sepa."
+
+#. Tag: para
+#, no-c-format
+msgid "Enjoy Linux and thank you for choosing Linux Mint."
+msgstr "Disfrute de Linux y gracias por elegir Linux Mint."

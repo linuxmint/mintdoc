@@ -1,0 +1,171 @@
+# Croatian translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-01 13:19+0000\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"Language-Team: Croatian <hr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction to the Desktop"
+msgstr "Uvod u Radnu površinu"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <wordasword>desktop</wordasword> is the component of the operating "
+"system which is responsible for the elements that appear on the desktop: The "
+"<wordasword>Panel</wordasword>, the <wordasword>Wallpaper</wordasword>, the "
+"<wordasword>Control Center</wordasword>, the menus... etc."
+msgstr ""
+"<wordasword>Radna površina</wordasword> je komponenta operativnog sustava "
+"koja je odgovorna za elemente koji se pojavljuju na radnoj površini: "
+"<wordasword>Panel</wordasword>, <wordasword>Slika pozadine</wordasword>, "
+"<wordasword>Upravljačko središte</wordasword>, izbornici... itd."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Cinnamon Edition of Linux Mint uses the Cinnamon desktop which is both "
+"intuitive and powerful."
+msgstr ""
+"Cinnamon izdanje Linux Minta koristi Cinnamon radnu površinu koja je "
+"intuitivna i vrlo moćna."
+
+#. Tag: title
+#, no-c-format
+msgid "The Menu"
+msgstr "Izbornik"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Cinnamon, almost everything is accessible from the 'Menu'. To open it, "
+"click on <guimenu>Menu</guimenu> at the bottom-left of your screen, or press "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
+"is the left Windows key on your keyboard)."
+msgstr ""
+"U Cinnamonu, skoro sve je dostupno iz Izbornika. Za otvaranje, kliknite na "
+"<guimenu>Izbornik</guimenu> dolje lijevo na vašem zaslonu, ili pritisnite "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
+"je lijeva Windows tipka na vašoj tipkovnici)."
+
+#. Tag: title
+#, no-c-format
+msgid "The Cinnamon Menu"
+msgstr "Cinnamon izbornik"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The menu is used to launch applications, to access the system settings, and "
+"to reach common places and open recent files."
+msgstr ""
+"Izbornik se koristi za pokretanje aplikacija, za pristup postavkama sustava, "
+"za pristup uobičajenim lokacijama i otvaranje nedavnih datoteka."
+
+#. Tag: title
+#, no-c-format
+msgid "Places"
+msgstr "Lokacije"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Linux Mint, all your personal data is stored in your "
+"<wordasword>Home</wordasword> directory."
+msgstr ""
+"U Linux Mintu, svi vaši osobni podaci su spremljeni u vašoj "
+"<wordasword>Osobnoj mapi</wordasword>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"As well as your files, this directory also contains pre-defined sub-"
+"directories such as <wordasword>Documents</wordasword>, "
+"<wordasword>Music</wordasword>, <wordasword>Videos</wordasword>...etc which "
+"you can use to better organize your files."
+msgstr ""
+"Osim vaših datoteka, Osobna mapa isto tako sadrži unaprijed zadane mape "
+"poput <wordasword>Dokumenti</wordasword>, <wordasword>Glazba</wordasword>, "
+"<wordasword>Slike</wordasword>, <wordasword>Snimke</wordasword>, "
+"<wordasword>Preuzimanja</wordasword>... itd. koje možete koristiti za bolju "
+"organizaciju vaših datoteka."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Other important places are your <wordasword>Desktop</wordasword> folder "
+"(which containsn the files visible on your desktop), the filesystem (which "
+"contains all system files and directories), removable devices connected to "
+"the computer, the network and bookmarks (you can bookmark any directory to "
+"gain quick-access to it)."
+msgstr ""
+"Ostale značajne lokacije su mapa vaše <wordasword>Radne "
+"površine</wordasword> (koja sadrži datoteke vidljive na vašoj radnoj "
+"površini), Datotečni sustav (koji sadrži sve direktorije i datoteke "
+"sustava), prijenosni uređaji spojeni na vaše računalo, mreža i zabilješke "
+"(možete zabilježiti bilo koji direktorij za brži pristup)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To quickly access one of these places, perform one of the following actions:"
+msgstr ""
+"Za brži pristup nekoj od ovih lokacija, izvedite jednu od ovih radnji:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Click on <guimenu>Menu</guimenu> and select <guisubmenu>Places</guisubmenu>"
+msgstr ""
+"Kliknite na <guimenu>Izbornik</guimenu> i odaberite "
+"<guisubmenu>Lokacije</guisubmenu>"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Launch <wordasword>Nemo</wordasword>, the Cinnamon file manager, by clicking "
+"on <guimenu>Menu</guimenu> and selecting <guimenuitem>Files</guimenuitem>. "
+"Then, within Nemo, you can access common places by clicking on them in the "
+"sidebar, on the left of the window."
+msgstr ""
+"Pokrenite <wordasword>Nemo</wordasword>, Cinnamonovog upravitelja "
+"datotekama, klikom na <guimenu>Izbornik</guimenu> i odaberite "
+"<guimenuitem>Nemo</guimenuitem>. Zatim s Nemom možete pristupiti uobičajenim "
+"lokacijama klikom na njih u bočnoj traci, na lijevoj strani prozora."
+
+#. Tag: title
+#, no-c-format
+msgid ""
+"Nemo, the file manager, listing the content of the Home directory and "
+"providing quick-access to common places from the left sidebar."
+msgstr ""
+"Nemo, upravitelj datotekama, prikazuje sadržaj Osobne mape i pruža brz "
+"pristup uobičajenim lokacijama s lijeve bočne trake."
+
+#. Tag: title
+#, no-c-format
+msgid "System Settings"
+msgstr "Postavke sustava"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To launch the system settings, click on <guimenu>Menu</guimenu> and select "
+"<guimenuitem>System Settings</guimenuitem>."
+msgstr ""
+"Za pokretanje postavka sustava, kliknite na <guimenu>Izbornik</guimenu> i "
+"odaberite <guimenuitem>Postavke sustava</guimenuitem>."

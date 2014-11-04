@@ -1,0 +1,171 @@
+# Danish translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-03 18:55+0000\n"
+"Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
+"Language-Team: Danish <da@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction to the Desktop"
+msgstr "Introduktion til skrivebordet"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <wordasword>desktop</wordasword> is the component of the operating "
+"system which is responsible for the elements that appear on the desktop: The "
+"<wordasword>Panel</wordasword>, the <wordasword>Wallpaper</wordasword>, the "
+"<wordasword>Control Center</wordasword>, the menus... etc."
+msgstr ""
+"<wordasword>Skrivebordet</wordasword> er den del af styresystemet, der er "
+"ansvarlig for elementerne, som optræder på skrivebordet: "
+"<wordasword>panelet</wordasword>, <wordasword>baggrunden</wordasword>, "
+"<wordasword>systemindstillinger</wordasword>, menuerne osv."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Cinnamon Edition of Linux Mint uses the Cinnamon desktop which is both "
+"intuitive and powerful."
+msgstr ""
+"Cinnamon-udgaven af Linux Mint anvender Cinnamon-skrivebordet, som er både "
+"intuitivt og effektivt."
+
+#. Tag: title
+#, no-c-format
+msgid "The Menu"
+msgstr "Menuen"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Cinnamon, almost everything is accessible from the 'Menu'. To open it, "
+"click on <guimenu>Menu</guimenu> at the bottom-left of your screen, or press "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
+"is the left Windows key on your keyboard)."
+msgstr ""
+"I Cinnamon er stort set alt tilgængeligt fra menuen. Klik på "
+"<guimenu>Menu</guimenu> nederst i venstre hjørne af skærmen eller tryk "
+"<keycap>Super_L</keycap> (Super_L er den venstre Windows-tast på dit "
+"tastatur) for at åbne menuen."
+
+#. Tag: title
+#, no-c-format
+msgid "The Cinnamon Menu"
+msgstr "Cinnamon-menuen"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The menu is used to launch applications, to access the system settings, and "
+"to reach common places and open recent files."
+msgstr ""
+"Menuen bruges til at starte programmer, få adgang til systemindstillinger, "
+"samt åbne steder og seneste filer."
+
+#. Tag: title
+#, no-c-format
+msgid "Places"
+msgstr "Steder"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Linux Mint, all your personal data is stored in your "
+"<wordasword>Home</wordasword> directory."
+msgstr ""
+"I Linux Mint opbevares alle dine personlige data i din "
+"<wordasword>Hjem</wordasword>-mappe."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"As well as your files, this directory also contains pre-defined sub-"
+"directories such as <wordasword>Documents</wordasword>, "
+"<wordasword>Music</wordasword>, <wordasword>Videos</wordasword>...etc which "
+"you can use to better organize your files."
+msgstr ""
+"Udover dine filer indeholder denne mappe også prædefinerede mapper så som "
+"<wordasword>Dokumenter</wordasword>, <wordasword>Musik</wordasword>, "
+"<wordasword>Videoklip</wordasword> osv., som du kan anvende til at "
+"organisere dine filer i."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Other important places are your <wordasword>Desktop</wordasword> folder "
+"(which containsn the files visible on your desktop), the filesystem (which "
+"contains all system files and directories), removable devices connected to "
+"the computer, the network and bookmarks (you can bookmark any directory to "
+"gain quick-access to it)."
+msgstr ""
+"Andre vigtige steder er din <wordasword>Skrivebordsmappe</wordasword> (som "
+"indeholder filerne, der ses på dit skrivebord), filsystemet (som indeholder "
+"alle systemfiler og mapper), flytbare enheder forbundet til computeren, "
+"netværket og bogmærker (du kan tilføje et bogmærke til enhver mappe for at "
+"få hurtig adgang til den)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To quickly access one of these places, perform one of the following actions:"
+msgstr ""
+"Udfør en af følgende handlinger for at få hurtig adgang til et af disse "
+"steder:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Click on <guimenu>Menu</guimenu> and select <guisubmenu>Places</guisubmenu>"
+msgstr ""
+"Klik på <guimenu>Menu</guimenu> og vælg <guisubmenu>Steder</guisubmenu>"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Launch <wordasword>Nemo</wordasword>, the Cinnamon file manager, by clicking "
+"on <guimenu>Menu</guimenu> and selecting <guimenuitem>Files</guimenuitem>. "
+"Then, within Nemo, you can access common places by clicking on them in the "
+"sidebar, on the left of the window."
+msgstr ""
+"Start <wordasword>Nemo</wordasword>, Cinnamons program til filhåndtering, "
+"ved at klikke på <guimenu>Menu</guimenu> og vælge "
+"<guimenuitem>Filer</guimenuitem>. I Nemo kan du få adgang til steder ved at "
+"klikke på dem i sidepanelet i vinduets venstre side."
+
+#. Tag: title
+#, no-c-format
+msgid ""
+"Nemo, the file manager, listing the content of the Home directory and "
+"providing quick-access to common places from the left sidebar."
+msgstr ""
+"Nemo, programmet til filhåndtering, viser indholdet af Hjem-mappen og giver "
+"hurtig adgang til steder i det venstre sidepanel."
+
+#. Tag: title
+#, no-c-format
+msgid "System Settings"
+msgstr "Systemindstillinger"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To launch the system settings, click on <guimenu>Menu</guimenu> and select "
+"<guimenuitem>System Settings</guimenuitem>."
+msgstr ""
+"Klik på <guimenu>Menu</guimenu> og vælg "
+"<guimenuitem>Systemindstillinger</guimenuitem> for at få adgang til "
+"systemindstillingerne."

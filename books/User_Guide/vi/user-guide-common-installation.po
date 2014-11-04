@@ -1,0 +1,916 @@
+# Vietnamese translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-02 11:49+0000\n"
+"Last-Translator: Saki <a4e484b@hotmail.com>\n"
+"Language-Team: Vietnamese <vi@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Installation of Linux Mint"
+msgstr "Cài đặt Linux Mint"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You can download the Linux Mint operating system for free. It comes as an "
+"ISO file which you need to burn to a blank DVD<footnote><para>It is also "
+"possible to write the ISO image to a USB stick or other memory device and "
+"boot from that, or to boot from the ISO image on the hard drive, but these "
+"options are somewhat more advanced and the method presented here is "
+"recommended. For help with alternative methods of installing and running "
+"Linux Mint, please visit the forums.</para></footnote>. The liveDVD is then "
+"bootable and provides a fully-functional operating system which you can try "
+"without affecting your PC. In layman's terms, when you put Linux Mint on a "
+"DVD and place it into your computer, you can try it out while leaving your "
+"current system intact."
+msgstr ""
+"Bạn có thể tải xuống hệ điều hành Linux Mint miễn phí. Nó là một tập tin ISO "
+"mà bạn cần phải ghi ra một đĩa DVD trắng.<footnote><para>Cũng có thể ghi ảnh "
+"ISO này ra ổ đĩa USB hoặc thiết bị nhớ khác và khởi động từ đó, hoặc khởi "
+"động từ ảnh ISO trên đĩa cứng, nhưng các lựa chọn này tương đối cao cấp cho "
+"nên phương pháp trình bày ở đây được khuyên dùng. Để được trợ giúp về các "
+"cách cài đặt và sử dụng Linux Mint thay thế, vui lòng ghé qua diễn "
+"đàn.</para></footnote> Đĩa DVD trực tiếp này sau đó có thể dùng khởi động và "
+"cung cấp hệ điều hành hoàn chỉnh để bạn dùng thử mà không ảnh hưởng đến máy "
+"của bạn. Nói dễ hiểu là bạn cho Linux Mint vào DVD và cho vào máy rồi bạn có "
+"thể dùng thử mà không ảnh hưởng gì đến hệ thống hiện tại."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you like what you see when running the liveDVD you can decide to install "
+"the system to your hard drive. All the necessary tools (partitioning and "
+"installation tools) are present on the DVD."
+msgstr ""
+"Nếu thấy thích khi sử dụng đĩa DVD trực tiếp, bạn có thể quyết định cài đặt "
+"hệ thống vào ổ cứng của bạn. Tất cả các công cụ cần thiết (phân vùng và cài "
+"đặt) đều có trên DVD."
+
+#. Tag: title
+#, no-c-format
+msgid "Download the ISO"
+msgstr "Tải xuống ISO"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To download Linux Mint, visit the download page at <ulink "
+"url=\"http://www.linuxmint.com/download.php\">http://www.linuxmint.com/downlo"
+"ad.php</ulink> and choose the edition you're interested in."
+msgstr ""
+"Để tải xuống Linux Mint, hãy đến trang tải xuống tại <ulink "
+"url=\"http://www.linuxmint.com/download.php\">http://www.linuxmint.com/downlo"
+"ad.php</ulink>  và chọn bản muốn tải."
+
+#. Tag: para
+#, no-c-format
+msgid "From this page, you should find:"
+msgstr "Từ trang này, bạn sẽ thấy:"
+
+#. Tag: para
+#, no-c-format
+msgid "an MD5 signature"
+msgstr "chữ ký MD5"
+
+#. Tag: para
+#, no-c-format
+msgid "a torrent link"
+msgstr "liên kết torrent"
+
+#. Tag: para
+#, no-c-format
+msgid "a list of download mirrors"
+msgstr "danh sách các nơi tải nhân bản"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The file you need to download is an ISO file. There are two ways to download "
+"this file, by torrent (a Peer to Peer protocol) or via a download mirror "
+"(HTTP or FTP protocol). Once your download is finished, you can ensure your "
+"ISO file isn’t corrupted by checking its signature with the MD5."
+msgstr ""
+"Bạn cần tải xuống tập tin ISO. Có 2 cách để tải, hoặc bằng torrent (giao "
+"thức Peer-to-Peer) hoặc từ nơi tải nhân bản (giao thức HTTP hay FTP). Sau "
+"khi tải xong, bạn có thể chắc rằng tập tin ISO không hỏng bằng cách kiểm tra "
+"chữ ký của nó với tập tin MD5."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you don't have a broadband connection, or if your Internet access is too "
+"slow you can order the DVD from <ulink "
+"url=\"http://www.osdisc.com\">http://www.osdisc.com</ulink>."
+msgstr ""
+"Nếu không có kết nối băng thông rộng, hoặc truy cập Internet của bạn quá "
+"chậm, bạn có thể đặt mua đĩa DVD từ <ulink "
+"url=\"http://www.osdisc.com\">http://www.osdisc.com</ulink>."
+
+#. Tag: title
+#, no-c-format
+msgid "Via torrent"
+msgstr "Qua torrent"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Torrent is a Peer to Peer (P2P) protocol. Basically, instead of downloading "
+"from a central location, a torrent lets you download the ISO file in parts "
+"from different people across the Internet."
+msgstr ""
+"Torrent là một giao thức ngang hàng (P2P). Về cơ bản, thay vì tải xuống từ "
+"một vị trí tập trung, torrent cho phép bạn tải tập tin ISO theo nhiều phần "
+"từ nhiều người khác nhau trên khắp Internet."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The more people who download the ISO file, the faster the download speed "
+"gets. This is the preferred and recommended way to download Linux Mint."
+msgstr ""
+"Càng có nhiều người tải xuống tập tin ISO thì tốc độ tải xuống càng nhanh "
+"hơn. Đây là phương pháp ưa chuộng và khuyên dùng để tải xuống Linux Mint."
+
+#. Tag: title
+#, no-c-format
+msgid "Install a Torrent client"
+msgstr "Cài đặt trình khách Torrent"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You need a piece of software called a \"torrent client\" in order to "
+"download files via torrent."
+msgstr ""
+"Bạn cần một phần mềm gọi là \"trình khách torrent\" để tải tập tin qua "
+"torrent."
+
+#. Tag: para
+#, no-c-format
+msgid "If you run Linux Mint you already have a torrent client installed."
+msgstr "Nếu dùng Linux Mint bạn đã có sẵn trình khách torrent rồi."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you run another Linux distribution, you can install \"Transmission\"."
+msgstr ""
+"Nếu dùng một bản phân phối Linux khác, bạn có thể cài đặt \"Tranmission\"."
+
+#. Tag: para
+#, no-c-format
+msgid "If you run Windows you can use µTorrent."
+msgstr "Nếu dùng Windows, bạn có thể dùng µTorrent."
+
+#. Tag: title
+#, no-c-format
+msgid "Download the Torrent file"
+msgstr "Tải xuống tập tin Torrent"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The next step is to follow the torrent link from the Linux Mint website and "
+"to download the .torrent file. This file is very small. After it downloads, "
+"you should open it with your torrent client."
+msgstr ""
+"Bước kế tiếp là đi theo liên kết torrent trên trang chủ Linux Mint để tải "
+"xuống tập tin .torrent. Tập tin này rất nhỏ. Sau đó, bạn hãy mở nó bằng "
+"trình khách torrent của bạn."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The torrent client will probably ask you where you want to save the ISO. "
+"Select a destination and then wait for the download to complete."
+msgstr ""
+"Trình khách torrent có lẽ sẽ hỏi bạn nơi muốn lưu lại tập tin ISO. Hãy chọn "
+"một vị trí đích vài đợi quá trình tải xuống hoàn tất."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"For more information about the torrent protocol, visit <ulink "
+"url=\"http://en.wikipedia.org/wiki/BitTorrent\">http://en.wikipedia.org/wiki/"
+"BitTorrent</ulink>."
+msgstr ""
+"Để biết thêm thông tin về giao thức torrent, ghé đến trang <ulink "
+"url=\"http://en.wikipedia.org/wiki/BitTorrent\">http://en.wikipedia.org/wiki/"
+"BitTorrent</ulink>."
+
+#. Tag: title
+#, no-c-format
+msgid "Via direct download"
+msgstr "Qua tải xuống trực tiếp"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you can’t, or do not choose to use the torrent protocol, then look at the "
+"list of download mirrors and pick one of them. They’ll provide a link to the "
+"ISO file itself which you can just click to start the download."
+msgstr ""
+"Nếu không dùng được, hoặc không muốn dùng giao thức torrent, bạn hãy xem "
+"danh sách các nơi tải nhân bản và chọn ra một cái. Nó sẽ cho bạn liên kết "
+"đến tập tin ISO và bạn chỉ cần nhấp để bắt đầu tải xuống."
+
+#. Tag: title
+#, no-c-format
+msgid "Read the release notes"
+msgstr "Đọc ghi chú phát hành"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Your download is probably going to last at least an hour, so now would be "
+"the perfect time for you to get familiar with the new features coming with "
+"the release you’re currently downloading."
+msgstr ""
+"Quá trình tải xuống có lẽ sẽ mất ít nhất một giờ đồng hồ, cho nên giờ chính "
+"là lúc thích hợp nhất để bạn làm quen với các tính năng mới trong bản phát "
+"hành bạn đang tải xuống."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The release notes are featured on the Linux Mint web page and answer the "
+"following questions:"
+msgstr ""
+"Ghi chú phát hành có trên trang chủ Linux Mint và nó trả lời các câu hỏi sau:"
+
+#. Tag: para
+#, no-c-format
+msgid "What are the new features delivered in this release?"
+msgstr "Có tính năng gì mới trong bản phát hành này ?"
+
+#. Tag: para
+#, no-c-format
+msgid "What are the known problems of this release?"
+msgstr "Có vấn đề gì đã được phát hiện trong bản phát hành này ?"
+
+#. Tag: para
+#, no-c-format
+msgid "How do I upgrade from the previous release?"
+msgstr "Làm sao để nâng cấp từ bản phát hành trước ?"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"They also contain screenshots of the latest release. Of course, you could "
+"find out about most features highlighted in the release notes by simply "
+"using the operating system, but you might miss a few things, so it is most "
+"reliable to read the release notes."
+msgstr ""
+"Nó cũng có ảnh chụp màn hình của bản phát hành mới nhất. Tất nhiên bạn có "
+"thể tìm hiểu phần lớn các tính năng trong ghi chú phát hành đơn giản bằng "
+"cách sử dụng hệ điều hành, nhưng có thể bạn sẽ bỏ sót một số thứ, nên tốt "
+"nhất là đọc ghi chú phát hành."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The release notes for Linux Mint 17 Qiana are available at <ulink "
+"url=\"http://www.linuxmint.com/rel_qiana.php\">http://www.linuxmint.com/rel_q"
+"iana.php</ulink>"
+msgstr ""
+"Ghi chú phát hành cho Linux Mint 17 Qiana có ở <ulink "
+"url=\"http://www.linuxmint.com/rel_qiana.php\">http://www.linuxmint.com/rel_q"
+"iana.php</ulink>"
+
+#. Tag: title
+#, no-c-format
+msgid "Check the MD5"
+msgstr "Kiểm tra MD5"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You’ve read the release notes, you just can’t wait to play with the new "
+"features or try Linux Mint, and your download just finished successfully. "
+"You’re ready to burn a DVD and to boot on it… but hey! Wait for a second!"
+msgstr ""
+"Bạn đã đọc ghi chú phát hành, bạn không thể chờ thêm nữa với các tính năng "
+"mới của Linux Mint, và quá trình tải xuống vừa mới hoàn tất. Bạn đã sẵn sàng "
+"ghi ra DVD để chạy... nhưng khoan ! Chờ chút nào !"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If that DVD is faulty you will experience weird bugs and will have a lot of "
+"trouble finding help. The two most common reasons for a DVD to be faulty are:"
+msgstr ""
+"Nếu đĩa DVD bị lỗi bạn sẽ gặp những trục trặc lạ lùng và rất khó khăn để tìm "
+"kiếm sự giúp đỡ. Hai nguyên nhân phổ biến nhất làm cho DVD lỗi là:"
+
+#. Tag: para
+#, no-c-format
+msgid "An issue with the download causing problems in your ISO file"
+msgstr "Có vấn đề trong quá trình tải xuống gây ra lỗi trong tập tin ISO"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"An error during the burn process that alters the contents of your burned "
+"liveDVD"
+msgstr ""
+"Có lỗi trong quá trình ghi đĩa làm biến đổi nội dung đĩa DVD bạn ghi ra"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The MD5 signature, which is present on the download page, provides a quick "
+"way for you to make sure that your ISO file is exactly like it should be. "
+"So, let’s check the ISO file you just downloaded before we burn it and save "
+"ourselves from a lot of potential problems."
+msgstr ""
+"Chữ ký MD5, có ở trang  tải xuống, cho bạn một cách nhanh chóng để chắc chắn "
+"rằng tập tin ISO chính xác nguyên vẹn. Do đó hãy kiểm tra tập tin ISO bạn "
+"vừa tải xuống trước khi ghi ra để tránh nhiều vấn đề có thể xảy ra."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you run any version of Linux you probably already have the md5sum program "
+"installed. Open a terminal and “cd” to the directory where your ISO file is "
+"(for instance, if “linuxmint.iso” is on the Desktop), open a terminal and "
+"type:"
+msgstr ""
+"Nếu đang dùng bất kỳ bản Linux nào có lẽ bạn đã có chương trình md5sum được "
+"cài đặt sẵn. Hãy mở trình dòng lệnh và \"cd\" vào thư mục chứa tập tin ISO "
+"(chẳng hạn nếu \"linuxmint.iso\" nằm trên Bàn làm việc), mở trình dòng lệnh "
+"và gõ:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                <command>cd ~/Desktop</command>\n"
+"                <command>md5sum "
+"<replaceable>myfile.iso</replaceable></command>\n"
+"            "
+msgstr ""
+"\n"
+"                <command>cd ~/Desktop</command>\n"
+"                <command>md5sum "
+"<replaceable>myfile.iso</replaceable></command>\n"
+"            "
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"This command should output a series of numbers and letters which comprise "
+"the MD5 sum, or signature, of your ISO file. By design, any small change to "
+"the ISO file will cause this signature to be significantly different, "
+"allowing us to verify that the file is exactly as it should be."
+msgstr ""
+"Lệnh này sẽ xuất ra một chuỗi số và chữ chính là tổng tổng MD5, hay chữ ký, "
+"của tập tin ISO của bạn. Do thiết kế, bất kỳ thay đổi nào dù nhỏ đến tập tin "
+"cũng sẽ làm cho chữ ký này khác biệt thấy rõ, giúp chúng ta xác nhận rằng "
+"tập tin này đúng nguyên vẹn."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Compare that signature with the one on the download page of the Linux Mint "
+"website. If the two signatures are the same, then you know your ISO file is "
+"exactly the same as the original and you can now get ready to burn it on DVD."
+msgstr ""
+"Hãy so sánh chữ ký bạn nhận được với chữ ký ở trang tải xuống trên trang chủ "
+"Linux Mint. Nếu chúng giống nhau thì bạn biết rằng tập tin ISO của bạn là "
+"giống với tập tin gốc và bạn có thể sẵn sàng ghi ra DVD."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you happen to run Windows, chances are you don’t have md5sum installed. "
+"You can get it from here: <ulink "
+"url=\"http://www.etree.org/md5com.html\">http://www.etree.org/md5com.html</ul"
+"ink>"
+msgstr ""
+"Nếu bạn dùng Windows, khả năng là bạn không có sẵn md5sum. Bạn có thể lấy ở "
+"đây: <ulink "
+"url=\"http://www.etree.org/md5com.html\">http://www.etree.org/md5com.html</ul"
+"ink>"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Place the ISO file and the md5sum.exe in the same place (let’s say in C:\\) "
+"and run “cmd.exe”. In the command line environment, type the following "
+"commands:"
+msgstr ""
+"Đặt tập tin ISO và md5sum.exe vào cùng một chỗ (giả sử là C:\\) và chạy "
+"\"cmd.exe\". Trong môi trường dòng lệnh, gõ các lệnh sau:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                <command>C:</command>\n"
+"                <command>cd \\</command>\n"
+"                <command>md5sum "
+"<replaceable>myfile.iso</replaceable></command>\n"
+"            "
+msgstr ""
+"\n"
+"                <command>C:</command>\n"
+"                <command>cd \\</command>\n"
+"                <command>md5sum "
+"<replaceable>myfile.iso</replaceable></command>\n"
+"            "
+
+#. Tag: para
+#, no-c-format
+msgid "Then compare the signature to the one present on the website."
+msgstr "Rồi so sánh chữ ký xuất ra với chữ ký trên trang web."
+
+#. Tag: title
+#, no-c-format
+msgid "Burn the ISO to DVD"
+msgstr "Ghi tập tin ISO ra DVD"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Now that you have checked the ISO file with MD5, you are ready to burn it to "
+"a DVD."
+msgstr ""
+"Giờ bạn đã kiểm tra tập tin ISO với MD5, bạn đã sẵn sàng ghi ra đĩa DVD."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Get a blank DVD-R (a DVD-RW should work as well, but this type of media is "
+"known to have compatibility issues) and your favorite marker and label the "
+"DVD. Although labeling your DVDs sounds trivial, you should be sure to do "
+"so, as you can easily end up with 20 unlabeled and unidentifiable discs on "
+"your desk. :)"
+msgstr ""
+"Hãy lấy một đĩa DVD-R trắng (DVD-RW chắc cũng được nhưng loại đĩa này có "
+"nhiều vấn đề tương thích đã được phát hiện) và cây bút đánh dấu ưa thích của "
+"bạn rồi ghi nhãn đĩa DVD. Mặc dù điều này nghe có vẻ tầm thường nhưng hãy "
+"chắc chắn làm vậy, vì bạn sẽ dễ dàng có tới 20 cái đĩa không nhãn, không "
+"biết là gì trên bàn đấy. :)"
+
+#. Tag: para
+#, no-c-format
+msgid "Insert the blank DVD-R in the drive and get ready to burn the ISO."
+msgstr "Cho đĩa DVD-R trắng vào ổ và chuẩn bị ghi tập tin ISO."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you’re running Linux with Cinnamon right-click on the ISO file and "
+"select: open with: Brasero, choose “Burn image” and follow the steps given "
+"there."
+msgstr ""
+"Nếu đang dùng Linux với Cinnamon, bạn hãy nhấp phải vào tập tiin ISO và "
+"chọn: mở với: Brasero, chọn \"Ghi ảnh đĩa\" rồi làm theo các bước chỉ dẫn."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you’re running Linux with KDE, launch K3B and in the “Tools” menu choose "
+"“Write ISO Image”."
+msgstr ""
+"Nếu đang dùng Linux với KDE, bạn hãy chạy K3B và chọn \"Ghi Ảnh ISO\" trong "
+"trình đơn \"Công cụ\"."
+
+#. Tag: para
+#, no-c-format
+msgid "If you’re running Windows you can use a program like InfraRecorder."
+msgstr ""
+"Nếu đang dùng Windows, bạn có thể dùng một chương trình như là InfraRecorder."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Make sure to burn the ISO image to disk, and not to write the ISO file to "
+"the disk. A very common mistake, especially for people using Nero, is to "
+"actually burn the ISO file on the disk as a data file. The ISO file is an "
+"image of a disk so it needs to be burnt not as a file which will appear on "
+"the disk, but as an ISO image which will be decompressed and whose content "
+"will be burnt onto the disc. After burning the DVD you shouldn't see the ISO "
+"file within the disc, but rather folders like “casper” or “isolinux”. Most "
+"burning software has a special option for this."
+msgstr ""
+"Hãy chắc chắn rằng bạn ghi ảnh tập tin ISO ra đĩa, chứ không phải chép tập "
+"tin ISO xuống đĩa. Một nhầm lẫn rất phổ biến, đặc biệt với những người dùng "
+"Nero, là chép tập tin ISO xuống đĩa dạng tập tin dữ liệu. Tập tin ISO là "
+"hình của của đĩa nên nó cần phải được ghi không phải theo dạng tập tin hiển "
+"thị trên đĩa mà như một ảnh ISO giải nén và toàn bộ nội dung được ghi ra "
+"đĩa. Sau khi ghi đĩa xong, nếu đúng thì bạn sẽ không thấy tập tin ISO trên "
+"đĩa mà những thư mục như là \"casper\" hay \"isolinux\". Hầu hết phần mềm "
+"ghi đĩa đều có tuỳ chọn đặc biệt để ghi như vậy."
+
+#. Tag: title
+#, no-c-format
+msgid "Boot the LiveDVD"
+msgstr "Khởi động DVD Trực tiếp"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Place the DVD in the drive and restart the computer. You should now see the "
+"following screen:"
+msgstr ""
+"Cho DVD vào ổ và khởi động lại máy tính. Bây giờ bạn sẽ nhìn thấy màn hình "
+"này:"
+
+#. Tag: title
+#, no-c-format
+msgid "The boot screen"
+msgstr "Màn hình khởi động"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you don’t see this screen and your PC boots as usual it’s probably "
+"because your BIOS is not set to boot on DVD. Restart the computer and press "
+"F1, F2, Delete, or Escape (or whatever key lets you enter the BIOS "
+"configuration) and change your BIOS settings to tell your computer to boot "
+"from its DVD drive."
+msgstr ""
+"Nếu bạn không thấy màn hình này mà máy vẫn khởi động như thường lệ thì hẳn "
+"là vì BIOS của bạn không được chỉnh để khởi động từ DVD. Hãy khởi động lại "
+"máy và nhấn F1, F2, Delete hoặc Escape (hoặc phím gì đó dùng để vào cấu hình "
+"BIOS) và chỉnh thiết đặt BIOS cho phép máy khởi động từ ổ DVD."
+
+#. Tag: title
+#, no-c-format
+msgid "Install Linux Mint on your hard drive"
+msgstr "Cài đặt Linux Mint vào ổ cứng của bạn"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"From the first screen choose the default <guilabel>Start Linux "
+"Mint</guilabel> option and press Enter. After a little while the live system "
+"should be ready and you should see the desktop."
+msgstr ""
+"Từ màn hình đầu tiên hãy chọn tuỳ chọn <guilabel>Chạy Linux Mint</guilabel> "
+"mặc định và nhấn Enter. Sau một lúc khi hệ thống trực tiếp  sẵn sàng bạn sẽ "
+"nhìn thấy màn hình làm việc."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"At this stage Linux Mint is not installed on your computer, it’s simply "
+"running from the DVD. The system you have in front of you is, however, "
+"almost exactly the same as the one you will have on your computer after the "
+"installation is finished."
+msgstr ""
+"Ở giai đoạn này Linux Mint chưa được cài đặt vào máy của bạn, nó chỉ đơn "
+"giản chạy từ DVD thôi. Tuy nhiên hệ điều hành trước mặt bạn lúc này hầu như "
+"y hệt hệ điều hành bạn sẽ có trên máy sau khi cài đặt xong."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Have fun with it and see if you like it. Bear in mind that when running from "
+"the DVD, Linux Mint runs significantly slower than it does when it is "
+"installed on a hard drive, since it has to read data from the DVD drive, "
+"which is a slower medium than the hard drive."
+msgstr ""
+"Cứ thoải mái dùng thử xem bạn có thích không. Nhớ rằng khi chạy từ DVD thì "
+"Linux Mint chạy tương đối chậm hơn khi được cài đặt trên đĩa cứng, vì nó "
+"phải đọc dữ liệu từ ổ DVD, là loại thiết bị chậm hơn đĩa cứng."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"When you are ready, double-click on the <guilabel>Install Linux "
+"Mint</guilabel> icon located on the desktop. The Installer appears:"
+msgstr ""
+"Khi đã sẵn sàng, hãy nhấp đúp vào biểu tượng <guilabel>Cài đặt Linux "
+"Mint</guilabel>  trên màn hình làm việc. Trình cài đặt sẽ hiện ra:"
+
+#. Tag: title
+#, no-c-format
+msgid "The language selection screen"
+msgstr "Màn hình chọn lựa ngôn ngữ"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you haven’t read the release notes yet, and you have an Internet "
+"connection, then this an ideal opportunity to review them; simply click on "
+"the underlined link. It is highly recommended that users read the release "
+"notes prior to installation in order to advise themselves of new features, "
+"as well as any issues that might affect their particular hardware "
+"configuration."
+msgstr ""
+"Nếu bạn chưa đọc ghi chú phát hành và bạn đang có kết nối mạng thì đây là cơ "
+"hội lý tưởng để xem lại nó; đơn giản nhấp vào liên kết gạch dưới. Người sử "
+"dụng rất nên đọc ghi chú phát hành trước khi cài đặt để được biết các tính "
+"năng mới cũng như các vấn đề có thể ảnh hưởng đến cấu hình phần cứng cụ thể "
+"của họ."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Select your language and press the <guibutton>Continue</guibutton> button."
+msgstr "Chọn ngôn ngữ của bạn rồi nhấn nút <guibutton>Tiếp tục</guibutton>."
+
+#. Tag: title
+#, no-c-format
+msgid "Checking that everything is fine..."
+msgstr "Kiểm tra rằng mọi thứ đều ổn..."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In the next screen, make sure you're connected to a power source (if you're "
+"using a laptop), the Internet and that you have the recommended amount of "
+"disk space. Then press the <guibutton>Continue</guibutton> button."
+msgstr ""
+"Ở màn hình kế tiếp, hãy bảo đảm rằng máy bạn đã cắm điện (nếu dùng máy tính "
+"xách tay), có kết nối mạng và có đủ du lượng đĩa cứng yêu cầu. Rồi nhấn nút "
+"<guibutton>Tiếp tục</guibutton>."
+
+#. Tag: title
+#, no-c-format
+msgid "Choosing an installation type"
+msgstr "Chọn kiểu cài đặt"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In the next screen you can assign your entire hard drive to Linux Mint or "
+"install it alongside other operating systems. Alternatively, you can also "
+"define and assign the partitions manually."
+msgstr ""
+"Ở màn hình kế tiếp bạn có thể đặt toàn bộ ổ đĩa cứng cho Linux Mint hoặc cài "
+"đặt Linux Mint bên cạnh các hệ điều hành khác. Hoặc bạn cũng có thể tự chỉnh "
+"và đặt các phân vùng thủ công."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you choose to use the entire disk, its content will be erased and Linux "
+"Mint will be installed as the only operating system on your computer."
+msgstr ""
+"Nếu chọn dùng toàn bộ đĩa, nội dung đĩa sẽ bị xoá sạch và Linux Mint sẽ được "
+"cài đặt làm hệ điều hành duy nhất trên máy."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you choose to install it alongside other operating systems, the installer "
+"will use the free space available on other partitions to create a new one "
+"for Linux Mint. You will be asked how much space you want to allocate to it. "
+"The installer will then shrink a partition and take care of everything for "
+"you. Post-installation your computer will have a boot screen from which "
+"you'll be able to boot all your operating systems."
+msgstr ""
+"Nếu chọn cài đặt bên cạnh các hệ điều hành khác, trình cài đặt sẽ dùng các "
+"không gian trống còn lại ở các phân vùng khác để tạo phân vùng mới cho Linux "
+"Mint. Trình cài đặt sẽ hỏi bạn không gian cấp phát cho Linux Mint. Sau đó "
+"trình cài đặt sẽ thu gọn phân vùng và lo hết các thứ cho bạn. Sau khi cài "
+"đặt xong máy tính của bạn sẽ có một màn hình khởi động để từ đó bạn có thể "
+"khởi động vào các hệ điều hành của bạn."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you choose to specify partitions manually, a partition editor will "
+"appear, giving you full control over the partitioning of your hard drive. "
+"This is recommended only to advanced users who understand how partitioning "
+"works under Linux. Note that Linux Mint requires a partition of at least 6GB "
+"and that the recommended size for a swap partition is 1.5 times the amount "
+"of RAM available on the computer."
+msgstr ""
+"Nếu chọn chỉ định phân vùng thủ công, trình chỉnh sửa phân vùng sẽ hiện ra, "
+"cho bạn toàn quyền phân vùng ổ cứng của bạn. Lựa chọn này chỉ dành cho người "
+"dùng cao cấp hiểu biết cách thức phân vùng hoạt động trong Linux. Lưu ý rằng "
+"Linux Mint yêu cầu phân vùng tối thiểu 6 GB và kích thước khuyến khích của "
+"phân vùng tráo đổi là gấp 1,5 lần lượng RAM có trên máy."
+
+#. Tag: title
+#, no-c-format
+msgid "The installation summary screen"
+msgstr "Màn hình tóm tắt cài đặt"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Choose the appropriate option and click on the <guibutton>Install "
+"Now</guibutton> button. At this stage, the installation is going on in the "
+"background and the installer asks you setup questions:"
+msgstr ""
+"Chọn các lựa chọn thích hợp và nhấn nút <guibutton>Cài đặt Ngay</guibutton>. "
+"Lúc này, quá trình cài đặt diễn ra dưới nền và trình cài đặt sẽ hỏi bạn một "
+"vài câu hỏi cài đặt;"
+
+#. Tag: title
+#, no-c-format
+msgid "Choosing a timezone"
+msgstr "Chọn múi giờ"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Choose your location on the map by clicking on the city which is the nearest "
+"to you. The purpose of this step is to identify your time zone. Make sure "
+"the <guilabel>Current time</guilabel> appears correctly and click the "
+"<guibutton>Continue</guibutton> button."
+msgstr ""
+"Chọn vị trí của bạn trên bản đồ bằng cách nhấp vào thành phố gần nhất với "
+"bạn. Mục đích của bước này là xác định múi giờ của bạn. Hãy đảm bảo rằng "
+"<guilabel>Thời gian hiện tại</guilabel> hiển thị đúng và nhấn nút "
+"<guibutton>Tiếp tục</guibutton>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Sometimes the installer doesn't properly handle Summer/Winter time "
+"adjustments, so even by selecting the proper city you might see a difference "
+"of an hour or so with the correct time. Simply ignore this at this stage and "
+"remember to make sure that the time is correct after you reboot in your "
+"newly installed Linux Mint desktop."
+msgstr ""
+"Đôi khi trình cài đặt không xử lý chính xác việc điều chỉnh giờ mùa Hè/Đông, "
+"cho nên ngày cả khi đã chọn đúng thành phố bạn vẫn có thể thấy lệch khoảng "
+"một giờ so với giờ đúng. Lúc này đơn giản hãy mặc kệ nó và nhớ kiểm tra lại "
+"giờ sau khi khởi động lại vào hệ thống Linux Mint bạn mới cài xong."
+
+#. Tag: title
+#, no-c-format
+msgid "Choosing a keyboard layout"
+msgstr "Chọn bố trí bàn phím"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Select your keyboard layout. If you are not sure about exactly which layout "
+"matches the keyboard you have, click on the text field at the bottom of the "
+"screen and start typing with your keyboard. Make sure the keys you press "
+"match the characters that appear in the text field in order to ensure you "
+"have selected the right keyboard layout. Some layouts only differ with "
+"respect to accents, numbers and punctuation signs, so make sure to test "
+"these as well."
+msgstr ""
+"Chọn kiểu bố trí bàn phím của bạn. Nếu bạn không chắc lắm kiểu nào khớp với "
+"bàn phím của bạn, hãy nhấp vào ô văn bản ở dưới màn hình và thử gõ gì đó "
+"bằng bàn phím. Hãy chắc rằng các phím bạn gõ khớp với các ký tự xuất hiện "
+"trong ô văn bản để đảm bảo rằng bạn đã chọn đúng kiểu bố trí bàn phím. Vài "
+"kiểu bố trí chỉ khác nhau một ít về dấu phụ, con số và dấu câ, nên đừng quên "
+"thử cả những thứ đó."
+
+#. Tag: para
+#, no-c-format
+msgid "When you’re ready click the <guibutton>Continue</guibutton> button."
+msgstr "Khi đã sẵn sàng hãy nhấn nút <guibutton>Tiếp tục</guibutton>"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Enter your real name and a username and password. Every time you’ll use "
+"Linux Mint you’ll use your account with this username and password. Once "
+"Linux Mint is installed you’ll be able to define other accounts if other "
+"people are to use this computer."
+msgstr ""
+"Hãy nhập tên thật của bạn và tên người dùng và mật khẩu. Mỗi khi dùng Linux "
+"Mint bạn sẽ dùng tài khoản của bạn với tên người dùng và mật khẩu này. Khi "
+"cài xong bạn có thể thêm tài khoản khác nếu có người khác dùng máy tính này."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Also give your computer a name. This name will be used by your computer on "
+"the network or in various places of the system. If you’ve never really "
+"thought about naming your computers, then now is the time. People commonly "
+"pick flower (dahlia, rose, tulip) or planet (mars, jupiter, pluto) names for "
+"the computers on their network. It’s entirely up to you what you want to "
+"use, but make sure to pick a name you like and that you will easily remember."
+msgstr ""
+"Và cho cả máy của bạn một cái tên. Tên máy được dùng trên mạng và nhiều chỗ "
+"trong hệ thống. Nếu bạn chưa từng suy nghĩ về việc đặt tên máy thì giờ chính "
+"là lúc. Người ta thường chọn tên loài hoa hoặc các hành tinh cho tên máy "
+"trên mạng.  Tuỳ bạn muốn dùng tên gì cũng được nhưng hãy đảm bảo chọn một "
+"cái tên bạn thích và dễ nhớ."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Capital letters, spaces and special characters are not permitted in the "
+"username or in the name of the computer."
+msgstr ""
+"Chữ in hoa, khoảng cách và ký tự đặc biệt không được phép dùng trong tên "
+"người dùng hay tên máy."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you're the only one using the computer and you want to bypass the login "
+"screen, check the option <guilabel>Log in automatically</guilabel>."
+msgstr ""
+"Nếu bạn là người duy nhất sử dụng máy và muốn bỏ qua màn hình đăng nhập, hãy "
+"đánh dấu vào tuỳ chọn <guilabel>Đăng nhập tự động</guilabel>."
+
+#. Tag: para
+#, no-c-format
+msgid "When you’re ready click on the <guibutton>Forward</guibutton> button."
+msgstr "Khi đã sẵn sàng hãy nhấn nút <guibutton>Tiếp</guibutton>."
+
+#. Tag: title
+#, no-c-format
+msgid "The user settings screen"
+msgstr "Màn hình thiết đặt người dùng"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The installer might detect other operating systems on your computer and ask "
+"you if you want to migrate some personal information. Typically this allows "
+"you to migrate bookmarks, contacts, favorites and other sorts of personal "
+"information from other operating systems installed on your hard disk drive "
+"into the newly installed Linux Mint. When you’re ready click on the "
+"<guibutton>Continue</guibutton> button."
+msgstr ""
+"Trình cài đặt có thể sẽ phát hiện ra những hệ điều hành khác trên máy của "
+"bạn và hỏi xem bạn có muốn nhập vào một số thông tin cá nhân không. Thông "
+"thường bạn có thể nhập vào đánh dấu trang, liên lạc, mục ưa thích và một số "
+"loại thông tin cá nhân khác từ hệ điều hành khác cài trên ổ cứng vào hệ "
+"thống Linux Mint mới cài. Khi đã sẵn sàng hãy nhấn nút <guibutton>Tiếp "
+"tục</guibutton>."
+
+#. Tag: title
+#, no-c-format
+msgid "The installation usually takes between 10 and 15 minutes"
+msgstr "Quá trình cài đặt thường mất từ 10 đến 15 phút"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The installer will download packages from the Internet to support the "
+"language you’ve selected. Your computer needs to be connected to the "
+"Internet for this to work. Otherwise just <guibutton>skip</guibutton> that "
+"step and you’ll be able to add support for your language after the "
+"installation is finished and you’ve rebooted into your new system."
+msgstr ""
+"Trình cài đặt sẽ tải xuống các gói hỗ trợ ngôn ngữ bạn đã chọn từ Internet. "
+"Máy của bạn cần phải kết nối Internet để thực hiện điều này. Còn không cứ  "
+"<guibutton>bỏ qua</guibutton> rồi bạn sẽ có thể thêm hỗ trợ ngôn ngữ sau khi "
+"cài xong và đã khởi động vào hệ thống mới."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Once the installation is done click the <guibutton>Restart Now</guibutton> "
+"button and the liveDVD or LiveUSB environment will shut down."
+msgstr ""
+"Sau khi cài đặt xong nhấn nút <guibutton>Khởi động lại Ngay</guibutton> và "
+"môi trường DVD hay USB Trực tiếp sẽ tắt."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"When prompted, remove the DVD from the drive or remove the USB and press "
+"Enter. Your PC is now ready to boot Linux Mint from the hard drive."
+msgstr ""
+"Khi được nhắc, hãy lấy đĩa DVD hay USB ra rồi nhấn Enter. Máy của bạn lúc "
+"này sẵn sàng khởi động Linux Mint từ ổ cứng."
+
+#. Tag: title
+#, no-c-format
+msgid "Reboot the computer"
+msgstr "Khởi động lại máy tính"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Upon reboot, if you have more than one operating system installed, you "
+"should see a boot menu. Once Linux Mint is finished loading you should see a "
+"new screen inviting you to enter your username and password. This screen is "
+"the “MDM Login Manager” and is commonly called “MDM”. Enter the password you "
+"chose during the installation."
+msgstr ""
+"Khi khởi động lại, nếu bạn có hơn một hệ điều hành cài sẵn, bạn sẽ thấy "
+"trình đơn khởi động. Khi Linux Mint tải xong bạn sẽ thấy một màn hình mới "
+"yêu cầu bạn nhập tên người dùng và mật khẩu. Màn hình này là \"Trình Quản lý "
+"Đăng nhập MDM\" và thường được gọi là \"MDM\". Hãy nhập mật khẩu bạn chọn "
+"lúc cài đặt."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"By default, your “root” password is the same as the password you chose "
+"during the installation. If you do not know what this means, then don't "
+"worry about it."
+msgstr ""
+"Mặc định, mật khẩu \"root\" của bạn cũng là mật khẩu bạn chọn lúc cài đặt. "
+"Nếu bạn không hiểu điều này là gì thì cũng không sao."

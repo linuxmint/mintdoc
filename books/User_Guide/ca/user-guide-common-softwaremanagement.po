@@ -1,0 +1,1248 @@
+# Catalan translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-22 12:54+0000\n"
+"Last-Translator: Laia <laiaadorio@gmail.com>\n"
+"Language-Team: Catalan <ca@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Software Management"
+msgstr "Gestió de programari"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you have installed Linux for the first time, then you may not be familiar "
+"with the concept of organizing software into "
+"<wordasword>packages</wordasword>."
+msgstr ""
+"Si ha instal·lat Linux per primer cop, és possible que no estigui "
+"familiaritzat amb el concepte d'organització del programari en "
+"<wordasword>paquets</wordasword>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You will soon become familiar with package management and appreciate the "
+"advantages it offers in terms of security, control and ease of use."
+msgstr ""
+"Aviat es familiaritzarà amb la gestió de paquets i apreciarà els avantatges "
+"que ofereix en termes de seguretat, control i facilitat d'ús."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"We have tried to make it so that all or most of your hardware was detected "
+"and drivers were installed automatically so that your computer would work "
+"out of the box. We have also tried to make it so that you could do many of "
+"the things you want to without having to look around for third party "
+"software on websites. You may have noticed that your Linux Mint installation "
+"already has a full office suite, a professional-quality image-editing "
+"solution, an IM and an IRC client, a disk burner, and several media players "
+"(as well as many other basic accessories). Relax, it's okay! You haven't "
+"stolen anything! This is what free software is all about! And the truly "
+"great thing about package management in Linux Mint and generally is that you "
+"should never need to look far and wide for extra software, even when the "
+"time comes that you do want more functionality from your Linux Mint system."
+msgstr ""
+"Hem intentat que durant la instal·lació es detecti tot o la majoria del seu "
+"maquinari i s'instal·lin de forma automàtica els controladors, de manera que "
+"el seu equip funcioni al 100% des del principi. També hem intentat que vosté "
+"pugui fer la majoria de les coses que vulgui sense necessitat de buscar "
+"programari de tercers al web. Vostè haurà notat que la seva instal·lació de "
+"Linux Mint ja compta amb una suite ofimàtica completa, una solució d'edició "
+"d'imatges de qualitat professional, un IM i un client d'IRC, una gravadora "
+"de disc, i diversos reproductors de mitjans (així com molts altres "
+"accessoris bàsics). Relaxi's, no passa res! No ha robat res! En això "
+"consisteix el programari lliure! I el veritablement bo de l'administració de "
+"paquets a Linux Mint i en general és que mai hauria d'haver de buscar molt "
+"lluny el programari extra, fins i tot quan arribi el moment en que vostè "
+"desitgi major funcionalitat per al seu sistema Linux Mint."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"This section is intended to explain how this works and the advantages that "
+"it can bring to you. It's a bit long, but hopefully it will provide you with "
+"a good understanding of the philosophy behind package management and why it "
+"is considered a Good Thing (a phrase commonly capitalized by Linux users to "
+"mean that something is squarely in the category of good). If you're in a "
+"hurry, you can skip to the next section which will tell you how to actually "
+"use the package system."
+msgstr ""
+"Aquesta secció té per objecte explicar com funciona això i els avantatges "
+"que pot aportar. És una mica llarg, però espero que li donarà una bona "
+"comprensió de la filosofia de gestió de paquets i per què es considera una "
+"Bona Cosa (una frase comunament usada pels usuaris de Linux en el sentit que "
+"alguna cosa entra de ple en la categoria del bo). Si té pressa, pot passar a "
+"la següent secció, que li dirà com utilitzar el sistema de paquets."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The problems with browsing software vendors' websites and downloading and "
+"installing the software they offer are many:"
+msgstr ""
+"Els problemes de navegar per llocs web de proveïdors de programari i "
+"descarregar i instal·lar el programari que ofereixen són molts:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is difficult or impossible to find out if the software has been tested to "
+"work with your operating system"
+msgstr ""
+"És difícil o impossible esbrinar si s'ha comprovat que el programari "
+"funciona en el seu sistema operatiu"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know how this software will interact with "
+"the other software installed on your system"
+msgstr ""
+"És difícil o impossible saber de quina manera interactuarà aquest programari "
+"amb la resta de programes en el seu sistema"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know if you can place your trust that "
+"software from an unknown developer software will not cause any harm, willful "
+"or negligent, to your system Even if you know about a specific piece of "
+"software and its developer, you cannot be entirely sure that you are not "
+"downloading an executable that has been swapped out by a malicious third "
+"party for some type of malware."
+msgstr ""
+"És difícil o impossible saber si pot confiar que el programari d'un "
+"desenvolupador desconegut no causarà cap dany, intencionat o negligent, al "
+"seu sistema. Fins i tot si vostè coneix un programari específic i el seu "
+"desenvolupador, no es pot estar completament segur que no està descarregant "
+"un executable que una tercera persona malintencionada ha canviat per algun "
+"tipus de malware."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Furthermore, a problem with downloading and installing multiple different "
+"programs, from multiple different developers, is that there is no managerial "
+"infrastructure. Before you say “big deal”, consider how you are going to "
+"keep all these different pieces of software up to date. If you get tired of "
+"a program and want to remove it, how do you know how to achieve that? The "
+"program in question might not have come with a removal option, and even if "
+"it did, much of the time this will fail to remove the software cleanly and "
+"completely. In a very real sense, when you ran that installer program, you "
+"gave up some of your control of your computer to a program written entirely "
+"by a complete stranger."
+msgstr ""
+"D'altra banda, un problema amb la descàrrega i la instal·lació de diversos "
+"programes diferents, procedents de múltiples desenvolupadors diferents, és "
+"que no hi ha una infraestructura de gestió. Abans de dir \"no és per tant\", "
+"pensi cóm farà per mantenir totes aquestes diferents peces de programari "
+"actualitzades. Si es cansa d'un programa i desitja eliminar-lo, com ho farà? "
+"El programa en qüestió podria no tenir una opció d'eliminació, i fins i tot "
+"si la té, la major part de les vegades no aconseguirà eliminar el programari "
+"de forma neta i completa. En un sentit molt real, a l'executar aquell "
+"programa instal·lador vostè va donar una mica del control del seu ordinador "
+"a un programa escrit íntegrament per un complet estrany."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Finally, software which is distributed in this way is often, by virtue of "
+"necessity, “static”. This means that not only do you need to download the "
+"program itself, but also all of the data libraries that are required for it "
+"to run. Since a third-party software developer cannot know which data "
+"libraries you may already have available on your system, the only way that "
+"they can guarantee it will run on your system is by supplying all of the "
+"data libraries it needs along with the program itself. This means bigger "
+"downloads, and it means that when the time comes to update a given library, "
+"it needs to be done separately for all those programs using it, instead of "
+"just once. In summary, the distribution of static software results in the "
+"unnecessary duplication of a lot of work."
+msgstr ""
+"Finalment, el programari que es distribueix d'aquesta manera és, sovint, en "
+"virtut de la necessitat, \"estàtic\". Això significa que no només cal "
+"descarregar el programa en si, sinó també totes les biblioteques de dades "
+"que són necessaris perquè s'executi. Ja que un desenvolupador de programari "
+"per a tercers no pot saber de quines biblioteques de dades disposa ja en el "
+"seu sistema, l'única manera en què pot garantir que s'executaran als seu "
+"sistema és mitjançant el subministrament de totes les biblioteques de dades "
+"que necessita, juntament amb el propi programa. Això significa descàrregues "
+"més grans, i vol dir que quan arribi el moment d'actualitzar una biblioteca "
+"donada, cal fer-ho per separat per a tots els programes que la fan servir, "
+"en lloc de només una vez. En resum, la distribució de programari estàtic "
+"produeix la duplicació innecessària d'un munt de treball."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Package management in Linux Mint, and GNU/Linux operating systems in "
+"general, has been established for some time and is the preferred method for "
+"managing software as it avoids all of these issues. We've been safely and "
+"automatically installing our software since the early 1990s."
+msgstr ""
+"Des de fa temps, s'ha establert la gestió de paquets en Linux Mint, i en els "
+"sistemes operatius GNU/Linux en general, i és el mètode preferit per a la "
+"gestió de programari, ja que evita tots aquests problemes. Hem estat "
+"instal·lant de forma segura i automàtica el nostre programari des de "
+"principis dels 90."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Software is first written by a developer, as you might expect, and this end "
+"of the production chain is known as “upstream”. As a user of a Linux "
+"distribution, you are referred to as being at the furthest point "
+"“downstream” (unless you're an admin, in which case your users are the "
+"furthest point downstream, but you knew that because you're an admin). Once "
+"the developer is happy with the program or the update to the program they "
+"have written, they will release the source code for it. They will also "
+"communicate in their documentation which data libraries or other programs "
+"they took advantage of when they were writing the program. They have been "
+"doing this for some time and there are standardized and venerable ways for "
+"them to do this. Note that, with a few exceptions (usually either hardware "
+"manufacturers who release drivers for Linux, like nVidia or ATI, or certain "
+"major companies like Adobe, who we can trust) they release the actual source "
+"code for the program, that is, the list of instructions in that program in a "
+"human readable form. This has a number of implications, but most importantly "
+"for this discussion it means that they are willing to have their software "
+"peer reviewed by anyone and everyone with an Internet connection. It's "
+"awfully difficult to sneak spyware into your program when you're letting "
+"everyone see what you've written!"
+msgstr ""
+"El programari és escrit per un desenvolupador, com era d'esperar, i aquest "
+"extrem de la cadena de producció es coneix com \"upstream\" (aigües amunt). "
+"Com a usuari d'una distribució de Linux, vostè és considerat el punt més "
+"allunyat \"downstream\" (aigües avall) (a menys que sigui un administrador; "
+"en aquest cas els usuaris són el punt més baix, però això vostè ja ho sabia, "
+"perquè és un administrador). Una vegada que el desenvolupador està satisfet "
+"amb el programa o l'actualització del programa que ha escrit, donarà a "
+"conèixer el codi font. També comunicarà en la documentació les biblioteques "
+"de dades o altres programes en què es va recolzar per escriure el programa. "
+"Els desenvolupadors han estat fent això des de fa temps i hi ha formes "
+"estandarditzades i venerades per ells per fer-ho. Tingui en compte que, amb "
+"algunes excepcions (en general, fabricants de maquinari que alliberen "
+"drivers per a Linux, com nVidia o ATI, o determinades empreses importants "
+"com Adobe, en les quals podem confiar) s'allibera el codi font del programa, "
+"és a dir, la llista d'instruccions d'aquest programa en un format llegible "
+"per humans. Això té una sèrie d'implicacions, però el més important per a "
+"aquesta explicació és que estan permetent que el seu programari sigui "
+"revisat per qualsevol persona amb una connexió a Internet. És terriblement "
+"difícil colar spyware en un programa quan estàs deixant que tothom vegi el "
+"que has escrit!"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The software now moves down the stream to package maintainers, who are "
+"either volunteers or paid employees working for a Linux distribution. It is "
+"their responsibility to compile the source code for the software, test it on "
+"the distribution to make sure that it works, resolve any problems that they "
+"encounter and finally package the compiled (i.e., machine-readable) software "
+"in a convenient format. This package contains the executable program(s), "
+"their configuration files, and the instructions the package management "
+"software needs to successfully install it. Note that it won't ordinarily "
+"contain any static libraries, since it doesn't need to – the libraries are "
+"provided by other packages, and are therefore known as shared libraries. "
+"Your package management software will know if that a particular package "
+"requires another package to be installed first (like a shared library), "
+"because, as you will remember, the data libraries and related packages "
+"needed for the software to work were declared further upstream and that "
+"information is included in the package. The instructions are sufficiently "
+"detailed that even specific versions of other packages can be requested to "
+"ensure interoperability. The finished package is then uploaded to a special "
+"file server, which is called a software repository."
+msgstr ""
+"El programari ara es mou corrent avall fins als mantenidors de paquets, que "
+"són voluntaris o assalariats que treballen per a una distribució de Linux. "
+"És la seva responsabilitat compilar el codi font del programari, provar a la "
+"distribució per assegurar-se que funciona, resoldre qualsevol problema que "
+"se'ls presenti i finalment enpaquetar el programari compilat (és a dir, "
+"llegible per una màquina) en un format adequat. Aquest paquet conté el "
+"programa o programes executables, els fitxers de configuració i les "
+"instruccions que necessita el programari de gestió de paquets per instal·lar-"
+"lo amb èxit. Tingui en compte que normalment no contindrà biblioteques "
+"estàtiques, ja que no es necessiten - les biblioteques són proporcionades "
+"per altres paquets, que es coneixen com a biblioteques compartides. El "
+"programari de gestió de paquets sabrà si un paquet en particular necessita "
+"que s'instal·li un altre paquet en primer lloc (com una biblioteca "
+"compartida), perquè, com vostè recordarà, les biblioteques de dades i "
+"paquets relacionats necessaris perquè el programari funcioni van ser "
+"declarades en una fase prèvia i aquesta informació s'inclou en el paquet. "
+"Les instruccions són prou detallades i fins i tot poden demanar versions "
+"específiques d'altres paquets per garantir la interoperabilitat. El paquet "
+"acabat es puja a un servidor d'arxius especial, que s'anomena repositori de "
+"programari."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is from that single location that you are able to download and install "
+"the software you need. You will know that the location is bona fide, because "
+"it is signed with a certificate that your package manager will check. You "
+"will also know that each individual package that you install is secure, "
+"because each package is itself signed by a GPG key, which your package "
+"manager will also check. Your package manager will even run an MD5 sum on "
+"each package to make sure that nothing went wrong when it was downloading, "
+"just like we did before with the LiveDVD iso. Notice how it's doing all of "
+"this for you. You're just sitting back, sipping a martini, and chatting in "
+"#linuxmint on xchat. The package manager has downloaded the packages you "
+"have selected, it will follow, to the letter (computers are fastidious in "
+"following instructions), the instructions in the package to perfectly "
+"install your software, and all of its dependencies, in the right order. "
+"There is no space for human error – if the package worked on the "
+"maintainer's computer, then it ought to on yours because the package manager "
+"will follow exactly the same procedure."
+msgstr ""
+"Vostè pot, des d'aquesta ubicació única, descarregar i instal·lar el "
+"programari que necessita. Vostè sabrà que la ubicació és fiable, ja que està "
+"signada amb un certificat que el gestor de paquets comprovarà. També sabrà "
+"que cada paquet individual que instal·li és segur, ja que cada paquet està "
+"signat amb una clau GPG, que el gestor de paquets també comprovarà. El seu "
+"gestor de paquets comprovarà fins i tot la suma MD5 de cada paquet per "
+"assegurar-se que res ha fallat durant la descàrrega, tal com ho hem fet "
+"abans amb l'iso del LiveDVD. Noti com s'està fent tot això per vostè. Vostè "
+"simplement està assegut, bevent un martini, i xerrant en #linuxmint amb "
+"xchat. El gestor de paquets ha descarregat els paquets que ha seleccionat, i "
+"seguirà al peu de la lletra (els ordinadors són obstinats seguint "
+"instruccions), les instruccions del paquet per instal·lar perfectament el "
+"seu programari, i totes les seves dependències, en l'ordre correcte . No hi "
+"ha espai per a l'error humà - si el paquet funcionava en l'equip del "
+"mantenidor, aleshores hauria de funcionar en seu, perquè el gestor de "
+"paquets seguirà exactament el mateix procediment."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"When it comes time to check for software updates, your package manager will "
+"automatically compare the software version that you have against what is "
+"available in the repository, and do all the necessary work to keep your "
+"system running smoothly and securely. So, if version 2.4 of BestSoft is "
+"uploaded to the repository, and you have version 2.3, the package manager "
+"will compare those version numbers, and offer to install the latest version, "
+"taking care, of course, of all the dependencies for the newer version of the "
+"software."
+msgstr ""
+"Quan arribi el moment de comprovar si hi ha actualitzacions de programari, "
+"el gestor de paquets compararà automàticament la versió del programari que "
+"té amb la que està disponible al repositori, i farà tot el treball necessari "
+"per mantenir funcionant sense problemes i amb seguretat el seu sistema. Així "
+"que, si la versió 2.4 de BestSoft està carregada en el repositori, i vostè "
+"té la versió 2.3, el gestor de paquets compararà els números de versió i li "
+"oferirà instal·lar l'última versió, tenint cura, per descomptat, de totes "
+"les dependències de la nova versió del programari."
+
+#. Tag: para
+#, no-c-format
+msgid "Sounding good yet? It gets better."
+msgstr "Li sona bé? Doncs encara és millor."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Humans err where computers don't and from time to time something may go "
+"wrong in this process. Perhaps you will, by accident, install hardware "
+"drivers for the wrong piece of hardware and this might break something. "
+"We've all done that. Or perhaps there's a bug or your favorite feature was "
+"removed by the program's developer for some reason. These problems "
+"demonstrate, paradoxically, the strength and security of package management. "
+"Because your package manager keeps fastidious records of everything it ever "
+"does, it is able to reverse installations, cleanly and completely. It will "
+"make sure that removing one package doesn't break any others, and you can "
+"even tell it specifically to do things like not automatically upgrade "
+"certain packages, because you like them the way they are, or to revert to an "
+"earlier version. Finally, the whole process is very heavily peer-reviewed. "
+"Because you are part of a large community of Linux users, all using the same "
+"repositories to obtain their software, if anything goes wrong you can be "
+"absolutely sure there will be a big fuss about it, and that the problem will "
+"be resolved quickly! In this way, software distribution in GNU/Linux "
+"distributions is very much based on trust, from the moment the original "
+"developer displays their source code for all to see, to the open discussion "
+"on the distribution's website. You can be confident in the software you "
+"obtain, not only because of the security protocols already mentioned, but "
+"because if anything does go wrong everyone will be talking about it!"
+msgstr ""
+"Els éssers humans s'equivoquen on els ordinadors no, i de tant en tant "
+"alguna cosa pot sortir malament en aquest procés. Potser que, per accident, "
+"instal·li els controladors per al maquinari equivocat i això podria "
+"espatllar alguna cosa. Tots hem fet això. O potser hi ha un error de "
+"programació, o per alguna raó el desenvolupador va decidir treure del "
+"programa la seva característica favorita. Aquests problemes demostren, "
+"paradoxalment, la força i la seguretat de la gestió de paquets. Com que el "
+"seu gestor de paquets manté prolixos registres de tot el que fa, és capaç de "
+"revertir les instal·lacions, de manera neta i completa. S'ha d'assegurar que "
+"l'eliminació d'un paquet no fa malbé qualsevol altre, i fins i tot pot dir-"
+"li que faci coses específiques, com no actualitzar automàticament alguns "
+"paquets, perquè li agrada la forma en què estan, o per tornar a una versió "
+"anterior. Finalment, tot el procés està fortament revisat. Com que vostè és "
+"part d'una gran comunitat d'usuaris de Linux, tots ells amb els mateixos "
+"dipòsits per obtenir el seu programari, si alguna cosa surt malament, pot "
+"estar absolutament segur que hi haurà un gran enrenou al respecte, i que el "
+"problema es resoldrà ràpidament! D'aquesta manera, la distribució de "
+"programari en les distribucions GNU/Linux es basa en gran mesura en la "
+"confiança, des del moment en què el desenvolupador original mostra el seu "
+"codi font perquè tots ho vegin, fins a la discussió oberta al web de la "
+"distribució. Vostè pot confiar en el programari que obté, no només a causa "
+"dels protocols de seguretat ja esmentats, sinó perquè si alguna cosa "
+"funciona malament, tothom n'estarà parlant!"
+
+#. Tag: para
+#, no-c-format
+msgid "Let's look again at our list of problems and see what we have solved:"
+msgstr "Mirem de nou la nostra llista de problemes i vegem què hem resolt:"
+
+#. Tag: entry
+#, no-c-format
+msgid "Problem"
+msgstr "Problema"
+
+#. Tag: entry
+#, no-c-format
+msgid "Solution"
+msgstr "Solució"
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"It is difficult or impossible to find out if the software has been tested to "
+"work with your operating system."
+msgstr ""
+"És difícil o impossible esbrinar si s'ha comprovat que el programari "
+"funciona en el seu sistema operatiu."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"You know that the software available to you through the repository has been "
+"thoroughly tested by the package maintainer and the testing team to work "
+"with your operating system. They won't want to get it wrong, mostly on "
+"principle, but also because if they do they'll soon be getting lots of "
+"emails."
+msgstr ""
+"Vostè sap que el programari disponible a través del repositori ha estat "
+"provat a fons pel mantenidor del paquet i l'equip de proves per a funcionar "
+"en el seu sistema operatiu. Ells no voldran fer-ho malament, sobretot per "
+"principis, però també perquè si ho fan, aviat estaran rebent un munt correus "
+"electrònics."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know how this software will interact with "
+"the other software installed on your system."
+msgstr ""
+"És difícil o impossible saber com interactuarà aquest programari amb la "
+"resta de programes en el vostre sistema."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Similarly, package maintainers try their utmost to ensure that packages "
+"won't conflict with other packages offered by their distribution. Of course, "
+"they might not have every last package installed on their testing machines "
+"(in fact, usually package maintainers build their packages on clean "
+"installations to ensure that they are standard), but if a member of the user "
+"community finds out that there is a problem, they will no doubt let the "
+"distribution team know, and the problem will be fixed, or at least worked "
+"on. Unless you are a beta tester, then you are unlikely to ever see such a "
+"conflict, because that's what beta testing is for."
+msgstr ""
+"De manera similar, qui manté els paquets intenta que sempre que sigui "
+"possible els paquets no entrin en conflicte amb altres paquets ofertats per "
+"la seva distribució. Per descomptat, segurament no tenen tots els últims "
+"paquets instal·lats en les màquines de proves (de fet, normalment, qui manté "
+"els paquets els construeix en instal·lacions netes, per assegurar-se que són "
+"estàndard), però si un membre de la comunitat d'usuaris descobreix un "
+"problema, ho faran saber, sens dubte, a l'equip de distribució, i el "
+"problema s'arreglarà, o almenys ho intentaran. A no ser que sigui un "
+"verificador de versions beta, és molt poc probable que es trobi amb aquests "
+"conflictes entre paquets, perquè per això hi ha la verificació de les "
+"versions beta."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know if you can place your trust in the "
+"developer that their software will not cause any harm, willful or negligent, "
+"to your system."
+msgstr ""
+"És difícil o impossible saber si es pot confiar que el programari del "
+"desenvolupador no causarà cap dany, intencionadament o desintencionada, al "
+"vostre sistema."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Package maintainers are hardly likely to package software they know will "
+"harm people's computers (including their own)! Only software which is known "
+"and trusted will ever make it to the repository."
+msgstr ""
+"Qui manté els paquets rarament empaqueten programari que sap que danyarà els "
+"ordinadors de la gent (incloent-hi el seu propi ordinador)! Només arribarà "
+"al repositori aquell programari que és conegut i fiable."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Even if you know about a specific piece of software and its developer, you "
+"cannot be entirely sure that you are not downloading an executable that has "
+"been swapped out by a malicious third party for some type of malware."
+msgstr ""
+"Inclús si coneixeu un programari específic i els seu desenvolupador, no "
+"podeu estar segur que no estigueu baixant un executable que hagi estat "
+"intercanviat per un tipus de programari maliciós per part de tercers."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"In addition to the usual security measures put in place by the institutions "
+"who own the servers (usually prestigious academic or research institutions, "
+"or large companies), the repository and packages themselves are secured by "
+"certificates and GPG keys. If something's gone wrong, your package manager "
+"will tell you about it. The present author, in ten years of using Linux, has "
+"never once known anything to go wrong in this respect."
+msgstr ""
+"A més a més de les mesures de seguretat habituals dutes a terme per les "
+"institucions propietàries dels servidors (normalment són institucions "
+"acadèmiques o de recerca prestigioses, o grans companyies), el repositori i "
+"els mateixos paquets estan assegurats amb certificats i claus GPG. Si "
+"quelcom anés malament, el gestor de paquets ho notificaria. Qui escriu això, "
+"en deu anys d'usar Linux, mai ha conegut que es dongui aquest problema."
+
+#. Tag: entry
+#, no-c-format
+msgid "It is difficult to remove (all traces of) installed programs."
+msgstr "És difícil d'eliminar (completament) els programes instal·lats."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Because the package management software keeps a complete record of all of "
+"its actions, it is quite capable of reversing any steps that it took in the "
+"past, while ensuring that removing one package will not cause any other "
+"package to fail."
+msgstr ""
+"Com que el programari de gestió de paquets manté un registre de totes les "
+"seves accions, és capaç de desfer totes les accions que va fer al passat, "
+"assegurant-se que eliminant un paquet no farà que un altre paquet falli."
+
+#. Tag: entry
+#, no-c-format
+msgid "Static packages are big and clunky."
+msgstr "Es paquets estàtics són grans i toscos"
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Because you're using package management, you will only ever download static "
+"libraries when there is no shared alternative. If you need new shared data "
+"libraries to install a given program, your package manager will know this "
+"and install them for you automatically. You will only ever have to download "
+"a shared library once because, well, it's shared by all the programs that "
+"need it. If you end up removing the last package that needs a shared "
+"library, then the package management software will remove that too. But, if "
+"you decide that you do want to keep the shared object anyway, perhaps "
+"because you just know you'll need it later, then you can tell the package "
+"management software to do that, too."
+msgstr ""
+"Com que esteu usant la gestió de paquets, només baixareu llibreries "
+"estàtiques si no hi ha una altra alternativa. Si necessiteu noves llibreries "
+"de dades compartides per instal·lar un programa, el vostre gestor de paquet "
+"ho sabrà i ho farà automàticament. Només haureu de baixar una llibreria "
+"compartida un cop, perquè, bé, és compartida per tots els programes que la "
+"necessiten. Si acabeu eliminant l'últim paquet que necessita una llibreria "
+"compartida, el programari de gestió de paquets també l'eliminarà. D'altra "
+"banda, si decidiu que voleu conservar l'objecte compartit igualment, potser "
+"perquè sabeu que el neccessitareu més endavant, podeu dir-li al programari "
+"de gestió de paquets que no l'elimini."
+
+#. Tag: entry
+#, no-c-format
+msgid "I'm still not convinced."
+msgstr "Encara no n'estic convençut."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Good! Post a message on the forums about it if you have a genuine concern "
+"about package management, or to ask about other people's experiences. It "
+"bears repeating that the package method of distribution in GNU/Linux relies "
+"on trust, so if there's a problem, we want to hear about it!"
+msgstr ""
+"Molt bé! Publiqueu un missatge als forums si teniu alguna preocupació "
+"concreta de la gestió de paquets, o per preguntar sobre les experiències "
+"d'altra gent.  Val la pena recalcar que el mètode de distribució de paquets "
+"al GNU/Linux resideix en la confiança, per tant, si hi ha algun problema, "
+"volem escoltar-lo!"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"A final word. You may have been subjected to rumors to the effect that Linux "
+"isn't finished yet, or that if you use Linux then you are a beta-tester, or "
+"that Linux software is unstable. These are all half truths. “Linux” will "
+"never be “finished”, any more than any other major operating system can be "
+"considered “finished”. From the Linux kernel to the artwork on your screen, "
+"all the elements of your operating system will always be under some kind of "
+"development. This is because programmers are working hard to keep us up to "
+"date with the latest developments in programming and hardware technology. "
+"This does not mean that the software available for you to use is of bad "
+"quality. The base system at the core of Linux Mint has been under heavy "
+"development for about two decades now, and is very mature, stable, and "
+"proven. While there are definitely unstable versions of most of the software "
+"on your operating system, you won't be using them because you're not a beta "
+"tester. You know you're not a beta tester, because you're reading this. The "
+"software available to you on the repositories you use will always be stable "
+"and well tested, unless you change those repositories to the ones used by "
+"the testers (in which case congratulations, you've just become a tester). "
+"It's a bit of a no-brainer, really."
+msgstr ""
+"Per acabar, potser heu sentit rumors sobre el fet que Linux no està encara "
+"acabat, o que si feu servir Linux sou uns verificadors de versions beta, o "
+"que el programari Linux és inestable. Tot això són mitges veritats. "
+"\"Linux\" no estarà mai \"acabat\", no més que qualsevol altre sistema "
+"operatiu majoritari pot considerar-se acabat. Des del nucli de Linux fins a "
+"l'estètica de la pantalla, tots els elements del sistema operatiu sempre "
+"estaran, d'una manera o d'una altra, en desenvolupament. Això és perquè els "
+"programadors treballen dur per mantenir-nos actualitzats amb els últims "
+"desenvolupaments en programació i tecnologia del maquinari. Això no "
+"significa que el programari disponible a l'ús és de mala qualitat. El "
+"sistema base al nucli del Linux Mint ha estat en un desenvolupament "
+"exhaustiu des de fa gairebé ja dues dècades, i és molt madur, estable i "
+"provat. Mentre que hi ha versions definitivament inestables de la majoria "
+"del programari usat pel sistema operatiu, no l'usareu perquè no sou uns "
+"verificadors de versions beta. Sabeu que no sou uns verificadors de versions "
+"beta perquè esteu llegint això. El programari disponible als repositoris que "
+"useu sempre serà estable i ben verificat, a menys que canvieu aquests "
+"repositoris pels que usen els verificadors (en aquest cas, felicitats! "
+"acabeu de convertir-vos en verificadors de versions beta). És una mica una "
+"obvi, de fet."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"So, to summarize with an example, when you install Opera, Real Player or "
+"Google Earth in Linux Mint, these applications do not come from their "
+"original developers (Opera, Real and Google). Of course the upstream "
+"application comes from these developers, but only after they've been "
+"properly packaged and tested do they become available for you. So, in other "
+"words, you should never need to go and browse the Internet to look for "
+"software, as everything you need is available and already tested for you and "
+"for your system by the Linux Mint and Ubuntu teams. All you need to do is "
+"choose what you want to do."
+msgstr ""
+"Per resumir amb un exemple, quan instal·leu Opera, Real Player o Google "
+"Earth al Linux Mint, aquestes aplicacions no venen dels seus desenvolupadors "
+"originals (Opera, Real i Google). Per descomptat que l'aplicació originària "
+"prové d'ells, però no estan disponibles per a l'usuari final fins que no han "
+"estat verificades i empaquetades apropiadament. En altres paraules, mai "
+"hauríeu de buscar a internet per trobar programari, ja que tot el programari "
+"necessari està disponible i verificat pels equips del Linux Mint i de "
+"l'Ubuntu. Només heu de triar què voleu fer."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint will update itself automatically through a tool called the Update "
+"Manager, which will update not only the base operating system, but all the "
+"software installed on your machine as well."
+msgstr ""
+"El Linux Mint s'actualitzarà ell mateix automàticament mitjançant una eina "
+"anomenada Gestor d'Actualitzacions, que actualitzarà no només la base del "
+"sistema operatiu, sinó també tot el programari instal·lat a l'ordinador."
+
+#. Tag: para
+#, no-c-format
+msgid "It's that simple. Whew!"
+msgstr "És molt senzill!"
+
+#. Tag: title
+#, no-c-format
+msgid "Installing software"
+msgstr "Com instal·lar programari"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Some of the most popular applications that are not installed by default in "
+"Linux Mint are Opera, Skype, Acrobat Reader, Google Earth and Real Player."
+msgstr ""
+"Algunes de les aplicacions més populars que no estàn instal·lades per "
+"defecte al Linux Mint són l'Opera, l'Skype, l'Acrobat Reader, el Google "
+"Earth i el Real player."
+
+#. Tag: title
+#, no-c-format
+msgid "Using the Software Manager"
+msgstr "Com usar el gestor de programari"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The easiest way to install software in Linux Mint is to use the "
+"<wordasword>Software Manager</wordasword>."
+msgstr ""
+"La manera més senzilla d'instal·lar programari al Linux Mint és fent servir "
+"el <wordasword>Gestor de Programari</wordasword>."
+
+#. Tag: title
+#, no-c-format
+msgid "The Software Manager"
+msgstr "El Gestor de Programari"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Open the <guimenu>Menu</guimenu> and select <guimenuitem>Software "
+"Manager</guimenuitem>."
+msgstr ""
+"Obriu el <guimenu>Menu</guimenu> i seleccioneu <guimenuitem>Gestor de "
+"Programari</guimenuitem>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Software Manager lets you browse the software made available for Linux "
+"Mint. You can browse by category, search by keyword or sort the software by "
+"rating and popularity."
+msgstr ""
+"El Gestor de Programari us permet cercar el programari disponible per Linux "
+"Mint. Podeu cercar per categoria, per paraula clau o ordenar el programari "
+"per valoració i popularitat."
+
+#. Tag: title
+#, no-c-format
+msgid "Using Synaptic"
+msgstr "Com usar el Synaptic"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you want to install more than one application at a time or see more "
+"technical information about the packages, you can use "
+"<wordasword>Synaptic</wordasword>."
+msgstr ""
+"Si voleu instal·lar més d'una aplicació a la vegada o veure més informació "
+"tècnica dels paquets, podeu usar <wordasword>Synaptic</wordasword>."
+
+#. Tag: title
+#, no-c-format
+msgid "Synaptic, the Package Manager"
+msgstr "Synaptic, el gestor de paquets."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Open the <guimenu>Menu</guimenu> and select <guimenuitem>Synaptic Package "
+"Manager</guimenuitem>."
+msgstr ""
+"Obriu el <guimenu>Menu</guimenu> i seleccioneu <guimenuitem>Gestor de "
+"paquets Synaptic</guimenuitem>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Let's see how we can install Opera (an alternative to the Firefox Web "
+"browser):"
+msgstr ""
+"A veure com podem instal·lar l'Opera (un navegador web alternatiu al de "
+"Firefox)"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Click on the <guibutton>Search</guibutton> button and type "
+"<wordasword>opera</wordasword>."
+msgstr ""
+"Cliqueu al botó <guibutton>Cerca</guibutton> i escriviu "
+"<wordasword>opera</wordasword>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Go through the list of packages and find the one corresponding to the Opera "
+"Web Browser."
+msgstr ""
+"Trobeu a la llista de paquets el que correspongui amb el del navegador web "
+"Opera."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Tick the box and select <guimenuitem>Mark for Installation</guimenuitem>."
+msgstr ""
+"Marqueu la casella i seleccioneu <guimenuitem>Marca per "
+"instal·lar</guimenuitem>."
+
+#. Tag: para
+#, no-c-format
+msgid "Click on the <guibutton>Apply</guibutton> button."
+msgstr "Cliqueu al botó <guibutton>Aplica</guibutton>."
+
+#. Tag: title
+#, no-c-format
+msgid "Using APT"
+msgstr "Com utilitzar l'APT"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"APT is by far the most powerful package management tool in Linux Mint. Yet "
+"it's extremely simple to use."
+msgstr ""
+"L'APT és de llarg l'eina de gestió de paquets més potent del Linux Mint. Tot "
+"i així, és la més senzilla d'usar."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It's a command though, not a program with a graphical interface. If you're "
+"starting with Linux you'll probably prefer the Software Manager or Synaptic "
+"at first. As time goes on you'll likely enjoy things to be faster and more "
+"efficient."
+msgstr ""
+"No és un programa amb interfície gràfica, sinó una ordre. Si esteu començant "
+"amb el Linux potser preferireu el gestor de programari o el Synaptic. A "
+"mesura que passi el temps, agraireu que les coses siguin més ràpides i "
+"eficients."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Now let's see how we could have installed Opera using the APT command line "
+"tool."
+msgstr ""
+"Vegem ara com podem instal·lar l'Opera usant l'eina de línia d'ordres APT."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Open the <guimenu>Menu</guimenu> and select "
+"<guimenuitem>Terminal</guimenuitem>. Then type the following command:"
+msgstr ""
+"Obriu el <guimenu>Menu</guimenu> i seleccioneu "
+"<guimenuitem>Terminal</guimenuitem>. Aleshores teclegeu l'ordre següent:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                    <command>apt install "
+"<replaceable>opera</replaceable></command>\n"
+"                "
+msgstr ""
+"\n"
+"                    <command>apt "
+"install<replaceable>opera</replaceable></command>\n"
+"                "
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Make sure Synaptic is closed before using APT. Synaptic is using APT in the "
+"background so both can't run at the same time. The same goes for the "
+"Software Manager."
+msgstr ""
+"Assegureu-vos que heu tancat el Synaptic abans de fer servir l'APT. El "
+"Synaptic fa servir l'APT en el fons, i els dos no poden funcionar alhora. "
+"Igualment passa amb el Gestor de Programari."
+
+#. Tag: title
+#, no-c-format
+msgid "Removing software"
+msgstr "Com suprimir programari"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You can use the Software Manager to remove software. Simply find the "
+"software you want to remove and click on <guibutton>Remove</guibutton>."
+msgstr ""
+"Podeu usar el Gestor de Programari per eliminar programari. Simplement heu "
+"de trobar el programari que voleu eliminar i clicar a "
+"<guibutton>Elimina</guibutton>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"With Synaptic, you can remove packages by clicking on them and by selecting "
+"<guimenuitem>Mark for Removal</guimenuitem>. Changes are applied after you "
+"click on the <guibutton>Apply</guibutton> button."
+msgstr ""
+"Amb el Synaptic podeu eliminar paquets clicant-hi i seleccionant "
+"<guimenuitem>Marca per eliminar</guimenuitem>. Els canvis s'apliquen després "
+"que feu clic al botó <guibutton>Aplica</guibutton>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"With APT it's even simpler... say you want to remove Opera, open a "
+"<guimenuitem>Terminal</guimenuitem> from the <guimenu>Menu</guimenu> and "
+"type:"
+msgstr ""
+"Amb l'APT encara és més fàcil. Posem que voleu eliminar l'Opera: obriu un "
+"<guimenuitem>Terminal</guimenuitem> del <guimenu>Menu</guimenu> i teclegeu:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                    <command>apt remove "
+"<replaceable>opera</replaceable></command>\n"
+"            "
+msgstr ""
+"\n"
+"                    <command>apt "
+"remove<replaceable>opera</replaceable></command>\n"
+"            "
+
+#. Tag: title
+#, no-c-format
+msgid "Updating software"
+msgstr "Com actualitzar el pogramari."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If a new version of any package installed on your computer is made available "
+"you can upgrade to it. It may be a security update for some component of the "
+"operating system, it may be an optimization in one specific library or it "
+"may even be a newer version of Firefox. Basically, your system is made of "
+"packages and any part of it can be updated by updating some of those "
+"packages. This means replacing the current package with a newer version."
+msgstr ""
+"Si hi ha disponible alguna versió nova de qualsevol paquet que hi hagi "
+"instal·lat al vostre ordinador podeu actualitzar-lo. Pot ser una "
+"actualització de seguretat d'algun component o del sistema operatiu, pot ser "
+"una optimització d'una llibreria específica o pot ser inclús una nova versió "
+"del Firefox. Bàsicament, el sistema està fet de paquets i qualsevol de les "
+"seves parts pot ser actualitzada actualitzant alguns dels paquets, "
+"substituint el paquet actual per una versió més nova."
+
+#. Tag: para
+#, no-c-format
+msgid "There are many ways to do this but only one of them is recommended."
+msgstr "Hi ha diverses maneres de fer-ho, però se'n recomana només una."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You could use APT to upgrade all your packages with one simple command "
+"(<command>apt upgrade</command>) but we recommend you don't do so. The "
+"reason is that it doesn't make any distinctions in selecting which updates "
+"to apply and assumes that you want all of them."
+msgstr ""
+"Es pot fer servir l'APT per actualitzar els paquets amb una ordre senzilla "
+"(<command>apt upgrade</command) però no és recomanable. La raó és que "
+"aquesta ordre no fa distincions en quines actualitzacions aplicar i assumeix "
+"que les ha d'instal·lar totes."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Some parts of the system are safe to update and some others aren't. For "
+"instance, by updating your kernel (the part which is responsible among other "
+"things for hardware recognition) you might break your sound support, your "
+"wireless card support or even some applications (such as VMWare and "
+"Virtualbox) which are closely linked to the kernel."
+msgstr ""
+"Hi ha parts del sistema que es poden actualitzar de manera segura i d'altres "
+"que no. Per exemple, actualitzant el nucli (la part responsable, entre "
+"altres coses, de reconèixer el maquinari), potser s'espatlla el suport de "
+"so, o la targeta sense fils o inclús algunes aplicacions (com VMWare i "
+"Virtualbox) que estiguin estretament enllaçades amb el nucli."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint comes with a tool called the Update Manager. It gives more "
+"information about updates and lets you define how safe an update must be "
+"before you want to apply it. It looks like a shield and sits on the bottom-"
+"right corner of your screen."
+msgstr ""
+"El Linux Mint té una eina anomenada Gestor d'Actualitzacions. Dóna més "
+"informació sobre les actualitzacions i permet definir com de segura ha de "
+"ser una actualització abans d'aplicar-la. Sembla un escut i està al vèrtex "
+"inferior dret de la pantalla."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you place your mouse pointer on top of it, it will tell you either that "
+"your system is up to date or, if it isn't, how many updates are available."
+msgstr ""
+"En col·locar el cursor sobre seu, dirà si el sistema està actualitzat o, si "
+"no ho està, quantes actualitzacions hi ha disponibles."
+
+#. Tag: title
+#, no-c-format
+msgid "The list of available updates"
+msgstr "La llista de les actualitzacions disponibles."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you click on the lock icon, the Update Manager opens and shows you the "
+"updates that are available. The interface is very easy to use. For each "
+"package update you can read the description, the changelog (this is where "
+"developers explain their changes when they modify the package), and "
+"eventually if Linux Mint assigned warnings or extra information about the "
+"updates. You can also see which version is currently installed on your "
+"computer and which version is available for you to update to. Also you have "
+"a symbol showing if it's a package update or a security update."
+msgstr ""
+"Si cliqueu a la icona, el gestor de programari s'obre i mostra les "
+"actualitzacions disponibles. La interfície és molt fàcil de fer servir. Per "
+"cada actualització de paquet es poden llegir les descripcions, el registre "
+"de canvis (aquí és on els desenvolupadors expliquen els canvis quan "
+"modifiquen un paquet), i de vegades si el Linux Mint ha assignat "
+"advertències o informació extra sobre les actualitzacions. També es pot "
+"veure quina versió hi ha instal·lada a l'ordinador i quina versió és la que "
+"hi ha disponible per a l'actualització. També hi ha un símbol que diu si és "
+"una actualització de paquet o de seguretat."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Finally, you can see the stability level assigned to the package update. "
+"Each package update brings improvements or fixes security issues but that "
+"doesn't mean they're risk-free and can't introduce new bugs. The stability "
+"level is assigned to each package by Linux Mint and gives you an indication "
+"of how safe it is for you to apply an update."
+msgstr ""
+"Finalment, es pot veure el nivell d'estabilitat assignat a l'actualització "
+"del paquet. Cada actualització porta millores o arregla assumptes de "
+"seguretat però això no significa que estiguin lliures de risc i que no "
+"puguin tenir nous errors. Linux Mint assigna a cada paquet el seu nivell "
+"d'estabilitat i dóna una indicació de com n'és de segur aplicar-ne "
+"l'actualització."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Of course you can click on the columns to sort by stability level, status, "
+"package name or by version. You can select all updates or unselect all of "
+"them by using the <guibutton>Clear</guibutton> and <guibutton>Select "
+"All</guibutton> buttons."
+msgstr ""
+"Es pot clicar a les columnes per ordenar la llista per nivell d'estabilitat, "
+"estat, nom del paquet o versió. Es poden seleccionar totes les "
+"actualitzacions o desseleccionar-les totes usant els botons "
+"<guibutton>Neteja</guibutton> i <guibutton>Selecciona-ho tot</guibutton>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Level 1 and Level 2 updates are risk-free and you should always apply them. "
+"Level 3 updates should be safe but, although we recommend you take them, "
+"make sure you look over them on the list of updates. If you experience a "
+"problem with a particular Level 3 update, tell the Linux Mint development "
+"team so they can take measures to make that update a Level 4 or a Level 5 so "
+"as to warn or even discourage others against applying it."
+msgstr ""
+"Les actualitzacions de nivell 1 i 2 estan lliures de risc i s'haurien "
+"d'aplicar sempre. Les actualitzacions de nivell 3 haurien de ser segures, "
+"però tot i que es recomana que s'apliquin, caldria que se'ls hi donés un cop "
+"d'ull. Si hi ha algun problema amb alguna actualització de nivell 3 en "
+"concret, cal dir-ho a l'equip de desenvolupament de Linux Mint per tal que "
+"puguin prendre mesures per fer que aquesta actualització sigui de nivell 4 o "
+"5, així com d'advertir o inclús dissuadir altres persones d'aplicar-la."
+
+#. Tag: title
+#, no-c-format
+msgid "The Update Manager preferences"
+msgstr "Preferències del Gestor d'Actualitzacions"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you click on the <guibutton>Preferences</guibutton> button you should see "
+"the screen above. By default the Update Manager tells you about Level 1, 2 "
+"and 3 updates. You can decide to make Level 4 and 5 "
+"<guilabel>visible</guilabel>. This will make more updates appear in the "
+"list. If you want to you can even make Level 4 and 5 updates "
+"<guilabel>safe</guilabel> (although this is not recommended). This will "
+"cause them to be selected by default within the Update Manager."
+msgstr ""
+"Clicant al botó <guibutton>Preferències</guibutton> s'ha de veure aquesta "
+"pantalla. Per defecte, el gestor d'actualitzacions informa de les "
+"actualitzacions de nivell 1, 2 i 3. Es pot decidir fer "
+"<guilabel>visibles</guilabel> també les de nivell 4 i 5. Això farà que hi "
+"hagi més actualitzacions a la llista. Si es vol, es pot fer que les "
+"actualitzacions de nivell 4 i 5 siguin <guilabel>segures</guilabel> (tot i "
+"que no és recomanable). Això farà que el gestor d'actualitzacions les "
+"seleccioni per defecte."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Update Manager only counts 'safe' updates. So when it tells you your "
+"system is up to date, it means there are no updates available assigned with "
+"a level that you defined as being 'safe'."
+msgstr ""
+"El gestor d'actualitzacions només té en compte les actualitzacions "
+"\"segures\". Per tant, quan diu que el sistema està actualitzat, significa "
+"que no hi ha actualitzacions disponibles assignades amb un nivell definit "
+"com a \"segur\"."
+
+#. Tag: para
+#, no-c-format
+msgid "The Update Manager only shows 'visible' updates in the list."
+msgstr ""
+"El gestor d'actualitzacions només mostra actualitzacions \"visibles\" a la "
+"llista."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"For example, if you made all levels 'visible' and only Level 1 and 2 'safe', "
+"you would see a lot of updates in the list, but the Update Manager would "
+"probably tell you that your system was up to date."
+msgstr ""
+"Per exemple, si es fessin tots els nivells \"visibles\" i només el nivell 1 "
+"i 2 \"segurs, es veurien moltes actualitzacions a la llista, però el gestor "
+"d'actualitzacions probablement dirà que el sistema està actualitzat."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <guilabel>Auto-Refresh</guilabel> tab allows you to define how often the "
+"Update Manager checks for updates."
+msgstr ""
+"La pestanya <guilabel>Auto-Actualitza</guilabel> permet definir com  de "
+"sovint el gestor d'actualitzacions ha de cercar el gestor d'actualitzacions."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <guilabel>Update Method</guilabel> tab lets you define how the Update "
+"Manager checks for new updates."
+msgstr ""
+"La pestanya <guilabel>Mètode d'actualització</guilabel> permet definir com "
+"el gestor d'actualitzacions ha de cercar noves actualitzacions."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <guilabel>Include dist-upgrade packages</guilabel> option allows you to "
+"define whether the Update Manager should install new dependencies or not. "
+"For instance if package A version 1 was installed on your computer and "
+"package A version 2 became available, but version 2 had a new dependency on "
+"package B which isn't installed on your computer... what would happen?"
+msgstr ""
+"L'opció <guilabel>Inclou paquets que requereixin la instal·lació o "
+"eliminació d'altres paquets</guilabel> permet definir si el gestor "
+"d'actualitzacions ha d'instal·lar noves dependències o no. Per exemple, si "
+"el paquet A versió 1 estava instal·lat a l'ordinador i ara hi ha disponible "
+"el paquet A versió 2, però la versió 2 té una nova dependència al paquet B "
+"que no està instal·lat a l'orinador, què ha de fer?"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you left this checkbox unchecked, version 2 would not appear as an update "
+"in the list of updates."
+msgstr ""
+"Si es deixa aquesta casella desmarcada, la versió 2 no apareixerà com a "
+"actualització a la llista d'actualitzacions."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you checked this checkbox, it would, and if selected it would install "
+"package B as a dependency."
+msgstr ""
+"Si es deixa aquesta casella marcada sí que apareixerà i instal·larà el "
+"paquet B com a dependència.."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Be careful with this option as dependency can install new packages on your "
+"behalf but they can also sometimes remove packages you already have "
+"installed."
+msgstr ""
+"S'ha d'anar amb compte amb aquesta opció, ja que tal i com pot instal·lar "
+"nous paquets també, a vegades, pot eliminar-ne d'instal·lats."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In the <guilabel>Ignored packages</guilabel> tab you can define packages for "
+"which you do not want to receive updates. '?' and '*' wildcard characters "
+"are supported."
+msgstr ""
+"A la pestanya <guilabel>Paquets ignorats</guilabel> es poden definir els "
+"paquets pels quals no es volen rebre actualitzacions. S'admeten els "
+"caràcters comodí \"?\" i \"*\"."
+
+#. Tag: para
+#, no-c-format
+msgid "The <guilabel>Proxy</guilabel> tab lets you define proxy settings."
+msgstr ""
+"La pestanya <guilabel>Proxy</guilabel> permet definir les configuracions del "
+"servidor intermediari."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The last tab lets you change the icons used by the Update Manager in the "
+"system tray."
+msgstr ""
+"L'última pestanya permet canviar les icones usades pel gestor "
+"d'actualitzacions en la safata del sistema."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you get errors with the Update Manager, you can check the logs. Right "
+"click on the lock icon in the system tray and select "
+"<guilabel>Information</guilabel>. The following screen appears:"
+msgstr ""
+"Si hi ha errors amb el gestor d'actualitzacions, es poden visualitzar els "
+"registres. Cal fer clic amb el botó dret a l'escut a la safata del sistema i "
+"seleccionar <guilabel>Informació</guilabel>. Apareixerà la pantalla següent:"
+
+#. Tag: title
+#, no-c-format
+msgid "The Update Manager logs"
+msgstr "Els registres del gestor d'actualitzacions."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In this screen you can see the process ID of the Update Manager and the "
+"content of its log file."
+msgstr ""
+"En aquesta pantalla podeu veure la ID del procés del gestor "
+"d'actualitzacions i el contingut del seu fitxer de registre."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You can also review the updates that were applied on your system by clicking "
+"on the <guimenu>View</guimenu> menu and by selecting <guimenuitem>History of "
+"Updates</guimenuitem>."
+msgstr ""
+"També podeu revisar les actualitzacions que s'han aplicat al sistema clicant "
+"al menú <guimenu>Mostra</guimenu> i seleccionant <guimenuitem>Historial "
+"d'actualitzacions</guimenuitem>."
+
+#. Tag: title
+#, no-c-format
+msgid "The history of updates"
+msgstr "L'Historial d'actualitzacions"

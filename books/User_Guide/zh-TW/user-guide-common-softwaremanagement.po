@@ -1,0 +1,982 @@
+# Chinese (Traditional) translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-19 04:26+0000\n"
+"Last-Translator: Steven Liao <stevenliao0119@yahoo.com.tw>\n"
+"Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Software Management"
+msgstr "軟體管理"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you have installed Linux for the first time, then you may not be familiar "
+"with the concept of organizing software into "
+"<wordasword>packages</wordasword>."
+msgstr "如果您是第一次安裝 Linux，您可能對於將軟體打包成 <wordasword>套件</wordasword> 的概念不熟悉。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You will soon become familiar with package management and appreciate the "
+"advantages it offers in terms of security, control and ease of use."
+msgstr "您將很快地熟悉套件管理，並欣賞其所提供的安全性，管理，與易用等種種好處。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"We have tried to make it so that all or most of your hardware was detected "
+"and drivers were installed automatically so that your computer would work "
+"out of the box. We have also tried to make it so that you could do many of "
+"the things you want to without having to look around for third party "
+"software on websites. You may have noticed that your Linux Mint installation "
+"already has a full office suite, a professional-quality image-editing "
+"solution, an IM and an IRC client, a disk burner, and several media players "
+"(as well as many other basic accessories). Relax, it's okay! You haven't "
+"stolen anything! This is what free software is all about! And the truly "
+"great thing about package management in Linux Mint and generally is that you "
+"should never need to look far and wide for extra software, even when the "
+"time comes that you do want more functionality from your Linux Mint system."
+msgstr ""
+"我們致力於自動偵測，並安裝所有或大多數您硬體的驅動程式，讓您的電腦在安裝完 Linux Mint "
+"後，就能立即運作。我們也試著讓您不用到網路上，尋求第三方軟體來做您想做的事。你或許已經發現，您所安裝的 Linux Mint，已經內建完整的 "
+"Office 套件，專業影像編輯軟體，IM 與 IRC 聊天客戶端，燒錄軟體，與數種媒體播放器 "
+"(還有許多其他基本的附屬應用程式)。放輕鬆別擔心盜版問題! 我們用的都是自由軟體! 更棒的是，透過套件管理員，當您需要給您的 Linux Mint "
+"系統添加新功能時，你不用到到處尋找額外的軟體。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"This section is intended to explain how this works and the advantages that "
+"it can bring to you. It's a bit long, but hopefully it will provide you with "
+"a good understanding of the philosophy behind package management and why it "
+"is considered a Good Thing (a phrase commonly capitalized by Linux users to "
+"mean that something is squarely in the category of good). If you're in a "
+"hurry, you can skip to the next section which will tell you how to actually "
+"use the package system."
+msgstr ""
+"本節意在解釋套件管理員的原理與優勢。它有點長，不過希望這能讓您好好地理解套件管理員背後的哲學，以及為何它會被 Linux "
+"使用者一致認定為「好東西」。如果您趕時間，可以直接跳到下一節，去學習如何實際使用套件系統。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The problems with browsing software vendors' websites and downloading and "
+"installing the software they offer are many:"
+msgstr "透過瀏覽軟體商網站下載，並安裝軟體會造成許多問題:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is difficult or impossible to find out if the software has been tested to "
+"work with your operating system"
+msgstr "要知道測試過的軟體，是否能在您的作業系統上正常運作，是非常困難或不可能的。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know how this software will interact with "
+"the other software installed on your system"
+msgstr "要知道這個軟體，是否會與其他安裝在您系統上的軟體相互影響，是非常困難或不可能的。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know if you can place your trust that "
+"software from an unknown developer software will not cause any harm, willful "
+"or negligent, to your system Even if you know about a specific piece of "
+"software and its developer, you cannot be entirely sure that you are not "
+"downloading an executable that has been swapped out by a malicious third "
+"party for some type of malware."
+msgstr ""
+"要知道您是否可以信任未知開發者所開發的軟體，不會對您的系統造成任何危害 "
+"(無論是有心或無意)，是非常困難或不可能的。即便您對軟體及其開發者有所了解，也不能完全確定，下載的執行檔是否被第三方調包，或植入惡意程式。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Furthermore, a problem with downloading and installing multiple different "
+"programs, from multiple different developers, is that there is no managerial "
+"infrastructure. Before you say “big deal”, consider how you are going to "
+"keep all these different pieces of software up to date. If you get tired of "
+"a program and want to remove it, how do you know how to achieve that? The "
+"program in question might not have come with a removal option, and even if "
+"it did, much of the time this will fail to remove the software cleanly and "
+"completely. In a very real sense, when you ran that installer program, you "
+"gave up some of your control of your computer to a program written entirely "
+"by a complete stranger."
+msgstr ""
+"此外，從多個不同的開發者下載，並安裝多個不同的程式的另一個問題，是缺乏管理架構。在您覺得「沒什麼」之前，請您先想想，要如何讓這些不同的軟體，保持最新狀態。"
+"如果您想要移除一個程式，您如何知道該怎麼做? "
+"有問題的軟體可能沒有移除選項，即便它有，大多數的時候，您還是無法乾淨而完整地移除它。實際上，當您執行安裝程式時，您已經將您電腦的部分控制權，交給一個由陌生"
+"人所撰寫的程式。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Finally, software which is distributed in this way is often, by virtue of "
+"necessity, “static”. This means that not only do you need to download the "
+"program itself, but also all of the data libraries that are required for it "
+"to run. Since a third-party software developer cannot know which data "
+"libraries you may already have available on your system, the only way that "
+"they can guarantee it will run on your system is by supplying all of the "
+"data libraries it needs along with the program itself. This means bigger "
+"downloads, and it means that when the time comes to update a given library, "
+"it needs to be done separately for all those programs using it, instead of "
+"just once. In summary, the distribution of static software results in the "
+"unnecessary duplication of a lot of work."
+msgstr ""
+"最後，以這種方式發行的軟體，不得不說，通常是「靜態」的。意思是您不只要下載程式，還要下載所有執行所需的資料函式庫。因為第三方軟體開發者無法知道，您的系統裡"
+"有哪些資料函式庫，所以，唯一有辦法保證程式能在您的系統成功執行的方法，是把所有必須的資料函式庫， "
+"與程式一起提供下載。這代表著更大的下載量，也代表著當您需要更新函式庫時，無法一次完成，而是要為所有使用它的程式，個別進行更新。總之，靜態軟體的發行，造成了"
+"大量不必要的重複工作。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Package management in Linux Mint, and GNU/Linux operating systems in "
+"general, has been established for some time and is the preferred method for "
+"managing software as it avoids all of these issues. We've been safely and "
+"automatically installing our software since the early 1990s."
+msgstr ""
+"Linux Mint 套件管理員，與一般 GNU/Linux "
+"作業系統，都已經建立一段時間。因為套件管理員能避免以上所有問題，所以是我們偏好的軟體管理方法。從上個世紀九零年代初開始，我們已經用這個方法，安全而且自動地"
+"安裝我們的軟體。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Software is first written by a developer, as you might expect, and this end "
+"of the production chain is known as “upstream”. As a user of a Linux "
+"distribution, you are referred to as being at the furthest point "
+"“downstream” (unless you're an admin, in which case your users are the "
+"furthest point downstream, but you knew that because you're an admin). Once "
+"the developer is happy with the program or the update to the program they "
+"have written, they will release the source code for it. They will also "
+"communicate in their documentation which data libraries or other programs "
+"they took advantage of when they were writing the program. They have been "
+"doing this for some time and there are standardized and venerable ways for "
+"them to do this. Note that, with a few exceptions (usually either hardware "
+"manufacturers who release drivers for Linux, like nVidia or ATI, or certain "
+"major companies like Adobe, who we can trust) they release the actual source "
+"code for the program, that is, the list of instructions in that program in a "
+"human readable form. This has a number of implications, but most importantly "
+"for this discussion it means that they are willing to have their software "
+"peer reviewed by anyone and everyone with an Internet connection. It's "
+"awfully difficult to sneak spyware into your program when you're letting "
+"everyone see what you've written!"
+msgstr ""
+"軟體最先是由開發者所撰寫，生產鏈的這端稱為「上游」。身為 Linux "
+"發行版的使用者，您身在最遠端的「下游」(除非您是系統管理員，您的使用者才是最遠端的下游)。當開發者對他們所撰寫的程式或程式更新感到滿意時，他們會發布原始碼"
+"，並會透過文件溝通，告知他們所利用的資料函式庫或程式。這套作法已經行之有年，且已經建立標準作業流程。除了少數例外 (通常不是發布 Linux "
+"驅動程式的硬體製造商，如 NVIDIA 或 AMD, 就是我們可以信任的大公司，如 "
+"Adobe)，他們所發布的，是程式的實際原始碼，也就是人類可讀的指令列表格式。這代表著多重含意，但在這裡最重要的是，這代表著他們願意讓他們的軟體，接受任何"
+"網路使用者的同儕審查。當您讓所有人查看您所撰寫的程式時，要在其中挾帶間諜軟體，是極端困難的!"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The software now moves down the stream to package maintainers, who are "
+"either volunteers or paid employees working for a Linux distribution. It is "
+"their responsibility to compile the source code for the software, test it on "
+"the distribution to make sure that it works, resolve any problems that they "
+"encounter and finally package the compiled (i.e., machine-readable) software "
+"in a convenient format. This package contains the executable program(s), "
+"their configuration files, and the instructions the package management "
+"software needs to successfully install it. Note that it won't ordinarily "
+"contain any static libraries, since it doesn't need to – the libraries are "
+"provided by other packages, and are therefore known as shared libraries. "
+"Your package management software will know if that a particular package "
+"requires another package to be installed first (like a shared library), "
+"because, as you will remember, the data libraries and related packages "
+"needed for the software to work were declared further upstream and that "
+"information is included in the package. The instructions are sufficiently "
+"detailed that even specific versions of other packages can be requested to "
+"ensure interoperability. The finished package is then uploaded to a special "
+"file server, which is called a software repository."
+msgstr ""
+"軟體接著往下游移動至套件維護者手裡。套件維護者是為 Linux "
+"發行版工作的志願者或員工。他們負責編譯軟體原始碼，在發行版上測試軟體以確定可以運作，並解決任何遇到的問題，最後將編譯過 (即機器可讀) "
+"的軟體，打包成方便的套件格式。這個套件包含執行程式，組態檔案，與套件管理軟體所需的安裝指令。套件通常不會包含任何靜態函式庫，函式庫會由其他套件提供，因此被"
+"稱為共享函式庫。您的套件管理軟體會知道，安裝某個套件之前， 是否需要安裝其他套件 "
+"(如共享函式庫)。這是因為軟體所需的資料函式庫與相關套件，已被更上游所宣告，而且這個資訊已被包含在套件中。其指令詳細到足以請求特定版本的其他套件，來確保互"
+"通性。完成的套件，接著會被上傳到一個稱為軟體套件庫的特殊檔案伺服器。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is from that single location that you are able to download and install "
+"the software you need. You will know that the location is bona fide, because "
+"it is signed with a certificate that your package manager will check. You "
+"will also know that each individual package that you install is secure, "
+"because each package is itself signed by a GPG key, which your package "
+"manager will also check. Your package manager will even run an MD5 sum on "
+"each package to make sure that nothing went wrong when it was downloading, "
+"just like we did before with the LiveDVD iso. Notice how it's doing all of "
+"this for you. You're just sitting back, sipping a martini, and chatting in "
+"#linuxmint on xchat. The package manager has downloaded the packages you "
+"have selected, it will follow, to the letter (computers are fastidious in "
+"following instructions), the instructions in the package to perfectly "
+"install your software, and all of its dependencies, in the right order. "
+"There is no space for human error – if the package worked on the "
+"maintainer's computer, then it ought to on yours because the package manager "
+"will follow exactly the same procedure."
+msgstr ""
+"套件庫，是您可以下載與安裝所需軟體的單一位置。因為您的套件管理員，會檢查套件庫被簽發的憑證，所以您會知道這是一個善意位置。因為您的套件管理員，也會檢查個別"
+"套件被簽發的 GPG 金鑰，所以您也會知道，自己所安裝的套件是安全的。正如我們下載 LiveDVD ISO "
+"檔時一樣，您的套件管理員，甚至會為個別套件執行 MD5 校驗和，來確保下載時沒有出現錯誤。 "
+"當您所選擇的套件下載完成之後，套件管理員會依照套件中的指令，將您的軟體與其相依性套件，完美地以正確的順序安裝。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"When it comes time to check for software updates, your package manager will "
+"automatically compare the software version that you have against what is "
+"available in the repository, and do all the necessary work to keep your "
+"system running smoothly and securely. So, if version 2.4 of BestSoft is "
+"uploaded to the repository, and you have version 2.3, the package manager "
+"will compare those version numbers, and offer to install the latest version, "
+"taking care, of course, of all the dependencies for the newer version of the "
+"software."
+msgstr ""
+"檢查軟體更新時，套件管理員會自動比對，您現有的軟體版本，與套件庫上可用的軟體版本，並完成所有必要工作，讓您的系統能維持順暢而安全地運作。例如，假設您已安裝"
+" 2.3 版的 BestSoft，當 2.4 版被上傳至套件庫時，套件管理員會比對版本數，提供安裝最新版本，並妥善管理新版軟體的所有相依性套件。"
+
+#. Tag: para
+#, no-c-format
+msgid "Sounding good yet? It gets better."
+msgstr "聽起來不錯吧? 它還在持續改善當中。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Humans err where computers don't and from time to time something may go "
+"wrong in this process. Perhaps you will, by accident, install hardware "
+"drivers for the wrong piece of hardware and this might break something. "
+"We've all done that. Or perhaps there's a bug or your favorite feature was "
+"removed by the program's developer for some reason. These problems "
+"demonstrate, paradoxically, the strength and security of package management. "
+"Because your package manager keeps fastidious records of everything it ever "
+"does, it is able to reverse installations, cleanly and completely. It will "
+"make sure that removing one package doesn't break any others, and you can "
+"even tell it specifically to do things like not automatically upgrade "
+"certain packages, because you like them the way they are, or to revert to an "
+"earlier version. Finally, the whole process is very heavily peer-reviewed. "
+"Because you are part of a large community of Linux users, all using the same "
+"repositories to obtain their software, if anything goes wrong you can be "
+"absolutely sure there will be a big fuss about it, and that the problem will "
+"be resolved quickly! In this way, software distribution in GNU/Linux "
+"distributions is very much based on trust, from the moment the original "
+"developer displays their source code for all to see, to the open discussion "
+"on the distribution's website. You can be confident in the software you "
+"obtain, not only because of the security protocols already mentioned, but "
+"because if anything does go wrong everyone will be talking about it!"
+msgstr ""
+"人類不像電腦，非常容易犯錯。您可能不小心裝錯硬體驅動程式，而弄壞您的系統。程式開發者寫的程式可能有錯誤，或不小心移除您喜愛的功能。矛盾的是，這些問題說明了"
+"套件管理的長處與安全性。因為套件管理員近乎苛求地記錄所有做過的事，所以它有辦法乾淨而完整地反安裝。套件管理員可以確保移除某個套件不會損及其他任何套件，而您"
+"也可以要求它做特定的事情，例如不要自動升級特定套件，或將特定套件還原至舊版本。最後，整個過程都經過非常重度的同儕審查。您也是龐大 Linux "
+"使用者社群的一份子，大家都是使用同樣的套件庫來取得軟體，如果出錯，您可以想見，其必然會引起很大的騷動，所以問題會被很快地解決! 因此，在 "
+"GNU/Linux "
+"作業系統中的軟體發行，大多是基於信任，從原本的開發者，對所有人展示他們的原始碼開始，到發行網頁上的公開討論都是。您可以對您從套件庫下載的軟體有信心，不只是"
+"因為前面提到的安全協定，也是因為一旦出錯，很快就會引發討論!"
+
+#. Tag: para
+#, no-c-format
+msgid "Let's look again at our list of problems and see what we have solved:"
+msgstr "再讓我們看一次問題列表，看看什麼我們解決了哪些問題:"
+
+#. Tag: entry
+#, no-c-format
+msgid "Problem"
+msgstr "問題"
+
+#. Tag: entry
+#, no-c-format
+msgid "Solution"
+msgstr "解決方案"
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"It is difficult or impossible to find out if the software has been tested to "
+"work with your operating system."
+msgstr "要知道測試過的軟體，是否能在您的作業系統上正常運作，是非常困難或不可能的。"
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"You know that the software available to you through the repository has been "
+"thoroughly tested by the package maintainer and the testing team to work "
+"with your operating system. They won't want to get it wrong, mostly on "
+"principle, but also because if they do they'll soon be getting lots of "
+"emails."
+msgstr "當您可以從套件庫，取得某個軟體的時候，這個軟體已經被套件維護者，與測試團隊徹底地測試，而能在您的作業系統下運作。"
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know how this software will interact with "
+"the other software installed on your system."
+msgstr "要知道這個軟體，是否會與其他安裝在您系統上的軟體相互影響，是非常困難或不可能的。"
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Similarly, package maintainers try their utmost to ensure that packages "
+"won't conflict with other packages offered by their distribution. Of course, "
+"they might not have every last package installed on their testing machines "
+"(in fact, usually package maintainers build their packages on clean "
+"installations to ensure that they are standard), but if a member of the user "
+"community finds out that there is a problem, they will no doubt let the "
+"distribution team know, and the problem will be fixed, or at least worked "
+"on. Unless you are a beta tester, then you are unlikely to ever see such a "
+"conflict, because that's what beta testing is for."
+msgstr ""
+"套件維護者盡力確保他們所提供的套件，不會在發行版中與其他套件發生衝突。當然，他們可能沒辦法將所有套件，都安裝在他們的測試機器上 "
+"(事實上，套件維護者通常都在全新安裝的系統上，建立他們的套件，以確保標準化)，不過，當使用者社群的成員發現問題的時候，他們會讓發行團隊知道，以設法解決問題"
+"。除非您是個 beta 測試者，否則您不會見到這類衝突，因為這類衝突會在 beta 測試中解決。"
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know if you can place your trust in the "
+"developer that their software will not cause any harm, willful or negligent, "
+"to your system."
+msgstr "要知道您是否可以信任未知開發者所開發的軟體，不會對您的系統造成任何危害 (無論是有心或無意)，是非常困難或不可能的。"
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Package maintainers are hardly likely to package software they know will "
+"harm people's computers (including their own)! Only software which is known "
+"and trusted will ever make it to the repository."
+msgstr "套件維護者幾乎不可能，將已知會危害個人電腦 (包括他們自己的電腦) 的軟體打包成套件! 只有已知可信賴的軟體，會被上傳至套件庫。"
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Even if you know about a specific piece of software and its developer, you "
+"cannot be entirely sure that you are not downloading an executable that has "
+"been swapped out by a malicious third party for some type of malware."
+msgstr "即便您對軟體及其開發者有所了解，也不能完全確定，下載的執行檔是否被第三方調包，或植入惡意程式。"
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"In addition to the usual security measures put in place by the institutions "
+"who own the servers (usually prestigious academic or research institutions, "
+"or large companies), the repository and packages themselves are secured by "
+"certificates and GPG keys. If something's gone wrong, your package manager "
+"will tell you about it. The present author, in ten years of using Linux, has "
+"never once known anything to go wrong in this respect."
+msgstr ""
+"除了伺服器所屬機構所實施的例行安全措施之外，套件庫與套件本身，皆由憑證與 GPG "
+"金鑰提供擔保。如果出現錯誤，您的套件管理員會在第一時間告訴您。根據筆者十年來使用 Linux 的經驗，這類錯誤從來沒有出現過。"
+
+#. Tag: entry
+#, no-c-format
+msgid "It is difficult to remove (all traces of) installed programs."
+msgstr "要完全移除安裝程式，是非常困難的。"
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Because the package management software keeps a complete record of all of "
+"its actions, it is quite capable of reversing any steps that it took in the "
+"past, while ensuring that removing one package will not cause any other "
+"package to fail."
+msgstr "因為套件管理軟體，完整地保留所有做過動作的記錄，所以能夠回復任何做過的步驟，同時確保移除一個套件，不會造成其他套件失效。"
+
+#. Tag: entry
+#, no-c-format
+msgid "Static packages are big and clunky."
+msgstr "靜態套件又大又肥。"
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Because you're using package management, you will only ever download static "
+"libraries when there is no shared alternative. If you need new shared data "
+"libraries to install a given program, your package manager will know this "
+"and install them for you automatically. You will only ever have to download "
+"a shared library once because, well, it's shared by all the programs that "
+"need it. If you end up removing the last package that needs a shared "
+"library, then the package management software will remove that too. But, if "
+"you decide that you do want to keep the shared object anyway, perhaps "
+"because you just know you'll need it later, then you can tell the package "
+"management software to do that, too."
+msgstr ""
+"因為您使用套件管理，所以除非真的沒有共享函式庫的代用品，您不會下載任何靜態函式庫。當您需要新的共享資料函式庫，來安裝特定程式時，您的套件管理員會知道該安裝"
+"哪些函式庫，並自動為您安裝。您只需下載共享函式庫一次，因為顧名思義，它可以被所有需要它的程式所共享。當您移除最後一個需要某個共享函式庫的套件時，套件管理軟"
+"體會移除該函式庫。當然，如果您將來可能還會用到這個共享函式庫，或者有其他理由讓您決定保留它，您也可以透過套件管理軟體，來保留該函式庫。"
+
+#. Tag: entry
+#, no-c-format
+msgid "I'm still not convinced."
+msgstr "我還沒有被說服。"
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Good! Post a message on the forums about it if you have a genuine concern "
+"about package management, or to ask about other people's experiences. It "
+"bears repeating that the package method of distribution in GNU/Linux relies "
+"on trust, so if there's a problem, we want to hear about it!"
+msgstr ""
+"很好! 如果您真的對套件管理有任何疑慮，請在討論區上發文，或詢問其他人的經驗。GNU/Linux "
+"上的套件發行是基於信任，所以如果有任何問題，我們都很樂意知道!"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"A final word. You may have been subjected to rumors to the effect that Linux "
+"isn't finished yet, or that if you use Linux then you are a beta-tester, or "
+"that Linux software is unstable. These are all half truths. “Linux” will "
+"never be “finished”, any more than any other major operating system can be "
+"considered “finished”. From the Linux kernel to the artwork on your screen, "
+"all the elements of your operating system will always be under some kind of "
+"development. This is because programmers are working hard to keep us up to "
+"date with the latest developments in programming and hardware technology. "
+"This does not mean that the software available for you to use is of bad "
+"quality. The base system at the core of Linux Mint has been under heavy "
+"development for about two decades now, and is very mature, stable, and "
+"proven. While there are definitely unstable versions of most of the software "
+"on your operating system, you won't be using them because you're not a beta "
+"tester. You know you're not a beta tester, because you're reading this. The "
+"software available to you on the repositories you use will always be stable "
+"and well tested, unless you change those repositories to the ones used by "
+"the testers (in which case congratulations, you've just become a tester). "
+"It's a bit of a no-brainer, really."
+msgstr ""
+"或許您曾經被流言洗腦，認為 Linux 是未完成的作品，而使用 Linux 是讓您自己當白老鼠 (beta 測試者)，或 Linux "
+"軟體都是不穩定的。這些都是片面說法。「Linux」永遠不會「完成」，不像其他主流作業系統，可以被視為「完成」。從 Linux "
+"核心到您畫面上的美術設計，所有您作業系統上的元素，一直都在開發改進當中。這是因為程式設計團隊，一直努力地讓我們的作業系統，跟得上程式與硬體科技的最新發展。"
+"這不代表著，提供您使用的軟體都是劣質品。Linux Mint "
+"核心的基礎系統，已經被重度開發近二十年，早已非常成熟，穩定，並通過時間的驗證。即便您作業系統上的大多數軟體，都有不穩定的版本，因為您不是 beta "
+"測試者，所以您不會有機會使用它們。套件庫上提供您使用的軟體，永遠都是穩定，且經過充分測試的，除非您將套件庫，變更為測試者使用的套件庫 "
+"(此時，我們會恭喜您晉身為測試者)。使用 Linux，真的完全不用擔心!"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"So, to summarize with an example, when you install Opera, Real Player or "
+"Google Earth in Linux Mint, these applications do not come from their "
+"original developers (Opera, Real and Google). Of course the upstream "
+"application comes from these developers, but only after they've been "
+"properly packaged and tested do they become available for you. So, in other "
+"words, you should never need to go and browse the Internet to look for "
+"software, as everything you need is available and already tested for you and "
+"for your system by the Linux Mint and Ubuntu teams. All you need to do is "
+"choose what you want to do."
+msgstr ""
+"以一個例子做總結，當您在 Linux Mint 安裝 Opera，Real Player，或 Google Earth "
+"時，這些應用程式，並非來自於它們原本的開發者。雖然上游應用程式來自這些開發者，但是只有在它們被妥善測試並打包成套件之後，才會提供給您下載。換言之，理論上，"
+"您永遠都不用透過瀏覽網路，去尋找軟體，Linux Mint 與 Ubuntu "
+"團隊，已經為您與您的系統測試，並提供所有您需要的軟體。所以，您只要選擇您需要用到的軟體就行了!"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint will update itself automatically through a tool called the Update "
+"Manager, which will update not only the base operating system, but all the "
+"software installed on your machine as well."
+msgstr "透過更新管理員，Linux Mint 會自動進行自我更新，不只更新基本的作業系統，還包含所有安裝在您電腦上的軟體。"
+
+#. Tag: para
+#, no-c-format
+msgid "It's that simple. Whew!"
+msgstr "就是這麼簡單!"
+
+#. Tag: title
+#, no-c-format
+msgid "Installing software"
+msgstr "安裝軟體"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Some of the most popular applications that are not installed by default in "
+"Linux Mint are Opera, Skype, Acrobat Reader, Google Earth and Real Player."
+msgstr ""
+"有些受歡迎的應用程式，並沒有內建在 Linux Mint，如 Opera，Skype，Acrobat Reader，Google Earth，與 "
+"Real Player。"
+
+#. Tag: title
+#, no-c-format
+msgid "Using the Software Manager"
+msgstr "使用軟體管理員"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The easiest way to install software in Linux Mint is to use the "
+"<wordasword>Software Manager</wordasword>."
+msgstr "在 Linux Mint 上安裝軟體，最簡單的方式，是使用 <wordasword>軟體管理員</wordasword>。"
+
+#. Tag: title
+#, no-c-format
+msgid "The Software Manager"
+msgstr "軟體管理員"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Open the <guimenu>Menu</guimenu> and select <guimenuitem>Software "
+"Manager</guimenuitem>."
+msgstr "開啟 <guimenu>選單</guimenu>，並選擇 <guimenuitem>軟體管理員</guimenuitem>。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Software Manager lets you browse the software made available for Linux "
+"Mint. You can browse by category, search by keyword or sort the software by "
+"rating and popularity."
+msgstr "軟體管理員，能讓您瀏覽 Linux Mint 上可用的軟體。您可以依類別瀏覽，搜尋關鍵字，依評等或人氣排序軟體。"
+
+#. Tag: title
+#, no-c-format
+msgid "Using Synaptic"
+msgstr "使用 Synaptic"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you want to install more than one application at a time or see more "
+"technical information about the packages, you can use "
+"<wordasword>Synaptic</wordasword>."
+msgstr ""
+"如果您打算一次安裝多個應用程式，或要閱讀更多關於套件的技術資訊，您可以使用 <wordasword>Synaptic</wordasword>。"
+
+#. Tag: title
+#, no-c-format
+msgid "Synaptic, the Package Manager"
+msgstr "套件管理員 Synaptic"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Open the <guimenu>Menu</guimenu> and select <guimenuitem>Synaptic Package "
+"Manager</guimenuitem>."
+msgstr ""
+"開啟 <guimenu>選單</guimenu>，並選擇 <guimenuitem>Synaptic 套件管理員</guimenuitem>。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Let's see how we can install Opera (an alternative to the Firefox Web "
+"browser):"
+msgstr "讓我們看看，如何安裝 Opera (Firefox 瀏覽器的代用品)"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Click on the <guibutton>Search</guibutton> button and type "
+"<wordasword>opera</wordasword>."
+msgstr "點擊 <guibutton>搜尋</guibutton> 按鈕，並輸入 <wordasword>opera</wordasword>。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Go through the list of packages and find the one corresponding to the Opera "
+"Web Browser."
+msgstr "到套件列表中，尋找 Opera 瀏覽器。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Tick the box and select <guimenuitem>Mark for Installation</guimenuitem>."
+msgstr "請勾選勾選框，並選擇  <guimenuitem>標記為安裝</guimenuitem>。"
+
+#. Tag: para
+#, no-c-format
+msgid "Click on the <guibutton>Apply</guibutton> button."
+msgstr "點擊 <guibutton>套用</guibutton> 按鈕。"
+
+#. Tag: title
+#, no-c-format
+msgid "Using APT"
+msgstr "使用 APT"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"APT is by far the most powerful package management tool in Linux Mint. Yet "
+"it's extremely simple to use."
+msgstr "APT，是 Linux Mint 至今最強大的套件管理工具。它非常地簡單好用!"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It's a command though, not a program with a graphical interface. If you're "
+"starting with Linux you'll probably prefer the Software Manager or Synaptic "
+"at first. As time goes on you'll likely enjoy things to be faster and more "
+"efficient."
+msgstr ""
+"儘管，APT 使用指令，而不是圖形介面的程式。如果，您才剛開始使用 Linux，或許您一開始，會偏好使用 Software Manager 或 "
+"Synaptic。但是隨著時光流逝，您很可能會慢慢地，喜歡上 APT 的快速與效率。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Now let's see how we could have installed Opera using the APT command line "
+"tool."
+msgstr "現在，我們來看看，如何使用 APT 命令列工具，來安裝 Opera。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Open the <guimenu>Menu</guimenu> and select "
+"<guimenuitem>Terminal</guimenuitem>. Then type the following command:"
+msgstr ""
+"開啟 <guimenu>選單</guimenu>，並選擇 <guimenuitem>終端機</guimenuitem>。然後輸入以下指令:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                    <command>apt install "
+"<replaceable>opera</replaceable></command>\n"
+"                "
+msgstr ""
+"\n"
+"                    <command>apt install "
+"<replaceable>opera</replaceable></command>\n"
+"                "
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Make sure Synaptic is closed before using APT. Synaptic is using APT in the "
+"background so both can't run at the same time. The same goes for the "
+"Software Manager."
+msgstr ""
+"在使用 APT 前，請先確認 Synaptic 已經關閉。Synaptic 在背景使用 APT，所以兩者不能同時執行。軟體管理員也不能與它們同時使用。"
+
+#. Tag: title
+#, no-c-format
+msgid "Removing software"
+msgstr "移除軟體"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You can use the Software Manager to remove software. Simply find the "
+"software you want to remove and click on <guibutton>Remove</guibutton>."
+msgstr "您可以使用軟體管理員來移除軟體。只要簡單地找到您要移除的軟體，並點擊 <guibutton>移除</guibutton>。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"With Synaptic, you can remove packages by clicking on them and by selecting "
+"<guimenuitem>Mark for Removal</guimenuitem>. Changes are applied after you "
+"click on the <guibutton>Apply</guibutton> button."
+msgstr ""
+"使用 Synaptic 時，如果要移除套件，您可以點擊它們，並選擇 <guimenuitem>標記為移除</guimenuitem>。變更會在您點擊 "
+"<guibutton>套用</guibutton> 按鈕後生效。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"With APT it's even simpler... say you want to remove Opera, open a "
+"<guimenuitem>Terminal</guimenuitem> from the <guimenu>Menu</guimenu> and "
+"type:"
+msgstr ""
+"使用 APT 就更簡單... 例如，如果您要移除 Opera，只要從 <guimenu>選單</guimenu> 開啟 "
+"<guimenuitem>終端機</guimenuitem>，並輸入:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                    <command>apt remove "
+"<replaceable>opera</replaceable></command>\n"
+"            "
+msgstr ""
+"\n"
+"                    <command>apt remove "
+"<replaceable>opera</replaceable></command>\n"
+"            "
+
+#. Tag: title
+#, no-c-format
+msgid "Updating software"
+msgstr "更新軟體"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If a new version of any package installed on your computer is made available "
+"you can upgrade to it. It may be a security update for some component of the "
+"operating system, it may be an optimization in one specific library or it "
+"may even be a newer version of Firefox. Basically, your system is made of "
+"packages and any part of it can be updated by updating some of those "
+"packages. This means replacing the current package with a newer version."
+msgstr ""
+"當安裝在您電腦裡的任何套件，有新版本時，您可以為它進行升級。它可能是作業系統元件的安全性更新，可能是特定函式庫的最佳化，或甚至是新版的 "
+"Firefox。基本上，您的系統是由套件所組成，所以可以透過更新套件，來進行更新。換言之，就是以新版套件，來取代現有套件。"
+
+#. Tag: para
+#, no-c-format
+msgid "There are many ways to do this but only one of them is recommended."
+msgstr "有很多方法可以達到這個目的，可是我們只建議其中一種。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You could use APT to upgrade all your packages with one simple command "
+"(<command>apt upgrade</command>) but we recommend you don't do so. The "
+"reason is that it doesn't make any distinctions in selecting which updates "
+"to apply and assumes that you want all of them."
+msgstr ""
+"您可以透過 APT，使用一個簡單的指令 (<command>apt "
+"upgrade</command>)，來升級您所有的套件，但是我們建議您不要這麼做。理由是，這個方法無法區別，或選擇要套用的更新，所以會自動假設您欲套用所"
+"有更新。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Some parts of the system are safe to update and some others aren't. For "
+"instance, by updating your kernel (the part which is responsible among other "
+"things for hardware recognition) you might break your sound support, your "
+"wireless card support or even some applications (such as VMWare and "
+"Virtualbox) which are closely linked to the kernel."
+msgstr ""
+"系統中，並非所有元件的更新都是安全的。例如，更新您的核心 "
+"(此元件負責硬體辨識)，可能會破壞您的音效支援，無線網卡支援，或甚至某些與核心緊密連結的應用程式 (如 VMWare 與 Virtualbox)。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint comes with a tool called the Update Manager. It gives more "
+"information about updates and lets you define how safe an update must be "
+"before you want to apply it. It looks like a shield and sits on the bottom-"
+"right corner of your screen."
+msgstr "Linux Mint 內建更新管理員。它給您更多關於更新的資訊，讓您在套用更新前，知道其安全性。它的圖示是盾牌狀，位於畫面的右下角。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you place your mouse pointer on top of it, it will tell you either that "
+"your system is up to date or, if it isn't, how many updates are available."
+msgstr "如果將您的滑鼠指標，移至盾牌圖示上方，它會告訴您，系統是否在最新狀態，或有多少更新可用。"
+
+#. Tag: title
+#, no-c-format
+msgid "The list of available updates"
+msgstr "可用更新列表"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you click on the lock icon, the Update Manager opens and shows you the "
+"updates that are available. The interface is very easy to use. For each "
+"package update you can read the description, the changelog (this is where "
+"developers explain their changes when they modify the package), and "
+"eventually if Linux Mint assigned warnings or extra information about the "
+"updates. You can also see which version is currently installed on your "
+"computer and which version is available for you to update to. Also you have "
+"a symbol showing if it's a package update or a security update."
+msgstr ""
+"如果您點擊盾牌圖示，更新管理員會開啟，並顯示可用更新。其介面非常簡單易用。每個套件更新都提供說明，變更記錄 (開發者用以解釋修改套件時所做的變更)，與 "
+"Linux Mint "
+"對該更新所發布的警告，或額外資訊。您也可以看到目前電腦中安裝的版本，與可供更新的版本。此外，更新旁邊會有個符號會告訴您，它是個套件更新，或是安全性更新。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Finally, you can see the stability level assigned to the package update. "
+"Each package update brings improvements or fixes security issues but that "
+"doesn't mean they're risk-free and can't introduce new bugs. The stability "
+"level is assigned to each package by Linux Mint and gives you an indication "
+"of how safe it is for you to apply an update."
+msgstr ""
+"最後，您可以看到套件更新的穩定性等級。套件更新用以改良套件，或修正安全性問題，但這不代表著它們本身不帶風險，或不會帶來新的錯誤。套件更新的安全性等級，由 "
+"Linux Mint 評定，告訴您套用更新時的安全性有多高。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Of course you can click on the columns to sort by stability level, status, "
+"package name or by version. You can select all updates or unselect all of "
+"them by using the <guibutton>Clear</guibutton> and <guibutton>Select "
+"All</guibutton> buttons."
+msgstr ""
+"您可以點擊欄位，來將更新依安全性等級，狀態，套件名稱，或版本數排序。您可以使用 <guibutton>全選</guibutton> 與 "
+"<guibutton>清除</guibutton> 按鈕，來全選或全不選套件更新。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Level 1 and Level 2 updates are risk-free and you should always apply them. "
+"Level 3 updates should be safe but, although we recommend you take them, "
+"make sure you look over them on the list of updates. If you experience a "
+"problem with a particular Level 3 update, tell the Linux Mint development "
+"team so they can take measures to make that update a Level 4 or a Level 5 so "
+"as to warn or even discourage others against applying it."
+msgstr ""
+"等級 1 與等級 2 的更新沒有風險，所以您應該總是套用更新。等級 3 "
+"的更新應該安全，雖然我們建議您套用更新，不過在更新前，請先詳閱更新資訊。如果您在套用等級 3 更新時遇到問題，請告知 Linux Mint "
+"開發團隊，我們會將這個更新移至等級 4 或等級 5，來警告，或甚至阻止其他使用者套用更新。"
+
+#. Tag: title
+#, no-c-format
+msgid "The Update Manager preferences"
+msgstr "更新管理員偏好設定"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you click on the <guibutton>Preferences</guibutton> button you should see "
+"the screen above. By default the Update Manager tells you about Level 1, 2 "
+"and 3 updates. You can decide to make Level 4 and 5 "
+"<guilabel>visible</guilabel>. This will make more updates appear in the "
+"list. If you want to you can even make Level 4 and 5 updates "
+"<guilabel>safe</guilabel> (although this is not recommended). This will "
+"cause them to be selected by default within the Update Manager."
+msgstr ""
+"如果您點擊 <guibutton>偏好設定</guibutton> 按鈕，您會看到以上畫面。更新管理員預設告知您關於等級 1，2，3 "
+"的更新。您可以決定是否讓等級 4，5 <guilabel>可見</guilabel>。這會讓更多更新，出現在列表當中。 您甚至可以將等級 4，5 "
+"的更新設定為 <guilabel>安全</guilabel> (儘管不建議您這麼做)。這會讓更新管理員，預設選擇等級 4，5 的更新。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Update Manager only counts 'safe' updates. So when it tells you your "
+"system is up to date, it means there are no updates available assigned with "
+"a level that you defined as being 'safe'."
+msgstr "更新管理員只計算「安全」更新。所以當它告訴您，系統已經是最新狀態，代表著，沒有被您定義為「安全」等級的更新可用。"
+
+#. Tag: para
+#, no-c-format
+msgid "The Update Manager only shows 'visible' updates in the list."
+msgstr "更新管理員只在列表當中，顯示「可見」的更新。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"For example, if you made all levels 'visible' and only Level 1 and 2 'safe', "
+"you would see a lot of updates in the list, but the Update Manager would "
+"probably tell you that your system was up to date."
+msgstr ""
+"例如，如果您設定所有等級「可見」，但是只有等級 1，2「安全」，您會在列表當中見到大量更新，但是更新管理員可能仍會告訴您，系統已經是最新狀態。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <guilabel>Auto-Refresh</guilabel> tab allows you to define how often the "
+"Update Manager checks for updates."
+msgstr "<guilabel>自動重新整理</guilabel> 分頁，讓您可以定義更新管理員檢查更新的頻率。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <guilabel>Update Method</guilabel> tab lets you define how the Update "
+"Manager checks for new updates."
+msgstr "<guilabel>更新方法</guilabel> 分頁，讓您可以定義更新管理員如何檢查更新。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <guilabel>Include dist-upgrade packages</guilabel> option allows you to "
+"define whether the Update Manager should install new dependencies or not. "
+"For instance if package A version 1 was installed on your computer and "
+"package A version 2 became available, but version 2 had a new dependency on "
+"package B which isn't installed on your computer... what would happen?"
+msgstr ""
+"<guilabel>包含需要安裝或移除其他套件的更新</guilabel> "
+"選項，讓您可以定義更新管理員，是否安裝新的相依性套件。例如，如果您電腦上，裝有套件 A 版本 1，而現在有套件 A 版本 2 可用，可是版本 2 與套件 "
+"B 有新的相依性，而套件 B 並未安裝在您的電腦上... 結果會如何?"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you left this checkbox unchecked, version 2 would not appear as an update "
+"in the list of updates."
+msgstr "如果您不勾選這個勾選框，版本 2 的更新，就不會出現在更新列表。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you checked this checkbox, it would, and if selected it would install "
+"package B as a dependency."
+msgstr "如果您勾選這個勾選框，而版本 2 被定義為「安全」，則更新管理員會選擇版本 2，並與其相依性套件 B，一起安裝到您的電腦上。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Be careful with this option as dependency can install new packages on your "
+"behalf but they can also sometimes remove packages you already have "
+"installed."
+msgstr "小心這個相依性選項! 它除了會安裝新套件之外，有時也會將您已安裝的套件移除。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In the <guilabel>Ignored packages</guilabel> tab you can define packages for "
+"which you do not want to receive updates. '?' and '*' wildcard characters "
+"are supported."
+msgstr "<guilabel>忽略的套件</guilabel> 分頁，讓您可以定義，哪些套件不要接收更新。其支援萬用字元，如「?」與「*」。"
+
+#. Tag: para
+#, no-c-format
+msgid "The <guilabel>Proxy</guilabel> tab lets you define proxy settings."
+msgstr "<guilabel>代理伺服器</guilabel> 分頁，讓您可以定義代理伺服器設定。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The last tab lets you change the icons used by the Update Manager in the "
+"system tray."
+msgstr "最後一個分頁，讓您可以變更更新管理員的系統匣圖示。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you get errors with the Update Manager, you can check the logs. Right "
+"click on the lock icon in the system tray and select "
+"<guilabel>Information</guilabel>. The following screen appears:"
+msgstr ""
+"如果更新管理員發生錯誤，您可以檢查記錄。在更新管理員系統匣圖示上，點擊滑鼠右鍵，並選擇 "
+"<guilabel>資訊</guilabel>。此時，以下畫面會出現:"
+
+#. Tag: title
+#, no-c-format
+msgid "The Update Manager logs"
+msgstr "更新管理員記錄"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In this screen you can see the process ID of the Update Manager and the "
+"content of its log file."
+msgstr "在這個畫面，您可以看到更新管理員中的程序 ID，與其記錄檔內容。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You can also review the updates that were applied on your system by clicking "
+"on the <guimenu>View</guimenu> menu and by selecting <guimenuitem>History of "
+"Updates</guimenuitem>."
+msgstr ""
+"您也可以閱覽這些套用到您系統上的更新: 點擊 <guimenu>檢視</guimenu> 選單，並選擇 "
+"<guimenuitem>更新歷史</guimenuitem>。"
+
+#. Tag: title
+#, no-c-format
+msgid "The history of updates"
+msgstr "更新歷史"

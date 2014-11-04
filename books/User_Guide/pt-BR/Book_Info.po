@@ -1,55 +1,44 @@
-#
-# AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Brazilian Portuguese translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 0\n"
-"POT-Creation-Date: 2014-08-24 11:47+0200\n"
-"PO-Revision-Date: 2014-08-24 11:49+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: None\n"
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-04 03:02+0000\n"
+"Last-Translator: Hugo Leonardo Leal Torres <hugoleal85@gmail.com>\n"
+"Language-Team: Brazilian Portuguese <pt_BR@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
 
 #. Tag: title
 #, no-c-format
 msgid "User Guide"
-msgstr ""
+msgstr "Guia do usuário"
 
 #. Tag: subtitle
 #, no-c-format
 msgid "&EDITION; Edition"
-msgstr "&EDITION; Edition"
+msgstr "&EDIÇÃO; Edição"
 
 #. Tag: productname
 #, no-c-format
 msgid "&PRODUCT;"
-msgstr "&PRODUCT;"
+msgstr "&PRODUTO;"
 
 #. Tag: para
 #, no-c-format
-msgid "An introduction to Linux Mint. The object of this guide is to get you started and make it easy for you to use Linux Mint and to feel comfortable with it."
+msgid ""
+"An introduction to Linux Mint. The object of this guide is to get you "
+"started and make it easy for you to use Linux Mint and to feel comfortable "
+"with it."
 msgstr ""
-
-#. Tag: title
-#, no-c-format
-#~ msgid "Linux Mint"
-#~ msgstr ""
-
-#. Tag: title
-#, no-c-format
-#~ msgid "Official User Guide"
-#~ msgstr "Guia Oficial do Usuário"
-
-#. Tag: title
-#, no-c-format
-#~ msgid "Linux Mint User Guide"
-#~ msgstr ""
-
-#. Tag: para
-#, no-c-format
-#~ msgid "A short overview and summary of the book's subject and purpose, traditionally no more than one paragraph long. Note: the abstract will appear in the front matter of your book and will also be placed in the description field of the book's RPM spec file."
-#~ msgstr ""
-
+"Uma introdução ao Linux Mint. O objetivo deste guia é iniciá-los na "
+"utilização do Mint, fazendo com que esta seja mais confortável e agradável "
+"para todos."

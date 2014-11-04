@@ -1,0 +1,49 @@
+# Slovenian translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-06 10:23+0000\n"
+"Last-Translator: Damir Jerovšek <Unknown>\n"
+"Language-Team: Slovenian <sl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Conclusion"
+msgstr "Zaključek"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"There's a lot more to learn about Linux Mint and about Linux in general. "
+"This guide was just an overview of some of the aspects related to your "
+"desktop. By now you should feel more comfortable with using it and you "
+"should have a better understanding of some of its components. Where are you "
+"going to go next? Will you learn how to use the terminal? Will you give "
+"other desktops a try? It's entirely up to you. Remember, Linux is about fun "
+"and the community is there to help. Take your time and learn a little bit "
+"every day. There's always something new no matter how much you know already."
+msgstr ""
+"O Linux Mintu in Linuxu na splošno se lahko naučite še dosti več. Ta vodnik "
+"je samo pregled nekaterih vidikov, povezanih z vašim namizjem. Do zdaj bi se "
+"morali počutiti bolj sproščeno z njega uporabo ter imeti boljše razumevanje "
+"nekaterih njegovih sestavnih delov. Kaj je naslednje? Se boste naučili "
+"uporabljati terminal? Boste poskusili drugo namizje? Vse je odvisno od vas. "
+"Zapomnite si, Linux je lahko zabaven in skupnost je tukaj, da vam pomaga. "
+"Vzemite si čas ter se naučite česa novega vsak dan. Vedno je kaj novega, "
+"neglede na to, koliko že znate."
+
+#. Tag: para
+#, no-c-format
+msgid "Enjoy Linux and thank you for choosing Linux Mint."
+msgstr "Uživajte v Linuxu ter hvala, ker ste izbrali Linux Mint."
