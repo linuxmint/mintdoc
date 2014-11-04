@@ -1,0 +1,61 @@
+# Chinese (Simplified) translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-21 15:09+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:01+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction to the Linux Mint Desktop"
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"This section of the guide will focus on the technologies and the tools that "
+"are specific to Linux Mint and provide information on some of the "
+"applications and technologies included by default in the MATE Edition."
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid "The Welcome Screen"
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The first time you start your newly installed Mate desktop (and every other "
+"time until you choose to uncheck the checkbox on the bottom) you'll see the "
+"Welcome Screen. You can also find this screen when scrolling to the bottom "
+"of the Preferences menu or by starting to type &ldquo;Wel&rdquo; in the "
+"Search-bar."
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid "Welcome Screen"
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Do take a look at this screen, it has a lot of interesting links!! You can "
+"find a link to the User guide there (yeah I know, you're already reading "
+"it). But also you can put the information of your machine in the Hardware "
+"database. Or you can ask questions in the Forums (or answer them of course). "
+"And Important information is Important too!"
+msgstr ""

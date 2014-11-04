@@ -1,0 +1,169 @@
+# Indonesian translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-13 15:50+0000\n"
+"Last-Translator: Fajar Ichwan Noor <Unknown>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction to the Desktop"
+msgstr "Pengenalan ke Desktop"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <wordasword>desktop</wordasword> is the component of the operating "
+"system which is responsible for the elements that appear on the desktop: The "
+"<wordasword>Panel</wordasword>, the <wordasword>Wallpaper</wordasword>, the "
+"<wordasword>Control Center</wordasword>, the menus... etc."
+msgstr ""
+"<wordasword>desktop</wordasword> adalah komponen dari sistem operasi yang "
+"bertanggung jawab terhadap elemen yang muncul pada desktop: "
+"<wordasword>Panel</wordasword>, <wordasword>Wallpaper</wordasword>, "
+"<wordasword>Pusat Kendali</wordasword>, menu... dll."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Cinnamon Edition of Linux Mint uses the Cinnamon desktop which is both "
+"intuitive and powerful."
+msgstr ""
+"Edisi Cinnamon Linux Mint menggunakan desktop Cinnamon yang intuitif dan kuat"
+
+#. Tag: title
+#, no-c-format
+msgid "The Menu"
+msgstr "Menu"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Cinnamon, almost everything is accessible from the 'Menu'. To open it, "
+"click on <guimenu>Menu</guimenu> at the bottom-left of your screen, or press "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
+"is the left Windows key on your keyboard)."
+msgstr ""
+"Di Cinnamon, hampir semua dapat diakses dari 'Menu'. Untuk membukanya, klik "
+"pada <guimenu>Menu</guimenu> pada bagian kiri-bawah layar Anda, atau tekan "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
+"adalah tombol Windows kiri pada papan ketik Anda)."
+
+#. Tag: title
+#, no-c-format
+msgid "The Cinnamon Menu"
+msgstr "Menu Cinnamon"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The menu is used to launch applications, to access the system settings, and "
+"to reach common places and open recent files."
+msgstr ""
+"Menu digunakan untuk menjalankan aplikasi, untuk mengakses pengaturan "
+"sistem, dan untuk menjangkau tempat umum dan berkas yang baru saja dibuka."
+
+#. Tag: title
+#, no-c-format
+msgid "Places"
+msgstr "Tempat-tempat"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Linux Mint, all your personal data is stored in your "
+"<wordasword>Home</wordasword> directory."
+msgstr ""
+"Di Linux Mint, semua data pribadi anda disimpan di dalam direktori "
+"<wordasword>Home</wordasword> anda."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"As well as your files, this directory also contains pre-defined sub-"
+"directories such as <wordasword>Documents</wordasword>, "
+"<wordasword>Music</wordasword>, <wordasword>Videos</wordasword>...etc which "
+"you can use to better organize your files."
+msgstr ""
+"Sebagaimana berkas Anda, direktori ini juga berisi subdirektori yang telah "
+"ditentukan seperti <wordasword>Documents</wordasword>, "
+"<wordasword>Music</wordasword>, <wordasword>Videos</wordasword>...dll yang "
+"dapat Anda gunakan untuk mengorganisir berkas Anda dengan lebih baik."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Other important places are your <wordasword>Desktop</wordasword> folder "
+"(which containsn the files visible on your desktop), the filesystem (which "
+"contains all system files and directories), removable devices connected to "
+"the computer, the network and bookmarks (you can bookmark any directory to "
+"gain quick-access to it)."
+msgstr ""
+"Tempat penting lainnya adalah folder <wordasword>Desktop</wordasword> Anda "
+"(yang berisi berkas yang terlihat pada desktop anda), filesystem (yang "
+"berisi seluruh sistem berkas dan direktori), perangkat dapat dilepas yang "
+"terhubung pada komputer, jaringan dan penanda (Anda dapat menandai direktori "
+"manapun untuk mendapatkan akses cepat terhadapnya)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To quickly access one of these places, perform one of the following actions:"
+msgstr ""
+"Untuk mengakses dengan cepat salah satu dari tempat-tempat ini, lakukan "
+"salah satu tindakan berikut:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Click on <guimenu>Menu</guimenu> and select <guisubmenu>Places</guisubmenu>"
+msgstr ""
+"Klik di <guimenu>Menu</guimenu> dan pilih <guisubmenu>Places</guisubmenu>"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Launch <wordasword>Nemo</wordasword>, the Cinnamon file manager, by clicking "
+"on <guimenu>Menu</guimenu> and selecting <guimenuitem>Files</guimenuitem>. "
+"Then, within Nemo, you can access common places by clicking on them in the "
+"sidebar, on the left of the window."
+msgstr ""
+"Jalankan <wordasword>Nemo</wordasword>, manajer berkas Cinnamon, dengan "
+"mengklik pada <guimenu>Menu</guimenu> dan memilih "
+"<guimenuitem>Files</guimenuitem>. Lalu, di dalam Nemo, Anda dapat mengakses "
+"tempat umum dengan mengklik pada bar samping, pada sisi kiri jendela."
+
+#. Tag: title
+#, no-c-format
+msgid ""
+"Nemo, the file manager, listing the content of the Home directory and "
+"providing quick-access to common places from the left sidebar."
+msgstr ""
+"Nemo, manajer berkas, mendaftarkan isi dari direktori Home dan menyediakan "
+"akses cepat ke tempat umum dari bar sebelah kiri."
+
+#. Tag: title
+#, no-c-format
+msgid "System Settings"
+msgstr "Pengaturan Sistem"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To launch the system settings, click on <guimenu>Menu</guimenu> and select "
+"<guimenuitem>System Settings</guimenuitem>."
+msgstr ""
+"Untuk menjalankan pengaturan sistem, klik pada <guimenu>Menu</guimenu> dan "
+"pilih <guimenuitem>System Settings</guimenuitem>."

@@ -1,0 +1,170 @@
+# German translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-30 19:15+0000\n"
+"Last-Translator: Tobias Bannert <Unknown>\n"
+"Language-Team: German <de@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction to the Desktop"
+msgstr "Einführung in die Arbeitsumgebung"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <wordasword>desktop</wordasword> is the component of the operating "
+"system which is responsible for the elements that appear on the desktop: The "
+"<wordasword>Panel</wordasword>, the <wordasword>Wallpaper</wordasword>, the "
+"<wordasword>Control Center</wordasword>, the menus... etc."
+msgstr ""
+"Die <wordasword>Arbeitsumgebung</wordasword> ist der Bestandteil des "
+"Betriebssystems, welcher verantwortlich für die Elemente ist, die auf dem "
+"Schreibtisch erscheinen. Die <wordasword>Leiste</wordasword>, das "
+"<wordasword>Hintergrundbild</wordasword> das "
+"<wordasword>Kontrollzentrum</wordasword>, die Menüs … usw."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Cinnamon Edition of Linux Mint uses the Cinnamon desktop which is both "
+"intuitive and powerful."
+msgstr ""
+"Die Cinnamon-Ausgabe von Linux Mint benutzt die Cinnamon-Arbeitsumgebung, "
+"welche intuitiv und leistungsfähig ist."
+
+#. Tag: title
+#, no-c-format
+msgid "The Menu"
+msgstr "Das Menü"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Cinnamon, almost everything is accessible from the 'Menu'. To open it, "
+"click on <guimenu>Menu</guimenu> at the bottom-left of your screen, or press "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
+"is the left Windows key on your keyboard)."
+msgstr ""
+"In Cinnamon ist beinahe alles über das Menü erreichbar. Zum Öffnen, auf "
+"»Menü« unten links auf dem Bildschirm klicken oder "
+"<keycombo><keycap>Strg</keycap><keycap>Super_L</keycap></keycombo>  (Super_L "
+"ist die linke Windows-Taste auf der Tastatur)."
+
+#. Tag: title
+#, no-c-format
+msgid "The Cinnamon Menu"
+msgstr "Das Cinnamon-Menü"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The menu is used to launch applications, to access the system settings, and "
+"to reach common places and open recent files."
+msgstr ""
+"Das Menü wird benutzt, um Anwendungen zu starten, die Systemeinstellungen zu "
+"erreichen, gemeinsame Orte und kürzlich geöffnete Dateien zu öffnen."
+
+#. Tag: title
+#, no-c-format
+msgid "Places"
+msgstr "Orte"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Linux Mint, all your personal data is stored in your "
+"<wordasword>Home</wordasword> directory."
+msgstr ""
+"In Linux Mint sind alle Ihre persönlichen Daten im <wordasword>Persönlichen "
+"Ordner</wordasword> gespeichert."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"As well as your files, this directory also contains pre-defined sub-"
+"directories such as <wordasword>Documents</wordasword>, "
+"<wordasword>Music</wordasword>, <wordasword>Videos</wordasword>...etc which "
+"you can use to better organize your files."
+msgstr ""
+"Zusätzlich zu Ihren Dateien enthält dieses Verzeichnis vordefinierte "
+"Unterverzeichnisse, wie z.B. <wordasword>Dokumente</wordasword>, "
+"<wordasword>Musik</wordasword>, <wordasword>Videos</wordasword> … usw., "
+"diese können Sie benutzen, um Ihre Dateien besser zu organisieren."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Other important places are your <wordasword>Desktop</wordasword> folder "
+"(which containsn the files visible on your desktop), the filesystem (which "
+"contains all system files and directories), removable devices connected to "
+"the computer, the network and bookmarks (you can bookmark any directory to "
+"gain quick-access to it)."
+msgstr ""
+"Weitere wichtige Orte sind Ihr <wordasword>Schreibtisch</wordasword>-Ordner "
+"(welcher die Dateien enthält, die auf dem Schreibtisch angezeigt werden), "
+"das Dateisystem (welches alle Systemdateien und Verzeichnisse enthält), "
+"entfernbare, mit dem Rechner verbundene Geräte, das Netzwerk und die "
+"Lesezeichen (Sie können jedes Verzeichnis als Lesezeichen abspeichern, um "
+"schnellen Zugriff darauf zu erhalten)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To quickly access one of these places, perform one of the following actions:"
+msgstr ""
+"Um schnelle einen dieser Orte zu erreichen, bitte eine der folgenden "
+"Aktionen ausführen:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Click on <guimenu>Menu</guimenu> and select <guisubmenu>Places</guisubmenu>"
+msgstr ""
+"Auf <guimenu>Menü</guimenu> klicken und <guisubmenu>Orte</guisubmenu> "
+"auswählen"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Launch <wordasword>Nemo</wordasword>, the Cinnamon file manager, by clicking "
+"on <guimenu>Menu</guimenu> and selecting <guimenuitem>Files</guimenuitem>. "
+"Then, within Nemo, you can access common places by clicking on them in the "
+"sidebar, on the left of the window."
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid ""
+"Nemo, the file manager, listing the content of the Home directory and "
+"providing quick-access to common places from the left sidebar."
+msgstr ""
+"Nemo, die Dateiverwaltung, zeigt den Inhalt des persönlichen Ordners und "
+"stellt einen schnellen Zugriff auf gemeinsame Orte, von der linken "
+"Seitenleiste, bereit."
+
+#. Tag: title
+#, no-c-format
+msgid "System Settings"
+msgstr "Systemeinstellungen"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To launch the system settings, click on <guimenu>Menu</guimenu> and select "
+"<guimenuitem>System Settings</guimenuitem>."
+msgstr ""
+"Um die Systemeinstellungen zu starten, bitte auf <guimenu>Menü</guimenu> "
+"klicken und <guimenuitem>Systemeinstellungen</guimenuitem> auswählen."

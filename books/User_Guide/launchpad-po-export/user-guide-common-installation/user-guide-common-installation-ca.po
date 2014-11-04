@@ -1,0 +1,945 @@
+# Catalan translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-14 11:43+0000\n"
+"Last-Translator: Isidro Pisa <isidro@utils.info>\n"
+"Language-Team: Catalan <ca@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Installation of Linux Mint"
+msgstr "Instal·lació del Linux Mint"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You can download the Linux Mint operating system for free. It comes as an "
+"ISO file which you need to burn to a blank DVD<footnote><para>It is also "
+"possible to write the ISO image to a USB stick or other memory device and "
+"boot from that, or to boot from the ISO image on the hard drive, but these "
+"options are somewhat more advanced and the method presented here is "
+"recommended. For help with alternative methods of installing and running "
+"Linux Mint, please visit the forums.</para></footnote>. The liveDVD is then "
+"bootable and provides a fully-functional operating system which you can try "
+"without affecting your PC. In layman's terms, when you put Linux Mint on a "
+"DVD and place it into your computer, you can try it out while leaving your "
+"current system intact."
+msgstr ""
+"Podeu baixar-vos el sistema operatiu Linux Mint gratuïtament. Es presenta "
+"com un fitxer ISO que cal enregistrar a un DVD en blanc<footnote><para>També "
+"podeu enregistrar la imatge ISO a un USB o a qualsevol altre dispositiu de "
+"memòria i iniciar des d'aquest, o iniciar des de la imatge ISO desada al "
+"disc dur, però aquestes opcions són en certs aspectes més avançades i "
+"recomanem el mètode que es presenta aquí. Per obtenir ajuda amb els mètodes "
+"alternatius d'instal·lar i executar Linux Mint, visiteu els "
+"fòrums.</para></footnote>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you like what you see when running the liveDVD you can decide to install "
+"the system to your hard drive. All the necessary tools (partitioning and "
+"installation tools) are present on the DVD."
+msgstr ""
+"Si li agrada el que veu quan executi el DVD, pot decidir instal·lar el "
+"sistema al disc dur. Totes les eines necessàries (eines de partició i "
+"d'instal·lació) es troben al DVD."
+
+#. Tag: title
+#, no-c-format
+msgid "Download the ISO"
+msgstr "Descarrega la ISO"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To download Linux Mint, visit the download page at <ulink "
+"url=\"http://www.linuxmint.com/download.php\">http://www.linuxmint.com/downlo"
+"ad.php</ulink> and choose the edition you're interested in."
+msgstr ""
+"Per descarregar Linux Mint, visiti el web de descàrrega a <ulink "
+"url=\"http://www.linuxmint.com/download.php\">http://www.linuxmint.com/downlo"
+"ad.php</ulink> (en anglès) i trïi l'edició que li interessa."
+
+#. Tag: para
+#, no-c-format
+msgid "From this page, you should find:"
+msgstr "Trobarà en aquesta pàgina:"
+
+#. Tag: para
+#, no-c-format
+msgid "an MD5 signature"
+msgstr "una signatura MD5"
+
+#. Tag: para
+#, no-c-format
+msgid "a torrent link"
+msgstr "un enllaç torrent"
+
+#. Tag: para
+#, no-c-format
+msgid "a list of download mirrors"
+msgstr "una llista de miralls de descàrrega"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The file you need to download is an ISO file. There are two ways to download "
+"this file, by torrent (a Peer to Peer protocol) or via a download mirror "
+"(HTTP or FTP protocol). Once your download is finished, you can ensure your "
+"ISO file isn’t corrupted by checking its signature with the MD5."
+msgstr ""
+"L'arxiu que necessita és un fitxer ISO. Hi ha dues maneres de descarregar-"
+"lo: per torrent (un protocol d'igual a igual) o mitjançant un mirall de "
+"descàrrega (protocols HTTP o FTP). Un cop la descàrrega hagi finalitzat, "
+"asseguri's que el fitxer ISO no estigui malmès revisant la seva signatura "
+"amb l'MD5"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you don't have a broadband connection, or if your Internet access is too "
+"slow you can order the DVD from <ulink "
+"url=\"http://www.osdisc.com\">http://www.osdisc.com</ulink>."
+msgstr ""
+"Si no teniu una connexió de banda ampla o el vostre accés a internet és "
+"massa lent, podeu encarregar el DVD a  <ulink "
+"url=\"http://www.osdisc.com\">http://www.osdisc.com</ulink>."
+
+#. Tag: title
+#, no-c-format
+msgid "Via torrent"
+msgstr "A través de torrent"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Torrent is a Peer to Peer (P2P) protocol. Basically, instead of downloading "
+"from a central location, a torrent lets you download the ISO file in parts "
+"from different people across the Internet."
+msgstr ""
+"El torrent és un protocol d'igual a igual (Peer to Peer en anglès, P2P). En "
+"comptes de descarregar l'arxiu d'una posició central, un torrent us permet "
+"descarregar el fitxer ISO en fragments, de diverses persones connectades a "
+"internet."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The more people who download the ISO file, the faster the download speed "
+"gets. This is the preferred and recommended way to download Linux Mint."
+msgstr ""
+"Com més gent es decarregui el fitxer ISO, més ràpida esdevé la velocitat de "
+"descàrrega. És recomanable descarregar Linux Mint d'aquesta manera."
+
+#. Tag: title
+#, no-c-format
+msgid "Install a Torrent client"
+msgstr "Instal·lar un client Torrent"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You need a piece of software called a \"torrent client\" in order to "
+"download files via torrent."
+msgstr ""
+"És necessari un petit programari anomenat <<client torrent>> per tal de "
+"descarregar arxius per torrent."
+
+#. Tag: para
+#, no-c-format
+msgid "If you run Linux Mint you already have a torrent client installed."
+msgstr "Si utilitzeu Linux Mint, ja teniu un client torrent instal·lat."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you run another Linux distribution, you can install \"Transmission\"."
+msgstr ""
+"Si utilitxeu qualsevol altra distribució Linux, podeu instal·lar "
+"<<Transmission>>."
+
+#. Tag: para
+#, no-c-format
+msgid "If you run Windows you can use µTorrent."
+msgstr "Si utilitzeu Windows, podeu usar µTorrent."
+
+#. Tag: title
+#, no-c-format
+msgid "Download the Torrent file"
+msgstr "Descarregar el fitxer Torrent"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The next step is to follow the torrent link from the Linux Mint website and "
+"to download the .torrent file. This file is very small. After it downloads, "
+"you should open it with your torrent client."
+msgstr ""
+"El pas següent és clicar l'enllaç torrent des del lloc web de Linux mint i "
+"descarregar el fitxer .torrent. Aquest fitxer és molt petit. Després que es "
+"descarregui, l'heu d'obrir amb el client torrent."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The torrent client will probably ask you where you want to save the ISO. "
+"Select a destination and then wait for the download to complete."
+msgstr ""
+"El client torrent preguntarà on voleu que es desi la ISO. Trieu un destí i "
+"espereu que es completi la descàrrega."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"For more information about the torrent protocol, visit <ulink "
+"url=\"http://en.wikipedia.org/wiki/BitTorrent\">http://en.wikipedia.org/wiki/"
+"BitTorrent</ulink>."
+msgstr ""
+"Per a més informació sobre el protocol de torrent, visiteu  <ulink "
+"url=\"http://en.wikipedia.org/wiki/BitTorrent\">http://en.wikipedia.org/wiki/"
+"BitTorrent</ulink> (en anglès)."
+
+#. Tag: title
+#, no-c-format
+msgid "Via direct download"
+msgstr "Per descàrrega directa"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you can’t, or do not choose to use the torrent protocol, then look at the "
+"list of download mirrors and pick one of them. They’ll provide a link to the "
+"ISO file itself which you can just click to start the download."
+msgstr ""
+"Si no podeu o no voleu usar el protocol torrent, escolliu un enllaç de "
+"descàrrega de la llista. Aquests enllaços porten al fitxer ISO sencer, "
+"cliqueu-lo per començar la descàrrega."
+
+#. Tag: title
+#, no-c-format
+msgid "Read the release notes"
+msgstr "Llegiu les notes d'aquesta versió"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Your download is probably going to last at least an hour, so now would be "
+"the perfect time for you to get familiar with the new features coming with "
+"the release you’re currently downloading."
+msgstr ""
+"La descàrrega durarà al menys una hora, així que ara és el moment ideal per "
+"familiaritzar-se amb les noves característiques que presenta la versió que "
+"esteu descarregant."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The release notes are featured on the Linux Mint web page and answer the "
+"following questions:"
+msgstr ""
+"Les notes d'aquesta versió es troben al lloc web de Linux Mint i responen "
+"les preguntes següents:"
+
+#. Tag: para
+#, no-c-format
+msgid "What are the new features delivered in this release?"
+msgstr "Quines noves característiques es presenten en aquesta versió?"
+
+#. Tag: para
+#, no-c-format
+msgid "What are the known problems of this release?"
+msgstr "Quins son els problemes coneguts d'aquesta versió?"
+
+#. Tag: para
+#, no-c-format
+msgid "How do I upgrade from the previous release?"
+msgstr "Cóm actualitzo des de la versió anterior?"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"They also contain screenshots of the latest release. Of course, you could "
+"find out about most features highlighted in the release notes by simply "
+"using the operating system, but you might miss a few things, so it is most "
+"reliable to read the release notes."
+msgstr ""
+"També hi ha captures de pantalla de l'última versió. Per descomptat, vostè "
+"pot veure la majoria de característiques destacades en les notes de la "
+"versió només fent servir el sistema operatiu, però és possible que passi per "
+"alt un parell de coses, així que és recomanable llegir les notes de la "
+"versió."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The release notes for Linux Mint 17 Qiana are available at <ulink "
+"url=\"http://www.linuxmint.com/rel_qiana.php\">http://www.linuxmint.com/rel_q"
+"iana.php</ulink>"
+msgstr ""
+"Les notes de la versió per a Linux Mint 17 Qiana estan en <ulink "
+"url=\"http://www.linuxmint.com/rel_qiana.php\">http://www.linuxmint.com/rel_q"
+"iana.php</ulink>"
+
+#. Tag: title
+#, no-c-format
+msgid "Check the MD5"
+msgstr "Comprovar l'MD5"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You’ve read the release notes, you just can’t wait to play with the new "
+"features or try Linux Mint, and your download just finished successfully. "
+"You’re ready to burn a DVD and to boot on it… but hey! Wait for a second!"
+msgstr ""
+"Ja ha llegit les notes de la versió, i està impacient per jugar amb les "
+"noves característiques o provar Linux Mint, i la seva descàrrega acaba de "
+"finalitzar amb èxit. Està llest per gravar un DVD i arrencar ... però bé! "
+"Esperi un segon!"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If that DVD is faulty you will experience weird bugs and will have a lot of "
+"trouble finding help. The two most common reasons for a DVD to be faulty are:"
+msgstr ""
+"Si el DVD és defectuós poden aparèixer errors estranys i li costarà molt "
+"trobar la solució. Les dues raons més comuns per què un DVD resulti "
+"defectuós són:"
+
+#. Tag: para
+#, no-c-format
+msgid "An issue with the download causing problems in your ISO file"
+msgstr "Un problema amb la descàrrega ha malmés el seu arxiu ISO"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"An error during the burn process that alters the contents of your burned "
+"liveDVD"
+msgstr ""
+"Un error durant el procés de gravació que altera el contingut del LiveDVD"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The MD5 signature, which is present on the download page, provides a quick "
+"way for you to make sure that your ISO file is exactly like it should be. "
+"So, let’s check the ISO file you just downloaded before we burn it and save "
+"ourselves from a lot of potential problems."
+msgstr ""
+"La signatura MD5, indicada a la pàgina de descàrrega, proporciona una forma "
+"ràpida d'assegurar-se que el fitxer ISO és exactament com hauria de ser. Per "
+"tant, anem a comprovar el fitxer ISO que acaba de descarregar i ens "
+"estalviarem un munt de possibles problemes."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you run any version of Linux you probably already have the md5sum program "
+"installed. Open a terminal and “cd” to the directory where your ISO file is "
+"(for instance, if “linuxmint.iso” is on the Desktop), open a terminal and "
+"type:"
+msgstr ""
+"Si executeu qualsevol versió de Linux probablement ja teniu el programa "
+"md5sum instal·lat. Obriu un terminal i \"cd\" al directori on és el fitxer "
+"ISO (per exemple, si \"linuxmint.iso\" està a l'escriptori), obriu un "
+"terminal i escriviu:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                <command>cd ~/Desktop</command>\n"
+"                <command>md5sum "
+"<replaceable>myfile.iso</replaceable></command>\n"
+"            "
+msgstr ""
+"\n"
+"                <command>cd~/Escriptori</command>\n"
+"                "
+"<command>md5sum<replaceable>myfile.iso</replaceable></command>\n"
+"            "
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"This command should output a series of numbers and letters which comprise "
+"the MD5 sum, or signature, of your ISO file. By design, any small change to "
+"the ISO file will cause this signature to be significantly different, "
+"allowing us to verify that the file is exactly as it should be."
+msgstr ""
+"Aquesta ordre donarà com a resultat una sèrie de nombres i lletres que "
+"componen la suma MD5, o signatura, del fitxer ISO. Per disseny, qualsevol "
+"canvi en el fitxer ISO causarà que aquesta signatura sigui diferent, i "
+"permetrà verificar que l'arxiu és exactament com ha de ser."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Compare that signature with the one on the download page of the Linux Mint "
+"website. If the two signatures are the same, then you know your ISO file is "
+"exactly the same as the original and you can now get ready to burn it on DVD."
+msgstr ""
+"Compareu aquesta signatura amb la que hi ha al web de descàrrega de Linux "
+"Mint. Si les dues signatures coincideixen, el fitxer ISO és exactament igual "
+"que l'original i ja es pot enregistrar al DVD"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you happen to run Windows, chances are you don’t have md5sum installed. "
+"You can get it from here: <ulink "
+"url=\"http://www.etree.org/md5com.html\">http://www.etree.org/md5com.html</ul"
+"ink>"
+msgstr ""
+"Si utilitzeu Windows, és probable que no tingueu instal·lat l'md5sum. Podeu "
+"baixar-lo aquí: <ulink "
+"url=\"http://www.etree.org/md5com.html\">http://www.etree.org/md5com.html</ul"
+"ink>"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Place the ISO file and the md5sum.exe in the same place (let’s say in C:\\) "
+"and run “cmd.exe”. In the command line environment, type the following "
+"commands:"
+msgstr ""
+"Deseu el fitxer ISO i l'md5sum.exe al mateix lloc (per exemple, C:\\) i "
+"executeu <<cmd.exe>>. En l'entorn de línia d'ordres, teclegeu les ordres "
+"següents:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                <command>C:</command>\n"
+"                <command>cd \\</command>\n"
+"                <command>md5sum "
+"<replaceable>myfile.iso</replaceable></command>\n"
+"            "
+msgstr ""
+"\n"
+"                <command>C:</command>\n"
+"                <command>cd\\</command>\n"
+"                "
+"<command>md5sum<replaceable>myfile.iso</replaceable></command>\n"
+"            "
+
+#. Tag: para
+#, no-c-format
+msgid "Then compare the signature to the one present on the website."
+msgstr "Després compareu la signatura amb la que hi ha al web."
+
+#. Tag: title
+#, no-c-format
+msgid "Burn the ISO to DVD"
+msgstr "Enregistrar la ISO al DVD"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Now that you have checked the ISO file with MD5, you are ready to burn it to "
+"a DVD."
+msgstr ""
+"Ara que heu revisat el fitxer ISO amb l'MD5, és l'hora d'enregistrar-lo al "
+"DVD."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Get a blank DVD-R (a DVD-RW should work as well, but this type of media is "
+"known to have compatibility issues) and your favorite marker and label the "
+"DVD. Although labeling your DVDs sounds trivial, you should be sure to do "
+"so, as you can easily end up with 20 unlabeled and unidentifiable discs on "
+"your desk. :)"
+msgstr ""
+"Agafi un DVD-R en blanc (també val un DVD-RW, però aquest tipus de "
+"dispositius solen donar problemes de compatibilitat) i el seu rotulador "
+"preferit i etiqueti el DVD. Tot i que etiquetar els DVD sona trivial, "
+"s'hauria de fer, ja que si no hom es pot trobar amb 20 discos no "
+"identificats a l'escriptori. :)"
+
+#. Tag: para
+#, no-c-format
+msgid "Insert the blank DVD-R in the drive and get ready to burn the ISO."
+msgstr ""
+"Inseriu el DVD-R en blanc a la unitat de disc i prepareu-vos per enregistrar "
+"la ISO."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you’re running Linux with Cinnamon right-click on the ISO file and "
+"select: open with: Brasero, choose “Burn image” and follow the steps given "
+"there."
+msgstr ""
+"Si utilitzeu Linux amb Cinnamon, feu click amb el botó dret al fitxer ISO i "
+"sel·leccioneu: obre amb: Brasero, trieu <<enregistra la imatge>> i seguiu "
+"els passos que us dongui."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you’re running Linux with KDE, launch K3B and in the “Tools” menu choose "
+"“Write ISO Image”."
+msgstr ""
+"Si utilitzeu Linux amb KDE, executeu K3B i al menú d' <<Eines>> escolliu "
+"<<Escriu la imatge ISO>>."
+
+#. Tag: para
+#, no-c-format
+msgid "If you’re running Windows you can use a program like InfraRecorder."
+msgstr "Si utilitzeu Windows, podeu usar un programa com InfraRecorder."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Make sure to burn the ISO image to disk, and not to write the ISO file to "
+"the disk. A very common mistake, especially for people using Nero, is to "
+"actually burn the ISO file on the disk as a data file. The ISO file is an "
+"image of a disk so it needs to be burnt not as a file which will appear on "
+"the disk, but as an ISO image which will be decompressed and whose content "
+"will be burnt onto the disc. After burning the DVD you shouldn't see the ISO "
+"file within the disc, but rather folders like “casper” or “isolinux”. Most "
+"burning software has a special option for this."
+msgstr ""
+"Assegureu-vos d'enregistrar la imatge ISO al disc, i no el fitxer ISO. Un "
+"error molt comú, sobretot per la gent que usa Nero, és enregistrar el fitxer "
+"ISO al disc com si fos un arxiu de fitxers. El fitxer ISO és una imatge "
+"d'uns disc, i ha de ser enregistrat no com un fitxer que aparegui al disc, "
+"sino com una imatge ISO, que es descomprimirà i serà el seu contingut el que "
+"s'enregistrarà al disc. Després d'enregistrar el DVD no heu de veure el "
+"fitxer ISO dins del disc, sinó carpetes com <<casper>> o <<isolinux>>. La "
+"majoria del programari d'enregistrament de DVD té una opció especial per a "
+"aquest fet."
+
+#. Tag: title
+#, no-c-format
+msgid "Boot the LiveDVD"
+msgstr "Iniciar el DVD"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Place the DVD in the drive and restart the computer. You should now see the "
+"following screen:"
+msgstr ""
+"Poseu el DVD a la unitat de disc i reinicieu l'ordinador. Veureu la pantalla "
+"següent:"
+
+#. Tag: title
+#, no-c-format
+msgid "The boot screen"
+msgstr "La pantalla d'inici."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you don’t see this screen and your PC boots as usual it’s probably "
+"because your BIOS is not set to boot on DVD. Restart the computer and press "
+"F1, F2, Delete, or Escape (or whatever key lets you enter the BIOS "
+"configuration) and change your BIOS settings to tell your computer to boot "
+"from its DVD drive."
+msgstr ""
+"Si no veieu aquesta pantalla i l'ordinador inicia com normalment és probable "
+"que el vostre BIOS no estigui configurat per iniciar en DVD. Reinicieu "
+"l'ordinador i premeu F1, F2, Suprimir o Escape (o la tecla que us deixi "
+"entrar a la configuració del BIOS) i canvia la configuració del BIOS per tal "
+"que l'ordinador pugui iniciar des de la unitat de disc."
+
+#. Tag: title
+#, no-c-format
+msgid "Install Linux Mint on your hard drive"
+msgstr "Instal·lar Linux Mint al disc dur"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"From the first screen choose the default <guilabel>Start Linux "
+"Mint</guilabel> option and press Enter. After a little while the live system "
+"should be ready and you should see the desktop."
+msgstr ""
+"A la primera pantalla esculli l'opció per defecte <guilabel>Inicia Linux "
+"Mint</guilabel> i premi Enter. Després d'una estona el sistema ha d'estar "
+"llest i vostè ha de veure l'escriptori."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"At this stage Linux Mint is not installed on your computer, it’s simply "
+"running from the DVD. The system you have in front of you is, however, "
+"almost exactly the same as the one you will have on your computer after the "
+"installation is finished."
+msgstr ""
+"En aquest punt Linux Mint no està instal·lat en el vostre ordinador, només "
+"està funcionant des del DVD. El sistema que té al davant és, però, gairebé "
+"exactament el mateix que tindrà en el seu equip quan finalitzi la "
+"instal·lació."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Have fun with it and see if you like it. Bear in mind that when running from "
+"the DVD, Linux Mint runs significantly slower than it does when it is "
+"installed on a hard drive, since it has to read data from the DVD drive, "
+"which is a slower medium than the hard drive."
+msgstr ""
+"Diverteixi's i vegi si li agrada. Tingui en compte que quan s'executa des "
+"del DVD, Linux Mint corre significativament més lent que quan està "
+"instal·lat en un disc dur, ja que ha de llegir les dades del DVD, que és un "
+"mitjà més lent que el disc dur."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"When you are ready, double-click on the <guilabel>Install Linux "
+"Mint</guilabel> icon located on the desktop. The Installer appears:"
+msgstr ""
+"Quan estigui llest, faci doble clic a la icona <guilabel>Instal·lar Linux "
+"Mint</guilabel> de l'escriptori. Apareix l'instal·lador:"
+
+#. Tag: title
+#, no-c-format
+msgid "The language selection screen"
+msgstr "La pantalla de selecció d'idioma"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you haven’t read the release notes yet, and you have an Internet "
+"connection, then this an ideal opportunity to review them; simply click on "
+"the underlined link. It is highly recommended that users read the release "
+"notes prior to installation in order to advise themselves of new features, "
+"as well as any issues that might affect their particular hardware "
+"configuration."
+msgstr ""
+"Si encara no ha llegit notes de la versió, i té una connexió a Internet, "
+"llavors aquesta és una oportunitat ideal per fer-ho; simplement faci clic a "
+"l'enllaç subratllat. És molt recomanable llegir les notes abans de la "
+"instal·lació, per conèixer les noves característiques, així com les "
+"qüestions que puguin afectar a la seva configuració de maquinari en "
+"particular."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Select your language and press the <guibutton>Continue</guibutton> button."
+msgstr "Triï el seu idioma i premeu el botó <guibutton>Continua</guibutton>."
+
+#. Tag: title
+#, no-c-format
+msgid "Checking that everything is fine..."
+msgstr "Comprovar que tot està bé ..."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In the next screen, make sure you're connected to a power source (if you're "
+"using a laptop), the Internet and that you have the recommended amount of "
+"disk space. Then press the <guibutton>Continue</guibutton> button."
+msgstr ""
+"A la següent pantalla, asseguri's que està connectat al corrent (si està "
+"utilitzant un portàtil), que està connectat a Internet i que té l'espai "
+"recomanat en disc. A continuació, premi el botó "
+"<guibutton>Continua</guibutton>."
+
+#. Tag: title
+#, no-c-format
+msgid "Choosing an installation type"
+msgstr "Escollir el tipus de instal·lació"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In the next screen you can assign your entire hard drive to Linux Mint or "
+"install it alongside other operating systems. Alternatively, you can also "
+"define and assign the partitions manually."
+msgstr ""
+"A la següent pantalla pot assignar tot el disc dur a Linux Mint o instal·lar-"
+"lo juntament amb d'altres sistemes operatius. Alternativament, també pot "
+"definir i assignar les particions manualment."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you choose to use the entire disk, its content will be erased and Linux "
+"Mint will be installed as the only operating system on your computer."
+msgstr ""
+"Si escull utilitzar tot el disc, el seu contingut s'esborrarà i Linux Mint "
+"s'instal·larà com a únic sistema operatiu al seu sistema."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you choose to install it alongside other operating systems, the installer "
+"will use the free space available on other partitions to create a new one "
+"for Linux Mint. You will be asked how much space you want to allocate to it. "
+"The installer will then shrink a partition and take care of everything for "
+"you. Post-installation your computer will have a boot screen from which "
+"you'll be able to boot all your operating systems."
+msgstr ""
+"Si decideix instal·lar-lo al costat d'altres sistemes operatius, "
+"l'instal·lador utilitzarà l'espai lliure disponible en particions per crear-"
+"ne una per a Linux Mint. Se li demanarà la quantitat d'espai que vol "
+"assignar a la mateixa. Després, l'instal·lador reduirà una partició, i "
+"s'encarregarà de tot per vostè. Després de la instal·lació, el seu equip "
+"tindrà una pantalla d'inici des de la qual podrà arrencar tots els sistemes "
+"operatius instal·lats."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you choose to specify partitions manually, a partition editor will "
+"appear, giving you full control over the partitioning of your hard drive. "
+"This is recommended only to advanced users who understand how partitioning "
+"works under Linux. Note that Linux Mint requires a partition of at least 6GB "
+"and that the recommended size for a swap partition is 1.5 times the amount "
+"of RAM available on the computer."
+msgstr ""
+"Si escull especificar les particions manualment, apareixerà un editor de "
+"particions, que li donarà un control total sobre el particionat del seu disc "
+"dur. Això es recomana només per a usuaris avançats que entenen cóm funciona "
+"el particionament Linux. Tingui en compte que Linux Mint requereix una "
+"partició d'almenys 6 GB i que la mida recomanada per a una partició "
+"d'intercanvi és de 1,5 vegades la quantitat total de RAM en l'equip."
+
+#. Tag: title
+#, no-c-format
+msgid "The installation summary screen"
+msgstr "La pantalla de resum de la instal·lació"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Choose the appropriate option and click on the <guibutton>Install "
+"Now</guibutton> button. At this stage, the installation is going on in the "
+"background and the installer asks you setup questions:"
+msgstr ""
+"Trieu l'opció adequada i feu clic al botó <guibutton>Instal·lar "
+"ara</guibutton>. En aquesta fase, la instal·lació s'anirà realitzant de fons "
+"mentre l'instal·lador li fa preguntes de configuració:"
+
+#. Tag: title
+#, no-c-format
+msgid "Choosing a timezone"
+msgstr "Elecció d'una zona horària"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Choose your location on the map by clicking on the city which is the nearest "
+"to you. The purpose of this step is to identify your time zone. Make sure "
+"the <guilabel>Current time</guilabel> appears correctly and click the "
+"<guibutton>Continue</guibutton> button."
+msgstr ""
+"Trii la seva ubicació al mapa fent clic a la ciutat més propera a vostè. El "
+"propòsit d'aquest pas és identificar la seva zona horària. Asseguri's que la "
+"<guilabel>Hora actual</guilabel> apareix correctament i faci clic al botó "
+"<guibutton>Continua</guibutton>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Sometimes the installer doesn't properly handle Summer/Winter time "
+"adjustments, so even by selecting the proper city you might see a difference "
+"of an hour or so with the correct time. Simply ignore this at this stage and "
+"remember to make sure that the time is correct after you reboot in your "
+"newly installed Linux Mint desktop."
+msgstr ""
+"A vegades l'instal·lador no fa servir correctament la configuració d'horari "
+"d'estiu/hivern, de manera que fins i tot seleccionant la ciutat correcta és "
+"possible que vegi una diferència d'una hora de més o de menys amb l'hora "
+"correcta. Ignori-ho en aquest moment i recordi comprovar si l'hora és "
+"correcta després de reiniciar en el seu escriptori de Linux Mint acabat "
+"d'instal·lar."
+
+#. Tag: title
+#, no-c-format
+msgid "Choosing a keyboard layout"
+msgstr "Elecció d'una distribució de teclat"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Select your keyboard layout. If you are not sure about exactly which layout "
+"matches the keyboard you have, click on the text field at the bottom of the "
+"screen and start typing with your keyboard. Make sure the keys you press "
+"match the characters that appear in the text field in order to ensure you "
+"have selected the right keyboard layout. Some layouts only differ with "
+"respect to accents, numbers and punctuation signs, so make sure to test "
+"these as well."
+msgstr ""
+"Seleccioni la distribució de teclat. Si no sap exactament quina disposició "
+"coincideix amb el seu teclat, faci clic al camp de text en la part inferior "
+"de la pantalla i escrigui alguna cosa. Comprovi que les tecles que prem "
+"coincideixen amb els caràcters que apareixen en el camp de text per tal "
+"d'assegurar-se que ha seleccionat la distribució de teclat correcta. Algunes "
+"distribucions només difereixen en els accents, números i signes de "
+"puntuació, així que asseguri's de provar-los també."
+
+#. Tag: para
+#, no-c-format
+msgid "When you’re ready click the <guibutton>Continue</guibutton> button."
+msgstr ""
+"Quan estigui llest, faci clic al botó <guibutton>Continua</guibutton>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Enter your real name and a username and password. Every time you’ll use "
+"Linux Mint you’ll use your account with this username and password. Once "
+"Linux Mint is installed you’ll be able to define other accounts if other "
+"people are to use this computer."
+msgstr ""
+"Teclegi el seu nom real i un nom d'usuari i contrasenya. Cada vegada que "
+"vagi a utilitzar Linux Mint entrarà en el seu compte amb aquest nom d'usuari "
+"i contrasenya. Quan Linux Mint estigui instal·lat podrà definir d'altres "
+"comptes si d'altres persones han de fer servir l'equip."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Also give your computer a name. This name will be used by your computer on "
+"the network or in various places of the system. If you’ve never really "
+"thought about naming your computers, then now is the time. People commonly "
+"pick flower (dahlia, rose, tulip) or planet (mars, jupiter, pluto) names for "
+"the computers on their network. It’s entirely up to you what you want to "
+"use, but make sure to pick a name you like and that you will easily remember."
+msgstr ""
+"També ha de donar al seu equip un nom. Aquest nom serà utilitzat per l'equip "
+"a la xarxa o en diversos llocs del sistema. Si mai ha pensat en donar nom "
+"als equips, llavors ara és el moment. La gent sol usar noms de flors (dàlia, "
+"rosa, tulipa) o planetes (Mart, Júpiter, Plutó) per als ordinadors de la "
+"seva xarxa. Vostè decideix quin nom vol utilitzar, però asseguri's de triar-"
+"ne un que li agradi i que pugui recordar fàcilment."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Capital letters, spaces and special characters are not permitted in the "
+"username or in the name of the computer."
+msgstr ""
+"Lletres majúscules, espais i caràcters especials no estan permesos en el nom "
+"d'usuari o en el nom de l'equip."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you're the only one using the computer and you want to bypass the login "
+"screen, check the option <guilabel>Log in automatically</guilabel>."
+msgstr ""
+"Si és vostè l'únic que utilitza el sistema i vol ometre la pantalla d'inici "
+"de sessió, seleccioni l'opció <guilabel>Iniciar sessió "
+"automàticament</guilabel>."
+
+#. Tag: para
+#, no-c-format
+msgid "When you’re ready click on the <guibutton>Forward</guibutton> button."
+msgstr ""
+"Quan estigui llest, faci clic al botó <guibutton>Endavant</guibutton>"
+
+#. Tag: title
+#, no-c-format
+msgid "The user settings screen"
+msgstr "La pantalla de configuració del usuari"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The installer might detect other operating systems on your computer and ask "
+"you if you want to migrate some personal information. Typically this allows "
+"you to migrate bookmarks, contacts, favorites and other sorts of personal "
+"information from other operating systems installed on your hard disk drive "
+"into the newly installed Linux Mint. When you’re ready click on the "
+"<guibutton>Continue</guibutton> button."
+msgstr ""
+"L'instal·lador pot detectar d'altres sistemes operatius al seu ordinador i "
+"li demanarà si vol migrar alguna informació personal. Normalment això li "
+"permet migrar marcadors, contactes, favorits i d'altres tipus d'informació "
+"personal d'altres sistemes operatius instal·lats en la seva unitat de disc "
+"dur, al seu Linux acabat d'instal·lar. Quan estigui llest, faci clic al botó "
+"<guibutton>Continua</guibutton>."
+
+#. Tag: title
+#, no-c-format
+msgid "The installation usually takes between 10 and 15 minutes"
+msgstr "La instal·lació dura normalment entre 10 i 15 minuts"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The installer will download packages from the Internet to support the "
+"language you’ve selected. Your computer needs to be connected to the "
+"Internet for this to work. Otherwise just <guibutton>skip</guibutton> that "
+"step and you’ll be able to add support for your language after the "
+"installation is finished and you’ve rebooted into your new system."
+msgstr ""
+"L'instal·lador descarregarà d'Internet els paquets de suport de l'idioma que "
+"ha seleccionat. L'ordinador ha d'estar connectat a Internet perquè això "
+"funcioni. En cas contrari només ha d'<guibutton>ometre</guibutton> aquest "
+"pas, i afegir suport per l'idioma després de finalitzar la instal·lació i "
+"arrencar el nou sistema."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Once the installation is done click the <guibutton>Restart Now</guibutton> "
+"button and the liveDVD or LiveUSB environment will shut down."
+msgstr ""
+"Un cop terminada la instal·lació, faci clic al botó <guibutton>Reiniciar "
+"ara</guibutton> i l'entorn LiveDVD o LiveUSB s'apagarà."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"When prompted, remove the DVD from the drive or remove the USB and press "
+"Enter. Your PC is now ready to boot Linux Mint from the hard drive."
+msgstr ""
+"Quan se li demani, retiri el DVD de la unitat o extregui l'USB i premi "
+"Intro. El seu PC ara està a punt per arrencar Linux Mint des del disc dur."
+
+#. Tag: title
+#, no-c-format
+msgid "Reboot the computer"
+msgstr "Reiniciar l'ordinador"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Upon reboot, if you have more than one operating system installed, you "
+"should see a boot menu. Once Linux Mint is finished loading you should see a "
+"new screen inviting you to enter your username and password. This screen is "
+"the “MDM Login Manager” and is commonly called “MDM”. Enter the password you "
+"chose during the installation."
+msgstr ""
+"En reiniciar, si té més d'un sistema operatiu, hauria de veure un menú "
+"d'arrencada. Un cop Linux Mint hagi acabat de carregar hauria d'aparèixer "
+"una nova pantalla que el convida a introduir el seu nom d'usuari i "
+"contrasenya. Aquesta pantalla és el \"MDM Login Manager\", comunament "
+"anomenat \"MDM\". Introdueixi la contrasenya que va triar durant la "
+"instal·lació."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"By default, your “root” password is the same as the password you chose "
+"during the installation. If you do not know what this means, then don't "
+"worry about it."
+msgstr ""
+"Per defecte, la contrasenya de \"root\" és la mateixa que vostè va triar "
+"durant la instal·lació. Si no sap el que això significa, no cal que es "
+"preocupi."

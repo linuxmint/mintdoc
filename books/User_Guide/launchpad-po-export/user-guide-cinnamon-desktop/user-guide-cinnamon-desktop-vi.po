@@ -1,0 +1,169 @@
+# Vietnamese translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-03 00:58+0000\n"
+"Last-Translator: Saki <a4e484b@hotmail.com>\n"
+"Language-Team: Vietnamese <vi@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction to the Desktop"
+msgstr "Giới thiệu Màn hình làm việc"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <wordasword>desktop</wordasword> is the component of the operating "
+"system which is responsible for the elements that appear on the desktop: The "
+"<wordasword>Panel</wordasword>, the <wordasword>Wallpaper</wordasword>, the "
+"<wordasword>Control Center</wordasword>, the menus... etc."
+msgstr ""
+"<wordasword>Màn hình làm việc</wordasword> là thành phần của hệ điều hành "
+"phụ trách các yếu tố hiển thị trên màn hình làm việc: "
+"<wordasword>Bảng</wordasword>, <wordasword>Giấy dán tường</wordasword>, "
+"<wordasword>Trung tâm Điều khiển</wordasword>, các trình đơn...vv"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Cinnamon Edition of Linux Mint uses the Cinnamon desktop which is both "
+"intuitive and powerful."
+msgstr ""
+"Bản Linux Mint Cinnamon dùng màn hình làm việc Cinnamon. Nó vừa trực quan "
+"vừa mạnh mẽ."
+
+#. Tag: title
+#, no-c-format
+msgid "The Menu"
+msgstr "Trình đơn"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Cinnamon, almost everything is accessible from the 'Menu'. To open it, "
+"click on <guimenu>Menu</guimenu> at the bottom-left of your screen, or press "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
+"is the left Windows key on your keyboard)."
+msgstr ""
+"Trong Cinnamon, hầu như tất cả mọi thứ đều có thể truy cập được từ 'Trình "
+"đơn'. Để mở Trình đơn, nhấp vào <guimenu>Trình đơn</guimenu> ở góc dưới bên "
+"trái màn hình của bạn, hoặc nhấn "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
+"là phím Windows  trái trên bàn phím của bạn)"
+
+#. Tag: title
+#, no-c-format
+msgid "The Cinnamon Menu"
+msgstr "Trình đơn Cinnamon"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The menu is used to launch applications, to access the system settings, and "
+"to reach common places and open recent files."
+msgstr ""
+"Trình đơn dùng để chạy ứng dụng, truy cập thiết đặt hệ thống, và đi đến các "
+"vị trí thông dụng và mở tập tin gần đây."
+
+#. Tag: title
+#, no-c-format
+msgid "Places"
+msgstr "Vị trí"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Linux Mint, all your personal data is stored in your "
+"<wordasword>Home</wordasword> directory."
+msgstr ""
+"Trong Linux Mint, toàn bộ dữ liệu cá nhân của bạn được lưu trữ trong thư mục "
+"<wordasword>Nhà</wordasword> của bạn."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"As well as your files, this directory also contains pre-defined sub-"
+"directories such as <wordasword>Documents</wordasword>, "
+"<wordasword>Music</wordasword>, <wordasword>Videos</wordasword>...etc which "
+"you can use to better organize your files."
+msgstr ""
+"Bên cạnh tập tin, thư mục này còn có những thư mục con tạo sẵn như là "
+"<wordasword>Tài liệu</wordasword>, <wordasword>Nhạc</wordasword>, "
+"<wordasword>Phim</wordasword>...vv để bạn tổ chức tập tin tốt hơn."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Other important places are your <wordasword>Desktop</wordasword> folder "
+"(which containsn the files visible on your desktop), the filesystem (which "
+"contains all system files and directories), removable devices connected to "
+"the computer, the network and bookmarks (you can bookmark any directory to "
+"gain quick-access to it)."
+msgstr ""
+"Những nơi quan trọng khác như là thư mục <wordasword>Màn hình làm "
+"việc</wordasword> (chứa những tập tin xuất hiện trên màn hình làm việc), hệ "
+"thống tập tin (chứa tất cả tập tin và thư mục hệ thống), thiết bị tháo lắp "
+"gắn với máy tính, mạng và dấu trang (bạn có thể đánh dấu bất kỳ thư mục nào "
+"để truy cập nhanh)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To quickly access one of these places, perform one of the following actions:"
+msgstr ""
+"Để nhanh chóng truy cập các nơi này, thực hiện một trong các hành động sau:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Click on <guimenu>Menu</guimenu> and select <guisubmenu>Places</guisubmenu>"
+msgstr ""
+"Nhấp vào <guimenu>Trình đơn</guimenu> và chọn <guisubmenu>Vị trí</guisubmenu>"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Launch <wordasword>Nemo</wordasword>, the Cinnamon file manager, by clicking "
+"on <guimenu>Menu</guimenu> and selecting <guimenuitem>Files</guimenuitem>. "
+"Then, within Nemo, you can access common places by clicking on them in the "
+"sidebar, on the left of the window."
+msgstr ""
+"Chạy <wordasword>Nemo</wordasword>, trình quản lý tập tin Cinnamon, bằng "
+"cách nhấp vào <guimenu>Trình đơn</guimenu> và chọn <guimenuitem>Tập "
+"tin</guimenuitem>. Rồi trong Nemo bạn có thể truy cập các nơi phổ biến bằng "
+"cách nhấp vào chúng trên thanh bên, ở bên trái cửa sổ."
+
+#. Tag: title
+#, no-c-format
+msgid ""
+"Nemo, the file manager, listing the content of the Home directory and "
+"providing quick-access to common places from the left sidebar."
+msgstr ""
+"Nemo, trình quản lý tập tin, liệt kê nội dung thư mục Nhà và cho phép truy "
+"cập nhanh đến các vị trí phổ biến ở thanh bên trái."
+
+#. Tag: title
+#, no-c-format
+msgid "System Settings"
+msgstr "Thiết lập Hệ thống"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To launch the system settings, click on <guimenu>Menu</guimenu> and select "
+"<guimenuitem>System Settings</guimenuitem>."
+msgstr ""
+"Để mở thiết lập hệ thống, nhấp vào <guimenu>Trình đơn</guimenu> rồi chọn "
+"<guimenuitem>Thiết lập Hệ thống</guimenuitem>."

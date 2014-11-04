@@ -1,0 +1,490 @@
+# Chinese (Traditional) translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-11 17:19+0000\n"
+"Last-Translator: Steven Liao <stevenliao0119@yahoo.com.tw>\n"
+"Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction to Linux Mint"
+msgstr "Linux Mint 導覽"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint is a computer operating system designed to work on most modern "
+"systems, including typical x86 and x64 PCs."
+msgstr "Linux Mint 是個專為最先進電腦所設計的作業系統，可以安裝在傳統的 x86 與 x64 個人電腦上。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint can be thought of as filling the same role as Microsoft's "
+"Windows, Apple's Mac OS, and the free BSD OS. Linux Mint is also designed to "
+"work in conjunction with other operating systems (including those listed "
+"above), and can automatically set up a <wordasword>dual boot</wordasword> or "
+"<wordasword>multi-boot</wordasword> environment (where the user is prompted "
+"as to which operating system to start at each boot-up) during its "
+"installation."
+msgstr ""
+"Linux Mint 的角色與微軟 Windows，蘋果 Mac OS，或 FreeBSD 等作業系統相似。Linux Mint "
+"也是被設計來配合其他作業系統 (包含以上作業系統) 進行工作，並可以在安裝過程中自動設定一個 <wordasword>雙開機</wordasword> "
+"或 <wordasword>多重開機</wordasword> 環境 (使用者會被提示選擇欲啟動的作業系統)。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint is a great operating system for individuals and for companies."
+msgstr "Linux Mint 是個非常適合個人與企業使用的作業系統。"
+
+#. Tag: title
+#, no-c-format
+msgid "History"
+msgstr "歷史"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint is a very modern operating system; Its development started in "
+"2006. It is, however, built upon very mature and proven software layers, "
+"including the Linux kernel, the GNU tools and the &EDITION; desktop. It also "
+"relies on the Ubuntu and Debian projects and uses their systems as a base."
+msgstr ""
+"Linux Mint 的開發始於 2006，是個非常先進的作業系統。它建構在非常成熟與歷經考驗的軟體層上，包含 Linux 核心，GNU 工具，與 "
+"&EDITION; 桌面。Linux Mint 也倚靠在 Ubuntu 與 Debian 計畫上，並使用它們的系統作為基礎。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Linux Mint project focuses on making the desktop more usable and more "
+"efficient for everyday tasks performed by regular users. Underneath the "
+"desktop the operating system also provides a huge collection of available "
+"software and a very well integrated set of services."
+msgstr ""
+"Linux Mint 計畫專注於打造好上手，高效率，適合一般使用者日常使用的桌面環境。桌面下的作業系統，也提供了大量可用的軟體與整合完善的服務。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint saw a rapid rise in popularity and more and more people use it "
+"every day."
+msgstr "Linux Mint 的普及率正在快速成長，它成為越來越多人日常使用的作業系統。"
+
+#. Tag: title
+#, no-c-format
+msgid "Purpose"
+msgstr "目的"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The purpose of Linux Mint is to provide a desktop operating system that home "
+"users and companies can use at no cost and which is as efficient, easy to "
+"use, and elegant as possible."
+msgstr "打造 Linux Mint 的目的，是要提供家庭與企業使用者一個免費又高效，簡潔而雅緻的桌面作業系統。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"One of the ambitions of the Linux Mint project is to become the best "
+"operating system available by making it easy for people to get to use "
+"advanced technologies, rather than by simplifying them (and thereby reducing "
+"their capabilities), or by copying the approaches taken by other developers."
+msgstr "Linux Mint 計畫的使命之一，是讓使用者能簡單地使用先進科技，而非簡化功能或抄襲其他開發者的構思，來打造最好的作業系統。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The goal is to develop our own idea of the ideal desktop. We think that it "
+"is best to make the most out of the modern technologies that exist under "
+"Linux and make it easy for everybody to use its most advanced features."
+msgstr "我們的目標，是要用我們自己的點子，打造一個理想的桌面。我們希望能使用最先進的 Linux 科技，並讓每個人都能使用這些最進階的功能。"
+
+#. Tag: title
+#, no-c-format
+msgid "Version numbers and codenames"
+msgstr "版本數與代號"
+
+#. Tag: para
+#, no-c-format
+msgid "Version numbers and codenames follow a unique logic in Linux Mint:"
+msgstr "Linux Mint 的版本數與代號命名，依照一個獨特的邏輯慣例:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Codenames provide a way to refer to versions of Linux Mint that is more "
+"familiar than using a version number."
+msgstr "代號提供一種比版本數更能親切表達版本的方式。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Since version 5, Linux Mint has followed a 6 months release cycle and uses a "
+"simplified version scheme. The version number simply gets incremented every "
+"6 months."
+msgstr "從版本 5 開始，Linux Mint 依照一個 6 個月的發布週期，並使用簡化的版本計畫。版本數每 6 個月增加一次。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If revisions are made to a particular release (a bit like Service Packs in "
+"Windows) its version number gets a minor revision increment. For instance "
+"<wordasword>3</wordasword> becomes <wordasword>3.1</wordasword>."
+msgstr ""
+"特定版本的作業系統在安裝完修正包 (類似 Windows 的 Service Pack) 之後，其版本數會略為增加。例如 "
+"<wordasword>3</wordasword> 會變成 <wordasword>3.1</wordasword>。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Codenames in Linux Mint are always female names ending with "
+"<wordasword>a</wordasword> They follow the alphabetical order and the first "
+"letter of the codename corresponds to the index of the version number in the "
+"alphabet."
+msgstr ""
+"Linux Mint 的代號一向使用 <wordasword>a</wordasword> 結尾的女生名字。代號的第一個字母，會依照字母順序對應到版本數。"
+
+#. Tag: para
+#, no-c-format
+msgid "So far Linux Mint has used the following codenames:"
+msgstr "Linux Mint 至今已經使用過以下代號:"
+
+#. Tag: title
+#, no-c-format
+msgid "Linux Mint codenames"
+msgstr "Linux Mint 代號"
+
+#. Tag: entry
+#, no-c-format
+msgid "Version"
+msgstr "版本"
+
+#. Tag: entry
+#, no-c-format
+msgid "Codename"
+msgstr "代號"
+
+#. Tag: entry
+#, no-c-format
+msgid "1.0"
+msgstr "1.0"
+
+#. Tag: entry
+#, no-c-format
+msgid "Ada"
+msgstr "Ada"
+
+#. Tag: entry
+#, no-c-format
+msgid "2.0"
+msgstr "2.0"
+
+#. Tag: entry
+#, no-c-format
+msgid "Barbara"
+msgstr "Barbara"
+
+#. Tag: entry
+#, no-c-format
+msgid "2.1"
+msgstr "2.1"
+
+#. Tag: entry
+#, no-c-format
+msgid "Bea"
+msgstr "Bea"
+
+#. Tag: entry
+#, no-c-format
+msgid "2.2"
+msgstr "2.2"
+
+#. Tag: entry
+#, no-c-format
+msgid "Bianca"
+msgstr "Bianca"
+
+#. Tag: entry
+#, no-c-format
+msgid "3.0"
+msgstr "3.0"
+
+#. Tag: entry
+#, no-c-format
+msgid "Cassandra"
+msgstr "Cassandra"
+
+#. Tag: entry
+#, no-c-format
+msgid "3.1"
+msgstr "3.1"
+
+#. Tag: entry
+#, no-c-format
+msgid "Celena"
+msgstr "Celena"
+
+#. Tag: entry
+#, no-c-format
+msgid "4.0"
+msgstr "4.0"
+
+#. Tag: entry
+#, no-c-format
+msgid "Daryna"
+msgstr "Daryna"
+
+#. Tag: entry
+#, no-c-format
+msgid "5"
+msgstr "5"
+
+#. Tag: entry
+#, no-c-format
+msgid "Elyssa"
+msgstr "Elyssa"
+
+#. Tag: entry
+#, no-c-format
+msgid "6"
+msgstr "6"
+
+#. Tag: entry
+#, no-c-format
+msgid "Felicia"
+msgstr "Felicia"
+
+#. Tag: entry
+#, no-c-format
+msgid "7"
+msgstr "7"
+
+#. Tag: entry
+#, no-c-format
+msgid "Gloria"
+msgstr "Gloria"
+
+#. Tag: entry
+#, no-c-format
+msgid "8"
+msgstr "8"
+
+#. Tag: entry
+#, no-c-format
+msgid "Helena"
+msgstr "Helena"
+
+#. Tag: entry
+#, no-c-format
+msgid "9"
+msgstr "9"
+
+#. Tag: entry
+#, no-c-format
+msgid "Isadora"
+msgstr "Isadora"
+
+#. Tag: entry
+#, no-c-format
+msgid "10"
+msgstr "10"
+
+#. Tag: entry
+#, no-c-format
+msgid "Julia"
+msgstr "Julia"
+
+#. Tag: entry
+#, no-c-format
+msgid "11"
+msgstr "11"
+
+#. Tag: entry
+#, no-c-format
+msgid "Katya"
+msgstr "Katya"
+
+#. Tag: entry
+#, no-c-format
+msgid "12"
+msgstr "12"
+
+#. Tag: entry
+#, no-c-format
+msgid "Lisa"
+msgstr "Lisa"
+
+#. Tag: entry
+#, no-c-format
+msgid "13"
+msgstr "13"
+
+#. Tag: entry
+#, no-c-format
+msgid "Maya"
+msgstr "Maya"
+
+#. Tag: entry
+#, no-c-format
+msgid "14"
+msgstr "14"
+
+#. Tag: entry
+#, no-c-format
+msgid "Nadia"
+msgstr "Nadia"
+
+#. Tag: entry
+#, no-c-format
+msgid "15"
+msgstr "15"
+
+#. Tag: entry
+#, no-c-format
+msgid "Olivia"
+msgstr "Olivia"
+
+#. Tag: entry
+#, no-c-format
+msgid "16"
+msgstr "16"
+
+#. Tag: entry
+#, no-c-format
+msgid "Petra"
+msgstr "Petra"
+
+#. Tag: entry
+#, no-c-format
+msgid "17"
+msgstr "17"
+
+#. Tag: entry
+#, no-c-format
+msgid "Qiana"
+msgstr "Qiana"
+
+#. Tag: title
+#, no-c-format
+msgid "Editions"
+msgstr "桌面版本"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"An Edition is a release of Linux Mint which is customized to address a "
+"certain set of needs. This guide covers the &EDITION; Edition. Here are some "
+"of the most popular editions:"
+msgstr "桌面版本是 Linux Mint 針對特定需求客製化的版本。這個指南會涵蓋 &EDITION; 版。這裡是一些最受歡迎的桌面版本:"
+
+#. Tag: para
+#, no-c-format
+msgid "Cinnamon Edition (uses a Cinnamon desktop)"
+msgstr "Cinnamon 版 (使用 Cinnamon 桌面)"
+
+#. Tag: para
+#, no-c-format
+msgid "Mate Edition (uses a Mate desktop)"
+msgstr "Mate 版 (使用 Mate 桌面)"
+
+#. Tag: para
+#, no-c-format
+msgid "KDE Edition (uses a KDE desktop)"
+msgstr "KDE 版 (使用 KDE 桌面)"
+
+#. Tag: para
+#, no-c-format
+msgid "Xfce Edition (uses a Xfce desktop)"
+msgstr "Xfce 版 (使用 Xfce 桌面)"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you don't know which edition to use, choose the MATE Edition. It's not as "
+"popular as the Cinnamon Edition but it is compatible with a wider variety of "
+"hardware specifications."
+msgstr "如果您不知道該使用哪個桌面版本，請選用 Mate 版。它雖然不如 Cinnamon 版那麼受歡迎，但是可以相容於更多樣的硬體規格。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you intend to redistribute or to make commercial use of Linux Mint in the "
+"USA or in Japan and if you're not sure about patent legislation you should "
+"use the <guilabel>No Codecs</guilabel> installation images."
+msgstr ""
+"如果您打算在美國或日本發行 Linux Mint，或拿來作為商業用途，卻不熟悉專利法規，您則應該使用 <guilabel>No "
+"Codecs</guilabel> 的安裝映像檔。"
+
+#. Tag: title
+#, no-c-format
+msgid "Where to find help"
+msgstr "何處尋求協助"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Linux Mint community is very helpful and very active. If you have "
+"questions or a problem related to Linux Mint, you should be able to get help "
+"from other users online."
+msgstr "Linux Mint 的社群非常熱心又有活力。如果您有與 Linux Mint 相關的問題，可以向其他線上使用者尋求協助。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"First, make sure to register with the <guilabel>Linux Mint "
+"Forums</guilabel>. This is the very first place where you can find help: "
+"<ulink "
+"url=\"http://www.linuxmint.com/forum\">http://www.linuxmint.com/forum</ulink>"
+"."
+msgstr ""
+"首先，記得在 <guilabel>Linux Mint Forums (討論區)</guilabel> 註冊。這是您最容易得到協助的地方: <ulink "
+"url=\"http://www.linuxmint.com/forum\">http://www.linuxmint.com/forum</ulink>"
+"。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you want to chat with other users you can connect to the IRC chat room. "
+"Under Linux Mint simply launch <guilabel>Hexchat</guilabel> from the menu. "
+"If you’re using another operating system or another IRC client make sure to "
+"connect to the <guilabel>irc.spotchat.org</guilabel> server and to join the "
+"channels <guilabel>#linuxmint-help</guilabel> and <guilabel>#linuxmint-"
+"chat</guilabel>."
+msgstr ""
+"您可以連接到 IRC 聊天室找其他使用者聊天。您可以從選單啟動 <guilabel>Hexchat</guilabel>。如果您使用其他作業系統或其他 "
+"IRC 客戶端軟體，請記得連接到 <guilabel>irc.spotchat.org</guilabel> 伺服器並加入下列頻道:  "
+"<guilabel>#linuxmint-help</guilabel> 與 <guilabel>#linuxmint-chat</guilabel>。"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint uses Ubuntu<footnote><para>Ubuntu is another operating system "
+"based on GNU/Linux.</para></footnote> repositories<footnote><para>A "
+"repository is an online service by which software is stored and made "
+"available for the operating system to install and update from. Most "
+"operating systems based on GNU/Linux use repositories and connect to them "
+"via HTTP or FTP to install and upgrade their software.</para></footnote> "
+"(more on what this means later) and is fully compatible with it so most of "
+"the resources, articles, tutorials, and software made for Ubuntu also work "
+"for Linux Mint. If you can’t find help on a specific subject, make sure to "
+"search on the same subject for Ubuntu."
+msgstr ""
+"Linux Mint 使用 Ubuntu <footnote><para>Ubuntu 是另外一個基於 GNU/Linux "
+"的作業系統。</para></footnote> 套件庫 <footnote><para>套件庫是一種提供作業系統軟體與更新的線上服務。多數基於 "
+"GNU/Linux 的作業系統都使用套件庫，並經由 HTTP 或 FTP 來連接以安裝或升級軟體。</para></footnote>，而且多數 "
+"Ubuntu 的資源，文章，教學，與軟體也可以應用在 Linux Mint。如果您無法從 Linux Mint 社群取得特定問題的解決方案，可以試著在 "
+"Ubuntu 社群搜尋相關問題。"

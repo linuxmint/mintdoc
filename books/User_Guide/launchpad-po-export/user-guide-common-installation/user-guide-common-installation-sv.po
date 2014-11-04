@@ -1,0 +1,972 @@
+# Swedish translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-31 00:36+0000\n"
+"Last-Translator: Jan-Olof Svensson <jan-olof.svensson@abc.se>\n"
+"Language-Team: Swedish <sv@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Installation of Linux Mint"
+msgstr "Installation av Linux Mint"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You can download the Linux Mint operating system for free. It comes as an "
+"ISO file which you need to burn to a blank DVD<footnote><para>It is also "
+"possible to write the ISO image to a USB stick or other memory device and "
+"boot from that, or to boot from the ISO image on the hard drive, but these "
+"options are somewhat more advanced and the method presented here is "
+"recommended. For help with alternative methods of installing and running "
+"Linux Mint, please visit the forums.</para></footnote>. The liveDVD is then "
+"bootable and provides a fully-functional operating system which you can try "
+"without affecting your PC. In layman's terms, when you put Linux Mint on a "
+"DVD and place it into your computer, you can try it out while leaving your "
+"current system intact."
+msgstr ""
+"Du kan ladda ned Linux Mint gratis. Beroende på utgåva så är det en ISO-fil "
+"på runt 1,3 GB som du behöver för att bränna en DVD<footnote><para>Det går "
+"också att skriva ISO-filen till ett USB-minne eller liknande och starta från "
+"detta – praktiskt om du vill prova Mint i en dator som saknar DVD-läsare. "
+"Besök vårt forum på linuxmint.se om du behöver hjälp att komma "
+"igång.</para></footnote>. Denna skiva är sedan startbar och du kan köra hela "
+"operativsystemet från skivan vilket innebär att du kan prova det utan att "
+"innehållet på din hårddisk påverkas."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you like what you see when running the liveDVD you can decide to install "
+"the system to your hard drive. All the necessary tools (partitioning and "
+"installation tools) are present on the DVD."
+msgstr ""
+"Om du gillar Mint så kan du installera det i datorn, direkt från DVD:n eller "
+"USB-minnet. Du har redan de verktyg som behövs för eventuell "
+"ompartitionering (uppdelning av hårddisken) och installation."
+
+#. Tag: title
+#, no-c-format
+msgid "Download the ISO"
+msgstr "Hämta ISO-filen"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To download Linux Mint, visit the download page at <ulink "
+"url=\"http://www.linuxmint.com/download.php\">http://www.linuxmint.com/downlo"
+"ad.php</ulink> and choose the edition you're interested in."
+msgstr ""
+"Det vanligaste sättet att skaffa Mint är att besöka Linux Mints "
+"nedladdningssida, <ulink "
+"url=\"http://www.linuxmint.com/download.php\">http://www.linuxmint.com/downlo"
+"ad.php</ulink>, och välja den utgåva du vill ha.\r\n"
+"\r\n"
+"Där väljer du också om du vill ha Mint i 32- eller 64-bitarsutförande. En "
+"tumregel kan vara att om datorn har ett arbetsminne på 3 GB eller mindre så "
+"väljer du 32 bitar."
+
+#. Tag: para
+#, no-c-format
+msgid "From this page, you should find:"
+msgstr "På denna sida hittar du:"
+
+#. Tag: para
+#, no-c-format
+msgid "an MD5 signature"
+msgstr "en MD5-signatur"
+
+#. Tag: para
+#, no-c-format
+msgid "a torrent link"
+msgstr "en torrent-länk"
+
+#. Tag: para
+#, no-c-format
+msgid "a list of download mirrors"
+msgstr ""
+"en lista med nedladdningsspeglar (en spegel är i det här fallet en server "
+"som innehåller en kopia av den ursprungliga webbplatsen)"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The file you need to download is an ISO file. There are two ways to download "
+"this file, by torrent (a Peer to Peer protocol) or via a download mirror "
+"(HTTP or FTP protocol). Once your download is finished, you can ensure your "
+"ISO file isn’t corrupted by checking its signature with the MD5."
+msgstr ""
+"Filen du ska hämta är en ISO-fil. Det finns två sätt att göra detta: via "
+"torrent (ett ”Peer to Peer”-protokoll) eller via en nedladdningsspegel (HTTP-"
+" eller FTP-protokoll). När din nedladdning är klar, kan du kontrollera att "
+"din ISO-fil inte är skadad eller ändrad av obehöriga genom att kontrollera "
+"dess MD5-signatur."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you don't have a broadband connection, or if your Internet access is too "
+"slow you can order the DVD from <ulink "
+"url=\"http://www.osdisc.com\">http://www.osdisc.com</ulink>."
+msgstr ""
+"Om du inte har bredband eller om din internetanslutning är för långsam för "
+"att hämta ISO-filen så kan du beställa en installations-DVD genom att gå "
+"till följande adress: <ulink url=\"http://www.osdisc.com/cgi-"
+"bin/view.cgi/products/linux/linuxmint\">http://www.osdisc.com</ulink>"
+
+#. Tag: title
+#, no-c-format
+msgid "Via torrent"
+msgstr "Hämtning via Torrent"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Torrent is a Peer to Peer (P2P) protocol. Basically, instead of downloading "
+"from a central location, a torrent lets you download the ISO file in parts "
+"from different people across the Internet."
+msgstr ""
+"Torrent är ett protokoll för ”Peer to Peer” (P2P). Istället för att ladda "
+"ned från en central plats, låter det här programmet dig hämta delar av ISO-"
+"filen från flera ställen över hela Internet"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The more people who download the ISO file, the faster the download speed "
+"gets. This is the preferred and recommended way to download Linux Mint."
+msgstr ""
+"Ju fler människor som hämtar ISO-filen, desto högre blir "
+"nedladdningshastigheten. Detta är det rekommenderade sättet att hämta Linux "
+"Mint."
+
+#. Tag: title
+#, no-c-format
+msgid "Install a Torrent client"
+msgstr "Installera en Torrent-klient"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You need a piece of software called a \"torrent client\" in order to "
+"download files via torrent."
+msgstr ""
+"Först behöver du ha ett program, en så kallad \"torrent-klient\", för att "
+"kunna använda torrent-filen."
+
+#. Tag: para
+#, no-c-format
+msgid "If you run Linux Mint you already have a torrent client installed."
+msgstr ""
+"Om du använder Linux så kan du använda ett program som heter Transmission. I "
+"Mint finns programmet redan installerat."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you run another Linux distribution, you can install \"Transmission\"."
+msgstr ""
+"Om du använder någon annan Linux-distribution så kan Transmission "
+"installeras även där."
+
+#. Tag: para
+#, no-c-format
+msgid "If you run Windows you can use µTorrent."
+msgstr "Om du använder Windows så kan du använda µTorrent."
+
+#. Tag: title
+#, no-c-format
+msgid "Download the Torrent file"
+msgstr "Hämta torrent-filen"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The next step is to follow the torrent link from the Linux Mint website and "
+"to download the .torrent file. This file is very small. After it downloads, "
+"you should open it with your torrent client."
+msgstr ""
+"Nästa steg är att via torrent-länken på Linux Mints hemsida ladda ned "
+"torrent-filen. Den här filen är mycket liten och du skall sedan öppna den "
+"med din torrentklient."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The torrent client will probably ask you where you want to save the ISO. "
+"Select a destination and then wait for the download to complete."
+msgstr ""
+"Torrentklienten kommer förmodligen att fråga dig var du vill spara din ISO-"
+"fil, välj en plats och vänta tills nedladdningen är klar."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"For more information about the torrent protocol, visit <ulink "
+"url=\"http://en.wikipedia.org/wiki/BitTorrent\">http://en.wikipedia.org/wiki/"
+"BitTorrent</ulink>."
+msgstr ""
+"Mer information om torrent-protokollet hittar du på följande adress: <ulink "
+"url=\"http://sv.wikipedia.org/wiki/BitTorrent\">http://sv.wikipedia.org/wiki/"
+"BitTorrent</ulink>."
+
+#. Tag: title
+#, no-c-format
+msgid "Via direct download"
+msgstr "Hämtning via en spegel"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you can’t, or do not choose to use the torrent protocol, then look at the "
+"list of download mirrors and pick one of them. They’ll provide a link to the "
+"ISO file itself which you can just click to start the download."
+msgstr ""
+"Om du väljer att inte använda torrent-protokollet så kan du istället titta i "
+"listan med nedladdningsspeglar och välja en av dem. De tillhandahåller en "
+"länk till ISO-filen i sin helhet som du kan klicka på för att starta "
+"nedladdningen."
+
+#. Tag: title
+#, no-c-format
+msgid "Read the release notes"
+msgstr "Läs versionsinformationen"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Your download is probably going to last at least an hour, so now would be "
+"the perfect time for you to get familiar with the new features coming with "
+"the release you’re currently downloading."
+msgstr ""
+"Beroende på din internetförbindelse så kan hämtningen kan ta från några "
+"minuter upp till en timma. Under tiden kan du passa på att bekanta dig med "
+"de nya funktionerna i den utgåva du håller på att hämta."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The release notes are featured on the Linux Mint web page and answer the "
+"following questions:"
+msgstr ""
+"I versionsinformationen på Linux Mints webbplats hittar du svar på följande "
+"frågor:"
+
+#. Tag: para
+#, no-c-format
+msgid "What are the new features delivered in this release?"
+msgstr "Vilka är de nya funktionerna som inkluderas i den här utgåvan?"
+
+#. Tag: para
+#, no-c-format
+msgid "What are the known problems of this release?"
+msgstr "Finns det några kända problem med den här utgåvan?"
+
+#. Tag: para
+#, no-c-format
+msgid "How do I upgrade from the previous release?"
+msgstr "Hur kan jag uppgradera från den föregående utgåvan?"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"They also contain screenshots of the latest release. Of course, you could "
+"find out about most features highlighted in the release notes by simply "
+"using the operating system, but you might miss a few things, so it is most "
+"reliable to read the release notes."
+msgstr ""
+"Versionsinformationen brukar också innehålla skärmbilder från den senaste "
+"versionen. Du kan naturligtvis ta reda på allt det här själv genom att "
+"använda systemet, men risken finns att du missar en del saker och det vore "
+"synd att inte känna till en ny funktion bara för att du inte läst den "
+"information som finns."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The release notes for Linux Mint 17 Qiana are available at <ulink "
+"url=\"http://www.linuxmint.com/rel_qiana.php\">http://www.linuxmint.com/rel_q"
+"iana.php</ulink>"
+msgstr ""
+"Versionsinformationen för Linux Mint 17 finns på <ulink "
+"url=\"http://www.linuxmint.com/rel_qiana.php\">http://www.linuxmint.com/rel_q"
+"iana.php</ulink>"
+
+#. Tag: title
+#, no-c-format
+msgid "Check the MD5"
+msgstr "Kontrollera MD5-signaturen"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You’ve read the release notes, you just can’t wait to play with the new "
+"features or try Linux Mint, and your download just finished successfully. "
+"You’re ready to burn a DVD and to boot on it… but hey! Wait for a second!"
+msgstr ""
+"Nu när du läst versionsinformationen och otåligt vill sätta igång att prova "
+"alla nya funktioner bör din nedladdning vara färdig. Du är nu redo att "
+"bränna en DVD och starta från den, men... vänta lite!"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If that DVD is faulty you will experience weird bugs and will have a lot of "
+"trouble finding help. The two most common reasons for a DVD to be faulty are:"
+msgstr ""
+"Om DVD:n skulle vara felaktig kommer du att uppleva en massa skumma buggar "
+"som det kan vara svårt att komma till rätta med. De två vanligaste "
+"anledningarna till att en skiva är felaktig är:"
+
+#. Tag: para
+#, no-c-format
+msgid "An issue with the download causing problems in your ISO file"
+msgstr ""
+"Någonting gick fel under nedladdningen och din ISO-fil blev då skadad."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"An error during the burn process that alters the contents of your burned "
+"liveDVD"
+msgstr ""
+"Någonting gick fel under bränningen och din DVD är inte riktigt som den ska."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The MD5 signature, which is present on the download page, provides a quick "
+"way for you to make sure that your ISO file is exactly like it should be. "
+"So, let’s check the ISO file you just downloaded before we burn it and save "
+"ourselves from a lot of potential problems."
+msgstr ""
+"Med hjälp av MD5-signaturen, som finns på Linux Mints hämtningssida, kan du "
+"snabbt försäkra dig om att din ISO-fil överensstämmer med originalfilen. "
+"Kontrollera därför ISO-filen innan du bränner en DVD och undvik på så sätt "
+"en massa potentiella problem."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you run any version of Linux you probably already have the md5sum program "
+"installed. Open a terminal and “cd” to the directory where your ISO file is "
+"(for instance, if “linuxmint.iso” is on the Desktop), open a terminal and "
+"type:"
+msgstr ""
+"Om du använder ett Linuxsystem så har du förmodligen redan md5sum "
+"installerat. Öppna ett terminalfönster där din ISO-fil finns och skriv "
+"(ändra utgåvans namn, t.ex. cinnamon, och ordlängden, 32 eller 64, till det "
+"du valt):"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                <command>cd ~/Desktop</command>\n"
+"                <command>md5sum "
+"<replaceable>myfile.iso</replaceable></command>\n"
+"            "
+msgstr ""
+"\n"
+"                <command>md5sum "
+"<replaceable>myfile.iso</replaceable></command>\n"
+"            "
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"This command should output a series of numbers and letters which comprise "
+"the MD5 sum, or signature, of your ISO file. By design, any small change to "
+"the ISO file will cause this signature to be significantly different, "
+"allowing us to verify that the file is exactly as it should be."
+msgstr ""
+"Detta genererar en serie tecken som utgör din ISO-fils MD5-signatur. Den här "
+"signaturen är unik för den fil du nyss hämtat, vilket innebär att om något "
+"blivit fel under hämtningen så kommer ett helt annat värde att genereras."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Compare that signature with the one on the download page of the Linux Mint "
+"website. If the two signatures are the same, then you know your ISO file is "
+"exactly the same as the original and you can now get ready to burn it on DVD."
+msgstr ""
+"Jämför din signatur med den som finns på Linux Mints hämtningssida. Om "
+"signaturen stämmer så är ISO-filen felfri och det är dags att bränna din DVD."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you happen to run Windows, chances are you don’t have md5sum installed. "
+"You can get it from here: <ulink "
+"url=\"http://www.etree.org/md5com.html\">http://www.etree.org/md5com.html</ul"
+"ink>"
+msgstr ""
+"Om du använder Windows så har du förmodligen inte md5sum installerat. "
+"Programmet finns då att hämta från <ulink "
+"url=\"http://www.etree.org/md5com.html\">http://www.etree.org/md5com.html</ul"
+"ink>"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Place the ISO file and the md5sum.exe in the same place (let’s say in C:\\) "
+"and run “cmd.exe”. In the command line environment, type the following "
+"commands:"
+msgstr ""
+"Placera ISO-filen och \"md5sum.exe\" i samma mapp (exempelvis direkt under "
+"C:\\). Välj sedan \"Kör\" i startmenyn och skriv\r\n"
+"cmd.exe\r\n"
+"I terminalfönstret skriver du sedan in följande kommandon:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                <command>C:</command>\n"
+"                <command>cd \\</command>\n"
+"                <command>md5sum "
+"<replaceable>myfile.iso</replaceable></command>\n"
+"            "
+msgstr ""
+"\n"
+"                <command>C:</command>\n"
+"<command>cd \\</command>\n"
+"<command>md5sum <replaceable>myfile.iso</replaceable></command>\n"
+"            "
+
+#. Tag: para
+#, no-c-format
+msgid "Then compare the signature to the one present on the website."
+msgstr "Jämför sedan signaturen med den på Linux Mints hämtningssida."
+
+#. Tag: title
+#, no-c-format
+msgid "Burn the ISO to DVD"
+msgstr "Bränn ISO-filen till DVD"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Now that you have checked the ISO file with MD5, you are ready to burn it to "
+"a DVD."
+msgstr ""
+"Nu har du en ISO-fil vars integritet är kontrollerad med hjälp av MD5. Då är "
+"du redo att bränna den till en DVD."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Get a blank DVD-R (a DVD-RW should work as well, but this type of media is "
+"known to have compatibility issues) and your favorite marker and label the "
+"DVD. Although labeling your DVDs sounds trivial, you should be sure to do "
+"so, as you can easily end up with 20 unlabeled and unidentifiable discs on "
+"your desk. :)"
+msgstr ""
+"Skaffa en tom DVD-R (DVD-RW brukar också fungera, men är inte riktigt lika "
+"tillförlitliga) och märk den så att du vet vad den innehåller. Det kanske "
+"låter dumt, men det är ju lätt hänt att man \"glömmer\" detta och sedan "
+"sitter man plötsligt där med 20 omärkta skivor."
+
+#. Tag: para
+#, no-c-format
+msgid "Insert the blank DVD-R in the drive and get ready to burn the ISO."
+msgstr "Placera DVD:n i brännaren och gör dig redo att bränna din ISO-fil."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you’re running Linux with Cinnamon right-click on the ISO file and "
+"select: open with: Brasero, choose “Burn image” and follow the steps given "
+"there."
+msgstr ""
+"Klicka på \"Avbryt\" om du redan använder ett Linuxsystem och blir "
+"tillfrågad om vad du vill göra med den tomma skiva du matat in. Högerklicka "
+"sedan på ISO-filen och välj \"Skriv till skiva...\"."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you’re running Linux with KDE, launch K3B and in the “Tools” menu choose "
+"“Write ISO Image”."
+msgstr ""
+"Om du använder ett Linuxsystem med KDE så starta K3B. I verktygsmenyn väljer "
+"du sedan ”Skriv ISO-fil”."
+
+#. Tag: para
+#, no-c-format
+msgid "If you’re running Windows you can use a program like InfraRecorder."
+msgstr ""
+"Om du använder Windows kan du till exempel använda InfraRecorder:\r\n"
+"<ulink "
+"url=\"http://infrarecorder.sourceforge.net/?page_id=5\">http://infrarecorder."
+"sourceforge.net/?page_id=5</ulink>"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Make sure to burn the ISO image to disk, and not to write the ISO file to "
+"the disk. A very common mistake, especially for people using Nero, is to "
+"actually burn the ISO file on the disk as a data file. The ISO file is an "
+"image of a disk so it needs to be burnt not as a file which will appear on "
+"the disk, but as an ISO image which will be decompressed and whose content "
+"will be burnt onto the disc. After burning the DVD you shouldn't see the ISO "
+"file within the disc, but rather folders like “casper” or “isolinux”. Most "
+"burning software has a special option for this."
+msgstr ""
+"Tänk på att bränna skivan på rätt sätt. Ett mycket vanligt misstag, särskilt "
+"för de som använder Nero, är att bränna ISO-filen som en datafil. ISO-filen "
+"är en skivavbildning och skall därför brännas som en sådan. Efter avslutad "
+"bränning ska du inte se ISO-filen då du bläddrar i DVD-skivans filstruktur "
+"utan mappar med namn som ”casper” och ”isolinux”. De flesta brännarprogram "
+"har ett speciellt menyval för att bränna skivavbildningar."
+
+#. Tag: title
+#, no-c-format
+msgid "Boot the LiveDVD"
+msgstr "Starta från DVD:n"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Place the DVD in the drive and restart the computer. You should now see the "
+"following screen:"
+msgstr ""
+"Lägg i DVD:n i din optiska enhet och starta om datorn. Du kommer att se en "
+"startbild som ser ut så här:"
+
+#. Tag: title
+#, no-c-format
+msgid "The boot screen"
+msgstr "Startbilden"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you don’t see this screen and your PC boots as usual it’s probably "
+"because your BIOS is not set to boot on DVD. Restart the computer and press "
+"F1, F2, Delete, or Escape (or whatever key lets you enter the BIOS "
+"configuration) and change your BIOS settings to tell your computer to boot "
+"from its DVD drive."
+msgstr ""
+"Om din skärm inte visar ovanstående bild och datorn istället startar som "
+"vanligt, så är det antagligen för att datorns BIOS-inställningar inte har "
+"din DVD-läsare som första startenhet. Starta om datorn och tryck F1, F2, "
+"Delete, Escape (eller vad det nu är för tangent som du behöver trycka på för "
+"att ta dig till datorns BIOS-inställningar), väl där leta efter ”Boot”, "
+"eller ”Boot options” välj DVD som första val, spara dina inställningar "
+"(vanligtvis med ”F10”-tangenten) och starta sedan om datorn igen."
+
+#. Tag: title
+#, no-c-format
+msgid "Install Linux Mint on your hard drive"
+msgstr "Installera Linux Mint på hårddisken"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"From the first screen choose the default <guilabel>Start Linux "
+"Mint</guilabel> option and press Enter. After a little while the live system "
+"should be ready and you should see the desktop."
+msgstr ""
+"Om du skulle få upp en startmeny så behöver du bara trycka på radmatning "
+"eftersom <guilabel>Starta Linux Mint</guilabel> är förvalt. När Linux har "
+"startat så visas skrivbordet"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"At this stage Linux Mint is not installed on your computer, it’s simply "
+"running from the DVD. The system you have in front of you is, however, "
+"almost exactly the same as the one you will have on your computer after the "
+"installation is finished."
+msgstr ""
+"I det här skedet är ingenting installerat, Linux Mint körs helt från DVD:n, "
+"men systemet du ser framför dig ser nästan exakt likadant ut som det kommer "
+"att göra när du har installerat det i datorn."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Have fun with it and see if you like it. Bear in mind that when running from "
+"the DVD, Linux Mint runs significantly slower than it does when it is "
+"installed on a hard drive, since it has to read data from the DVD drive, "
+"which is a slower medium than the hard drive."
+msgstr ""
+"Ha kul med det och känn efter om du trivs med det. Ha dock i åtanke att det "
+"är extremt långsamt på grund av att det körs från en DVD. När det väl är "
+"installerat på hårddisken kommer Linux Mint att vara mycket snabbare.\r\n"
+"\r\n"
+"För att kunna prova systemet ordentligt så vill man naturligtvis redan nu ha "
+"tillgång till svenskt tangentbord. Gör så här, beroende på vilken "
+"skrivbordsmiljö du använder:\r\n"
+"Cinnamon\r\n"
+"Välj Preferences och Region & Language (Keyboard Layouts i äldre versioner) "
+"i menyn. Klicka på fliken Keyboard Layouts och sedan på plustecknet nere i "
+"vänstra hörnet. Välj Swedish i listan och klicka på Add. Klicka på språket i "
+"den nya listan och flytta upp det med uppåtpilen nere i vänstra hörnet. "
+"Stäng fönstret.\r\n"
+"Mate\r\n"
+"Välj Control Center i menyn. Klicka på Keyboard (under kategorin Hardware) "
+"och fliken Layouts. Klicka på knappen Add och välj Sweden i listan Country. "
+"Klicka på Add. Klicka på Swedish i den nya listan och flytta upp det med "
+"knappen Move Up. Stäng fönstret.\r\n"
+"KDE\r\n"
+"Välj Favorites och System Settings i menyn. Dubbelklicka på Input Devices "
+"(under kategorin Hardware). Välj fliken Layouts och kryssa i rutan Configure "
+"layouts. Klicka på knappen Add och välj Swedish i listan Limit selection by "
+"language. Klicka på OK. Klicka på språket i den nya listan och flytta upp "
+"det med knappen Move up. Klicka på Apply och stäng sedan fönstret.\r\n"
+"Xfce\r\n"
+"Välj Settings och Keyboard i menyn. Välj fliken Layout och avmarkera Use "
+"system defaults. Klicka på Add och välj Swedish i listan. Klicka på OK. "
+"Klicka på English (US) i den nya listan och sedan på Delete. Stäng fönstret "
+"med Close."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"When you are ready, double-click on the <guilabel>Install Linux "
+"Mint</guilabel> icon located on the desktop. The Installer appears:"
+msgstr ""
+"Bra att veta: Om du planerar att använda logisk volymhantering, LVM så måste "
+"du byta till svenskt tangentbord innan du börjar installera.\r\n"
+"\r\n"
+"När du känner dig redo, dubbelklicka på Installera-ikonen på skrivbordet. "
+"Installationsprogrammet startas..."
+
+#. Tag: title
+#, no-c-format
+msgid "The language selection screen"
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you haven’t read the release notes yet, and you have an Internet "
+"connection, then this an ideal opportunity to review them; simply click on "
+"the underlined link. It is highly recommended that users read the release "
+"notes prior to installation in order to advise themselves of new features, "
+"as well as any issues that might affect their particular hardware "
+"configuration."
+msgstr ""
+"Om du inte har läst versionsinformationen så kan du göra det nu, förutsatt "
+"att du har tillgång till Internet. Klicka på ”kommentarer till utgåvan” i "
+"installationsfönstret. Vi rekommenderar dig att läsa versionsinformationen "
+"innan du installerar så att du vet vilka nyheter som införts i systemet och "
+"om några speciella inställningar behöver göras för just din dator."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Select your language and press the <guibutton>Continue</guibutton> button."
+msgstr "Välj språk och klicka på <guibutton>Fortsätt</guibutton>."
+
+#. Tag: title
+#, no-c-format
+msgid "Checking that everything is fine..."
+msgstr "Förbereder att installera Linux Mint"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In the next screen, make sure you're connected to a power source (if you're "
+"using a laptop), the Internet and that you have the recommended amount of "
+"disk space. Then press the <guibutton>Continue</guibutton> button."
+msgstr ""
+"Här kontrollerar du att datorn har tillräckligt mycket ledigt utrymme på "
+"hårddisken, att den är ansluten till elnätet (så att inte strömmen tar slut "
+"om det är en bärbar dator) och att den är ansluten till Internet (det senare "
+"är inte nödvändigt, men underlättar). Klicka sedan på "
+"<guibutton>Fortsätt</guibutton>.\r\n"
+"\r\n"
+"Bra att veta: I din dator lagras filerna på en hårddisk (med roterande "
+"skivor) eller en SSD (utan rörliga delar). En dator kan innehålla flera "
+"sådana enheter. Man delar upp enheterna i olika avsnitt som kallas "
+"”partitioner” så att varje sådan partition kan användas för att lagra olika "
+"slags data. Om du till exempel tänker använda både Linux och Windows i samma "
+"dator, så behöver du normalt minst en partition för varje operativsystem.\r\n"
+"\r\n"
+"I Windows tilldelas partitionerna en enhetsbokstav med ett efterföljande "
+"kolon (till exempel C: eller D:). F: och G: kan därför vara partitioner på "
+"samma fysiska enhet, t.ex. en hårddisk, eller partitioner på två olika "
+"fysiska enheter, t.ex. två hårddiskar.\r\n"
+"\r\n"
+"I Linux är sökvägen till enheterna alltid ”/dev/”. Den första enheten kallas "
+"”sda”, den andra kallas ”sdb” och så vidare i bokstavsordning. Partitionerna "
+"på varje enhet identifieras med en siffra. Därför är ”/dev/sda1” alltid den "
+"första partitionen på den första enheten. Den tredje hårddiskens andra "
+"partition skulle alltså heta ”/dev/sdc2”."
+
+#. Tag: title
+#, no-c-format
+msgid "Choosing an installation type"
+msgstr "Val av installationstyp"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In the next screen you can assign your entire hard drive to Linux Mint or "
+"install it alongside other operating systems. Alternatively, you can also "
+"define and assign the partitions manually."
+msgstr ""
+"Här bestämmer du nu om Linux Mint skall installeras tillsammans med ett "
+"eller flera andra operativsystem eller självt få använda hela hårddisken. Du "
+"har också möjligheten att göra denna fördelning manuellt."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you choose to use the entire disk, its content will be erased and Linux "
+"Mint will be installed as the only operating system on your computer."
+msgstr ""
+"Om du väljer att låta Linux Mint använda hela hårddisken så kommer allt som "
+"finns på den att raderas och Mint kommer att installeras som datorns enda "
+"operativsystem."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you choose to install it alongside other operating systems, the installer "
+"will use the free space available on other partitions to create a new one "
+"for Linux Mint. You will be asked how much space you want to allocate to it. "
+"The installer will then shrink a partition and take care of everything for "
+"you. Post-installation your computer will have a boot screen from which "
+"you'll be able to boot all your operating systems."
+msgstr ""
+"Om du väljer att installera tillsammans med ett eller flera andra "
+"operativsystem så kommer installationsprogrammet att använda det lediga "
+"utrymmet på hårddisken till att skapa en ny partition för Linux Mint. Du får "
+"en fråga om hur stor den skall vara.\r\n"
+"Programmet gör sedan automatiskt de ändringar som behövs. Efter "
+"installationen kommer du att ha en startmeny där du kan välja vilket "
+"operativsystem du vill starta."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you choose to specify partitions manually, a partition editor will "
+"appear, giving you full control over the partitioning of your hard drive. "
+"This is recommended only to advanced users who understand how partitioning "
+"works under Linux. Note that Linux Mint requires a partition of at least 6GB "
+"and that the recommended size for a swap partition is 1.5 times the amount "
+"of RAM available on the computer."
+msgstr ""
+"Den tredje punkten i menyn (i KDE står den som Manuell) ger dig full frihet "
+"att själv specificera vilken eller vilka partitioner du vill använda. Till "
+"din hjälp har du ett mycket bra partioneringsverktyg, men det här kräver "
+"ändå en del kunskap och rekommenderas därför bara om du vet hur "
+"partitionering fungerar. Minimikravet för Linux Mint är en partition på 6 "
+"GB. Om du behöver skapa en växlingspartition så bör denna vara ungefär "
+"dubbelt så stor som arbetsminnet, men max 2 GB för ett 32-bitarssystem (4 GB "
+"om du valt 64 bitar)."
+
+#. Tag: title
+#, no-c-format
+msgid "The installation summary screen"
+msgstr "Bekräftelse av installationen"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Choose the appropriate option and click on the <guibutton>Install "
+"Now</guibutton> button. At this stage, the installation is going on in the "
+"background and the installer asks you setup questions:"
+msgstr ""
+"Nu är det dags att bekräfta dina val. Observera att starthanteraren normalt "
+"skall installeras på enhet /dev/sda (utan någon siffra). Om allt stämmer så "
+"klickar du på <guibutton>Installera nu</guibutton> för att starta "
+"installationen. Medan installationen pågår så ställer programmet några "
+"frågor:"
+
+#. Tag: title
+#, no-c-format
+msgid "Choosing a timezone"
+msgstr "Var befinner du dig?"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Choose your location on the map by clicking on the city which is the nearest "
+"to you. The purpose of this step is to identify your time zone. Make sure "
+"the <guilabel>Current time</guilabel> appears correctly and click the "
+"<guibutton>Continue</guibutton> button."
+msgstr ""
+"Syftet med detta steg är att avgöra vilken tidszon du befinner dig i. "
+"Eftersom vi har samma tidszon i hela Sverige så behöver du bara klicka på "
+"<guibutton>Fortsätt</guibutton>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Sometimes the installer doesn't properly handle Summer/Winter time "
+"adjustments, so even by selecting the proper city you might see a difference "
+"of an hour or so with the correct time. Simply ignore this at this stage and "
+"remember to make sure that the time is correct after you reboot in your "
+"newly installed Linux Mint desktop."
+msgstr ""
+"Om någonting skulle bli fel, t.ex ifråga om sommar/normaltid, så kan det "
+"lätt åtgärdas när installationen är klar."
+
+#. Tag: title
+#, no-c-format
+msgid "Choosing a keyboard layout"
+msgstr "Val av tangentbordslayout"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Select your keyboard layout. If you are not sure about exactly which layout "
+"matches the keyboard you have, click on the text field at the bottom of the "
+"screen and start typing with your keyboard. Make sure the keys you press "
+"match the characters that appear in the text field in order to ensure you "
+"have selected the right keyboard layout. Some layouts only differ with "
+"respect to accents, numbers and punctuation signs, so make sure to test "
+"these as well."
+msgstr ""
+"Välj tangentbordslayout. Normalt väljs grundinställningen för Sverige och du "
+"behöver då bara klicka på Fortsätt för att godkänna detta. Skulle du behöva "
+"någon annan, och inte vet exakt vilken du ska välja, så kan du prova dig "
+"fram genom att skriva i inmatningsfältet. Förvissa dig om att tecknen du "
+"skriver på tangentbordet överensstämmer med de på skärmen. Vissa layouter\r\n"
+"skiljer sig bara åt vad gäller accenter, specialtecken och så vidare, så se "
+"till att du provar även dessa tecken."
+
+#. Tag: para
+#, no-c-format
+msgid "When you’re ready click the <guibutton>Continue</guibutton> button."
+msgstr "Klicka på <guibutton>Fortsätt</guibutton> när du är klar."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Enter your real name and a username and password. Every time you’ll use "
+"Linux Mint you’ll use your account with this username and password. Once "
+"Linux Mint is installed you’ll be able to define other accounts if other "
+"people are to use this computer."
+msgstr ""
+"Skriv in ditt namn, ett användarnamn och ett lösenord. Varje gång du startar "
+"Linux Mint kommer du att använda dig av ditt användarnamn och ditt lösenord. "
+"När Linux Mint är installerat kan du skapa fler användarkonton om du vill."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Also give your computer a name. This name will be used by your computer on "
+"the network or in various places of the system. If you’ve never really "
+"thought about naming your computers, then now is the time. People commonly "
+"pick flower (dahlia, rose, tulip) or planet (mars, jupiter, pluto) names for "
+"the computers on their network. It’s entirely up to you what you want to "
+"use, but make sure to pick a name you like and that you will easily remember."
+msgstr ""
+"Ge datorn ett namn. Det kommer att användas för att identifiera datorn i "
+"nätverk, men används även av systemet internt. Om du aldrig funderat på att "
+"namnge dina datorer så är det hög tid! Vanliga namn är blomnamn (ros, tulpan "
+"etc.) eller planeter (mars, jupiter, etc). Det är helt upp till dig vilket "
+"namn du använder, men välj ett namn du gillar och som du lätt kommer ihåg."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Capital letters, spaces and special characters are not permitted in the "
+"username or in the name of the computer."
+msgstr ""
+"Observera! Användarnamn och datornamn får bara bestå av små bokstäver. Det "
+"är inte tillåtet att använda några andra tecken."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you're the only one using the computer and you want to bypass the login "
+"screen, check the option <guilabel>Log in automatically</guilabel>."
+msgstr ""
+"Om du kan garantera att ingen annan människa någonsin kommer i närheten av "
+"datorn så finns möjligheten att logga in utan lösenord. Kryssa i så fall i "
+"rutan <guilabel>Logga in automatiskt</guilabel>. Rekommenderas inte!"
+
+#. Tag: para
+#, no-c-format
+msgid "When you’re ready click on the <guibutton>Forward</guibutton> button."
+msgstr "Klicka på <guibutton>Fortsätt</guibutton> när du är klar."
+
+#. Tag: title
+#, no-c-format
+msgid "The user settings screen"
+msgstr "Vem är du?"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The installer might detect other operating systems on your computer and ask "
+"you if you want to migrate some personal information. Typically this allows "
+"you to migrate bookmarks, contacts, favorites and other sorts of personal "
+"information from other operating systems installed on your hard disk drive "
+"into the newly installed Linux Mint. When you’re ready click on the "
+"<guibutton>Continue</guibutton> button."
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid "The installation usually takes between 10 and 15 minutes"
+msgstr "Installationen tar normalt mellan 10 och 15 minuter."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The installer will download packages from the Internet to support the "
+"language you’ve selected. Your computer needs to be connected to the "
+"Internet for this to work. Otherwise just <guibutton>skip</guibutton> that "
+"step and you’ll be able to add support for your language after the "
+"installation is finished and you’ve rebooted into your new system."
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Once the installation is done click the <guibutton>Restart Now</guibutton> "
+"button and the liveDVD or LiveUSB environment will shut down."
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"When prompted, remove the DVD from the drive or remove the USB and press "
+"Enter. Your PC is now ready to boot Linux Mint from the hard drive."
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid "Reboot the computer"
+msgstr "Starta om datorn"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Upon reboot, if you have more than one operating system installed, you "
+"should see a boot menu. Once Linux Mint is finished loading you should see a "
+"new screen inviting you to enter your username and password. This screen is "
+"the “MDM Login Manager” and is commonly called “MDM”. Enter the password you "
+"chose during the installation."
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"By default, your “root” password is the same as the password you chose "
+"during the installation. If you do not know what this means, then don't "
+"worry about it."
+msgstr ""
+"Som standard kommer det lösenord du valde vid installationen också att "
+"användas när du behöver agera administratör."

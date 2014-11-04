@@ -1,0 +1,551 @@
+# Spanish translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-10 09:04+0000\n"
+"Last-Translator: Isidro Pisa <isidro@utils.info>\n"
+"Language-Team: Spanish <es@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction to Linux Mint"
+msgstr "Introducción a Linux Mint"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint is a computer operating system designed to work on most modern "
+"systems, including typical x86 and x64 PCs."
+msgstr ""
+"Linux Mint es un sistema operativo diseñado para trabajar en la mayoría de "
+"los sistemas modernos, incluyendo los típicos PCs x86 y x64."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint can be thought of as filling the same role as Microsoft's "
+"Windows, Apple's Mac OS, and the free BSD OS. Linux Mint is also designed to "
+"work in conjunction with other operating systems (including those listed "
+"above), and can automatically set up a <wordasword>dual boot</wordasword> or "
+"<wordasword>multi-boot</wordasword> environment (where the user is prompted "
+"as to which operating system to start at each boot-up) during its "
+"installation."
+msgstr ""
+"Puede pensar en Linux Mint como que cumple el mismo papel que Microsoft "
+"Windows, Mac OS de Apple y el free BSD. Linux Mint también está diseñado "
+"para trabajar en conjunto con otros sistemas operativos (incluidos los "
+"enumerados anteriormente), y se puede configurar automáticamente un entorno "
+"de <wordasword>arranque dual</wordasword> o <wordasword>multi-"
+"arranque</wordasword> (donde se pregunta al usuario qué sistema operativo "
+"quiere iniciar en cada arranque) durante su instalación."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint is a great operating system for individuals and for companies."
+msgstr ""
+"Linux Mint es un gran sistema operativo tanto para el usuario doméstico como "
+"para la empresa."
+
+#. Tag: title
+#, no-c-format
+msgid "History"
+msgstr "Historia"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint is a very modern operating system; Its development started in "
+"2006. It is, however, built upon very mature and proven software layers, "
+"including the Linux kernel, the GNU tools and the &EDITION; desktop. It also "
+"relies on the Ubuntu and Debian projects and uses their systems as a base."
+msgstr ""
+"Linux Mint es un sistema operativo muy moderno. Su desarrollo comenzó en "
+"2006. Está, sin embargo, construido sobre capas de software muy maduras y "
+"probadas, incluyendo el kernel de Linux, las herramientas GNU y el "
+"escritorio &EDITION;. También se basa en los proyectos de Ubuntu y Debian y "
+"utiliza sus sistemas como base."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Linux Mint project focuses on making the desktop more usable and more "
+"efficient for everyday tasks performed by regular users. Underneath the "
+"desktop the operating system also provides a huge collection of available "
+"software and a very well integrated set of services."
+msgstr ""
+"El proyecto Linux Mint se enfoca en hacer el escritorio más fácil de usar y "
+"más eficiente para las tareas cotidianas realizadas por el usuario medio. "
+"Bajo el escritorio, el sistema operativo también ofrece una gran colección "
+"de software disponible y un conjunto de servicios muy bien integrados."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint saw a rapid rise in popularity and more and more people use it "
+"every day."
+msgstr ""
+"Linux Mint ha vivido un rápido aumento de popularidad y cada vez más "
+"personas lo utilizan cada día."
+
+#. Tag: title
+#, no-c-format
+msgid "Purpose"
+msgstr "Propósito"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The purpose of Linux Mint is to provide a desktop operating system that home "
+"users and companies can use at no cost and which is as efficient, easy to "
+"use, and elegant as possible."
+msgstr ""
+"El propósito de Linux Mint es proporcionar un sistema operativo de "
+"escritorio que los usuarios domésticos y las empresas puedan utilizar sin "
+"costo y que sea tan eficiente, fácil de usar y elegante como sea posible."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"One of the ambitions of the Linux Mint project is to become the best "
+"operating system available by making it easy for people to get to use "
+"advanced technologies, rather than by simplifying them (and thereby reducing "
+"their capabilities), or by copying the approaches taken by other developers."
+msgstr ""
+"Una de las ambiciones del proyecto Linux Mint es llegar a ser el mejor "
+"sistema operativo disponible, haciendo fácil a la gente el uso de "
+"tecnologías avanzadas, en lugar de simplificar esas tecnologías (y reducir "
+"así sus capacidades), o copiar los enfoques adoptados por otros "
+"desarrolladores."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The goal is to develop our own idea of the ideal desktop. We think that it "
+"is best to make the most out of the modern technologies that exist under "
+"Linux and make it easy for everybody to use its most advanced features."
+msgstr ""
+"El objetivo es desarrollar nuestra propia idea del escritorio ideal. "
+"Pensamos que lo mejor es aprovechar al máximo las tecnologías modernas que "
+"aporta Linux y hacer que sea fácil para todo el mundo utilizar sus "
+"características más avanzadas."
+
+#. Tag: title
+#, no-c-format
+msgid "Version numbers and codenames"
+msgstr "Números de version y nombres clave"
+
+#. Tag: para
+#, no-c-format
+msgid "Version numbers and codenames follow a unique logic in Linux Mint:"
+msgstr ""
+"Los números de versión y nombres clave siguen una sola lógica en Linux Mint:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Codenames provide a way to refer to versions of Linux Mint that is more "
+"familiar than using a version number."
+msgstr ""
+"Los nombres clave son una forma de referirse a las versiones de Linux que "
+"resulta más familiar que usar un número de versión."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Since version 5, Linux Mint has followed a 6 months release cycle and uses a "
+"simplified version scheme. The version number simply gets incremented every "
+"6 months."
+msgstr ""
+"Desde la versión 5, Linux Mint ha seguido un ciclo de entregas de 6 meses, y "
+"utiliza un esquema de versión simplificada. El número de versión simplemente "
+"se incrementa cada 6 meses."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If revisions are made to a particular release (a bit like Service Packs in "
+"Windows) its version number gets a minor revision increment. For instance "
+"<wordasword>3</wordasword> becomes <wordasword>3.1</wordasword>."
+msgstr ""
+"Si se hacen revisiones a una versión en particular (un poco como los Service "
+"Packs de Windows) se aplica al número de versión un incremento de revisión "
+"menor. Por ejemplo <wordasword>3</wordasword> se convierte en "
+"<wordasword>3.1</wordasword>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Codenames in Linux Mint are always female names ending with "
+"<wordasword>a</wordasword> They follow the alphabetical order and the first "
+"letter of the codename corresponds to the index of the version number in the "
+"alphabet."
+msgstr ""
+"Los nombres clave de Linux Mint son siempre nombres femeninos que terminan "
+"con <wordasword>a</ wordasword>. Siguen el orden alfabético y la primera "
+"letra del nombre en clave se corresponde con el índice del número de versión "
+"en el alfabeto."
+
+#. Tag: para
+#, no-c-format
+msgid "So far Linux Mint has used the following codenames:"
+msgstr ""
+"Hasta el momento Linux Mint ha utilizado los siguientes nombres en clave:"
+
+#. Tag: title
+#, no-c-format
+msgid "Linux Mint codenames"
+msgstr "Nombres clave de Linux Mint"
+
+#. Tag: entry
+#, no-c-format
+msgid "Version"
+msgstr "Versión"
+
+#. Tag: entry
+#, no-c-format
+msgid "Codename"
+msgstr "Nombre clave"
+
+#. Tag: entry
+#, no-c-format
+msgid "1.0"
+msgstr "1.0"
+
+#. Tag: entry
+#, no-c-format
+msgid "Ada"
+msgstr "Ada"
+
+#. Tag: entry
+#, no-c-format
+msgid "2.0"
+msgstr "2.0"
+
+#. Tag: entry
+#, no-c-format
+msgid "Barbara"
+msgstr "Barbara"
+
+#. Tag: entry
+#, no-c-format
+msgid "2.1"
+msgstr "2.1"
+
+#. Tag: entry
+#, no-c-format
+msgid "Bea"
+msgstr "Bea"
+
+#. Tag: entry
+#, no-c-format
+msgid "2.2"
+msgstr "2.2"
+
+#. Tag: entry
+#, no-c-format
+msgid "Bianca"
+msgstr "Bianca"
+
+#. Tag: entry
+#, no-c-format
+msgid "3.0"
+msgstr "3.0"
+
+#. Tag: entry
+#, no-c-format
+msgid "Cassandra"
+msgstr "Cassandra"
+
+#. Tag: entry
+#, no-c-format
+msgid "3.1"
+msgstr "3.1"
+
+#. Tag: entry
+#, no-c-format
+msgid "Celena"
+msgstr "Celena"
+
+#. Tag: entry
+#, no-c-format
+msgid "4.0"
+msgstr "4.0"
+
+#. Tag: entry
+#, no-c-format
+msgid "Daryna"
+msgstr "Daryna"
+
+#. Tag: entry
+#, no-c-format
+msgid "5"
+msgstr "5"
+
+#. Tag: entry
+#, no-c-format
+msgid "Elyssa"
+msgstr "Elyssa"
+
+#. Tag: entry
+#, no-c-format
+msgid "6"
+msgstr "6"
+
+#. Tag: entry
+#, no-c-format
+msgid "Felicia"
+msgstr "Felicia"
+
+#. Tag: entry
+#, no-c-format
+msgid "7"
+msgstr "7"
+
+#. Tag: entry
+#, no-c-format
+msgid "Gloria"
+msgstr "Gloria"
+
+#. Tag: entry
+#, no-c-format
+msgid "8"
+msgstr "8"
+
+#. Tag: entry
+#, no-c-format
+msgid "Helena"
+msgstr "Helena"
+
+#. Tag: entry
+#, no-c-format
+msgid "9"
+msgstr "9"
+
+#. Tag: entry
+#, no-c-format
+msgid "Isadora"
+msgstr "Isadora"
+
+#. Tag: entry
+#, no-c-format
+msgid "10"
+msgstr "10"
+
+#. Tag: entry
+#, no-c-format
+msgid "Julia"
+msgstr "Julia"
+
+#. Tag: entry
+#, no-c-format
+msgid "11"
+msgstr "11"
+
+#. Tag: entry
+#, no-c-format
+msgid "Katya"
+msgstr "Katya"
+
+#. Tag: entry
+#, no-c-format
+msgid "12"
+msgstr "12"
+
+#. Tag: entry
+#, no-c-format
+msgid "Lisa"
+msgstr "Lisa"
+
+#. Tag: entry
+#, no-c-format
+msgid "13"
+msgstr "13"
+
+#. Tag: entry
+#, no-c-format
+msgid "Maya"
+msgstr "Maya"
+
+#. Tag: entry
+#, no-c-format
+msgid "14"
+msgstr "14"
+
+#. Tag: entry
+#, no-c-format
+msgid "Nadia"
+msgstr "Nadia"
+
+#. Tag: entry
+#, no-c-format
+msgid "15"
+msgstr "15"
+
+#. Tag: entry
+#, no-c-format
+msgid "Olivia"
+msgstr "Olivia"
+
+#. Tag: entry
+#, no-c-format
+msgid "16"
+msgstr "16"
+
+#. Tag: entry
+#, no-c-format
+msgid "Petra"
+msgstr "Petra"
+
+#. Tag: entry
+#, no-c-format
+msgid "17"
+msgstr "17"
+
+#. Tag: entry
+#, no-c-format
+msgid "Qiana"
+msgstr "Qiana"
+
+#. Tag: title
+#, no-c-format
+msgid "Editions"
+msgstr "Ediciones"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"An Edition is a release of Linux Mint which is customized to address a "
+"certain set of needs. This guide covers the &EDITION; Edition. Here are some "
+"of the most popular editions:"
+msgstr ""
+"Una ediciónes una versión de Linux Mint adaptada para responder a unas "
+"necesidades concretas. Esta guía cubre la edición &EDITION; . Estas son "
+"algunas de las ediciones más populares:"
+
+#. Tag: para
+#, no-c-format
+msgid "Cinnamon Edition (uses a Cinnamon desktop)"
+msgstr "Edición Cinnamon (utiliza el escritorio Cinnamon)"
+
+#. Tag: para
+#, no-c-format
+msgid "Mate Edition (uses a Mate desktop)"
+msgstr "Edición Mate (utiliza el escritorio Mate)"
+
+#. Tag: para
+#, no-c-format
+msgid "KDE Edition (uses a KDE desktop)"
+msgstr "Edición KDE (utiliza el escritorio KDE)"
+
+#. Tag: para
+#, no-c-format
+msgid "Xfce Edition (uses a Xfce desktop)"
+msgstr "Edición Xfce (utiliza el escritorio Xfce)"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you don't know which edition to use, choose the MATE Edition. It's not as "
+"popular as the Cinnamon Edition but it is compatible with a wider variety of "
+"hardware specifications."
+msgstr ""
+"Si no sabe qué edición usar, elija la edición MATE. No es tan popular como "
+"la edición Cinnamon, pero es compatible con una amplia variedad de "
+"especificaciones de hardware."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you intend to redistribute or to make commercial use of Linux Mint in the "
+"USA or in Japan and if you're not sure about patent legislation you should "
+"use the <guilabel>No Codecs</guilabel> installation images."
+msgstr ""
+"Si tiene la intención de redistribuir o hacer uso comercial de Linux Mint en "
+"los EE.UU. o en Japón, y no está seguro acerca de la legislación sobre "
+"patentes, debería usar las imágenes de instalación <guilabel>No "
+"Codecs</guilabel>."
+
+#. Tag: title
+#, no-c-format
+msgid "Where to find help"
+msgstr "Dónde encontrar ayuda"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Linux Mint community is very helpful and very active. If you have "
+"questions or a problem related to Linux Mint, you should be able to get help "
+"from other users online."
+msgstr ""
+"La comunidad de Linux Mint es muy servicial y activa. Si tiene preguntas o "
+"problemas relacionados con Linux Mint, seguramente podrá obtener ayuda de "
+"otros usuarios en línea."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"First, make sure to register with the <guilabel>Linux Mint "
+"Forums</guilabel>. This is the very first place where you can find help: "
+"<ulink "
+"url=\"http://www.linuxmint.com/forum\">http://www.linuxmint.com/forum</ulink>"
+"."
+msgstr ""
+"En primer lugar, regístrese en los <guilabel>foros de Linux Mint</guilabel>. "
+"Éste es el primer lugar donde se puede encontrar ayuda: <ulink "
+"url=\"http://www.linuxmint.com/forum\">http://www.linuxmint.com/forum</ulink>"
+"."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you want to chat with other users you can connect to the IRC chat room. "
+"Under Linux Mint simply launch <guilabel>Hexchat</guilabel> from the menu. "
+"If you’re using another operating system or another IRC client make sure to "
+"connect to the <guilabel>irc.spotchat.org</guilabel> server and to join the "
+"channels <guilabel>#linuxmint-help</guilabel> and <guilabel>#linuxmint-"
+"chat</guilabel>."
+msgstr ""
+"Si quiere charlar con otros usuarios puede conectarse a la sala de chat IRC. "
+"En Linux Mint simplemente ejecute <guilabel>Hexchat</guilabel> en el menú. "
+"Si está utilizando otro sistema operativo u otro cliente de IRC, debe "
+"conectarse al servidor <guilabel>irc.spotchat.org</guilabel> y unirse a los "
+"canales <guilabel>#linuxmint-help</guilabel> y <guilabel>#linuxmint-"
+"chat</guilabel>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint uses Ubuntu<footnote><para>Ubuntu is another operating system "
+"based on GNU/Linux.</para></footnote> repositories<footnote><para>A "
+"repository is an online service by which software is stored and made "
+"available for the operating system to install and update from. Most "
+"operating systems based on GNU/Linux use repositories and connect to them "
+"via HTTP or FTP to install and upgrade their software.</para></footnote> "
+"(more on what this means later) and is fully compatible with it so most of "
+"the resources, articles, tutorials, and software made for Ubuntu also work "
+"for Linux Mint. If you can’t find help on a specific subject, make sure to "
+"search on the same subject for Ubuntu."
+msgstr ""
+"Linux Mint utiliza repositorios de Ubuntu <footnote><para>Ubuntu es otro "
+"sistema operativo basado en GNU/Linux.</Para></footnote> <footnote><para>Un "
+"repositorio es un servicio en línea que almacena y pone a disposición "
+"software para instalar y actualizar el sistema operativo. La mayoría de los "
+"sistemas operativos basados ​​en GNU/Linux usan repositorios y se conectan a "
+"ellos a través de HTTP o FTP para instalar y actualizar su software. "
+"</para></footnote> (más adelante veremos qué significa esto) y es totalmente "
+"compatible con Ubuntu, así que la mayoría de los recursos, artículos, "
+"tutoriales y software hecho para Ubuntu también funcionan en Linux Mint. Si "
+"no encuentra usted ayuda sobre algún tema específico, busque sobre el mismo "
+"tema en Ubuntu."

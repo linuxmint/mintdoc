@@ -1,0 +1,1205 @@
+# Vietnamese translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-03 02:45+0000\n"
+"Last-Translator: Saki <a4e484b@hotmail.com>\n"
+"Language-Team: Vietnamese <vi@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Software Management"
+msgstr "Quản lí Phần mềm"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you have installed Linux for the first time, then you may not be familiar "
+"with the concept of organizing software into "
+"<wordasword>packages</wordasword>."
+msgstr ""
+"Nếu bạn cài đặt Linux lần đầu, chắc hẳn bạn chưa quen với khái niệm tổ chức "
+"phần mềm thành các <wordasword>gói</wordasword>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You will soon become familiar with package management and appreciate the "
+"advantages it offers in terms of security, control and ease of use."
+msgstr ""
+"Bạn sẽ sớm quen với việc quản lý gói và hiểu được các lợi ích của nó về mặt "
+"bảo mật, quản lý và sự tiện dụng."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"We have tried to make it so that all or most of your hardware was detected "
+"and drivers were installed automatically so that your computer would work "
+"out of the box. We have also tried to make it so that you could do many of "
+"the things you want to without having to look around for third party "
+"software on websites. You may have noticed that your Linux Mint installation "
+"already has a full office suite, a professional-quality image-editing "
+"solution, an IM and an IRC client, a disk burner, and several media players "
+"(as well as many other basic accessories). Relax, it's okay! You haven't "
+"stolen anything! This is what free software is all about! And the truly "
+"great thing about package management in Linux Mint and generally is that you "
+"should never need to look far and wide for extra software, even when the "
+"time comes that you do want more functionality from your Linux Mint system."
+msgstr ""
+"Chúng tôi đã cố gắng để phát hiện tất cả hoặc phần lớn phần cứng của bạn và "
+"cài trình điều khiển tự động để máy bạn hoạt động ngay được. Chúng tôi cũng "
+"đã cố gắng để bạn có thể làm được nhiều thứ ngay mà không phải tìm phần mềm "
+"bên thứ ba trên mạng. Bạn có thể thấy rằng bản cài Linux Mint của bạn đã có "
+"một bộ ứng dụng văn phòng đầy đủ, một giải pháp chỉnh sửa ảnh chất lượng "
+"chuyên nghiệp, một trình tán gẫu và IRC, trình ghi đĩa và vài trình chơi "
+"phương tiiện (cũng như nhiều tiện ích cơ bản khác). Thoải mái đi, không sao "
+"cả ! Bạn chẳng  phạm pháp gì ! Đây chính là phần mềm tự do ! Và điều thực sự "
+"tuyệt vời về quản lý gói trong Linux Mint và nói chung chính là bạn có thể "
+"chẳng bao giờ cần phải tìm kiếm phần mềm đâu xa, ngay cả đến lúc cần phải "
+"làm nhiều hơn với hệ thống của bạn."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"This section is intended to explain how this works and the advantages that "
+"it can bring to you. It's a bit long, but hopefully it will provide you with "
+"a good understanding of the philosophy behind package management and why it "
+"is considered a Good Thing (a phrase commonly capitalized by Linux users to "
+"mean that something is squarely in the category of good). If you're in a "
+"hurry, you can skip to the next section which will tell you how to actually "
+"use the package system."
+msgstr ""
+"Phần này giải thích cách thức hoạt động và lợi ích của các thứ mang lại cho "
+"bạn. Hơi dài nhưng hi vọng sẽ giúp bạn hiểu biết kha khá về triết lý đằng "
+"sau việc quản lý gói và vì sao nó được xem là một Điều Tốt (một cụm từ hay "
+"được người dùng Linux  sử dụng để cho biết rằng cái gì đó thực sự là tốt). "
+"Nếu đang vội, bạn có thể bỏ qua đến phần kế tiếp. Nó cho bạn biết cách thức "
+"sử dụng hệ thống gói thực sự."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The problems with browsing software vendors' websites and downloading and "
+"installing the software they offer are many:"
+msgstr ""
+"Có nhiều vấn đề với việc tìm kiếm trang web nhà phát triển và tải xuống rồi "
+"cài đặt phần mềm họ cung cấp:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is difficult or impossible to find out if the software has been tested to "
+"work with your operating system"
+msgstr ""
+"Khó hoặc không thể biết được liệu phần mềm đã được thử nghiệm hoạt động trên "
+"hệ điều hành của bạn chưa"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know how this software will interact with "
+"the other software installed on your system"
+msgstr ""
+"Khó hoặc không thể biết được phần mềm này sẽ tương tác thế nào với các phần "
+"mềm khác đã cài trên hệ thống"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know if you can place your trust that "
+"software from an unknown developer software will not cause any harm, willful "
+"or negligent, to your system Even if you know about a specific piece of "
+"software and its developer, you cannot be entirely sure that you are not "
+"downloading an executable that has been swapped out by a malicious third "
+"party for some type of malware."
+msgstr ""
+"Khó hoặc không thể biết liệu bạn có thể đặt niềm tin vào phần mềm từ một nhà "
+"phát triển không rõ rằng nó sẽ không gây hại, cố tình hay vô tình, đến hệ "
+"thống của bạn không. Ngay cả khi bạn biết về một phần mềm và nhà phát triển "
+"của nó, bạn cũng không thể hoàn toàn chắc chắn rằng bạn đang không tải xuống "
+"một tập tin thực thi đã bị tráo đổi bởi một bên thứ ba hiểm độc nào đó để "
+"gây hại."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Furthermore, a problem with downloading and installing multiple different "
+"programs, from multiple different developers, is that there is no managerial "
+"infrastructure. Before you say “big deal”, consider how you are going to "
+"keep all these different pieces of software up to date. If you get tired of "
+"a program and want to remove it, how do you know how to achieve that? The "
+"program in question might not have come with a removal option, and even if "
+"it did, much of the time this will fail to remove the software cleanly and "
+"completely. In a very real sense, when you ran that installer program, you "
+"gave up some of your control of your computer to a program written entirely "
+"by a complete stranger."
+msgstr ""
+"Hơn nữa, một vấn đề với việc tải xuống và cài đặt nhiều chương trình khác "
+"nhau, từ nhiều nhà phát triển khác nhau, là không có một cơ sở hạ tầng quản "
+"lý nào. Đừng cho rằng điều đó là không cần thiết, thử tưởng tượng xem bạn "
+"làm sao để giữ các phần mềm khác nhau đó luôn được cập nhật ? Nếu chán một "
+"phần mềm và muốn gỡ bỏ nó, bạn làm sao biết cách nào để thực hiện ? Phần mềm "
+"đó có thể không có tuỳ chọn gỡ bỏ, và thậm chí nếu có, phần lớn trường hợp "
+"nó cũng sẽ không thể xoá bỏ sạch sẽ hoàn toàn. Theo một nghĩa rất thực khi "
+"bạn chạy một chương trình cài đặt là bạn đã trao một số quyền điều khiển máy "
+"tính của bạn cho một chương trình của một người lạ hoắc nào đó viết ra."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Finally, software which is distributed in this way is often, by virtue of "
+"necessity, “static”. This means that not only do you need to download the "
+"program itself, but also all of the data libraries that are required for it "
+"to run. Since a third-party software developer cannot know which data "
+"libraries you may already have available on your system, the only way that "
+"they can guarantee it will run on your system is by supplying all of the "
+"data libraries it needs along with the program itself. This means bigger "
+"downloads, and it means that when the time comes to update a given library, "
+"it needs to be done separately for all those programs using it, instead of "
+"just once. In summary, the distribution of static software results in the "
+"unnecessary duplication of a lot of work."
+msgstr ""
+"Cuối cùng, phần mềm được phân phối theo cách này thông thường là \"tĩnh\", "
+"do cần thiết phải như vậy. Có nghĩa là bạn không chỉ cần phải tải xuống phần "
+"mềm, mà còn toàn bộ thư viện dữ liệu yêu cầu để chạy nó. Vì một nhà phát "
+"triển phần mềm bên thứ ba không thể nào biết được thư viện dữ liệu nào đã có "
+"thể có trên máy của bạn rồi nên cách duy nhất họ có thể đảm bảo phần mềm của "
+"họ chạy trên hệ thống của bạn là cung cấp tất cả thư viện dữ liệu nó cần "
+"cùng với chương trình. Dẫn đến tải xuống nặng hơn, và đến khi cần phải cập "
+"nhật một thư viện nào đó, nó cần phải được thực hiện riêng rẽ cho tất cả các "
+"chương trình dùng nó, thay vì chỉ một. Tóm lại, phân phối phần mềm tĩnh dẫn "
+"đến kết quả là lặp đi lặp lại rất nhiều công việc không cần thiết."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Package management in Linux Mint, and GNU/Linux operating systems in "
+"general, has been established for some time and is the preferred method for "
+"managing software as it avoids all of these issues. We've been safely and "
+"automatically installing our software since the early 1990s."
+msgstr ""
+"Quản lý gói trong Linux Mint, và trong các hệ điều hành GNU/Linux nói chung, "
+"đã được thực hiện trong một thời gian dài và là phương thức ưa chuộng để "
+"quản lý phần mềm vì nó giải quyết tất cả các vần đề trên. Chúng tôi đã bắt "
+"đầu cài đặt phần mềm một cách tự động và an toàn ngay từ những năm 1990."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Software is first written by a developer, as you might expect, and this end "
+"of the production chain is known as “upstream”. As a user of a Linux "
+"distribution, you are referred to as being at the furthest point "
+"“downstream” (unless you're an admin, in which case your users are the "
+"furthest point downstream, but you knew that because you're an admin). Once "
+"the developer is happy with the program or the update to the program they "
+"have written, they will release the source code for it. They will also "
+"communicate in their documentation which data libraries or other programs "
+"they took advantage of when they were writing the program. They have been "
+"doing this for some time and there are standardized and venerable ways for "
+"them to do this. Note that, with a few exceptions (usually either hardware "
+"manufacturers who release drivers for Linux, like nVidia or ATI, or certain "
+"major companies like Adobe, who we can trust) they release the actual source "
+"code for the program, that is, the list of instructions in that program in a "
+"human readable form. This has a number of implications, but most importantly "
+"for this discussion it means that they are willing to have their software "
+"peer reviewed by anyone and everyone with an Internet connection. It's "
+"awfully difficult to sneak spyware into your program when you're letting "
+"everyone see what you've written!"
+msgstr ""
+"Đầu tiên phần mềm được viết ra bởi một nhà phát triển, như bạn có thể tưởng "
+"tượng, và đầu này của chuỗi sản xuất được gọi là \"đầu nguồn\". Là một người "
+"dùng bản phân phối Linux, bạn được xem như là ở \"cuối nguồn\" xa nhất. (Trừ "
+"khi bạn là quản trị viên, khi đó người dùng của bạn là xa hơn, nhưng bạn "
+"biết điều đó vì bạn là quản trị viên). Khi nhà phát triển thấy hài lòng với "
+"chương trình hoặc bản cập nhật chương trình họ viết, họ sẽ phát hành mã "
+"nguồn cho nó. Họ cũng sẽ cho biết trong tài liệu về những thư viện dữ liệu "
+"họ đã sử dụng khi viết chương trình. Người ta đã làm như thế này từ lâu và "
+"có những phương pháp được chuẩn hoá và đáng kính cho quy trình này. Lưu ý "
+"rằng, trừ một vài trường hợp ngoại lệ (thường là nhà sản xuất phần cứng phát "
+"hành trình điều khiển cho LInux, như nVidia hay ATI, hoặc một vài doanh "
+"nghiệp chủ chốt như Adobe mà chúng ta có thể tin tưởng), còn thì họ đều sẽ "
+"phát hành mã nguồn thực sự cho chương trình. Đó là một tập hợp các chỉ dẫn "
+"trong chương trình đó ở dạng con người có thể đọc được. Điều đó có một vài "
+"ngụ ý nhưng cái quan trọng nhất ở đây là họ sẵn sàng để cho phần mềm của họ "
+"được xem xét bởi bất kỳ ai có kết nối mạng Internet. Do đó cực kỳ khó khăn "
+"để ẩn giấu phần mềm gián điệp vào vì ai cũng thấy !"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The software now moves down the stream to package maintainers, who are "
+"either volunteers or paid employees working for a Linux distribution. It is "
+"their responsibility to compile the source code for the software, test it on "
+"the distribution to make sure that it works, resolve any problems that they "
+"encounter and finally package the compiled (i.e., machine-readable) software "
+"in a convenient format. This package contains the executable program(s), "
+"their configuration files, and the instructions the package management "
+"software needs to successfully install it. Note that it won't ordinarily "
+"contain any static libraries, since it doesn't need to – the libraries are "
+"provided by other packages, and are therefore known as shared libraries. "
+"Your package management software will know if that a particular package "
+"requires another package to be installed first (like a shared library), "
+"because, as you will remember, the data libraries and related packages "
+"needed for the software to work were declared further upstream and that "
+"information is included in the package. The instructions are sufficiently "
+"detailed that even specific versions of other packages can be requested to "
+"ensure interoperability. The finished package is then uploaded to a special "
+"file server, which is called a software repository."
+msgstr ""
+"Và rồi bây giờ phần mềm di chuyển xuôi dòng đến đơn vị bảo quản gói. Họ là "
+"tình nguyện viên hoặc nhân viên được trả tiền để làm việc cho một bản phân "
+"phối Linux. Nhiệm vụ của họ là biên dịch mã nguồn thành phần mềm, kiểm thử "
+"nó trên bản phân phối để đảm bảo nó hoạt động, giải quyết các vấn đề gặp "
+"phải và cuối cùng là đóng gói phần mềm đã biên dịch (tức là mã máy) thành "
+"một dạng thức tiện lợi. Gói này chứa chương trình thực thi, các tập tin cấu "
+"hình, và các chỉ dẫn cần thiết cho trình quản lý gói  cài đặt nó. Lưu ý rằng "
+"nó thường không chứa thư viện tĩnh nào, vì không cần thiết - các thư viện "
+"được cung cấp trong các gói khác, do đó được gọi là thư viện dùng chung. "
+"Phần mềm quản lý gói của bạn sẽ nhận biết được khi một gói nào đó cần một "
+"gói khác cài đặt trước (như là thư viện dùng chung), vì vậy, bạn sẽ nhớ "
+"rằng, các thư viện dữ liệu và gói liên quan cần cho phần mềm hoạt động được "
+"đưa ra xa hơn về phía đầu nguồn và thông tin của chúng được chứa trong gói. "
+"Các chỉ dẫn đủ chi tiết để cho có thể yêu cầu cả một phiên bản cụ thể của "
+"gói khác để đảm bảo tính tương kết. Gói hoàn chỉnh sau đó được tải lên một "
+"máy chủ tập tin đặc biệt, gọi là kho chứa phần mềm."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is from that single location that you are able to download and install "
+"the software you need. You will know that the location is bona fide, because "
+"it is signed with a certificate that your package manager will check. You "
+"will also know that each individual package that you install is secure, "
+"because each package is itself signed by a GPG key, which your package "
+"manager will also check. Your package manager will even run an MD5 sum on "
+"each package to make sure that nothing went wrong when it was downloading, "
+"just like we did before with the LiveDVD iso. Notice how it's doing all of "
+"this for you. You're just sitting back, sipping a martini, and chatting in "
+"#linuxmint on xchat. The package manager has downloaded the packages you "
+"have selected, it will follow, to the letter (computers are fastidious in "
+"following instructions), the instructions in the package to perfectly "
+"install your software, and all of its dependencies, in the right order. "
+"There is no space for human error – if the package worked on the "
+"maintainer's computer, then it ought to on yours because the package manager "
+"will follow exactly the same procedure."
+msgstr ""
+"Chính từ vị trí tập trung này bạn sẽ có thể tải xuống và cài đặt phần mềm "
+"khi cần. Bạn sẽ biết rằng nơi đó là chân thật vì nó được ký bằng chứng nhận "
+"mà trình quản lý gói của bạn sẽ kiểm tra. Bạn cũng sẽ biết rằng từng mỗi gói "
+"bạn cài là bảo mật, vì bản thân mỗi gói được ký bằng chữ ký GPG, trình quản "
+"lý gói của bạn cũng sẽ kiểm tra. Trình quản lý gói thậm chí kiểm tra MD5 với "
+"mỗi gói để đảm bảo rằng không có sai sót khi tải xuống, như chúng ta đã làm "
+"với ảnh iso DVD. Nhớ rằng nó làm tất cả cho bạn. Bạn chỉ cần ngồi đó, thưởng "
+"thức một ly martini và tán gẫu trên #linuxmint bằng xchat. Trình quản lý gói "
+"tải xuống gói bạn đã chọn, rồi nó thực hiện theo từng bước các chỉ dẫn trong "
+"gói (máy tính rất nhanh nhẹn trong việc làm theo chỉ dẫn) để cài đặt hoàn "
+"hảo phần mềm của bạn, và tất cả các thứ phụ thuộc, theo đúng thứ tự. Không "
+"có chỗ nào cho lỗi con người - nếu gói hoạt động trên máy của đơn vị bảo "
+"quản, nó cũng phải hoạt động trên máy của bạn vì trình quản lý gói thực hiện "
+"chính xác các thủ tục."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"When it comes time to check for software updates, your package manager will "
+"automatically compare the software version that you have against what is "
+"available in the repository, and do all the necessary work to keep your "
+"system running smoothly and securely. So, if version 2.4 of BestSoft is "
+"uploaded to the repository, and you have version 2.3, the package manager "
+"will compare those version numbers, and offer to install the latest version, "
+"taking care, of course, of all the dependencies for the newer version of the "
+"software."
+msgstr ""
+"Đến khi cần phải kiểm tra cập nhật phần mềm, trình quản lý gói của bạn sẽ tự "
+"động so sánh phiên bản phần mềm bạn có với phiên bản trên kho chứa, và thực "
+"hiện toàn bộ công việc cần thiết để giữ cho hệ thống của bạn luôn chạy mượt "
+"và an toàn. Do đó, nếu phiên bản BestSoft 2.4 đã được tải lên kho chứa và "
+"bạn đang có phiên bản 2.3, trình quản lý gói sẽ so sánh hai con số phiên bản "
+"này, và đề nghị cài đặt phiên bản mới nhất, và đương nhiên cũng lo liệu các "
+"thứ phụ thuộc của phiên bản mới này."
+
+#. Tag: para
+#, no-c-format
+msgid "Sounding good yet? It gets better."
+msgstr "Nghe hay chứ ? Còn hơn nữa."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Humans err where computers don't and from time to time something may go "
+"wrong in this process. Perhaps you will, by accident, install hardware "
+"drivers for the wrong piece of hardware and this might break something. "
+"We've all done that. Or perhaps there's a bug or your favorite feature was "
+"removed by the program's developer for some reason. These problems "
+"demonstrate, paradoxically, the strength and security of package management. "
+"Because your package manager keeps fastidious records of everything it ever "
+"does, it is able to reverse installations, cleanly and completely. It will "
+"make sure that removing one package doesn't break any others, and you can "
+"even tell it specifically to do things like not automatically upgrade "
+"certain packages, because you like them the way they are, or to revert to an "
+"earlier version. Finally, the whole process is very heavily peer-reviewed. "
+"Because you are part of a large community of Linux users, all using the same "
+"repositories to obtain their software, if anything goes wrong you can be "
+"absolutely sure there will be a big fuss about it, and that the problem will "
+"be resolved quickly! In this way, software distribution in GNU/Linux "
+"distributions is very much based on trust, from the moment the original "
+"developer displays their source code for all to see, to the open discussion "
+"on the distribution's website. You can be confident in the software you "
+"obtain, not only because of the security protocols already mentioned, but "
+"because if anything does go wrong everyone will be talking about it!"
+msgstr ""
+"Lỗi con người thỉnh thoảng cũng xảy ra trong quá trình này. Có lẽ bạn sẽ vô "
+"tình cài đặt nhầm trình điều khiển thiết bị cho phần cứng và nó sẽ gây lỗi "
+"gì đó. Chúng ta ai cũng đều như vậy. Hoặc có lỗi hay là tính năng ưa thích "
+"của bạn đã bị nhà phát triển loại bỏ vì lý do gì đó. Ngược đời là chính "
+"những vấn đề này càng cho thấy sức mạnh và sự an toàn của việc quản lý gói. "
+"Trình quản lý gói của bạn lưu giữ biên bản chi tiết mọi thứ nó thực hiện, "
+"nên nó thể quay ngược cài đặt, hoàn toàn và sạch sẽ. Nó sẽ bảo đảm rằng gỡ "
+"bỏ một gói không làm hỏng bất kỳ thứ gì khác, và bạn còn có thể chỉ định nó "
+"làm những việc cụ thể như là không tự động nâng cấp một vài gói nào đó, vì "
+"bạn thích để nguyên như vậy, hoặc phục hồi lại một phiên bản trước đó. Sau "
+"cùng, toàn bộ quá trình này được giám sát rất kỹ lưỡng. Bạn là một thành "
+"viên của cộng đồng người dùng Linux rộng lớn, tất cả đều dùng cùng những kho "
+"chứa đó để lấy phần mềm, nếu có bất cứ vấn đề gì bạn có thể tin chắc rằng sẽ "
+"rất lộn xộn đấy, và vì vậy nó sẽ được giải quyết nhanh chóng ! Như vậy, việc "
+"phân phối phần mềm trong các bản phân phối GNU/Linux phần lới dựa vào sự tin "
+"tưởng, từ lúc nhà phát triển ban đầu công bố mã nguồn cho tất cả mọi người "
+"thấy, cho đến các cuộc thảo luận mở trên trang web bản phân phối. Bạn có thể "
+"tự tin vào phần mềm bạn lấy, không chỉ vì những giao thức bảo mật đã được đề "
+"cập, mà còn vì nếu có gì thì mọi người sẽ không để yên đâu !"
+
+#. Tag: para
+#, no-c-format
+msgid "Let's look again at our list of problems and see what we have solved:"
+msgstr ""
+"Hãy xem lại lần nữa danh sách vấn đề của chúng ta và xem ta đã giải quyết "
+"được gì:"
+
+#. Tag: entry
+#, no-c-format
+msgid "Problem"
+msgstr "Vấn đề"
+
+#. Tag: entry
+#, no-c-format
+msgid "Solution"
+msgstr "Giải pháp"
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"It is difficult or impossible to find out if the software has been tested to "
+"work with your operating system."
+msgstr ""
+"Khó hoặc không thể nào biết được liệu phần mềm đã được thử nghiệm hoạt động "
+"với hệ điều hành của bạn hay không."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"You know that the software available to you through the repository has been "
+"thoroughly tested by the package maintainer and the testing team to work "
+"with your operating system. They won't want to get it wrong, mostly on "
+"principle, but also because if they do they'll soon be getting lots of "
+"emails."
+msgstr ""
+"Bạn biết rằng phần mềm đến với bạn qua kho chứa đã được kiểm thử kỹ lưỡng "
+"bởi đơn vị bảo quản gói và đội kiểm nghiệm để chắc chắn hoạt động với hệ "
+"điều hành của bạn. Về nguyên tắc họ sẽ không làm sai, và cũng bởi vì nếu như "
+"vậy họ sẽ phải nhận cả núi điện thư."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know how this software will interact with "
+"the other software installed on your system."
+msgstr ""
+"Khó hoặc không thể nào biết được phần mềm này sẽ tương tác thế nào với các "
+"phần mềm khác đã cài đặt trên hệ thống."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Similarly, package maintainers try their utmost to ensure that packages "
+"won't conflict with other packages offered by their distribution. Of course, "
+"they might not have every last package installed on their testing machines "
+"(in fact, usually package maintainers build their packages on clean "
+"installations to ensure that they are standard), but if a member of the user "
+"community finds out that there is a problem, they will no doubt let the "
+"distribution team know, and the problem will be fixed, or at least worked "
+"on. Unless you are a beta tester, then you are unlikely to ever see such a "
+"conflict, because that's what beta testing is for."
+msgstr ""
+"Tương tự như vậy, đơn vị bảo quản gói sẽ cố gắng hết sức để đảm bảo gói "
+"không xung đột với các gói khác của bản phân phối. Đương nhiên có lẽ họ "
+"không có tất cả các gói mới nhất trên máy kiểm thử (thực tế là thường các "
+"đơn vị bảo quản dựng gói trên các bản cài đặt sạch để đảm bảo tính chuẩn "
+"xác), nhưng nếu có thành viên cộng đồng nào tìm ra vấn đề, họ sẽ cho đội "
+"phát triển biết, và vấn đề sẽ được sửa, hoặc ít ra là biết đến. Trừ khi bạn "
+"cũng là một người dùng kiểm thử, còn không thì khả năng là bạn sẽ chẳng bao "
+"giờ gặp những xung đột như vậy, vì chúng đã được kiểm thử rồi."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know if you can place your trust in the "
+"developer that their software will not cause any harm, willful or negligent, "
+"to your system."
+msgstr ""
+"Khó hoặc không thể nào biết được liệu bạn có thể tin tưởng vào nhà phát "
+"triển rằng phần mềm của họ sẽ không gây hại, dù vô tình hay cố ý, đến hệ "
+"thống của bạn."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Package maintainers are hardly likely to package software they know will "
+"harm people's computers (including their own)! Only software which is known "
+"and trusted will ever make it to the repository."
+msgstr ""
+"Các đơn vị bảo quản gói khó lòng mà đóng gói phần mềm họ biết sẽ gây hại cho "
+"máy tính người khác (bao gồm cả máy họ) ! Chỉ có những phần mềm được biết rõ "
+"và tin tưởng mới được đưa vào kho chứa."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Even if you know about a specific piece of software and its developer, you "
+"cannot be entirely sure that you are not downloading an executable that has "
+"been swapped out by a malicious third party for some type of malware."
+msgstr ""
+"Ngay cả khi bạn biết về một phần mềm và nhà phát triển đó, bạn cũng không "
+"thể hoàn toàn chắc chắn rằng bạn đang không phải tải xuống một tập tin thực "
+"thi đã bị tráo đổi bởi một bên thứ ba ác ý nào đó để gây hại."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"In addition to the usual security measures put in place by the institutions "
+"who own the servers (usually prestigious academic or research institutions, "
+"or large companies), the repository and packages themselves are secured by "
+"certificates and GPG keys. If something's gone wrong, your package manager "
+"will tell you about it. The present author, in ten years of using Linux, has "
+"never once known anything to go wrong in this respect."
+msgstr ""
+"Bên cạnh những biện pháp bảo mật thông thường do đơn vị phụ trách máy chủ "
+"thực hiện (thường là các học viện hay viện nghiên cứu danh tiến, hoặc doanh "
+"nghiệp lớn), các kho chứa và bản thân các gói cũng được bảo mật bằng chứng "
+"chỉ và khoá GPG. Nếu có bất kỳ vấn đề gì, trình quản lý gói của bạn sẽ báo "
+"ngay. Bản thân người viết hiện nay, trong suốt 10 năm sử dụng Linux, chưa "
+"từng gặp vấn đề nào trong chuyện này."
+
+#. Tag: entry
+#, no-c-format
+msgid "It is difficult to remove (all traces of) installed programs."
+msgstr "Khó để gỡ bỏ hoàn toàn tất cả dấu vết của chương trình đã cài."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Because the package management software keeps a complete record of all of "
+"its actions, it is quite capable of reversing any steps that it took in the "
+"past, while ensuring that removing one package will not cause any other "
+"package to fail."
+msgstr ""
+"Do phần mềm quản lý gói lưu giữ đầy đủ biên bản tất cả hành động của nó nên "
+"tương đối dễ dàng để quay ngược lại bất kỳ bước nào đã thực hiện trong quá "
+"khứ, đồng thời bảo đảm rằng việc xoá bỏ một gói sẽ không khiến những gói "
+"khác hỏng."
+
+#. Tag: entry
+#, no-c-format
+msgid "Static packages are big and clunky."
+msgstr "Các gói tĩnh thường cồng kềnh và nặng nề."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Because you're using package management, you will only ever download static "
+"libraries when there is no shared alternative. If you need new shared data "
+"libraries to install a given program, your package manager will know this "
+"and install them for you automatically. You will only ever have to download "
+"a shared library once because, well, it's shared by all the programs that "
+"need it. If you end up removing the last package that needs a shared "
+"library, then the package management software will remove that too. But, if "
+"you decide that you do want to keep the shared object anyway, perhaps "
+"because you just know you'll need it later, then you can tell the package "
+"management software to do that, too."
+msgstr ""
+"Vì bạn đang dùng quản lý gói, bạn sẽ chỉ tải xuống thư viện tỉnh khi không "
+"có lựa chọn dùng chung thay thế. Khi bạn cần một vài thư viện dữ liệu dùng "
+"chung mới để cài đặt một phần mềm nào đó, trình quản lý gói của bạn sẽ nhận "
+"biết và cài đặt tự động cho bạn. Bạn chỉ cần tải xuống thư viện dùng chung "
+"một lần duy nhất, chính là vì nó được dùng chung bởi các chương trình có "
+"dùng nó. Nếu bạn xoá bỏ gói phần mềm duy nhất còn lại cần thư viện dùng "
+"chung, trình quản lý gói cũng sẽ xoá bỏ cả thư viện đó luôn. Nhưng nếu bạn "
+"quyết định giữ đối tượng dùng chung đó, có lẽ vì bạn biết bạn sẽ cần nó sau, "
+"thì bạn cũng có thể yêu cầu trình quản lý gói làm như vậy."
+
+#. Tag: entry
+#, no-c-format
+msgid "I'm still not convinced."
+msgstr "Tôi vẫn chưa thấy thuyết phục."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Good! Post a message on the forums about it if you have a genuine concern "
+"about package management, or to ask about other people's experiences. It "
+"bears repeating that the package method of distribution in GNU/Linux relies "
+"on trust, so if there's a problem, we want to hear about it!"
+msgstr ""
+"Tốt ! Hãy đăng một thông điệp lên diễn đàn nếu bạn có quan điểm riêng về "
+"quản lý gói, hoặc hỏi xem kinh nghiệm của những người khác thế nào. Nhắc lại "
+"là phương thức phân phối gói trong GNU/Linux dựa trên sự tin tưởng, nên khi "
+"có vấn đề gì thì chúng tôi muốn được biết !"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"A final word. You may have been subjected to rumors to the effect that Linux "
+"isn't finished yet, or that if you use Linux then you are a beta-tester, or "
+"that Linux software is unstable. These are all half truths. “Linux” will "
+"never be “finished”, any more than any other major operating system can be "
+"considered “finished”. From the Linux kernel to the artwork on your screen, "
+"all the elements of your operating system will always be under some kind of "
+"development. This is because programmers are working hard to keep us up to "
+"date with the latest developments in programming and hardware technology. "
+"This does not mean that the software available for you to use is of bad "
+"quality. The base system at the core of Linux Mint has been under heavy "
+"development for about two decades now, and is very mature, stable, and "
+"proven. While there are definitely unstable versions of most of the software "
+"on your operating system, you won't be using them because you're not a beta "
+"tester. You know you're not a beta tester, because you're reading this. The "
+"software available to you on the repositories you use will always be stable "
+"and well tested, unless you change those repositories to the ones used by "
+"the testers (in which case congratulations, you've just become a tester). "
+"It's a bit of a no-brainer, really."
+msgstr ""
+"Một lời sau cùng. Có lẽ bạn cũng đã từng nghe nói đến những lời đồn rằng "
+"Linux chưa hoàn tất, hay là nếu bạn dùng Linux thì bạn sẽ là người dùng thử "
+"nghiệm, hay là phần mềm Linux không ổn định. Phần lớn chúng đều chỉ đúng một "
+"nửa mà thôi. \"Linux\" sẽ chẳng bao giờ \"hoàn tất\" cả, cũng như bất kỳ hệ "
+"điều hành lớn nào khác. Từ nhân Linux cho đến hình minh hoạ trên màn hình, "
+"tất cả các yếu tố của hệ điều hành bạn dùng luôn ở trong trạng thái được "
+"phát triển nào đó. Điều đó là vì các lập trình viên luôn cố gắng hết sức để "
+"chúng ta được cập nhật với các phát triển mới nhất trong công nghệ phần cứng "
+"và lập trình. Điều đó không có nghĩa là phần mềm cho bạn dùng có chất lượng "
+"kém. Hế thống nền tảng của Linux Mint đã được tập trung phát triển dữ dội "
+"trong khoảng 2 thập kỷ rồi, và nó rất già dặn, ổn định, và đã được kiểm "
+"nghiệm. Mặc dù chắc chắn rằng có rất nhiều phiên bản không ổn định của phần "
+"lớn phần mềm trên hệ điều hành của bạn, nhưng bạn sẽ không phải dùng chúng "
+"vì bạn đâu phải người phụ trách kiểm thử. Bạn biết chắc như vậy, vì bạn đang "
+"những dòng này. Phần mềm dành cho bạn đến từ những kho chứa bạn dùng luôn "
+"luôn là ổn định và được kiểm thử rất kỹ, trừ khi bạn sưa đổi thành các kho "
+"chứa dành cho kiểm định viên (và trong trường hợp đó thì xin chúc mừng, bạn "
+"đã trở thành kiểm định viên). Thật sự không có gì phải lo nghĩ quá nhiều đâu."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"So, to summarize with an example, when you install Opera, Real Player or "
+"Google Earth in Linux Mint, these applications do not come from their "
+"original developers (Opera, Real and Google). Of course the upstream "
+"application comes from these developers, but only after they've been "
+"properly packaged and tested do they become available for you. So, in other "
+"words, you should never need to go and browse the Internet to look for "
+"software, as everything you need is available and already tested for you and "
+"for your system by the Linux Mint and Ubuntu teams. All you need to do is "
+"choose what you want to do."
+msgstr ""
+"Cho nên, tóm lại bằng ví dụ, khi bạn cài Opera, Real Player hay Google Earth "
+"trong Linux Mint, những ứng dụng này không đến từ các nhà phát triển gốc "
+"(Opera, Real và Google). Tất nhiên ứng dụng đầu nguồn đến từ các nhà phát "
+"triển này, nhưng chúng chỉ đến được với bạn sau khi đã được kiểm thử và đóng "
+"gói đúng đắn. Nói cách khác, bạn chẳng bao giờ phải lướt web để tìm kiếm "
+"phần mềm, vì mọi thứ bạn cần luôn sẵn có và đã được kiểm thử cho bạn và cho "
+"hệ thống của bạn bởi các đội phát triển Linux Mint và Ubuntu. Tất cả bạn cần "
+"chỉ là lựa chọn điều muốn làm."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint will update itself automatically through a tool called the Update "
+"Manager, which will update not only the base operating system, but all the "
+"software installed on your machine as well."
+msgstr ""
+"Linux Mint sẽ tự động cập nhật chính nó bằng công cụ gọi là Trình Quản lý "
+"Cập nhật. Nó không chỉ cập nhật hệ điều hành cơ sở, mà cả các phần mềm trên "
+"máy."
+
+#. Tag: para
+#, no-c-format
+msgid "It's that simple. Whew!"
+msgstr "Đơn giản vậy thôi. Chậc !"
+
+#. Tag: title
+#, no-c-format
+msgid "Installing software"
+msgstr "Cài đặt phần mềm"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Some of the most popular applications that are not installed by default in "
+"Linux Mint are Opera, Skype, Acrobat Reader, Google Earth and Real Player."
+msgstr ""
+"Một vài ứng dụng phổ biến nhất không được cài sẵn trong Linux Mint là Opera, "
+"Skype, Acrobat Reader, Google Earth và Real Player."
+
+#. Tag: title
+#, no-c-format
+msgid "Using the Software Manager"
+msgstr "Sử dụng Trình Quản lý Phần mềm"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The easiest way to install software in Linux Mint is to use the "
+"<wordasword>Software Manager</wordasword>."
+msgstr ""
+"Cách dễ nhất để cài đặt phần mềm trong Linux Mint là dùng <wordasword>Trình "
+"Quản lý Phần mềm</wordasword>."
+
+#. Tag: title
+#, no-c-format
+msgid "The Software Manager"
+msgstr "Trình Quản lý Phần mềm"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Open the <guimenu>Menu</guimenu> and select <guimenuitem>Software "
+"Manager</guimenuitem>."
+msgstr ""
+"Mở <guimenu>Trình đơn</guimenu> và chọn <guimenuitem>Trình Quản lý Phần "
+"mềm</guimenuitem>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Software Manager lets you browse the software made available for Linux "
+"Mint. You can browse by category, search by keyword or sort the software by "
+"rating and popularity."
+msgstr ""
+"Trình Quản lý Phần mềm cho phép bạn duyệt qua các  phần mềm dành cho Linux "
+"Mint. Bạn có thể duyệt xem theo thể loại, tìm kiếm theo từ khoá hoặc sắp xếp "
+"theo xếp hạng và độ phổ biến."
+
+#. Tag: title
+#, no-c-format
+msgid "Using Synaptic"
+msgstr "Sử dụng Synaptic"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you want to install more than one application at a time or see more "
+"technical information about the packages, you can use "
+"<wordasword>Synaptic</wordasword>."
+msgstr ""
+"Nếu bạn muốn cài đặt nhiều hơn một phần mềm một lúc hoặc xem thêm thông tin "
+"kỹ thuật về các gói, bạn có thể dùng <wordasword>Synaptic</wordasword>."
+
+#. Tag: title
+#, no-c-format
+msgid "Synaptic, the Package Manager"
+msgstr "Synaptic, trình Quản lý Gói"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Open the <guimenu>Menu</guimenu> and select <guimenuitem>Synaptic Package "
+"Manager</guimenuitem>."
+msgstr ""
+"Mở <guimenu>Trình đơn</guimenu> và chọn <guimenuitem>Trình Quản lý Gói "
+"Synaptic</guimenuitem>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Let's see how we can install Opera (an alternative to the Firefox Web "
+"browser):"
+msgstr ""
+"Hãy xem cách cài đặt Opera (lựa chọn thay thế cho trình duyệt Firefox):"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Click on the <guibutton>Search</guibutton> button and type "
+"<wordasword>opera</wordasword>."
+msgstr ""
+"Nhấn nút <guibutton>Tìm kiếm</guibutton> và gõ "
+"<wordasword>opera</wordasword>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Go through the list of packages and find the one corresponding to the Opera "
+"Web Browser."
+msgstr ""
+"Xem qua danh sách các gói và tìm gói tương ứng với Trình duyệt Opera."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Tick the box and select <guimenuitem>Mark for Installation</guimenuitem>."
+msgstr "Đánh dấu vào ô và chọn <guimenuitem>Đánh dấu cài đặt</guimenuitem>."
+
+#. Tag: para
+#, no-c-format
+msgid "Click on the <guibutton>Apply</guibutton> button."
+msgstr "Nhấn nút <guibutton>Áp dụng</guibutton> button."
+
+#. Tag: title
+#, no-c-format
+msgid "Using APT"
+msgstr "Sử dụng APT"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"APT is by far the most powerful package management tool in Linux Mint. Yet "
+"it's extremely simple to use."
+msgstr ""
+"Hiện nay APT là công cụ quản lý gói mạnh nhất trên Linux Mint. Nhưng nó cực "
+"kỳ dễ dùng."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It's a command though, not a program with a graphical interface. If you're "
+"starting with Linux you'll probably prefer the Software Manager or Synaptic "
+"at first. As time goes on you'll likely enjoy things to be faster and more "
+"efficient."
+msgstr ""
+"Tuy nhiên nó là chương trình dòng lệnh, khôgn có giao diện đồ hoạ. Nếu mới "
+"bắt đầu với Linux, ban đầu hẳn bạn sẽ thích trình Quản lý Phần mềm và "
+"Synaptic hơn. Theo thời gian có lẽ bạn sẽ thích mọi thứ nhanh hơn và hiệu "
+"quả hơn."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Now let's see how we could have installed Opera using the APT command line "
+"tool."
+msgstr ""
+"Bây giờ hãy xem cách chúng ta có thể dùng để cài Opera từ dòng lệnh APT."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Open the <guimenu>Menu</guimenu> and select "
+"<guimenuitem>Terminal</guimenuitem>. Then type the following command:"
+msgstr ""
+"Mở <guimenu>Trình đơn</guimenu> và chọn <guimenuitem>Trình dòng "
+"lệnh</guimenuitem>. Rồi gõ lệnh sau:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                    <command>apt install "
+"<replaceable>opera</replaceable></command>\n"
+"                "
+msgstr ""
+"\n"
+"                    <command>apt install "
+"<replaceable>opera</replaceable></command>\n"
+"                "
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Make sure Synaptic is closed before using APT. Synaptic is using APT in the "
+"background so both can't run at the same time. The same goes for the "
+"Software Manager."
+msgstr ""
+"Đảm bảo rằng Synaptic đã được đóng lại trước khi dùng APT. Synaptic sử dụng "
+"APT dưới nền nên cả 2 không thể chạy cùng lúc được. Trình Quản lý Phần mềm "
+"cũng vậy."
+
+#. Tag: title
+#, no-c-format
+msgid "Removing software"
+msgstr "Gỡ bỏ phần mềm"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You can use the Software Manager to remove software. Simply find the "
+"software you want to remove and click on <guibutton>Remove</guibutton>."
+msgstr ""
+"Bạn có thể dùng Trình Quản lý Phần mềm để gỡ bỏ phần mềm. Đơn giản tìm phần "
+"mềm muốn bỏ và nhấp nút <guibutton>Gỡ bỏ</guibutton>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"With Synaptic, you can remove packages by clicking on them and by selecting "
+"<guimenuitem>Mark for Removal</guimenuitem>. Changes are applied after you "
+"click on the <guibutton>Apply</guibutton> button."
+msgstr ""
+"Với Synaptic, bạn có thể gỡ bỏ gói bằng cách nhấp vào gói và chọn "
+"<guimenuitem>Đánh dấu Gỡ bỏ</guimenuitem>. Các thay đổi sẽ được thực hiện "
+"sau khi bạn nhấp nút <guibutton>Áp dụng</guibutton>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"With APT it's even simpler... say you want to remove Opera, open a "
+"<guimenuitem>Terminal</guimenuitem> from the <guimenu>Menu</guimenu> and "
+"type:"
+msgstr ""
+"Với APT thì còn đơn giản hơn nữa... giả sử bạn muốn gỡ bỏ Opera, hãy mở "
+"<guimenuitem>Trình dòng lệnh</guimenuitem> từ <guimenu>Trình đơn</guimenu> "
+"và gõ:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                    <command>apt remove "
+"<replaceable>opera</replaceable></command>\n"
+"            "
+msgstr ""
+"\n"
+"                    <command>apt remove "
+"<replaceable>opera</replaceable></command>\n"
+"            "
+
+#. Tag: title
+#, no-c-format
+msgid "Updating software"
+msgstr "Cập nhật phần mềm"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If a new version of any package installed on your computer is made available "
+"you can upgrade to it. It may be a security update for some component of the "
+"operating system, it may be an optimization in one specific library or it "
+"may even be a newer version of Firefox. Basically, your system is made of "
+"packages and any part of it can be updated by updating some of those "
+"packages. This means replacing the current package with a newer version."
+msgstr ""
+"Nếu có phiên bản mới xuất hiện của bất kỳ gói nào cài trên máy của bạn, bạn "
+"có thể nâng cấp. Đó có thể là cập nhật bảo mật cho thành phần nào đó của hệ "
+"điều hành, cũng có thể là tối ưu hoá một thư viện cụ thể nào đó hoặc thậm "
+"chí là một phiên bản Firefox mới hơn. Về cơ bản, hệ thống của bạn hợp thành "
+"từ các gói và bất kỳ phần nào cũng có thể cập nhật bằng cách nâng cấp các "
+"gói. Có nghĩa là thay thế gói hiện thời bằng một phiên bản mới hơn."
+
+#. Tag: para
+#, no-c-format
+msgid "There are many ways to do this but only one of them is recommended."
+msgstr ""
+"Có nhiều cách để thực hiện điều đó nhưng chỉ có một cách được khuyên dùng."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You could use APT to upgrade all your packages with one simple command "
+"(<command>apt upgrade</command>) but we recommend you don't do so. The "
+"reason is that it doesn't make any distinctions in selecting which updates "
+"to apply and assumes that you want all of them."
+msgstr ""
+"Bạn có thể dùng APT để nâng cấp tất cả các gói chỉ với một lệnh đơn giản "
+"(<command>apt upgrade</command>) nhưng chúng tôi khuyên bạn không nên làm "
+"vậy. Lý do là vì thao tác này không có tính chọn lọc mà nó cho rằng bạn muốn "
+"tất cả."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Some parts of the system are safe to update and some others aren't. For "
+"instance, by updating your kernel (the part which is responsible among other "
+"things for hardware recognition) you might break your sound support, your "
+"wireless card support or even some applications (such as VMWare and "
+"Virtualbox) which are closely linked to the kernel."
+msgstr ""
+"Một vài thành phần của hệ thống có thể cập nhật an toàn, một số khác thì "
+"không. Chẳng hạn, cập nhật nhân (thành phần chịu trách nhiệm nhận biết phần "
+"cứng), bạn có thể bị mất âm thanh, wifi hoặc thậm chí một vài ứng dụng liên "
+"kết chặt chẽ với nhân (như là VMWare và Virtualbox)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint comes with a tool called the Update Manager. It gives more "
+"information about updates and lets you define how safe an update must be "
+"before you want to apply it. It looks like a shield and sits on the bottom-"
+"right corner of your screen."
+msgstr ""
+"Linux Mint có sẵn một công cụ gọi là Trình Quản lý Cập nhật. Nó cung cấp cho "
+"bạn thông tin về các bản cập nhật và cho phép bạn chọn mức độ an toàn của "
+"các bản cập nhật sẽ được áp dụng. Nó trông giống như một cái khiên nằm ở góc "
+" dưới bên phải màn hình của bạn."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you place your mouse pointer on top of it, it will tell you either that "
+"your system is up to date or, if it isn't, how many updates are available."
+msgstr ""
+"Nếu đưa con trỏ chuột lên trên nó, bạn sẽ biết được hệ thống của mình có cập "
+"nhật mới nhất không, và nếu không thì có sẵn bao nhiêu bản cập nhật."
+
+#. Tag: title
+#, no-c-format
+msgid "The list of available updates"
+msgstr "Danh sách cập nhật sẵn có"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you click on the lock icon, the Update Manager opens and shows you the "
+"updates that are available. The interface is very easy to use. For each "
+"package update you can read the description, the changelog (this is where "
+"developers explain their changes when they modify the package), and "
+"eventually if Linux Mint assigned warnings or extra information about the "
+"updates. You can also see which version is currently installed on your "
+"computer and which version is available for you to update to. Also you have "
+"a symbol showing if it's a package update or a security update."
+msgstr ""
+"Nếu bạn nhấp vào biểu tượng khoá, trình Quản lý Cập nhật sẽ mở ra và cho bạn "
+"xem các bản cập nhật sẵn có. Giao diện rất dễ sử dụng. Với mỗi bản cập nhật "
+"gói, bạn có thể đọc mô tả, nhật ký thay đổi (nơi nhà phát triển cho biết các "
+"thay đổi với gói), và kế đến là những cảnh báo hay thông tin thêm nếu có của "
+"Linux Mint về bản cập nhật. Bản cũng có thể xem phiên bản hiện tại của gói "
+"đang cài đặt trên máy của bạn và phiên bản có thể cập nhật lên. Cũng có một "
+"biểu tượng cho biết nó là cập nhật gói hay cập nhật bảo mật."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Finally, you can see the stability level assigned to the package update. "
+"Each package update brings improvements or fixes security issues but that "
+"doesn't mean they're risk-free and can't introduce new bugs. The stability "
+"level is assigned to each package by Linux Mint and gives you an indication "
+"of how safe it is for you to apply an update."
+msgstr ""
+"Cuối cùng, bạn có thể xem độ ổn định của bản cập nhật gói. Mỗi cập nhật gói "
+"đem đến sự cải thiện hay sửa các vấn đề bảo mật nhưng điều đó cũng không có "
+"nghĩa là hoàn toàn không có rủi ro và không có các lỗi mới. Độ ổn định của "
+"mỗi gói do Linux Mint đưa ra giúp bạn đánh giá mức độ an toàn của gói với "
+"bạn khi thực hiện cập nhật."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Of course you can click on the columns to sort by stability level, status, "
+"package name or by version. You can select all updates or unselect all of "
+"them by using the <guibutton>Clear</guibutton> and <guibutton>Select "
+"All</guibutton> buttons."
+msgstr ""
+"Đương nhiên bạn có thể nhấp vào cột để sắp xếp theo độ ổn định, trạng thái, "
+"tên gói hay phiên bản. Bạn có thể chọn hoặc bỏ chọn tất cả cập nhật b8àng "
+"cách dùng nút <guibutton>Bỏ</guibutton> và nút<guibutton>Chọn "
+"hết</guibutton>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Level 1 and Level 2 updates are risk-free and you should always apply them. "
+"Level 3 updates should be safe but, although we recommend you take them, "
+"make sure you look over them on the list of updates. If you experience a "
+"problem with a particular Level 3 update, tell the Linux Mint development "
+"team so they can take measures to make that update a Level 4 or a Level 5 so "
+"as to warn or even discourage others against applying it."
+msgstr ""
+"Cập nhật Cấp 1 và Cấp 2 không có rủi ro gì và bạn nên luôn luôn áp dụng. Cập "
+"nhật Cấp 3 thường là an toàn, nói chung chúng tôi khuyên dùng, nhưng hãy đảm "
+"bảo xem kỹ trước. Nếu bạn gặp vấn đề với một cập nhật cấp 3 nào đó, hãy báo "
+"cho đội phát triển Linux Mint để chúng tôi có biện pháp đánh dấu nó là Cấp 4 "
+"hay Cấp 5 để cảnh báo và không khuyến khích mọi người thực hiện."
+
+#. Tag: title
+#, no-c-format
+msgid "The Update Manager preferences"
+msgstr "Tuỳ thích Trình Quản lý Cập nhật"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you click on the <guibutton>Preferences</guibutton> button you should see "
+"the screen above. By default the Update Manager tells you about Level 1, 2 "
+"and 3 updates. You can decide to make Level 4 and 5 "
+"<guilabel>visible</guilabel>. This will make more updates appear in the "
+"list. If you want to you can even make Level 4 and 5 updates "
+"<guilabel>safe</guilabel> (although this is not recommended). This will "
+"cause them to be selected by default within the Update Manager."
+msgstr ""
+"Nếu nhấp vào nút <guibutton>Tuỳ thích</guibutton> bạn sẽ thấy màn hình ở "
+"trên. Theo mặc định trình Quản lý Cập nhật sẽ báo cho bạn về các cập nhật "
+"Cấp 1, 2 và 3. Bạn có thể chọn để <guilabel>thấy</guilabel> cả Cấp 4 và 5. "
+"Như vậy sẽ có nhiều cập nhật hiển thị trên danh sách hơn. Nếu muốn bạn còn "
+"có thể xem cập nhật Cấp 4 và 5  là <guilabel>an toàn</guilabel> (tuy nhiên "
+"điều này không được khuyến khích). Như vậy chúng sẽ được mặc định chọn trong "
+"trình Quản lý Cập nhật."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Update Manager only counts 'safe' updates. So when it tells you your "
+"system is up to date, it means there are no updates available assigned with "
+"a level that you defined as being 'safe'."
+msgstr ""
+"Trình Quản lý Cập nhật chỉ đếm các cập nhật 'an toàn'. Do đó khi nó cho biết "
+"hệ thống của bạn đã cập nhật, nghĩa là không có cập nhật nào khác ứng với "
+"cấp độ bạn xem là 'an toàn'."
+
+#. Tag: para
+#, no-c-format
+msgid "The Update Manager only shows 'visible' updates in the list."
+msgstr ""
+"Trình Quản lý Cập nhật chỉ hiển thị các cập nhật 'thấy được' trên danh sách."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"For example, if you made all levels 'visible' and only Level 1 and 2 'safe', "
+"you would see a lot of updates in the list, but the Update Manager would "
+"probably tell you that your system was up to date."
+msgstr ""
+"Ví dụ, nếu bạn chọn 'thấy' tất cả các cấp và chỉ Cấp 1 và 2 là 'an toàn', "
+"bạn sẽ thấy rất nhiều cập nhật trong danh sách nhưng trình Quản lý Cập nhật "
+"hẳn sẽ cho biết rằng hệ thống của bạn đã cập nhật."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <guilabel>Auto-Refresh</guilabel> tab allows you to define how often the "
+"Update Manager checks for updates."
+msgstr ""
+"Thẻ <guilabel>Tự động Làm mới</guilabel> cho phép bạn chọn độ thường xuyên "
+"trình Quản lý Cập nhật kiểm tra cập nhật."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <guilabel>Update Method</guilabel> tab lets you define how the Update "
+"Manager checks for new updates."
+msgstr ""
+"Thẻ <guilabel>Phương pháp Cập nhật</guilabel> cho phép bạn chọn cách thức "
+"trình Quản lý Cập nhật kiểm tra cập nhật mới."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <guilabel>Include dist-upgrade packages</guilabel> option allows you to "
+"define whether the Update Manager should install new dependencies or not. "
+"For instance if package A version 1 was installed on your computer and "
+"package A version 2 became available, but version 2 had a new dependency on "
+"package B which isn't installed on your computer... what would happen?"
+msgstr ""
+"Tuỳ chọn <guilabel>Bao gồm cập nhật dist-upgrade</guilabel> cho phép bạn "
+"chọn cách thức trình Quản lý Cập nhật cài đặt các phụ thuộc mới hay không. "
+"Chẳng hạn nếu gói A phiên bản 1 đã cài trên máy và có gói A phiên bản 2 xuất "
+"hiện, nhưng phiên bản 2 có phụ thuộc mới vào gói B chưa được cài sẵn... thì "
+"sao ?"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you left this checkbox unchecked, version 2 would not appear as an update "
+"in the list of updates."
+msgstr ""
+"Nếu không đánh dấu vào ô này, phiên bản 2 sẽ không xuất hiện như là cập nhật "
+"trong danh sách."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you checked this checkbox, it would, and if selected it would install "
+"package B as a dependency."
+msgstr ""
+"Nếu đánh dấu vào ô này, phiên bản 2 sẽ xuất hiện và nó sẽ cài thêm gói phụ "
+"thuộc B."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Be careful with this option as dependency can install new packages on your "
+"behalf but they can also sometimes remove packages you already have "
+"installed."
+msgstr ""
+"Hãy cẩn thận với tuỳ chọn này vì sự phụ thuộc có thể cài thêm gói mới lên hệ "
+"thống của bạn và đôi khi thậm chí gỡ bỏ những gói đã cài đặt."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In the <guilabel>Ignored packages</guilabel> tab you can define packages for "
+"which you do not want to receive updates. '?' and '*' wildcard characters "
+"are supported."
+msgstr ""
+"Ở thẻ <guilabel>Cập nhật bị bỏ qua</guilabel> bạn có thể chọn những kiểu gói "
+"bạn không muốn nhận cập nhật. Ký tự thay thế '?' và '*' cũng được hỗ trợ."
+
+#. Tag: para
+#, no-c-format
+msgid "The <guilabel>Proxy</guilabel> tab lets you define proxy settings."
+msgstr ""
+"Thẻ <guilabel>Uỷ nhiệm</guilabel> cho phép bạn thiết đặt máy uỷ nhiệm."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The last tab lets you change the icons used by the Update Manager in the "
+"system tray."
+msgstr ""
+"Thẻ sau cùng cho phép bạn thay đổi biểu tượng mà trình Quản lý Cập nhật sử "
+"dụng ở khay hệ thống."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you get errors with the Update Manager, you can check the logs. Right "
+"click on the lock icon in the system tray and select "
+"<guilabel>Information</guilabel>. The following screen appears:"
+msgstr ""
+"Nếu gặp lỗi với trình Quản lý Cập nhật, bạn có thể kiểm tra nhật ký. Nhấp "
+"phải vào biểu tượng khoá trên khay hệ thống và chọn <guilabel>Thông "
+"tin</guilabel>. Màn hình sau hiện ra:"
+
+#. Tag: title
+#, no-c-format
+msgid "The Update Manager logs"
+msgstr "Nhật ký trình Quản lý Cập nhật"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In this screen you can see the process ID of the Update Manager and the "
+"content of its log file."
+msgstr ""
+"Trong màn hình này bạn sẽ thấy ID tiến trình của trình Quản lý Cập nhật và "
+"nội dung của tập tin nhật ký."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You can also review the updates that were applied on your system by clicking "
+"on the <guimenu>View</guimenu> menu and by selecting <guimenuitem>History of "
+"Updates</guimenuitem>."
+msgstr ""
+"Bạn cũng có thể xem lại các cập nhật đã được áp dụng trong hệ thống bằng "
+"cách nhấp vào trình đơn <guimenu>Xem</guimenu> và chọn <guimenuitem>Lược sử "
+"Cập nhật</guimenuitem>"
+
+#. Tag: title
+#, no-c-format
+msgid "The history of updates"
+msgstr "Lược sử cập nhật"

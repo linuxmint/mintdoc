@@ -1,0 +1,172 @@
+# Turkish translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-11 16:14+0000\n"
+"Last-Translator: kelebek333 <Unknown>\n"
+"Language-Team: Turkish <tr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction to the Desktop"
+msgstr "Masaüstü Tanıtımı"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <wordasword>desktop</wordasword> is the component of the operating "
+"system which is responsible for the elements that appear on the desktop: The "
+"<wordasword>Panel</wordasword>, the <wordasword>Wallpaper</wordasword>, the "
+"<wordasword>Control Center</wordasword>, the menus... etc."
+msgstr ""
+"<wordasword>Masaüstü</wordasword> işletim sisteminin masaüstünde görünen "
+"öğelerinden sorumlu bir bileşenidir: <wordasword>Panel</wordasword>, "
+"<wordasword>Wallpaper</wordasword>, <wordasword>Kontrol "
+"Merkezi</wordasword>, menüler... vb."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Cinnamon Edition of Linux Mint uses the Cinnamon desktop which is both "
+"intuitive and powerful."
+msgstr ""
+"Linux Mint'in Cinnamon sürümü sezgisel ve güçlü Cinnamon masaüstünü kullanır."
+
+#. Tag: title
+#, no-c-format
+msgid "The Menu"
+msgstr "Menü"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Cinnamon, almost everything is accessible from the 'Menu'. To open it, "
+"click on <guimenu>Menu</guimenu> at the bottom-left of your screen, or press "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
+"is the left Windows key on your keyboard)."
+msgstr ""
+"Cinnamon'da, hemen her şeye 'Menü' ile erişebilirsiniz. Açmak için, "
+"ekranınızın sol alt köşesindeki <guimenu>Menü</guimenu> düğmesine "
+"tıklayabilir, ya da "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> tuşuna "
+"basabilirsiniz (Super_L  klavyenizdeki sol Windows tuşudur)."
+
+#. Tag: title
+#, no-c-format
+msgid "The Cinnamon Menu"
+msgstr "Cinnamon Menüsü"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The menu is used to launch applications, to access the system settings, and "
+"to reach common places and open recent files."
+msgstr ""
+"Menü; uygulamaları başlatmak, sistem ayarlarına erişmek, genel konumlara "
+"ulaşmak ve son kullanılan dosyaları açmak için kullanılır."
+
+#. Tag: title
+#, no-c-format
+msgid "Places"
+msgstr "Konumlar"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Linux Mint, all your personal data is stored in your "
+"<wordasword>Home</wordasword> directory."
+msgstr ""
+"Linux Mint'de, tüm bireysel veriler kullanıcı <wordasword>Ev</wordasword> "
+"dizininde depolanır."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"As well as your files, this directory also contains pre-defined sub-"
+"directories such as <wordasword>Documents</wordasword>, "
+"<wordasword>Music</wordasword>, <wordasword>Videos</wordasword>...etc which "
+"you can use to better organize your files."
+msgstr ""
+"Bu dizin sizin dosyalarınızın yanısıra, dosyalarınızı daha iyi organize "
+"edebilmeniz için <wordasword>Belgeler</wordasword>, "
+"<wordasword>Müzik</wordasword>, <wordasword>Videolar</wordasword>... vb gibi "
+"öntanımlı alt dizinleri de içerir."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Other important places are your <wordasword>Desktop</wordasword> folder "
+"(which containsn the files visible on your desktop), the filesystem (which "
+"contains all system files and directories), removable devices connected to "
+"the computer, the network and bookmarks (you can bookmark any directory to "
+"gain quick-access to it)."
+msgstr ""
+"Diğer önemli konumlar arasında <wordasword>Masaüstü</wordasword> dizininiz "
+"(masaüstünüzde gözüken dosyalarınızı içerir), dosya sistemi (tüm sistem "
+"dosya ve dizinlerini içerir), bilgisayara bağlı çıkarılabilir aygıtlar, ağ "
+"ve sık kullanılanlar bulunmaktadır (herhangi dizini hızlı ulaşım için sık "
+"kullanlanlara ekleyebilirsiniz)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To quickly access one of these places, perform one of the following actions:"
+msgstr ""
+"Bu konumlardan birine hızlı erişimi, aşağıdaki yöntemlerden biri ile "
+"gerçekleştirebilirsiniz:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Click on <guimenu>Menu</guimenu> and select <guisubmenu>Places</guisubmenu>"
+msgstr ""
+"<guimenu>Menü</guimenu> 'ye tıklayın ve <guisubmenu>Konumlar</guisubmenu> "
+"bölümünü seçin"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Launch <wordasword>Nemo</wordasword>, the Cinnamon file manager, by clicking "
+"on <guimenu>Menu</guimenu> and selecting <guimenuitem>Files</guimenuitem>. "
+"Then, within Nemo, you can access common places by clicking on them in the "
+"sidebar, on the left of the window."
+msgstr ""
+"Cinnamon dosya yöneticisi <wordasword>Nemo</wordasword> 'yu başlatmak için, "
+"<guimenu>Menü</guimenu> 'ye tıklayın <guimenuitem>Dosyalar</guimenuitem> "
+"kısayolunu seçin. Sonra, Nemo'nun sol tarafında bulunan kenar çubuğundaki "
+"öğelere tıklayarak genel konumlara ulaşabilirsiniz."
+
+#. Tag: title
+#, no-c-format
+msgid ""
+"Nemo, the file manager, listing the content of the Home directory and "
+"providing quick-access to common places from the left sidebar."
+msgstr ""
+"Dosya yöneticisi Nemo, kullanıcı ev dizini (Home) içeriğini ve genel "
+"konumlara hızlı erişim için kısayolları sol tarafındaki kenar çubuğunda "
+"listeler."
+
+#. Tag: title
+#, no-c-format
+msgid "System Settings"
+msgstr "Sistem Ayarları"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To launch the system settings, click on <guimenu>Menu</guimenu> and select "
+"<guimenuitem>System Settings</guimenuitem>."
+msgstr ""
+"Sistem Ayarlarını açmak için, <guimenu>Menü</guimenu> 'ye tıklayın ve "
+"<guimenuitem>Sistem Ayarlarını</guimenuitem> 'nı seçin"

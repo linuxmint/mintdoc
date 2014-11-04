@@ -1,0 +1,540 @@
+# Vietnamese translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-02 10:43+0000\n"
+"Last-Translator: Saki <a4e484b@hotmail.com>\n"
+"Language-Team: Vietnamese <vi@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction to Linux Mint"
+msgstr "Giới thiệu Linux Mint"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint is a computer operating system designed to work on most modern "
+"systems, including typical x86 and x64 PCs."
+msgstr ""
+"Linux Mint là một hệ điều hành máy tính được thiết kế để làm việc trên hầu "
+"hết các hệ thống hiện đại, điển hình là các máy x86 và x64."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint can be thought of as filling the same role as Microsoft's "
+"Windows, Apple's Mac OS, and the free BSD OS. Linux Mint is also designed to "
+"work in conjunction with other operating systems (including those listed "
+"above), and can automatically set up a <wordasword>dual boot</wordasword> or "
+"<wordasword>multi-boot</wordasword> environment (where the user is prompted "
+"as to which operating system to start at each boot-up) during its "
+"installation."
+msgstr ""
+"Có thể xem Linux Mint có cùng vai trò giống như Windows của Microsoft, Mac "
+"OS của Apple và Free BSD OS. Linux Mint cũng được thiết kế để làm việc chung "
+"với các hệ điều hành khác (gồm các hệ kể trên), và có thể tự động thiết đặt "
+"môi trường <wordasword>khởi động kép</wordasword> hoặc <wordasword>đa khởi "
+"động</wordasword> (khi đó người dùng sẽ được chọn hệ điều hành để chạy mỗi "
+"lần khởi động máy) trong quá trình cài đặt."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint is a great operating system for individuals and for companies."
+msgstr ""
+"Linux Mint là một hệ điều hành tuyệt vời cho cá nhân và doanh nghiệp."
+
+#. Tag: title
+#, no-c-format
+msgid "History"
+msgstr "Lược sử"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint is a very modern operating system; Its development started in "
+"2006. It is, however, built upon very mature and proven software layers, "
+"including the Linux kernel, the GNU tools and the &EDITION; desktop. It also "
+"relies on the Ubuntu and Debian projects and uses their systems as a base."
+msgstr ""
+"Linux Mint là hệ điều hành rất hiện đại, quá trình phát triển bắt đầu từ "
+"2006. Tuy nhiên, nó được xây dựng nên từ các lớp phần mềm rất già dặn và đã "
+"được kiểm nghiệm, bao gồm nhân Linux, bộ công cụ GNU và môi trường làm việc "
+"&EDITION;. Nó cũng dựa trên các dự án Ubuntu và Debian, và lấy các hệ thống "
+"này làm cơ sở."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Linux Mint project focuses on making the desktop more usable and more "
+"efficient for everyday tasks performed by regular users. Underneath the "
+"desktop the operating system also provides a huge collection of available "
+"software and a very well integrated set of services."
+msgstr ""
+"Dự án Linux Mint tập trung vào làm cho máy tính bàn hữu dụng và hữu hiệu hơn "
+"trong các tác vụ hàng ngày của người dùng thông thường. Hệ điều hành cũng "
+"cung cấp một bộ sưu tập khổng lồ các phần mềm hiện có và tập hợp dịch vụ "
+"tích hợp cực kỳ tốt bên dưới màn hình làm việc."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint saw a rapid rise in popularity and more and more people use it "
+"every day."
+msgstr ""
+"Linux Mint giành được sự phổ biến nhanh chong và ngày càng nhiều người sử "
+"dụng hàng ngày."
+
+#. Tag: title
+#, no-c-format
+msgid "Purpose"
+msgstr "Mục đích"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The purpose of Linux Mint is to provide a desktop operating system that home "
+"users and companies can use at no cost and which is as efficient, easy to "
+"use, and elegant as possible."
+msgstr ""
+"Mục đích của Linux Mint là cung cấp một hệ điều hành máy tính bàn mà người "
+"dùng gia đình và doanh nghiệp có thể sử dụng không mất phí và hữu hiệu, tiện "
+"dụng và nhã nhặn hết sức có thể."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"One of the ambitions of the Linux Mint project is to become the best "
+"operating system available by making it easy for people to get to use "
+"advanced technologies, rather than by simplifying them (and thereby reducing "
+"their capabilities), or by copying the approaches taken by other developers."
+msgstr ""
+"Một trong những tham vọng của dự án Linux Mint là trở thành hệ điều hành tốt "
+"nhất hiện có qua việc giúp mọi người có thể làm quen và sử dụng các công "
+"nghệ tiên tiến, thay vì đơn giản hoá chúng (dẫn đến hạn chế khả năng của "
+"chúng) hay là sao chép cách tiếp cận của các nhà phát triển khác."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The goal is to develop our own idea of the ideal desktop. We think that it "
+"is best to make the most out of the modern technologies that exist under "
+"Linux and make it easy for everybody to use its most advanced features."
+msgstr ""
+"Mục tiêu là phát triển quan niệm riêng của chúng tôi về một hình mẫu máy bàn "
+"lý tưởng. Chúng tôi tin rằng tận dụng tối đa các công nghệ hiện đại của "
+"Linux và giúp cho mọi người dễ dàng sử dụng các tính năng tiên tiến nhất của "
+"chúng là tốt nhất."
+
+#. Tag: title
+#, no-c-format
+msgid "Version numbers and codenames"
+msgstr "Số phiên bản và tên mã"
+
+#. Tag: para
+#, no-c-format
+msgid "Version numbers and codenames follow a unique logic in Linux Mint:"
+msgstr "Số phiên bản và tên mã tuân theo quy luật riêng đối với Linux Mint:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Codenames provide a way to refer to versions of Linux Mint that is more "
+"familiar than using a version number."
+msgstr ""
+"Tên mã là cách nói đến phiên bản của Linux Mint thân thiện hơn dùng con số "
+"phiên bản."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Since version 5, Linux Mint has followed a 6 months release cycle and uses a "
+"simplified version scheme. The version number simply gets incremented every "
+"6 months."
+msgstr ""
+"Từ phiên bản 5, Linux Mint theo chu kỳ phát hành 6 tháng và dùng mô hình "
+"phiên bản đơn giản hoá. Số phiên bản đơn giản tăng lên sau mỗi 6 tháng."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If revisions are made to a particular release (a bit like Service Packs in "
+"Windows) its version number gets a minor revision increment. For instance "
+"<wordasword>3</wordasword> becomes <wordasword>3.1</wordasword>."
+msgstr ""
+"Khi có những hiệu chỉnh đối với một bản phát hành cụ thể (theo kiểu Gói Dịch "
+"vụ của Windows), số phiên bản có thêm một số hiệu chỉnh nhỏ tăng lên. Chẳng "
+"hạn <wordasword>3</wordasword> trở thành <wordasword>3.1</wordasword>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Codenames in Linux Mint are always female names ending with "
+"<wordasword>a</wordasword> They follow the alphabetical order and the first "
+"letter of the codename corresponds to the index of the version number in the "
+"alphabet."
+msgstr ""
+"Tên mã của Linux Mint luôn là tên nữ giới kết thúc với "
+"<wordasword>a</wordasword>. Các tên này tuân theo thứ tự chữ cái và ký tự "
+"đầu tiên của tên mã có chỉ số trong bảng chữ cái tương ứng với số phiên bản."
+
+#. Tag: para
+#, no-c-format
+msgid "So far Linux Mint has used the following codenames:"
+msgstr "Cho đến nay Linux MInt đã dùng các tên mã sau:"
+
+#. Tag: title
+#, no-c-format
+msgid "Linux Mint codenames"
+msgstr "Tên mã Linux Mint"
+
+#. Tag: entry
+#, no-c-format
+msgid "Version"
+msgstr "Version"
+
+#. Tag: entry
+#, no-c-format
+msgid "Codename"
+msgstr "Tên mã"
+
+#. Tag: entry
+#, no-c-format
+msgid "1.0"
+msgstr "1.0"
+
+#. Tag: entry
+#, no-c-format
+msgid "Ada"
+msgstr "Ada"
+
+#. Tag: entry
+#, no-c-format
+msgid "2.0"
+msgstr "2.0"
+
+#. Tag: entry
+#, no-c-format
+msgid "Barbara"
+msgstr "Barbara"
+
+#. Tag: entry
+#, no-c-format
+msgid "2.1"
+msgstr "2.1"
+
+#. Tag: entry
+#, no-c-format
+msgid "Bea"
+msgstr "Bea"
+
+#. Tag: entry
+#, no-c-format
+msgid "2.2"
+msgstr "2.2"
+
+#. Tag: entry
+#, no-c-format
+msgid "Bianca"
+msgstr "Bianca"
+
+#. Tag: entry
+#, no-c-format
+msgid "3.0"
+msgstr "3.0"
+
+#. Tag: entry
+#, no-c-format
+msgid "Cassandra"
+msgstr "Cassandra"
+
+#. Tag: entry
+#, no-c-format
+msgid "3.1"
+msgstr "3.1"
+
+#. Tag: entry
+#, no-c-format
+msgid "Celena"
+msgstr "Celena"
+
+#. Tag: entry
+#, no-c-format
+msgid "4.0"
+msgstr "4.0"
+
+#. Tag: entry
+#, no-c-format
+msgid "Daryna"
+msgstr "Daryna"
+
+#. Tag: entry
+#, no-c-format
+msgid "5"
+msgstr "5"
+
+#. Tag: entry
+#, no-c-format
+msgid "Elyssa"
+msgstr "Elyssa"
+
+#. Tag: entry
+#, no-c-format
+msgid "6"
+msgstr "6"
+
+#. Tag: entry
+#, no-c-format
+msgid "Felicia"
+msgstr "Felicia"
+
+#. Tag: entry
+#, no-c-format
+msgid "7"
+msgstr "7"
+
+#. Tag: entry
+#, no-c-format
+msgid "Gloria"
+msgstr "Gloria"
+
+#. Tag: entry
+#, no-c-format
+msgid "8"
+msgstr "8"
+
+#. Tag: entry
+#, no-c-format
+msgid "Helena"
+msgstr "Helena"
+
+#. Tag: entry
+#, no-c-format
+msgid "9"
+msgstr "9"
+
+#. Tag: entry
+#, no-c-format
+msgid "Isadora"
+msgstr "Isadora"
+
+#. Tag: entry
+#, no-c-format
+msgid "10"
+msgstr "10"
+
+#. Tag: entry
+#, no-c-format
+msgid "Julia"
+msgstr "Julia"
+
+#. Tag: entry
+#, no-c-format
+msgid "11"
+msgstr "11"
+
+#. Tag: entry
+#, no-c-format
+msgid "Katya"
+msgstr "Katya"
+
+#. Tag: entry
+#, no-c-format
+msgid "12"
+msgstr "12"
+
+#. Tag: entry
+#, no-c-format
+msgid "Lisa"
+msgstr "Lisa"
+
+#. Tag: entry
+#, no-c-format
+msgid "13"
+msgstr "13"
+
+#. Tag: entry
+#, no-c-format
+msgid "Maya"
+msgstr "Maya"
+
+#. Tag: entry
+#, no-c-format
+msgid "14"
+msgstr "14"
+
+#. Tag: entry
+#, no-c-format
+msgid "Nadia"
+msgstr "Nadia"
+
+#. Tag: entry
+#, no-c-format
+msgid "15"
+msgstr "15"
+
+#. Tag: entry
+#, no-c-format
+msgid "Olivia"
+msgstr "Olivia"
+
+#. Tag: entry
+#, no-c-format
+msgid "16"
+msgstr "16"
+
+#. Tag: entry
+#, no-c-format
+msgid "Petra"
+msgstr "Petra"
+
+#. Tag: entry
+#, no-c-format
+msgid "17"
+msgstr "17"
+
+#. Tag: entry
+#, no-c-format
+msgid "Qiana"
+msgstr "Qiana"
+
+#. Tag: title
+#, no-c-format
+msgid "Editions"
+msgstr "Bản tạo"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"An Edition is a release of Linux Mint which is customized to address a "
+"certain set of needs. This guide covers the &EDITION; Edition. Here are some "
+"of the most popular editions:"
+msgstr ""
+"Bản là những bản phát hành Linux Mint được tuỳ biến cho một số nhu cầu nhất "
+"định. Hướng dẫn này dành cho Bản &EDITION;. Sau đây là một số bản phổ biến "
+"nhất:"
+
+#. Tag: para
+#, no-c-format
+msgid "Cinnamon Edition (uses a Cinnamon desktop)"
+msgstr "Bản Cinnamon (dùng môi trường làm việc Cinnamon)"
+
+#. Tag: para
+#, no-c-format
+msgid "Mate Edition (uses a Mate desktop)"
+msgstr "Bản Mate (dùng môi trường làm việc Mate)"
+
+#. Tag: para
+#, no-c-format
+msgid "KDE Edition (uses a KDE desktop)"
+msgstr "Bản KDE (dùng môi trường làm việc KDE)"
+
+#. Tag: para
+#, no-c-format
+msgid "Xfce Edition (uses a Xfce desktop)"
+msgstr "Bản Xfce (dùng môi trường làm việc Xfce)"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you don't know which edition to use, choose the MATE Edition. It's not as "
+"popular as the Cinnamon Edition but it is compatible with a wider variety of "
+"hardware specifications."
+msgstr ""
+"Nếu bạn không biết nên dùng bản nào, hãy chọn Bản Mate. Tuy nó không phổ "
+"biến bằng Bản Cinnamon nhưng nó tương thích với nhiều loại đặc tả phần cứng "
+"đa dạng hơn."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you intend to redistribute or to make commercial use of Linux Mint in the "
+"USA or in Japan and if you're not sure about patent legislation you should "
+"use the <guilabel>No Codecs</guilabel> installation images."
+msgstr ""
+"Nếu bạn dự định tái phân phối hoặc sử dụng Linux Mint vào mục đích thương "
+"mại ở Hoa Kỳ hoặc Nhật Bản, hoặc nếu bạn không chắc về các quy định bằng "
+"sáng chế, bạn nên dùng các tập tin ảnh cài đặt <guilabel>No "
+"Codecs</guilabel>."
+
+#. Tag: title
+#, no-c-format
+msgid "Where to find help"
+msgstr "Tìm trợ giúp ở đâu"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Linux Mint community is very helpful and very active. If you have "
+"questions or a problem related to Linux Mint, you should be able to get help "
+"from other users online."
+msgstr ""
+"Cộng đồng Linux Mint rất có ích và tích cực. Nếu có thắc mắc hay vấn đề liên "
+"quan đến Linux Mint, bạn hẵn sẽ nhận được sự giúp đỡ từ các người dùng trực "
+"tuyến."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"First, make sure to register with the <guilabel>Linux Mint "
+"Forums</guilabel>. This is the very first place where you can find help: "
+"<ulink "
+"url=\"http://www.linuxmint.com/forum\">http://www.linuxmint.com/forum</ulink>"
+"."
+msgstr ""
+"Đầu tiên, hãy chắc chắn đăng ký <guilabel>Diễn đàn Linux Mint</guilabel>. "
+"Đây là nơi đầu tiên hết bạn có thể tìm giúp đỡ: <ulink "
+"url=\"http://www.linuxmint.com/forum\">http://www.linuxmint.com/forum</ulink>"
+"."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you want to chat with other users you can connect to the IRC chat room. "
+"Under Linux Mint simply launch <guilabel>Hexchat</guilabel> from the menu. "
+"If you’re using another operating system or another IRC client make sure to "
+"connect to the <guilabel>irc.spotchat.org</guilabel> server and to join the "
+"channels <guilabel>#linuxmint-help</guilabel> and <guilabel>#linuxmint-"
+"chat</guilabel>."
+msgstr ""
+"Nếu muốn tán gẫu với người dùng khác bạn có thể kết nối đến phòng chat IRC. "
+"Trong Linux Mint bạn chỉ cần chạy <guilabel>Hexchat</guilabel> từ trình đơn. "
+"Nếu đang dùng hệ điều hành khác hoặc trình chat IRC khác, hãy chắc chắn kết "
+"nối đến máy chủ <guilabel>irc.spotchat.org</guilabel> và  gia nhập kênh "
+"<guilabel>#linuxmint-help</guilabel> và <guilabel>#linuxmint-chat</guilabel>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint uses Ubuntu<footnote><para>Ubuntu is another operating system "
+"based on GNU/Linux.</para></footnote> repositories<footnote><para>A "
+"repository is an online service by which software is stored and made "
+"available for the operating system to install and update from. Most "
+"operating systems based on GNU/Linux use repositories and connect to them "
+"via HTTP or FTP to install and upgrade their software.</para></footnote> "
+"(more on what this means later) and is fully compatible with it so most of "
+"the resources, articles, tutorials, and software made for Ubuntu also work "
+"for Linux Mint. If you can’t find help on a specific subject, make sure to "
+"search on the same subject for Ubuntu."
+msgstr ""
+"Linux Mint dùng Ubuntu<footnote><para>Ubuntu là một hệ điều hành khác dựa "
+"trên GNU/Linux.</para></footnote>kho chứa<footnote><para>Kho chứa là dịch vụ "
+"trực tuyến lưu trữ phần mềm và cho phép các hệ điều hành cài đặt và cập nhật "
+"từ nó. Hầu hết các hệ điều hành dựa trên GNU/Linux đều dùng kho chứa và kết "
+"nối đến kho qua HTTP hoặc FTP để cài đặt và nâng cấp phần "
+"mềm.</para></footnote>(chi tiết sẽ nói rõ sau) và nó hoàn toàn tương thích "
+"nên hầu hết tài nguyên, bài viết, trợ giáo và phần mềm dành cho Ubuntu cũng "
+"hoạt động với Linux Mint. Khi bạn không tìm thấy trợ giúp về một chủ đề cụ "
+"thể, hãy chắc chắn tìm kiếm cả cho Ubuntu."

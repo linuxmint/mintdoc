@@ -1,0 +1,49 @@
+# Vietnamese translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-03 01:02+0000\n"
+"Last-Translator: Saki <a4e484b@hotmail.com>\n"
+"Language-Team: Vietnamese <vi@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Conclusion"
+msgstr "Kết luận"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"There's a lot more to learn about Linux Mint and about Linux in general. "
+"This guide was just an overview of some of the aspects related to your "
+"desktop. By now you should feel more comfortable with using it and you "
+"should have a better understanding of some of its components. Where are you "
+"going to go next? Will you learn how to use the terminal? Will you give "
+"other desktops a try? It's entirely up to you. Remember, Linux is about fun "
+"and the community is there to help. Take your time and learn a little bit "
+"every day. There's always something new no matter how much you know already."
+msgstr ""
+"Còn rất nhiều thứ để học hỏi về Linux Mint và Linux nói chung. Hướng dẫn này "
+"chỉ là phần khái quát một số khái niệm liên quan đến môi trường làm việc của "
+"bạn. Giờ đây có lẽ bạn đã cảm thấy thoải mái hơn trong việc sử dụng nó, và "
+"bạn đã hiểu hơn về một vài thành phần của nó. Bạn sẽ đi đâu tiếp theo ? Bạn "
+"sẽ học cách dùng trình dòng lệnh chứ ? Hay bạn sẽ thử dùng các môi trường "
+"làm việc khác ? Tất cả tuỳ bạn. Hãy nhớ rằng, Linux là giải trí và luôn có "
+"cộng đồng sẵn sàng giúp đỡ bạn. Hãy để thời gian học từng chút mỗi ngày. "
+"Luôn có thứ mới cho bạn, dù bạn đã biết đến bao nhiêu rồi."
+
+#. Tag: para
+#, no-c-format
+msgid "Enjoy Linux and thank you for choosing Linux Mint."
+msgstr "Hãy tận hưởng Linux, và cám ơn bạn đã chọn Linux Mint."

@@ -1,0 +1,51 @@
+# Romanian translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-01 10:09+0000\n"
+"Last-Translator: Flaviu <flaviu@gmx.com>\n"
+"Language-Team: Romanian <ro@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Conclusion"
+msgstr "Concluzie"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"There's a lot more to learn about Linux Mint and about Linux in general. "
+"This guide was just an overview of some of the aspects related to your "
+"desktop. By now you should feel more comfortable with using it and you "
+"should have a better understanding of some of its components. Where are you "
+"going to go next? Will you learn how to use the terminal? Will you give "
+"other desktops a try? It's entirely up to you. Remember, Linux is about fun "
+"and the community is there to help. Take your time and learn a little bit "
+"every day. There's always something new no matter how much you know already."
+msgstr ""
+"Sunt mult mai multe lucruri de învățat despre Linux Mint și despre Linux în "
+"general. Acest ghid a fost doar o trecere în revistă a unora dintre "
+"aspectele legate de desktop. Până acum ar trebui să te simți mai confortabil "
+"cu utilizarea acestuia și ar trebui să ai o mai bună înțelegere a unora "
+"dintre componentele sale. Unde ai de gând să mergi mai departe? Vei învăța "
+"cum să folosească terminalul? Vei încerca și alte desktop-uri? Este în "
+"întregime alegerea ta. Amintește-ți că în Linux este vorba despre distracție "
+"și comunitatea este acolo pentru a te ajuta. Ia-ți timp și să învață câte un "
+"pic în fiecare zi. Există întotdeauna ceva nou, indiferent de cât de mult "
+"știi deja."
+
+#. Tag: para
+#, no-c-format
+msgid "Enjoy Linux and thank you for choosing Linux Mint."
+msgstr "Bucură-te de Linux și îți mulțumesc pentru că ai ales Linux Mint."

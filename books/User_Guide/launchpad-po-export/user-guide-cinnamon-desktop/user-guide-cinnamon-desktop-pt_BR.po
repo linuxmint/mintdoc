@@ -1,0 +1,174 @@
+# Brazilian Portuguese translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-04 03:01+0000\n"
+"Last-Translator: Hugo Leonardo Leal Torres <hugoleal85@gmail.com>\n"
+"Language-Team: Brazilian Portuguese <pt_BR@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction to the Desktop"
+msgstr "Introdução ao desktop Cinnamon"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <wordasword>desktop</wordasword> is the component of the operating "
+"system which is responsible for the elements that appear on the desktop: The "
+"<wordasword>Panel</wordasword>, the <wordasword>Wallpaper</wordasword>, the "
+"<wordasword>Control Center</wordasword>, the menus... etc."
+msgstr ""
+"O <wordasword>desktop</wordasword> é o componente do sistema operacional "
+"responsável por exibir os elementos na tela de seu PC: o "
+"<wordasword>Painel</wordasword>, o <wordasword>Wallpaper</wordasword>, o "
+"<wordasword>Centro de Controle</wordasword>, os menus... etc."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Cinnamon Edition of Linux Mint uses the Cinnamon desktop which is both "
+"intuitive and powerful."
+msgstr ""
+"A edição Cinnamon do Linux Mint utiliza o desktop Cinnamon, o qual é "
+"bastante intuitivo e poderoso."
+
+#. Tag: title
+#, no-c-format
+msgid "The Menu"
+msgstr "Menu"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Cinnamon, almost everything is accessible from the 'Menu'. To open it, "
+"click on <guimenu>Menu</guimenu> at the bottom-left of your screen, or press "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
+"is the left Windows key on your keyboard)."
+msgstr ""
+"No Cinnamon, quase tudo é acessível a partir do \"Menu\".  Para abri-lo, "
+"clique em <guimenu>Menu</guimenu> no canto inferior esquerdo de sua tela ou "
+"pressione <keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> "
+"(Super_L é a tecla esquerda com o símbolo do Windows, presente em seu "
+"teclado)."
+
+#. Tag: title
+#, no-c-format
+msgid "The Cinnamon Menu"
+msgstr "Menu do Cinnamon"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The menu is used to launch applications, to access the system settings, and "
+"to reach common places and open recent files."
+msgstr ""
+"O Menu é utilizado para carregar aplicativos, acessar as configurações do "
+"sistema e os locais comuns, além de abrir arquivos recentes."
+
+#. Tag: title
+#, no-c-format
+msgid "Places"
+msgstr "Locais"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Linux Mint, all your personal data is stored in your "
+"<wordasword>Home</wordasword> directory."
+msgstr ""
+"No Linux Mint, todos os seus dados pessoais são armazenados no diretório "
+"<wordasword>Home</wordasword>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"As well as your files, this directory also contains pre-defined sub-"
+"directories such as <wordasword>Documents</wordasword>, "
+"<wordasword>Music</wordasword>, <wordasword>Videos</wordasword>...etc which "
+"you can use to better organize your files."
+msgstr ""
+"Além de seus arquivos, este diretório contém sub-diretórios pré-definidos, "
+"tais como <wordasword>Documentos</wordasword>, "
+"<wordasword>Músicas</wordasword>, <wordasword>Vídeos</wordasword>...etc, o "
+"que permite ao usuário organizar melhor os seus arquivos."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Other important places are your <wordasword>Desktop</wordasword> folder "
+"(which containsn the files visible on your desktop), the filesystem (which "
+"contains all system files and directories), removable devices connected to "
+"the computer, the network and bookmarks (you can bookmark any directory to "
+"gain quick-access to it)."
+msgstr ""
+"Outros locais importantes são a pasta <wordasword>Área de "
+"trabalho</wordasword> (a qual contém os arquivos exibidos na Área de "
+"trabalho do Cinnamon), os arquivos de sistema (os quais contêm todos os "
+"arquivos e diretórios do sistema), dispositivos removíveis conectados ao "
+"computador, a rede e favoritos (você pode criar atalhos favoritos para "
+"qualquer diretórios do sistema, o que lhe permite obter acesso rápido a cada "
+"um deles)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To quickly access one of these places, perform one of the following actions:"
+msgstr ""
+"Para acessar rapidamente um desses locais, execute uma das seguintes ações:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Click on <guimenu>Menu</guimenu> and select <guisubmenu>Places</guisubmenu>"
+msgstr ""
+"Clique em <guimenu>Menu</guimenu> e selecione <guisubmenu>Locais</guisubmenu>"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Launch <wordasword>Nemo</wordasword>, the Cinnamon file manager, by clicking "
+"on <guimenu>Menu</guimenu> and selecting <guimenuitem>Files</guimenuitem>. "
+"Then, within Nemo, you can access common places by clicking on them in the "
+"sidebar, on the left of the window."
+msgstr ""
+"Abra o <wordasword>Nemo</wordasword>, o gerenciador de arquivos do Cinnamon, "
+"clicando no <guimenu>Menu</guimenu> e selecionando "
+"<guimenuitem>Arquivos</guimenuitem>. No Nemo você pode acessar os locais "
+"comuns, clicando neles na barra lateral, localizada no lado esquerdo da "
+"janela."
+
+#. Tag: title
+#, no-c-format
+msgid ""
+"Nemo, the file manager, listing the content of the Home directory and "
+"providing quick-access to common places from the left sidebar."
+msgstr ""
+"Nemo, o gerenciador de arquivos do Mint, listando o conteúdo do diretório "
+"Home e fornecendo acesso rápido aos locais comuns a aprtir da barra lateral "
+"esquerda."
+
+#. Tag: title
+#, no-c-format
+msgid "System Settings"
+msgstr "Configurações do sistema"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To launch the system settings, click on <guimenu>Menu</guimenu> and select "
+"<guimenuitem>System Settings</guimenuitem>."
+msgstr ""
+"Para carregar as Configurações do sistema, clique em <guimenu>Menu</guimenu> "
+"e selecione <guimenuitem>Configurações do sistema</guimenuitem>."

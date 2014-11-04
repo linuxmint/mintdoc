@@ -1,0 +1,172 @@
+# Catalan translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-12 20:25+0000\n"
+"Last-Translator: Isidro Pisa <isidro@utils.info>\n"
+"Language-Team: Catalan <ca@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction to the Desktop"
+msgstr "Introducció a l'escriptori"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <wordasword>desktop</wordasword> is the component of the operating "
+"system which is responsible for the elements that appear on the desktop: The "
+"<wordasword>Panel</wordasword>, the <wordasword>Wallpaper</wordasword>, the "
+"<wordasword>Control Center</wordasword>, the menus... etc."
+msgstr ""
+"L'<wordasword>escriptori</wordasword> és el component del sistema operatiu "
+"que s'encarrega dels elements que apareixen a l'escriptori: El "
+"<wordasword>Panell</wordasword>, la <wordasword>Imatge de fons</wordasword>, "
+"el <wordasword>Tauler de control</wordasword>, els menús ... etc."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Cinnamon Edition of Linux Mint uses the Cinnamon desktop which is both "
+"intuitive and powerful."
+msgstr ""
+"L'edició Cinnamon de Linux Mint utilitza l'escriptori Cinnamon, que és "
+"alhora intuïtiu i potent."
+
+#. Tag: title
+#, no-c-format
+msgid "The Menu"
+msgstr "El menú"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Cinnamon, almost everything is accessible from the 'Menu'. To open it, "
+"click on <guimenu>Menu</guimenu> at the bottom-left of your screen, or press "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
+"is the left Windows key on your keyboard)."
+msgstr ""
+"En Cinnamon, gairebé tot accessible des del 'Menú'. Per obrir-lo, faci clic "
+"a <guimenu>Menú</guimenu> a la part inferior esquerra de la pantalla, o "
+"premi <keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> "
+"(Super_L és la tecla Windows de l'esquerra del teclat)."
+
+#. Tag: title
+#, no-c-format
+msgid "The Cinnamon Menu"
+msgstr "El menú de Cinnamon"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The menu is used to launch applications, to access the system settings, and "
+"to reach common places and open recent files."
+msgstr ""
+"El menú s'utilitza per iniciar aplicacions, per accedir a la configuració "
+"del sistema, i per arribar als llocs comuns i els arxius oberts recentment."
+
+#. Tag: title
+#, no-c-format
+msgid "Places"
+msgstr "Llocs"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Linux Mint, all your personal data is stored in your "
+"<wordasword>Home</wordasword> directory."
+msgstr ""
+"A Linux Mint, totes les seves dades personals s'emmagatzemen a la "
+"<wordasword>Carpeta Personal</wordasword>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"As well as your files, this directory also contains pre-defined sub-"
+"directories such as <wordasword>Documents</wordasword>, "
+"<wordasword>Music</wordasword>, <wordasword>Videos</wordasword>...etc which "
+"you can use to better organize your files."
+msgstr ""
+"A més dels seus arxius, aquest directori també conté subdirectoris "
+"predefinits com ara <wordasword>Documents</wordasword>, "
+"<wordasword>Música</wordasword>, <wordasword>Vídeos</wordasword> ... etc, "
+"que pot utilitzar per organitzar millor els seus arxius."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Other important places are your <wordasword>Desktop</wordasword> folder "
+"(which containsn the files visible on your desktop), the filesystem (which "
+"contains all system files and directories), removable devices connected to "
+"the computer, the network and bookmarks (you can bookmark any directory to "
+"gain quick-access to it)."
+msgstr ""
+"D'altres llocs importants són la carpeta <wordasword>Escriptori</wordasword> "
+"(que conté els arxius visibles a l'escriptori), el sistema d'arxius (que "
+"conté tots els arxius i carpetes del sistema), els dispositius extraïbles "
+"connectats a l'equip, la xarxa i els marcadors (que poden marcar qualsevol "
+"carpeta per obtenir accés ràpid a ella)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To quickly access one of these places, perform one of the following actions:"
+msgstr ""
+"Per accedir ràpidament en un d'aquests llocs, realitzi una de les següents "
+"accions:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Click on <guimenu>Menu</guimenu> and select <guisubmenu>Places</guisubmenu>"
+msgstr ""
+"Faci clic a <guimenu>Menú</guimenu> i seleccioneu "
+"<guisubmenu>Llocs</guisubmenu>"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Launch <wordasword>Nemo</wordasword>, the Cinnamon file manager, by clicking "
+"on <guimenu>Menu</guimenu> and selecting <guimenuitem>Files</guimenuitem>. "
+"Then, within Nemo, you can access common places by clicking on them in the "
+"sidebar, on the left of the window."
+msgstr ""
+"Llenci <wordasword>Nemo</wordasword>, el gestor d'arxius de Cinnamon, fent "
+"clic a <guimenu>Menú</guimenu> i seleccionant "
+"<guimenuitem>Arxius</guimenuitem>. Després, dins de Nemo, es pot accedir a "
+"llocs comuns fent clic sobre ells a la barra lateral, a l'esquerra de la "
+"finestra."
+
+#. Tag: title
+#, no-c-format
+msgid ""
+"Nemo, the file manager, listing the content of the Home directory and "
+"providing quick-access to common places from the left sidebar."
+msgstr ""
+"Nemo, el gestor d'arxius, llista el contingut de la carpeta d'inici i "
+"proporciona accés ràpid als llocs comuns des de la barra lateral esquerra."
+
+#. Tag: title
+#, no-c-format
+msgid "System Settings"
+msgstr "Configuració del sistema"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To launch the system settings, click on <guimenu>Menu</guimenu> and select "
+"<guimenuitem>System Settings</guimenuitem>."
+msgstr ""
+"Per iniciar la configuració del sistema, faci clic a <guimenu>Menú</guimenu> "
+"i seleccioni <guimenuitem>Configuració del sistema</guimenuitem>."

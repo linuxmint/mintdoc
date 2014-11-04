@@ -1,0 +1,1269 @@
+# Brazilian Portuguese translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-10-05 13:44+0000\n"
+"Last-Translator: Hugo Leonardo Leal Torres <hugoleal85@hotmail.com>\n"
+"Language-Team: Brazilian Portuguese <pt_BR@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
+"X-Generator: Launchpad (build 17211)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Software Management"
+msgstr "Gerenciado de Aplicativos"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you have installed Linux for the first time, then you may not be familiar "
+"with the concept of organizing software into "
+"<wordasword>packages</wordasword>."
+msgstr ""
+"Se está é a primeira vez que você instala o Linux então você pode ainda não "
+"estar familiarizado com o conceito de organização de software em "
+"<wordasword>pacotes</wordasword>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You will soon become familiar with package management and appreciate the "
+"advantages it offers in terms of security, control and ease of use."
+msgstr ""
+"Em breve você vai estar familiarizado com o gerenciamento de pacotes e "
+"apreciar as vantagens que ele oferece em termos de segurança, controle e "
+"facilidade de uso."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"We have tried to make it so that all or most of your hardware was detected "
+"and drivers were installed automatically so that your computer would work "
+"out of the box. We have also tried to make it so that you could do many of "
+"the things you want to without having to look around for third party "
+"software on websites. You may have noticed that your Linux Mint installation "
+"already has a full office suite, a professional-quality image-editing "
+"solution, an IM and an IRC client, a disk burner, and several media players "
+"(as well as many other basic accessories). Relax, it's okay! You haven't "
+"stolen anything! This is what free software is all about! And the truly "
+"great thing about package management in Linux Mint and generally is that you "
+"should never need to look far and wide for extra software, even when the "
+"time comes that you do want more functionality from your Linux Mint system."
+msgstr ""
+"Tentamos fazer com que todo (ou ao menos a maioria de) seu hardware fosse "
+"detectado e os drivers fossem instalados automaticamente. Também procuramos "
+"produzir a distro de modo que você possa fazer as coisas que deseja sem ter "
+"que procurar por software de terceiros em sites. Você deve ter notado que a "
+"instalação do Linux Mint já vem com um conjunto completo de suíte de "
+"escritório, uma solução de edição de imagens de qualidade profissional, um "
+"mensageiro instantâneo e um cliente de IRC, um gravador de disco e vários "
+"players de mídia (assim como muitos outros acessórios básicos). Mas relaxe, "
+"está tudo bem! Você não roubou nada! Isto é software livre! Além disso, o "
+"bom sobre o gerenciamento de pacotes no Linux Mint é que você nunca "
+"precisará se preocupar em procurar um software extra, mesmo quando você "
+"quiser mais funcionalidades presentes em seu sistema."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"This section is intended to explain how this works and the advantages that "
+"it can bring to you. It's a bit long, but hopefully it will provide you with "
+"a good understanding of the philosophy behind package management and why it "
+"is considered a Good Thing (a phrase commonly capitalized by Linux users to "
+"mean that something is squarely in the category of good). If you're in a "
+"hurry, you can skip to the next section which will tell you how to actually "
+"use the package system."
+msgstr ""
+"Esta seção é destinada a explicar como isso funciona e as vantagens que ele "
+"pode trazer para você. É um pouco longo, mas esperamos que isso lhe forneça "
+"uma boa compreensão da filosofia por trás de gerenciamento de pacotes e que "
+"por isso ele é considerado uma coisa muito boa (uma frase comumente "
+"capitalizada por usuários do Linux para dizer que algo se encaixa na "
+"categoria de muito bom). Se você estiver com pressa, você pode pular para a "
+"próxima seção que irá ensinar-lhe como realmente usar o sistema de pacotes."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The problems with browsing software vendors' websites and downloading and "
+"installing the software they offer are many:"
+msgstr ""
+"Os problemas existentes ao navegar em sites de fornecedores de software, "
+"baixando e instalando o que eles oferecem, são muitos:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is difficult or impossible to find out if the software has been tested to "
+"work with your operating system"
+msgstr ""
+"É difícil ou mesmo impossível descobrir se o software foi realmente testado "
+"de forma a funcionar corretamente com o sistema operacional"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know how this software will interact with "
+"the other software installed on your system"
+msgstr ""
+"É difícil ou mesmo impossível saber como este software irá interagir com "
+"outros softwares instalados em seu sistema"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know if you can place your trust that "
+"software from an unknown developer software will not cause any harm, willful "
+"or negligent, to your system Even if you know about a specific piece of "
+"software and its developer, you cannot be entirely sure that you are not "
+"downloading an executable that has been swapped out by a malicious third "
+"party for some type of malware."
+msgstr ""
+"É difícil ou mesmo impossível saber se este software, que foi "
+"disponibilizado por um desenvolvedor desconhecido, não irá causar qualquer "
+"dano, de forma dolosa ou culposa, ao seu sistema. Mesmo que você conheça um "
+"pouco o software em questão e o seu desenvolvedor, você não pode se "
+"certificar de que não está baixando um arquivo executável que foi trocado "
+"intencionalmente por algum tipo de malware por um terceiro mal-intencionado."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Furthermore, a problem with downloading and installing multiple different "
+"programs, from multiple different developers, is that there is no managerial "
+"infrastructure. Before you say “big deal”, consider how you are going to "
+"keep all these different pieces of software up to date. If you get tired of "
+"a program and want to remove it, how do you know how to achieve that? The "
+"program in question might not have come with a removal option, and even if "
+"it did, much of the time this will fail to remove the software cleanly and "
+"completely. In a very real sense, when you ran that installer program, you "
+"gave up some of your control of your computer to a program written entirely "
+"by a complete stranger."
+msgstr ""
+"Além disso, há um outro problema em baixar e instalar vários programas "
+"diferentes, disponibilizados por vários desenvolvedores distintos: não há "
+"nenhuma infra-estrutura gerencial. Antes que você diga \"grande negócio\", "
+"pense em como você vai manter todas estas diferentes peças de software "
+"atualizadas. Se você ficar cansado de um programa e quiser removê-lo, como "
+"você saberá o que fazer? O programa em questão pode não ter vindo com uma "
+"opção de remoção, e mesmo que o fizesse, na maior parte das vezes ele "
+"deixará de remover o software de forma limpa e completa. Em outras palavras, "
+"quando você executou o programa de instalação você deu um pouco do controle "
+"sobre o computador a um programa escrito inteiramente por um completo "
+"estranho."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Finally, software which is distributed in this way is often, by virtue of "
+"necessity, “static”. This means that not only do you need to download the "
+"program itself, but also all of the data libraries that are required for it "
+"to run. Since a third-party software developer cannot know which data "
+"libraries you may already have available on your system, the only way that "
+"they can guarantee it will run on your system is by supplying all of the "
+"data libraries it needs along with the program itself. This means bigger "
+"downloads, and it means that when the time comes to update a given library, "
+"it needs to be done separately for all those programs using it, instead of "
+"just once. In summary, the distribution of static software results in the "
+"unnecessary duplication of a lot of work."
+msgstr ""
+"Finalmente, o software que é distribuído desta forma é muitas vezes, em "
+"virtude da necessidade, \"estático\". Isso significa que você não só precisa "
+"baixar o programa em si, mas também todas as bibliotecas de dados que são "
+"necessárias para que ele seja executado. Uma vez que um desenvolvedor de "
+"software de terceiros não tem como saber quais as bibliotecas de dados que "
+"você já tem disponível em seu sistema, a única maneira que eles podem "
+"garantir que o programa irá funcionar é através do fornecimento de todas as "
+"bibliotecas de dados de que ele necessita, juntamente com o próprio "
+"programa. Isto significa downloads maiores. Além disso, quando chegar a hora "
+"de atualizar uma determinada biblioteca isso precisa ser feito separadamente "
+"para todos os programas, em vez de apenas uma vez. Em resumo, a distribuição "
+"de softwares estáticos resultam na duplicação desnecessária de um monte de "
+"trabalho."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Package management in Linux Mint, and GNU/Linux operating systems in "
+"general, has been established for some time and is the preferred method for "
+"managing software as it avoids all of these issues. We've been safely and "
+"automatically installing our software since the early 1990s."
+msgstr ""
+"O gerenciamento de pacotes no Linux Mint, e nos sistemas operacionais "
+"GNU/Linux em geral, foi estabelecido há algum tempo e é o método preferido "
+"para o gerenciamento de software, uma vez que evita todos esses problemas. "
+"Nós estamos instalando nosso software com segurança e de forma automática "
+"desde o início da década de 90."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Software is first written by a developer, as you might expect, and this end "
+"of the production chain is known as “upstream”. As a user of a Linux "
+"distribution, you are referred to as being at the furthest point "
+"“downstream” (unless you're an admin, in which case your users are the "
+"furthest point downstream, but you knew that because you're an admin). Once "
+"the developer is happy with the program or the update to the program they "
+"have written, they will release the source code for it. They will also "
+"communicate in their documentation which data libraries or other programs "
+"they took advantage of when they were writing the program. They have been "
+"doing this for some time and there are standardized and venerable ways for "
+"them to do this. Note that, with a few exceptions (usually either hardware "
+"manufacturers who release drivers for Linux, like nVidia or ATI, or certain "
+"major companies like Adobe, who we can trust) they release the actual source "
+"code for the program, that is, the list of instructions in that program in a "
+"human readable form. This has a number of implications, but most importantly "
+"for this discussion it means that they are willing to have their software "
+"peer reviewed by anyone and everyone with an Internet connection. It's "
+"awfully difficult to sneak spyware into your program when you're letting "
+"everyone see what you've written!"
+msgstr ""
+"O software é primeiramente escrito por um desenvolvedor, como se poderia "
+"esperar, e este final da cadeia de produção é conhecido como \"upstream\". "
+"Como um usuário de uma distribuição Linux, você é referido como estando no "
+"ponto mais \"downstream\" (a menos que você seja um administrador, caso em "
+"que os usuários são o ponto mais a jusante, mas aí você já saberia disso). "
+"Uma vez que o desenvolvedor esteja feliz com o programa ou a atualização do "
+"programa que escreveu, vai liberar o código fonte para ele. Eles também irão "
+"se comunicar em sua documentação de quais bibliotecas de dados ou outros "
+"programas se utilizaram quando estavam escrevendo o programa. Eles vêm "
+"fazendo isso há algum tempo e existem formas padronizadas e respeitáveis de "
+"fazê-lo. Note que, exceto em raras ocasiões (normalmente com fabricantes de "
+"hardware que lançam drivers para Linux, como nVidia ou ATI, ou certas "
+"empresas grandes como Adobe, em quem podemos confiar), eles sempre  liberam "
+"o código fonte do programa, ou seja, a lista de instruções do programa em um "
+"formato legível. Isso tem uma série de implicações, mas o mais importante "
+"para o nosso caso é que eles estão dispostos a ter seus softwares revisados "
+"por toda e qualquer pessoa com uma conexão com a Internet. É muito difícil "
+"colocar um spyware em seu programa quando você está deixando todo mundo ver "
+"o que escreveu!"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The software now moves down the stream to package maintainers, who are "
+"either volunteers or paid employees working for a Linux distribution. It is "
+"their responsibility to compile the source code for the software, test it on "
+"the distribution to make sure that it works, resolve any problems that they "
+"encounter and finally package the compiled (i.e., machine-readable) software "
+"in a convenient format. This package contains the executable program(s), "
+"their configuration files, and the instructions the package management "
+"software needs to successfully install it. Note that it won't ordinarily "
+"contain any static libraries, since it doesn't need to – the libraries are "
+"provided by other packages, and are therefore known as shared libraries. "
+"Your package management software will know if that a particular package "
+"requires another package to be installed first (like a shared library), "
+"because, as you will remember, the data libraries and related packages "
+"needed for the software to work were declared further upstream and that "
+"information is included in the package. The instructions are sufficiently "
+"detailed that even specific versions of other packages can be requested to "
+"ensure interoperability. The finished package is then uploaded to a special "
+"file server, which is called a software repository."
+msgstr ""
+"O software agora se move para baixo no fluxo, em direção aos mantenedores de "
+"pacotes, que são ou voluntários ou assalariados que trabalham para uma "
+"distribuição Linux. É responsabilidade deles compilar o código-fonte do "
+"software, testá-lo na distribuição para se certificarem de que ele funciona, "
+"resolver todos os problemas com que se deparam e, finalmente, empacotar o "
+"software compilado (ou seja, legível por máquina) em um formato conveniente. "
+"Este pacote contém o programa executável, seus arquivos de configuração e as "
+"instruções que o software de gerenciamento de pacotes precisa para instalá-"
+"lo com sucesso. Note que ele normalmente não contém bibliotecas estáticas "
+"por não precisar delas, uma vez que essas bibliotecas são fornecidas por "
+"outros pacotes, e, portanto, são conhecidas como bibliotecas compartilhadas. "
+"O software de gerenciamento de pacotes saberá se um determinado pacote exige "
+"que um outro pacote seja instalado antes (como uma biblioteca "
+"compartilhada), porque, como você vai se lembrar, as bibliotecas de dados e "
+"pacotes relacionados necessários para que o software funcione foram "
+"declarados antes, no upstream, ou seja, esta informação já está incluída no "
+"pacote. As instruções são tão suficientemente detalhadas que até mesmo "
+"versões específicas de outros pacotes podem ser solicitadas para garantir a "
+"interoperabilidade. O pacote final é então enviado para um servidor de "
+"arquivos especial, o qual é chamado de repositório de software."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is from that single location that you are able to download and install "
+"the software you need. You will know that the location is bona fide, because "
+"it is signed with a certificate that your package manager will check. You "
+"will also know that each individual package that you install is secure, "
+"because each package is itself signed by a GPG key, which your package "
+"manager will also check. Your package manager will even run an MD5 sum on "
+"each package to make sure that nothing went wrong when it was downloading, "
+"just like we did before with the LiveDVD iso. Notice how it's doing all of "
+"this for you. You're just sitting back, sipping a martini, and chatting in "
+"#linuxmint on xchat. The package manager has downloaded the packages you "
+"have selected, it will follow, to the letter (computers are fastidious in "
+"following instructions), the instructions in the package to perfectly "
+"install your software, and all of its dependencies, in the right order. "
+"There is no space for human error – if the package worked on the "
+"maintainer's computer, then it ought to on yours because the package manager "
+"will follow exactly the same procedure."
+msgstr ""
+"É a partir desse único local que você é capaz de baixar e instalar o "
+"software que precisa. Você saberá que a localização é confiável porque é "
+"assinada com um certificado que seu gerenciador de pacotes irá verificar. "
+"Você também saberá que cada pacote que você vir a instalar é seguro, porque "
+"cada pacote é em si assinado por uma chave GPG, a qual o seu gerenciador de "
+"pacotes também irá verificar. Seu gerenciador de pacotes vai até mesmo "
+"executar uma soma MD5 em cada pacote para se certificar de que nada deu "
+"errado enquanto ele estava sendo baixado, assim como fizemos antes com a ISO "
+"do LiveDVD. Observe como ele está fazendo tudo isso por você. Você está "
+"apenas sentado, tomando um martini e conversando no canal #linuxmint através "
+"do xchat. O gerenciador de pacotes, então, terá baixado os pacotes que você "
+"selecionou e agora seguirá ao pé da letra (os computadores são exigentes em "
+"seguir instruções) as instruções do pacote para instalar perfeitamente o seu "
+"software e todas as suas dependências na ordem certa. Não há espaço para "
+"erro humano. Se o pacote funcionou no computador do mantenedor então vai "
+"funcionar no seu, haja vista o gerenciador de pacotes sempre seguir o mesmo "
+"procedimento."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"When it comes time to check for software updates, your package manager will "
+"automatically compare the software version that you have against what is "
+"available in the repository, and do all the necessary work to keep your "
+"system running smoothly and securely. So, if version 2.4 of BestSoft is "
+"uploaded to the repository, and you have version 2.3, the package manager "
+"will compare those version numbers, and offer to install the latest version, "
+"taking care, of course, of all the dependencies for the newer version of the "
+"software."
+msgstr ""
+"Quando chega a hora de verificar se há atualizações de software disponíveis, "
+"seu gerenciador de pacotes irá comparar automaticamente a versão do software "
+"que você tem com a que está disponível no repositório, realizando todo o "
+"trabalho necessário para manter o sistema funcionando sem problemas e com "
+"segurança. Assim, se a versão 2.4 do BestSoft foi disponibilizada no "
+"repositório e você tem a versão 2.3, o gerenciador de pacotes irá comparar "
+"os números das versões e irá sugerir que seja realizada a instalação da "
+"versão mais recente, tendo o cuidado, é claro, de também obter todas as "
+"dependências para a versão mais recente do software."
+
+#. Tag: para
+#, no-c-format
+msgid "Sounding good yet? It gets better."
+msgstr "Isso já está muito bom, não? Pois saiba que ficará ainda melhor."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Humans err where computers don't and from time to time something may go "
+"wrong in this process. Perhaps you will, by accident, install hardware "
+"drivers for the wrong piece of hardware and this might break something. "
+"We've all done that. Or perhaps there's a bug or your favorite feature was "
+"removed by the program's developer for some reason. These problems "
+"demonstrate, paradoxically, the strength and security of package management. "
+"Because your package manager keeps fastidious records of everything it ever "
+"does, it is able to reverse installations, cleanly and completely. It will "
+"make sure that removing one package doesn't break any others, and you can "
+"even tell it specifically to do things like not automatically upgrade "
+"certain packages, because you like them the way they are, or to revert to an "
+"earlier version. Finally, the whole process is very heavily peer-reviewed. "
+"Because you are part of a large community of Linux users, all using the same "
+"repositories to obtain their software, if anything goes wrong you can be "
+"absolutely sure there will be a big fuss about it, and that the problem will "
+"be resolved quickly! In this way, software distribution in GNU/Linux "
+"distributions is very much based on trust, from the moment the original "
+"developer displays their source code for all to see, to the open discussion "
+"on the distribution's website. You can be confident in the software you "
+"obtain, not only because of the security protocols already mentioned, but "
+"because if anything does go wrong everyone will be talking about it!"
+msgstr ""
+"Os seres humanos erram onde os computadores não erram, logo, de vez em "
+"quando alguma coisa pode dar errado neste processo. Talvez você, por acaso, "
+"instale os drivers incorretos para o seu hardware, o que pode vir a quebrar "
+"alguma coisa. Todos nós já fizemos isso. Ou talvez haja um bug ou então o "
+"seu recurso favorito foi removido pelo desenvolvedor do programa por algum "
+"motivo. Esses problemas demonstram, paradoxalmente, a força e a segurança de "
+"gerenciamento de pacotes. Uma vez que o seu gerenciador de pacotes mantém "
+"registros meticulosos de tudo o que já fez, ele também é capaz de reverter "
+"instalações de forma limpa e completa. Ele se certificará de que a remoção "
+"de um pacote não vai quebrar nenhum outro. Você também pode ordenar o "
+"gerenciador a fazer coisas tais como não atualizar automaticamente "
+"determinados pacotes, porque você gosta deles do jeito que são, ou, então, "
+"revertê-lo para uma versão anterior. Finalmente, todo o processo é muito "
+"fortemente analisados ​p​or todos os pares envolvidos. Uma vez que você é "
+"parte de uma grande comunidade de usuários de Linux, com todos usando os "
+"mesmos repositórios para obter os softwares, se alguma coisa der errado você "
+"pode estar absolutamente certo de que haverá um grande barulho sobre o "
+"assunto e que o problema será resolvido rapidamente! Desta forma, a "
+"distribuição de softwares em distribuições GNU/Linux é muito baseada na "
+"confiança, do momento em que o desenvolvedor original exibe seu código fonte "
+"para que todos possam lê-lo até a discussão aberta que ocorre no site da "
+"distribuição. Você pode confiar no software que você obtém, não só por causa "
+"dos protocolos de segurança já mencionadas, mas porque se alguma coisa der "
+"errado todo mundo vai estar falando e discutindo sobre isso!"
+
+#. Tag: para
+#, no-c-format
+msgid "Let's look again at our list of problems and see what we have solved:"
+msgstr ""
+"Vamos dar uma olhada novamente em nossa lista de problemas e ver o que já "
+"conseguimos solucionar:"
+
+#. Tag: entry
+#, no-c-format
+msgid "Problem"
+msgstr "Problema"
+
+#. Tag: entry
+#, no-c-format
+msgid "Solution"
+msgstr "Solução"
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"It is difficult or impossible to find out if the software has been tested to "
+"work with your operating system."
+msgstr ""
+"É difícil ou mesmo impossível descobrir se o software foi realmente testado "
+"de forma a funcionar com o sistema operacional."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"You know that the software available to you through the repository has been "
+"thoroughly tested by the package maintainer and the testing team to work "
+"with your operating system. They won't want to get it wrong, mostly on "
+"principle, but also because if they do they'll soon be getting lots of "
+"emails."
+msgstr ""
+"Você sabe que o software disponibilizado para você através do repositório "
+"foi exaustivamente testado pelo mantenedor do pacote e pela equipe de testes "
+"de forma a funcionar corretamente com o seu sistema operacional. Eles não "
+"vão querer errar, mesmo porque se eles viessem a fazer isso iriam em breve "
+"estar recebendo muitos e-mails sobre o tema."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know how this software will interact with "
+"the other software installed on your system."
+msgstr ""
+"É difícil ou mesmo impossível saber como este software irá interagir com "
+"outros softwares instalados em seu sistema."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Similarly, package maintainers try their utmost to ensure that packages "
+"won't conflict with other packages offered by their distribution. Of course, "
+"they might not have every last package installed on their testing machines "
+"(in fact, usually package maintainers build their packages on clean "
+"installations to ensure that they are standard), but if a member of the user "
+"community finds out that there is a problem, they will no doubt let the "
+"distribution team know, and the problem will be fixed, or at least worked "
+"on. Unless you are a beta tester, then you are unlikely to ever see such a "
+"conflict, because that's what beta testing is for."
+msgstr ""
+"Da mesma forma, os mantenedores de pacotes fazem o seu melhor para garantir "
+"que os pacotes não vão entrar em conflito com outros pacotes oferecidos pela "
+"sua distribuição. Claro, eles podem não ter todos os pacote mais recentes "
+"instalado em suas máquinas de teste (na verdade, geralmente mantenedores de "
+"pacotes constroem seus pacotes em instalações limpas, de forma a garantir "
+"que eles estão no formato padrão), mas se um membro da comunidade de "
+"usuários descobre que há uma problema, ele, sem dúvida, avisará a equipe de "
+"distribuição, a qual irá providenciar a correção (ou pelo menos trabalhará "
+"forte em cima dele). Enfim, a menos que você seja um beta tester, é bastante "
+"improvável que você já tenha visto um conflito desses."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"It is difficult or impossible to know if you can place your trust in the "
+"developer that their software will not cause any harm, willful or negligent, "
+"to your system."
+msgstr ""
+"É difícil ou mesmo impossível saber se você pode confiar no desenvolvedor e "
+"que o seu software não irá causar qualquer dano, de forma dolosa ou culposa, "
+"ao seu sistema."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Package maintainers are hardly likely to package software they know will "
+"harm people's computers (including their own)! Only software which is known "
+"and trusted will ever make it to the repository."
+msgstr ""
+"É bastante improvável que os mantenedores de pacotes venham a empacotar "
+"software que sabem irá prejudicar os computadores dos usuários da distro "
+"(incluindo o deles)! Apenas o software que é conhecido e confiável irá para "
+"o repositório."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Even if you know about a specific piece of software and its developer, you "
+"cannot be entirely sure that you are not downloading an executable that has "
+"been swapped out by a malicious third party for some type of malware."
+msgstr ""
+"Mesmo se você conhecer um software e seu desenvolvedor, não terá certeza "
+"absoluta de que não está baixando um arquivo executável que foi trocado por "
+"algum tipo de malware por um terceiro mal-intencionado ."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"In addition to the usual security measures put in place by the institutions "
+"who own the servers (usually prestigious academic or research institutions, "
+"or large companies), the repository and packages themselves are secured by "
+"certificates and GPG keys. If something's gone wrong, your package manager "
+"will tell you about it. The present author, in ten years of using Linux, has "
+"never once known anything to go wrong in this respect."
+msgstr ""
+"Além das medidas usuais de segurança postas em prática pelas instituições "
+"que detêm os servidores (geralmente prestigiadas instituições acadêmicas ou "
+"de pesquisa, além de grandes empresas), o repositório e os próprios pacotes "
+"são garantidos por certificados e chaves GPG. Se algo estiver errado, seu "
+"gerenciador de pacotes irá avisá-lo. O presente autor, em dez anos de uso do "
+"Linux, jamais viu qualquer coisa a este respeito vir a dar errado."
+
+#. Tag: entry
+#, no-c-format
+msgid "It is difficult to remove (all traces of) installed programs."
+msgstr "É difícil remover (todos os vestígios de) programas instalados."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Because the package management software keeps a complete record of all of "
+"its actions, it is quite capable of reversing any steps that it took in the "
+"past, while ensuring that removing one package will not cause any other "
+"package to fail."
+msgstr ""
+"Como o software de gerenciamento de pacotes mantém um registro completo de "
+"todas as suas ações, ele é plenamente capaz de reverter todas as medidas "
+"tomadas no passado, o que garante que a remoção de um pacote não vá causar "
+"falhas e problemas em outro pacote."
+
+#. Tag: entry
+#, no-c-format
+msgid "Static packages are big and clunky."
+msgstr "Pacotes estáticos são grandes e desatualizados."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Because you're using package management, you will only ever download static "
+"libraries when there is no shared alternative. If you need new shared data "
+"libraries to install a given program, your package manager will know this "
+"and install them for you automatically. You will only ever have to download "
+"a shared library once because, well, it's shared by all the programs that "
+"need it. If you end up removing the last package that needs a shared "
+"library, then the package management software will remove that too. But, if "
+"you decide that you do want to keep the shared object anyway, perhaps "
+"because you just know you'll need it later, then you can tell the package "
+"management software to do that, too."
+msgstr ""
+"Como você está usando o gerenciamento de pacotes, só irá vir a baixar "
+"bibliotecas estáticas quando não houver alternativas compartilhadas. Se você "
+"precisar de novas bibliotecas de dados compartilhadas para instalar um "
+"determinado programa, o gerenciador de pacotes vai saber disso e irá instalá-"
+"los automaticamente para você. Você só precisará baixar uma biblioteca "
+"compartilhada uma única vez, haja vista ela ser compartilhada por todos os "
+"programas que precisam dela. Se você remover o último pacote que precisa de "
+"uma biblioteca compartilhada, então o software de gerenciamento de pacotes "
+"irá removê-la também. Entretanto, se você decidir manter o objeto "
+"compartilhado, talvez porque você sabe que possa vir a precisar dele mais "
+"tarde, então pode ordenar ao software de gerenciamento de pacotes para fazê-"
+"lo."
+
+#. Tag: entry
+#, no-c-format
+msgid "I'm still not convinced."
+msgstr "Ainda não estou convecido."
+
+#. Tag: entry
+#, no-c-format
+msgid ""
+"Good! Post a message on the forums about it if you have a genuine concern "
+"about package management, or to ask about other people's experiences. It "
+"bears repeating that the package method of distribution in GNU/Linux relies "
+"on trust, so if there's a problem, we want to hear about it!"
+msgstr ""
+"Boa! Poste uma mensagem nos fóruns sobre o assunto se você tiver uma "
+"preocupação genuína sobre o gerenciamento de pacotes, ou então para "
+"perguntar sobre as experiências de outras pessoas sobre o tema. Vale a pena "
+"repetir que o método de distribuição de pacotes do GNU/Linux se baseia na "
+"confiança, por isso, se há um problema, nós queremos ouvir sobre ele!"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"A final word. You may have been subjected to rumors to the effect that Linux "
+"isn't finished yet, or that if you use Linux then you are a beta-tester, or "
+"that Linux software is unstable. These are all half truths. “Linux” will "
+"never be “finished”, any more than any other major operating system can be "
+"considered “finished”. From the Linux kernel to the artwork on your screen, "
+"all the elements of your operating system will always be under some kind of "
+"development. This is because programmers are working hard to keep us up to "
+"date with the latest developments in programming and hardware technology. "
+"This does not mean that the software available for you to use is of bad "
+"quality. The base system at the core of Linux Mint has been under heavy "
+"development for about two decades now, and is very mature, stable, and "
+"proven. While there are definitely unstable versions of most of the software "
+"on your operating system, you won't be using them because you're not a beta "
+"tester. You know you're not a beta tester, because you're reading this. The "
+"software available to you on the repositories you use will always be stable "
+"and well tested, unless you change those repositories to the ones used by "
+"the testers (in which case congratulations, you've just become a tester). "
+"It's a bit of a no-brainer, really."
+msgstr ""
+"E agora, uma palavra final sobre o tema. Você pode ter sido exposto a "
+"rumores no sentido de que o Linux ainda não está pronto, ou que se você usar "
+"o Linux então você é um beta-tester, ou que o software do Linux é instável. "
+"Estas são todas meias verdades. O \"Linux\" nunca estará \"acabado\", assim "
+"como nenhum outro sistema operacional principal. Do kernel Linux até a arte "
+"na tela de seu computador, todos os elementos do seu sistema operacional "
+"estarão sempre sob algum tipo de desenvolvimento. Isso ocorre porque os "
+"programadores estão trabalhando duro para nos manter em dia com os últimos "
+"desenvolvimentos na tecnologia de programação e de hardware. Isto não "
+"significa que o software disponível para você é de má qualidade. O sistema "
+"básico no núcleo do Linux Mint tem estado sob forte desenvolvimento por "
+"cerca de duas décadas, sendo comprovadamente muito maduro e estável. Apesar "
+"de existirem versões instáveis ​​da maior parte do software em seu sistema "
+"operacional, você não poderá usá-los porque você não é um beta tester. E "
+"você sabe que você não é um beta tester porque você está lendo isso. Assim, "
+"o software disponível para você nos repositórios que você utiliza será "
+"sempre estável e bem testado, a menos que você mude esses repositórios para "
+"aqueles usados ​​pelos testadores (caso em que, parabéns, você acaba de se "
+"tornar um testador!)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"So, to summarize with an example, when you install Opera, Real Player or "
+"Google Earth in Linux Mint, these applications do not come from their "
+"original developers (Opera, Real and Google). Of course the upstream "
+"application comes from these developers, but only after they've been "
+"properly packaged and tested do they become available for you. So, in other "
+"words, you should never need to go and browse the Internet to look for "
+"software, as everything you need is available and already tested for you and "
+"for your system by the Linux Mint and Ubuntu teams. All you need to do is "
+"choose what you want to do."
+msgstr ""
+"Vamos, então, resumir essa história toda num único exemplo: quando você "
+"instala o Opera, Real Player ou o Google Earth no Linux Mint, esses pedidos "
+"não vêm de seus desenvolvedores originais (Opera, Real e Google). "
+"Obviamente, os aplicativos oriundos do upstream vêm desses desenvolvedores, "
+"mas só depois de terem sido devidamente empacotados e testados eles são "
+"disponibilizados para você. Em outras palavras, você nunca precisará navegar "
+"na Internet a procurar de um software, pois tudo o que você precisa já está "
+"testado e disponível para o seu sistema pelas equipes do Linux Mint e "
+"Ubuntu. A única coisa que você precisa é escolher o que quer fazer."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint will update itself automatically through a tool called the Update "
+"Manager, which will update not only the base operating system, but all the "
+"software installed on your machine as well."
+msgstr ""
+"O Linux Mint irá atualizar automaticamente através de uma ferramenta chamada "
+"Update Manager (Gerenciador de atualizações), o qual irá atualizar, não só o "
+"sistema operacional base, mas todos os softwares instalados em sua máquina."
+
+#. Tag: para
+#, no-c-format
+msgid "It's that simple. Whew!"
+msgstr "Isso é realmente simples! Uau!"
+
+#. Tag: title
+#, no-c-format
+msgid "Installing software"
+msgstr "Instalando o software"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Some of the most popular applications that are not installed by default in "
+"Linux Mint are Opera, Skype, Acrobat Reader, Google Earth and Real Player."
+msgstr ""
+"Entre as aplicações mais populares existentes e que não são instaladas por "
+"padrão no Linux Mint, podemos destacar o Opera, Skype, Acrobat Reader, "
+"Google Earth e Real Player."
+
+#. Tag: title
+#, no-c-format
+msgid "Using the Software Manager"
+msgstr "Utilizando o Software Manager (Gerenciador de Aplicativos)"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The easiest way to install software in Linux Mint is to use the "
+"<wordasword>Software Manager</wordasword>."
+msgstr ""
+"A maneira mais fácil de instalar programas no Linux Mint é através do "
+"<wordasword>Gerenciador de Aplicativos</wordasword>."
+
+#. Tag: title
+#, no-c-format
+msgid "The Software Manager"
+msgstr "O Gerenciador de Aplicativos"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Open the <guimenu>Menu</guimenu> and select <guimenuitem>Software "
+"Manager</guimenuitem>."
+msgstr ""
+"Abra o <guimenu>Menu</guimenu> e selecione <guimenuitem>Gerenciador de "
+"Aplicativos</guimenuitem>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Software Manager lets you browse the software made available for Linux "
+"Mint. You can browse by category, search by keyword or sort the software by "
+"rating and popularity."
+msgstr ""
+"O Gerenciador de Aplicativos permite que você busque o software disponível "
+"para o Linux Mint. Você pode pesquisá-lo por categoria, palavra-chave ou "
+"então pela classificação e popularidade."
+
+#. Tag: title
+#, no-c-format
+msgid "Using Synaptic"
+msgstr "Utilizando o Synaptic"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you want to install more than one application at a time or see more "
+"technical information about the packages, you can use "
+"<wordasword>Synaptic</wordasword>."
+msgstr ""
+"Se você quiser instalar mais de um aplicativo ao mesmo tempo ou ver mais "
+"informações técnicas sobre os pacotes, você pode usar o "
+"<wordasword>Synaptic</wordasword>."
+
+#. Tag: title
+#, no-c-format
+msgid "Synaptic, the Package Manager"
+msgstr "Synaptic, o Gerenciador de Pacotes."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Open the <guimenu>Menu</guimenu> and select <guimenuitem>Synaptic Package "
+"Manager</guimenuitem>."
+msgstr ""
+"Abra o <guimenu>Menu</guimenu> e selecione <guimenuitem>Gerenciador de "
+"pacotes Synaptic</guimenuitem>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Let's see how we can install Opera (an alternative to the Firefox Web "
+"browser):"
+msgstr ""
+"Vamos ver como podemos instalar o Opera (uma alternativa ao navegador "
+"Firefox):"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Click on the <guibutton>Search</guibutton> button and type "
+"<wordasword>opera</wordasword>."
+msgstr ""
+"Clique no botão <guibutton>Pesquisar</guibutton> e digite "
+"<wordasword>Opera</wordasword>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Go through the list of packages and find the one corresponding to the Opera "
+"Web Browser."
+msgstr ""
+"Vá até a lista de pacotes e encontre aquele que correspondente ao navegador "
+"Opera."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Tick the box and select <guimenuitem>Mark for Installation</guimenuitem>."
+msgstr ""
+"Marque a caixa e selecione <guimenuitem>Marcar para instalação</guimenuitem>."
+
+#. Tag: para
+#, no-c-format
+msgid "Click on the <guibutton>Apply</guibutton> button."
+msgstr "Clique no botão <guibutton>Aplicar</guibutton>"
+
+#. Tag: title
+#, no-c-format
+msgid "Using APT"
+msgstr "Usando o APT"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"APT is by far the most powerful package management tool in Linux Mint. Yet "
+"it's extremely simple to use."
+msgstr ""
+"O APT é de longe a mais poderosa ferramenta de gerenciamento de pacotes do "
+"Linux Mint. Ainda assim, é bem simples de se utilizar."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It's a command though, not a program with a graphical interface. If you're "
+"starting with Linux you'll probably prefer the Software Manager or Synaptic "
+"at first. As time goes on you'll likely enjoy things to be faster and more "
+"efficient."
+msgstr ""
+"O APT é um programa executado via linha de comando, logo não possui uma "
+"interface gráfica. Se você é novato no Linux, provavelmente vai preferir o "
+"Gerenciador de Aplicativos ou o Synaptic. Conforme o tempo passar, "
+"provavelmente vai começar a apreciar mais o APT e a forma como ele torna as "
+"coisas mais rápidas e eficientes."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Now let's see how we could have installed Opera using the APT command line "
+"tool."
+msgstr ""
+"Agora vamos ver como fazemos para instalar o Opera utilizando a ferramenta "
+"de linha de comando APT."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Open the <guimenu>Menu</guimenu> and select "
+"<guimenuitem>Terminal</guimenuitem>. Then type the following command:"
+msgstr ""
+"Abra o <guimenu>Menu</guimenu> e selecione "
+"<guimenuitem>Terminal</guimenuitem>. Em seguida, tecle o comando:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                    <command>apt install "
+"<replaceable>opera</replaceable></command>\n"
+"                "
+msgstr ""
+"\n"
+"                    <command>apt install "
+"<replaceable>opera</replaceable></command>\n"
+"                "
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Make sure Synaptic is closed before using APT. Synaptic is using APT in the "
+"background so both can't run at the same time. The same goes for the "
+"Software Manager."
+msgstr ""
+"Certifique-se de que o Synaptic está fechado antes de usar APT. O Synaptic "
+"utiliza o APT em segundo plano e portanto não pode ser executado ao mesmo "
+"tempo deste. O mesmo vale para o Gerenciador de Aplicativos."
+
+#. Tag: title
+#, no-c-format
+msgid "Removing software"
+msgstr "Removendo Aplicativos"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You can use the Software Manager to remove software. Simply find the "
+"software you want to remove and click on <guibutton>Remove</guibutton>."
+msgstr ""
+"Você pode usar o Gerenciador de Aplicativos para remover softwares. Para "
+"isso, basta encontrar o software que você deseja remover e clique em "
+"<guibutton>Remover</guibutton>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"With Synaptic, you can remove packages by clicking on them and by selecting "
+"<guimenuitem>Mark for Removal</guimenuitem>. Changes are applied after you "
+"click on the <guibutton>Apply</guibutton> button."
+msgstr ""
+"Com o Synaptic você pode remover pacotes simplesmente clicando sobre eles e "
+"selecionando <guimenuitem>Marcar para remoção</guimenuitem>. As alterações "
+"serão aplicadas após você clicar no botão <guibutton>Aplicar</guibutton>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"With APT it's even simpler... say you want to remove Opera, open a "
+"<guimenuitem>Terminal</guimenuitem> from the <guimenu>Menu</guimenu> and "
+"type:"
+msgstr ""
+"Com o APT é ainda mais simples. Digamos que você queira remover o Opera. "
+"Para isso, abra um <guimenuitem>Terminal</guimenuitem> a partir do "
+"<guimenu>Menu</guimenu> e digite:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                    <command>apt remove "
+"<replaceable>opera</replaceable></command>\n"
+"            "
+msgstr ""
+"\n"
+"                    <command>apt remove "
+"<replaceable>opera</replaceable></command>\n"
+"            "
+
+#. Tag: title
+#, no-c-format
+msgid "Updating software"
+msgstr "Atualizando aplicativos"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If a new version of any package installed on your computer is made available "
+"you can upgrade to it. It may be a security update for some component of the "
+"operating system, it may be an optimization in one specific library or it "
+"may even be a newer version of Firefox. Basically, your system is made of "
+"packages and any part of it can be updated by updating some of those "
+"packages. This means replacing the current package with a newer version."
+msgstr ""
+"Se uma nova versão de um pacote instalado em seu computador é "
+"disponibilizada, você poderá atualizá-lo. Pode ser uma atualização de "
+"segurança para algum componente do sistema operacional, pode ser uma "
+"otimização em uma biblioteca específica ou pode até ser uma nova versão do "
+"Firefox. Basicamente, o sistema é composto por pacotes e qualquer parte dele "
+"pode ser atualizado por meio da atualização de alguns desses pacotes. Isso "
+"sognifica substituir o pacote atual por uma nova versão."
+
+#. Tag: para
+#, no-c-format
+msgid "There are many ways to do this but only one of them is recommended."
+msgstr ""
+"Há muitas maneiras de se fazer isso, mas apenas uma delas é recomendada para "
+"os iniciantes."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You could use APT to upgrade all your packages with one simple command "
+"(<command>apt upgrade</command>) but we recommend you don't do so. The "
+"reason is that it doesn't make any distinctions in selecting which updates "
+"to apply and assumes that you want all of them."
+msgstr ""
+"Você pode usar o APT para atualizar todos os seus pacotes com um simples "
+"comando (<comando>apt upgrade</command>), mas nós recomendamos que você não "
+"o faça. A razão é que o APT não faz qualquer distinção entre quais "
+"atualizações aplicar, assumindo que você deseja todos elas."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Some parts of the system are safe to update and some others aren't. For "
+"instance, by updating your kernel (the part which is responsible among other "
+"things for hardware recognition) you might break your sound support, your "
+"wireless card support or even some applications (such as VMWare and "
+"Virtualbox) which are closely linked to the kernel."
+msgstr ""
+"Algumas partes do sistema são seguras para se atualizar e algumas outras "
+"não. Por exemplo, ao atualizar o seu kernel (a parte que é responsável, "
+"entre outras coisas, pelo reconhecimento de hardware) você pode quebrar o "
+"suporte a sua placa de som, a rede wireless ou até mesmo a alguns "
+"aplicativos (como o VMWare e o VirtualBox) que estão intimamente ligados ao "
+"kernel."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Linux Mint comes with a tool called the Update Manager. It gives more "
+"information about updates and lets you define how safe an update must be "
+"before you want to apply it. It looks like a shield and sits on the bottom-"
+"right corner of your screen."
+msgstr ""
+"O Linux Mint vem com uma ferramenta chamada Gerenciador de Atualizações. Ela "
+"dá mais informações sobre as atualizações, permitindo-nos definir o quão "
+"seguro ela deve ser antes de você querer aplicá-la. Essa ferramenta se "
+"parece com um escudo e localiza-se no canto inferior direito da tela."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you place your mouse pointer on top of it, it will tell you either that "
+"your system is up to date or, if it isn't, how many updates are available."
+msgstr ""
+"Se você colocar o ponteiro do mouse em cima dela, ela vai lhe informar se "
+"seu sistema está atualizado ou, caso não esteja, quantas atualizações estão "
+"disponíveis."
+
+#. Tag: title
+#, no-c-format
+msgid "The list of available updates"
+msgstr "Lista de atualizações disponíveis"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you click on the lock icon, the Update Manager opens and shows you the "
+"updates that are available. The interface is very easy to use. For each "
+"package update you can read the description, the changelog (this is where "
+"developers explain their changes when they modify the package), and "
+"eventually if Linux Mint assigned warnings or extra information about the "
+"updates. You can also see which version is currently installed on your "
+"computer and which version is available for you to update to. Also you have "
+"a symbol showing if it's a package update or a security update."
+msgstr ""
+"Se você clicar no ícone de cadeado, o Gerenciador de Atualizações se abre, "
+"mostrando as atualizações que estão disponíveis. A interface é muito fácil "
+"de usar. Para cada pacote de atualização, você pode ler a descrição, o "
+"changelog (que é onde os desenvolvedores explicam as mudanças que modificam "
+"o pacote) e, eventualmente, se o Linux Mint atribuiu avisos ou informações "
+"adicionais sobre as atualizações. Você também pode ver qual a versão "
+"atualmente instalada em seu computador e qual versão está disponível para "
+"que você atualize o pacote. Além disso, você tem um símbolo que mostra se "
+"ele é um pacote de atualização ou uma atualização de segurança."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Finally, you can see the stability level assigned to the package update. "
+"Each package update brings improvements or fixes security issues but that "
+"doesn't mean they're risk-free and can't introduce new bugs. The stability "
+"level is assigned to each package by Linux Mint and gives you an indication "
+"of how safe it is for you to apply an update."
+msgstr ""
+"Por fim, você pode ver o nível de estabilidade atribuído à atualização do "
+"pacote. Cada pacote de atualização traz melhorias ou corrige problemas de "
+"segurança, mas isso não significa que eles estão livres de riscos e que não "
+"podem vir a introduzir novos bugs. O nível de estabilidade é atribuído a "
+"cada pacote pelo Linux Mint, o que lhe dá uma indicação do quão seguro é "
+"para você atualizá-lo."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Of course you can click on the columns to sort by stability level, status, "
+"package name or by version. You can select all updates or unselect all of "
+"them by using the <guibutton>Clear</guibutton> and <guibutton>Select "
+"All</guibutton> buttons."
+msgstr ""
+"Obviamente, você pode clicar nas colunas para ordenar os pacotes por nível "
+"de estabilidade, status, nome ou versão. Você também pode selecionar ou "
+"desmarcar todas as atualizações usando os botões "
+"<guibutton>Apagar</guibutton> e <guibutton>Selecionar tudo</guibutton>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Level 1 and Level 2 updates are risk-free and you should always apply them. "
+"Level 3 updates should be safe but, although we recommend you take them, "
+"make sure you look over them on the list of updates. If you experience a "
+"problem with a particular Level 3 update, tell the Linux Mint development "
+"team so they can take measures to make that update a Level 4 or a Level 5 so "
+"as to warn or even discourage others against applying it."
+msgstr ""
+"Atualizações de nível 1 e 2 são isentas de riscos, portanto você deve sempre "
+"aplicá-las. As de nível 3 em geral são seguras, mas nós recomendamos que "
+"você antes certifique-se dar uma olhada sobre elas na lista de atualizações. "
+"Se você tiver algum problema com uma determinada atualização de nível 3, "
+"informe a equipe de desenvolvimento do Linux Mint para que eles possam tomar "
+"medidas para reclassificá-la como uma atualização de nível 4 ou 5, a fim de "
+"avisar ou mesmo desencorajar outros usuários que queiram aplicá-la ."
+
+#. Tag: title
+#, no-c-format
+msgid "The Update Manager preferences"
+msgstr "As preferências do Gerenciador de Atualizações."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you click on the <guibutton>Preferences</guibutton> button you should see "
+"the screen above. By default the Update Manager tells you about Level 1, 2 "
+"and 3 updates. You can decide to make Level 4 and 5 "
+"<guilabel>visible</guilabel>. This will make more updates appear in the "
+"list. If you want to you can even make Level 4 and 5 updates "
+"<guilabel>safe</guilabel> (although this is not recommended). This will "
+"cause them to be selected by default within the Update Manager."
+msgstr ""
+"Se você clicar no botão <guibutton>Preferências</guibutton> deverá ver a "
+"tela acima. Por padrão, o Gerenciador de Atualizações utiliza as "
+"atualizações de nível 1, 2 e 3. Você pode fazer com que as de nível 4 e 5 "
+"passem ao padrão <guilabel>visível</guilabel>. Isso fará com que mais "
+"atualizações apareçam na lista. Se você quiser, você pode até mesmo tornar "
+"as atualizações de nível 4 e 5 como de nível <guilabel>seguro</guilabel> "
+"(embora isso não seja recomendado). Isto fará com que elas sejam "
+"selecionadas por padrão dentro do Gerenciador de Atualizações."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Update Manager only counts 'safe' updates. So when it tells you your "
+"system is up to date, it means there are no updates available assigned with "
+"a level that you defined as being 'safe'."
+msgstr ""
+"O Gerenciador de Atualizações contabiliza apenas atualizações definidas no "
+"padrão \"Seguro\". Assim, quando ele informa que o seu sistema está "
+"atualizado, isso significa que não há atualizações disponíveis atribuídas a "
+"um nível que você definiu como sendo \"seguro\"."
+
+#. Tag: para
+#, no-c-format
+msgid "The Update Manager only shows 'visible' updates in the list."
+msgstr ""
+"O Gerenciador de Atualizações só exibe aquelas definidas como sendo do "
+"padrão «visível»."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"For example, if you made all levels 'visible' and only Level 1 and 2 'safe', "
+"you would see a lot of updates in the list, but the Update Manager would "
+"probably tell you that your system was up to date."
+msgstr ""
+"Por exemplo, se você configurou todos os níveis como \"visível\" e apenas os "
+"níveis 1 e 2 como \"seguro\", você verá um monte de atualizações na lista, "
+"mas o Gerenciador de Atualizações ainda irá dizer-lhe que o seu sistema está "
+"atualizado."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <guilabel>Auto-Refresh</guilabel> tab allows you to define how often the "
+"Update Manager checks for updates."
+msgstr ""
+"A guia <guilabel>Auto-Atualizar</guilabel> permite que você defina com que "
+"frequência o Gerenciador de Atualizações verifica se existem novas "
+"atualizações."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <guilabel>Update Method</guilabel> tab lets you define how the Update "
+"Manager checks for new updates."
+msgstr ""
+"A guia <guilabel>Método de atualização</guilabel> permite que você defina "
+"como o Gerenciador de Atualizações verifica se há novas atualizações "
+"disponíveis."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <guilabel>Include dist-upgrade packages</guilabel> option allows you to "
+"define whether the Update Manager should install new dependencies or not. "
+"For instance if package A version 1 was installed on your computer and "
+"package A version 2 became available, but version 2 had a new dependency on "
+"package B which isn't installed on your computer... what would happen?"
+msgstr ""
+"A opção <guilabel>Inclui atualizações que requerem instalação ou remoção de "
+"outros pacotes</guilabel> permite definir se o Gerenciador de Atualizações "
+"deve instalar novas dependências ou não. Por exemplo, se o pacote A versão 1 "
+"foi instalado em seu computador e o pacote A versão 2 tornou-se disponível "
+"mas o da versão 2 tem uma nova dependência no pacote B que não está "
+"instalado no seu computador, o que aconteceria?"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you left this checkbox unchecked, version 2 would not appear as an update "
+"in the list of updates."
+msgstr ""
+"Se você deixou esta opção em branco, a versão 2 não aparecerá na lista de "
+"atualizações."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you checked this checkbox, it would, and if selected it would install "
+"package B as a dependency."
+msgstr ""
+"Se você marcou esta opção, o Gerenciador instalará o pacote B como uma "
+"dependência."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Be careful with this option as dependency can install new packages on your "
+"behalf but they can also sometimes remove packages you already have "
+"installed."
+msgstr ""
+"Tenha cuidado com esta opção já que as dependências podem instalar novos "
+"pacotes mas também podem remover pacotes já instalados."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In the <guilabel>Ignored packages</guilabel> tab you can define packages for "
+"which you do not want to receive updates. '?' and '*' wildcard characters "
+"are supported."
+msgstr ""
+"Na aba <guilabel>Pacotes ignorados</guilabel>, você pode definir os pacotes "
+"para os quais você não deseja receber atualizações. Os curingas '?' e '*' "
+"são suportados."
+
+#. Tag: para
+#, no-c-format
+msgid "The <guilabel>Proxy</guilabel> tab lets you define proxy settings."
+msgstr ""
+"A guia <guilabel>Proxy</guilabel> permite que você defina as configurações "
+"de proxy."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The last tab lets you change the icons used by the Update Manager in the "
+"system tray."
+msgstr ""
+"A última guia permite alterar os ícones usados ​​pelo Gerenciador de "
+"Atualizações na bandeja do sistema."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you get errors with the Update Manager, you can check the logs. Right "
+"click on the lock icon in the system tray and select "
+"<guilabel>Information</guilabel>. The following screen appears:"
+msgstr ""
+"Se você receber erros no Gerenciador de Atualizações, poderá verificar os "
+"logs (registros). Clique com o botão direito sobre o ícone do cadeado na "
+"bandeja do sistema e selecione <guilabel>Informações</guilabel>. A tela "
+"seguinte será exibida:"
+
+#. Tag: title
+#, no-c-format
+msgid "The Update Manager logs"
+msgstr "Os registros do Gerenciador de Atualizações"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In this screen you can see the process ID of the Update Manager and the "
+"content of its log file."
+msgstr ""
+"Nesta tela você pode ver o ID do processo no Gerenciador de Atualizações e o "
+"conteúdo de seu arquivo de log(registro)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You can also review the updates that were applied on your system by clicking "
+"on the <guimenu>View</guimenu> menu and by selecting <guimenuitem>History of "
+"Updates</guimenuitem>."
+msgstr ""
+"Você também pode verificar as atualizações que foram aplicadas em seu "
+"sistema clicando no menu <guimenu>Ver</guimenu> e selecionando "
+"<guimenuitem>Histórico de Atualizações</guimenuitem>."
+
+#. Tag: title
+#, no-c-format
+msgid "The history of updates"
+msgstr "Histórico de atualizações"
