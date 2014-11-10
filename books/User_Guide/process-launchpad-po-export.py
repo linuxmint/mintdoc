@@ -14,4 +14,6 @@ for item in os.listdir("launchpad-po-export"):
             source = os.path.join(dir_path, po)            
             os.system("mkdir -p %s" % locale)
             os.system("cp %s %s/%s.po" % (source, locale, dest))
-            
+            os.system("sed -i 's@</ @</@g' %s/%s.po" % (locale, dest)) # Fix '</ "' occurences
+            os.system("sed -i '/</{$!{N;s/<\/\"\\n\"/<\//;ty;P;D;:y}}' %s/%s.po" % (locale, dest)) # Fix '</"\n"' occurences
+                       
