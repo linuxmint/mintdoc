@@ -5,10 +5,11 @@ TRANSLATIONS_FIRTSNAME = Clément
 TRANSLATIONS_SURNAME = Lefebvre
 TRANSLATIONS_EMAIL = root@linuxmint.com
 FORMATS = pdf,html#,html-single,html-desktop,txt,epub
+LANGUAGES = fr
 
 all: build
 
-build: clean pot po build_dir user_guide
+build: clean pot build_dir user_guide
 
 build_dir:
 	mkdir build
@@ -18,6 +19,7 @@ user_guide:
 	do \
 		cd $(USER_GUIDE_PATH); \
 		for lang in `ls`; \
+		#for lang in $(LANGUAGES); \
 		do \
 			if [ -d "$$lang" -a "$$lang" != "pot" -a "$$lang" != "publish" -a "$$lang" != "tmp" ]; \
 			then \
@@ -26,7 +28,7 @@ user_guide:
 					publican build --brand_dir=../../brands/Linux_Mint --config=publican_$$desktop.cfg --langs=$$lang --formats=$(FORMATS) --pdftool=fop --publish; \
 					mv tmp/$$lang/xml publish/$$lang/Linux_Mint/`grep "ENTITY MINTVERSION" en-US/User_Guide.ent | awk -F'"' '{print $$2}'`/xml_$$desktop; \
 				else \
-					if [ "`publican lang_stats --lang=$$lang --config=publican_$$desktop.cfg | grep 'Total for' | awk '{print $$4}'`" = "0" ]; \
+					if [ "`publican lang_stats --lang=$$lang --config=publican_$$desktop.cfg | grep 'introduction.po' | awk '{print $$2}'`" = "0" ]; \
 					then \
 						publican build --brand_dir=../../brands/Linux_Mint --config=publican_$$desktop.cfg --langs=$$lang --formats=$(FORMATS) --pdftool=fop --publish; \
 						mv tmp/$$lang/xml publish/$$lang/Linux_Mint/`grep "ENTITY MINTVERSION" en-US/User_Guide.ent | awk -F'"' '{print $$2}'`/xml_$$desktop; \
