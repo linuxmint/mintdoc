@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-10-13 17:57+0000\n"
+"PO-Revision-Date: 2014-11-06 20:16+0000\n"
 "Last-Translator: KAMI <kami911@gmail.com>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
-"X-Generator: Launchpad (build 17211)\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:02+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
 #, no-c-format
@@ -59,6 +59,11 @@ msgid ""
 "<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
 "is the left Windows key on your keyboard)."
 msgstr ""
+"A Cinnamon munkaasztalon, majdnem minden elérhető a „Menüből”. A "
+"megnyitásához kattintson a <guimenu>Menü</guimenu> gombra a képernyő bal "
+"alsó sarkában, vagy nyomja meg a  "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> billentyű-"
+"kombinációt. A Super_L billentyű a bal Windows gomb a billentyűzeten."
 
 #. Tag: title
 #, no-c-format
@@ -97,6 +102,10 @@ msgid ""
 "<wordasword>Music</wordasword>, <wordasword>Videos</wordasword>...etc which "
 "you can use to better organize your files."
 msgstr ""
+"A fájljain kívül ez a könyvtár az alábbi előre létrehozott könyvtárakat is "
+"tartalmazza: <wordasword>Dokumentumok</wordasword>, "
+"<wordasword>Zene</wordasword>, <wordasword>Videók</wordasword>… stb., annak "
+"érdekében, hogy Ön könnyedén rendszerezhesse az fáljait."
 
 #. Tag: para
 #, no-c-format
@@ -119,6 +128,8 @@ msgstr ""
 msgid ""
 "Click on <guimenu>Menu</guimenu> and select <guisubmenu>Places</guisubmenu>"
 msgstr ""
+"Kattintson a <guimenu>Menü</guimenu> gombra és válassza ki a "
+"<guisubmenu>Helyek</guisubmenu> menüelemet."
 
 #. Tag: para
 #, no-c-format

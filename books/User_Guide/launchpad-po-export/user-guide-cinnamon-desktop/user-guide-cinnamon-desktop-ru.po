@@ -1,0 +1,168 @@
+# Russian translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-11-01 06:01+0000\n"
+"Last-Translator: CyberTailor <Vyalkov.02@gmail.com>\n"
+"Language-Team: Russian <ru@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:02+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction to the Desktop"
+msgstr "Введение в рабочее окружение"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The <wordasword>desktop</wordasword> is the component of the operating "
+"system which is responsible for the elements that appear on the desktop: The "
+"<wordasword>Panel</wordasword>, the <wordasword>Wallpaper</wordasword>, the "
+"<wordasword>Control Center</wordasword>, the menus... etc."
+msgstr ""
+"<wordasword>Рабочее окружение</wordasword> - компонент операционной системы, "
+"который отвечает за элементы, которые появляются на рабочем столе: "
+"<wordasword>Панель</wordasword>, <wordasword>Обои</wordasword>, "
+"<wordasword>Центр управления</wordasword>, меню... и т.д."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Cinnamon Edition of Linux Mint uses the Cinnamon desktop which is both "
+"intuitive and powerful."
+msgstr ""
+"Эта редакция Linux Mint использует рабочее окружение Cinnamon, которое и "
+"понятное, и мощное."
+
+#. Tag: title
+#, no-c-format
+msgid "The Menu"
+msgstr "Меню"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Cinnamon, almost everything is accessible from the 'Menu'. To open it, "
+"click on <guimenu>Menu</guimenu> at the bottom-left of your screen, or press "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L "
+"is the left Windows key on your keyboard)."
+msgstr ""
+"В Cinnamon почти всё доступно из Меню. Чтобы открыть его, нажмите на "
+"<guimenu>Меню</guimenu> в нижней левой части экрана, или нажмите "
+"<keycombo><keycap>Ctrl</keycap><keycap>Super_L</keycap></keycombo> (Super_L -"
+" левый логотип Windows на вашей клавиатуре)."
+
+#. Tag: title
+#, no-c-format
+msgid "The Cinnamon Menu"
+msgstr "Меню Cinnamon"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The menu is used to launch applications, to access the system settings, and "
+"to reach common places and open recent files."
+msgstr ""
+"Меню используется для запуска приложений, для доступа к настройкам, а также "
+"для открытия недавних файлов и папок."
+
+#. Tag: title
+#, no-c-format
+msgid "Places"
+msgstr "Папки"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In Linux Mint, all your personal data is stored in your "
+"<wordasword>Home</wordasword> directory."
+msgstr ""
+"В Linux Mint все персональные данные хранятся в Вашей "
+"<wordasword>домашней</wordasword> папке."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"As well as your files, this directory also contains pre-defined sub-"
+"directories such as <wordasword>Documents</wordasword>, "
+"<wordasword>Music</wordasword>, <wordasword>Videos</wordasword>...etc which "
+"you can use to better organize your files."
+msgstr ""
+"Кроме файлов, эта папка содержит предустановленные подкаталоги, такие как "
+"<wordasword>Документы</wordasword>, <wordasword>Музыка</wordasword>, "
+"<wordasword>Видео</wordasword>... и т.д., в которых Вы можете лучше "
+"упорядочить Ваши файлы."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Other important places are your <wordasword>Desktop</wordasword> folder "
+"(which containsn the files visible on your desktop), the filesystem (which "
+"contains all system files and directories), removable devices connected to "
+"the computer, the network and bookmarks (you can bookmark any directory to "
+"gain quick-access to it)."
+msgstr ""
+"Другие важные папки: <wordasword>Рабочий стол</wordasword> (которая содержит "
+"файлы, отображаемые на Вашем рабочем столе), файловая система (которая "
+"содержит все системные файлы и папки), удаляемые устройства, подключённые к "
+"компьютеру, сеть и закладки (Вы можете добавить в закладки любую папку, "
+"чтобы получить быстрый доступ к ней)"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To quickly access one of these places, perform one of the following actions:"
+msgstr "Чтобы получить быстрый доступ, выполните следующие действия:"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Click on <guimenu>Menu</guimenu> and select <guisubmenu>Places</guisubmenu>"
+msgstr ""
+"Нажмите на <guimenu>Меню</guimenu> и выберите <guisubmenu>Места</guisubmenu>"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Launch <wordasword>Nemo</wordasword>, the Cinnamon file manager, by clicking "
+"on <guimenu>Menu</guimenu> and selecting <guimenuitem>Files</guimenuitem>. "
+"Then, within Nemo, you can access common places by clicking on them in the "
+"sidebar, on the left of the window."
+msgstr ""
+"Запустите <wordasword>Nemo</wordasword>, файловый менеджер Cinnamon, кликнув "
+"на <guimenu>Menu</guimenu> и выбрав <guimenuitem>Файлы</guimenuitem>. Далее, "
+"в Nemo, вы можете получить доступ к местам, нажав на них на боковой панели "
+"слева."
+
+#. Tag: title
+#, no-c-format
+msgid ""
+"Nemo, the file manager, listing the content of the Home directory and "
+"providing quick-access to common places from the left sidebar."
+msgstr ""
+"Nemo, файловый менеджер, отобразит содержимое домашней папки и обеспечит "
+"быстрый доступ на левой панели."
+
+#. Tag: title
+#, no-c-format
+msgid "System Settings"
+msgstr "Настройки системы"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To launch the system settings, click on <guimenu>Menu</guimenu> and select "
+"<guimenuitem>System Settings</guimenuitem>."
+msgstr ""
+"Чтобы запустить настройки системы, нажмите на <guimenu>Меню</guimenu> и "
+"выберите <guimenuitem>Настройки системы</guimenuitem>."

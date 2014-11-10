@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-10-20 13:31+0000\n"
+"PO-Revision-Date: 2014-11-04 13:48+0000\n"
 "Last-Translator: Dupo <Unknown>\n"
 "Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
-"X-Generator: Launchpad (build 17211)\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:03+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
 #, no-c-format
@@ -227,6 +227,28 @@ msgid ""
 "awfully difficult to sneak spyware into your program when you're letting "
 "everyone see what you've written!"
 msgstr ""
+"Comme vous pouvez vous en douter, le logiciel est d'abord écrit par des "
+"développeurs : cette extrémité haute de la chaîne de production est appelée "
+"« upstream ». En tant qu'utilisateur d'une distribution Linux, vous êtes "
+"désignés comme étant « downstream », c'est-à-dire le point le plus en bas (à "
+"moins que vous ne soyez un administrateur, auquel cas ce sont plutôt vos "
+"utilisateurs, mais vous le saviez déjà puisque vous êtes administrateur). "
+"Une fois que les développeurs sont satisfaits du programme ou de la mise à "
+"jour du programme qu'ils ont écrit, il vont en publier le code source. Ils "
+"vont également communiquer dans leur documentation de quelles librairies de "
+"données ou de quels autres programmes ils se sont servis. Il font cela "
+"depuis longtemps et il existe des manières standardisées et conventionnelles "
+"de le faire. Il faut comprendre que, à quelques exceptions près "
+"(habituellement les fabricants de matériel qui publient des pilotes pour "
+"Linux, comme nVidia ou ATI, ou certaines grandes entreprises comme Adobe, en "
+"qui nous pouvons avoir confiance) ils publient le code source du programme, "
+"qui est en fait la liste des instructions du programme sous une forme "
+"humainement lisible. Ceci a de nombreuses implications, mais le plus "
+"important dans le contexte de notre explication est que ces développeurs "
+"souhaitent que leur logiciel soit vérifier par leurs pairs et par toute "
+"personne disposant d'une connexion Internet. Il est extrêmement difficile de "
+"glisser un logiciel espion dans votre programme si vous laissez tout le "
+"monde voir ce que vous avez écrit !"
 
 #. Tag: para
 #, no-c-format
@@ -250,6 +272,23 @@ msgid ""
 "ensure interoperability. The finished package is then uploaded to a special "
 "file server, which is called a software repository."
 msgstr ""
+"Le logiciel se déplace vers le bas de la chaîne jusqu'aux mainteneurs de "
+"paquets, qui sont soit des volontaires soit des employés rémunérés "
+"travaillant pour une distribution Linux. Leur travail est de compiler le "
+"code source du logiciel, de le tester sur la distribution pour s'assurer "
+"qu'il marche, de résoudre les problèmes qu'ils rencontrent et finalement "
+"d'empaqueter proprement la version compilée (c.-à-d. lisible par "
+"l'ordinateur) du logiciel. Ce paquet contient alors la version exécutable du "
+"ou des programmes, leurs fichiers de configuration, et les instructions "
+"d'installation nécessaires au logiciel de gestion des paquets. Notez qu'il "
+"ne contiendra habituellement pas de librairies statiques, car il n'y a en "
+"pas besoin - les librairies sont fournies par d'autres paquets, et sont donc "
+"appelées librairies partagées. Votre logiciel de gestion des paquets saura "
+"si un paquet particulier nécessite qu'un autre paquet (comme une librairie "
+"partagée) soit installé avant, car comme vous vous en souviendrez, les "
+"librairies des données et les paquet nécessaires au fonctionnement du "
+"logiciel ont été déclarées « upstream » et cette information est inclue dans "
+"le paquet."
 
 #. Tag: para
 #, no-c-format
@@ -271,6 +310,22 @@ msgid ""
 "maintainer's computer, then it ought to on yours because the package manager "
 "will follow exactly the same procedure."
 msgstr ""
+"C'est depuis cet endroit unique que vous pouvez télécharger et installer les "
+"logiciels dont vous avez besoin. Vous saurez que cet endroit est de bonne "
+"foi car il est signé avec un certificat, que votre gestionnaire de paquet "
+"vérifiera. Vous saurez aussi que chaque paquet que vous installez est sûr, "
+"car il sont individuellement signés par une clé GPG, que votre gestionnaire "
+"de paquets vérifiera aussi. Il procédera également au calcul de l'empreinte "
+"MD5 sur chaque paquet pour vérifier qu'aucun problème n'a eu lieu pendant le "
+"téléchargement, comme nous l'avons fait plus tôt avec l'image ISO du "
+"LiveDVD. Notez comme tout cela se fait pour vous : vous êtes confortablement "
+"assis, sirotant un Martini et sur le chat #linuxmint avec XChat. Le "
+"gestionnaire de paquets a téléchargé les paquets que vous aviez choisi et il "
+"suivra, à la lettre (les ordinateurs sont méticuleux), les instructions du "
+"paquet pour parfaitement installer votre logiciel et toutes ses dépendances, "
+"dans le bon ordre. Il n'y a pas de place pour l'erreur humaine - si le "
+"paquet a marché sur l'ordinateur du mainteneur, il le devrait aussi sur le "
+"vôtre car le gestionnaire de paquet suivra exactement la même procédure."
 
 #. Tag: para
 #, no-c-format
@@ -284,11 +339,20 @@ msgid ""
 "taking care, of course, of all the dependencies for the newer version of the "
 "software."
 msgstr ""
+"Quand il est temps de vérifier les mises à jour de logiciels, votre "
+"gestionnaire de paquets comparera automatiquement la version que vous avez "
+"du logiciel avec la version disponible dans le dépôt, et fera tout le "
+"travail nécessaire pour garder votre système fonctionnel et sécurisé. Ainsi, "
+"si la version 2.4 de BestSoft est envoyée sur le dépôt, et que vous avez la "
+"version 2.3 d'installée, le gestionnaire de paquets comparera ces deux "
+"numéros de versions et vous proposera d'installer la dernière version, en "
+"prenant soin, évidemment, d'installer toutes les dépendances de la nouvelle "
+"version du logiciel."
 
 #. Tag: para
 #, no-c-format
 msgid "Sounding good yet? It gets better."
-msgstr ""
+msgstr "Cela vous paraît déjà plus clair ? On avance."
 
 #. Tag: para
 #, no-c-format
@@ -315,11 +379,37 @@ msgid ""
 "obtain, not only because of the security protocols already mentioned, but "
 "because if anything does go wrong everyone will be talking about it!"
 msgstr ""
+"L'homme fait des erreurs là où la machine n'en fait pas, et de temps quelque "
+"chose peut mal se passer dans ce processus. Peut-être installerez-vous par "
+"accident des pilotes pour un mauvais matériel, ce qui peut casser quelque "
+"chose. Cela nous est tous arrivé. Peut-être qu'il y a un bogue, ou peut-être "
+"que votre fonctionnalité préférée a été supprimée par le développeur du "
+"logiciel pour une raison quelconque. Ces problèmes démontrent, "
+"paradoxalement, la force et la sécurité de la gestion des paquets. Parce que "
+"votre gestionnaire de paquet garde fastidieusement des enregistrements de "
+"tout ce qu'il a fait, il est capable d'annuler des installations, proprement "
+"et complètement. Il s'assurera que la suppression d'un paquet n'en casse "
+"aucun autre, et vous pouvez même lui dire de faire des choses particulières "
+"comme ne pas mettre à jour automatiquement certains paquets parce que vous "
+"les aimez tels qu'ils sont, ou réinstaller une ancienne version. Finalement, "
+"la totalité du processus est largement vérifiée par des pairs. Parce que "
+"vous faîtes partie d'une grande communauté d'utilisateurs Linux qui "
+"utilisent tous les mêmes dépôts pour obtenir leurs logiciels, si quoique ce "
+"soit se passe mal, vous pouvez être absolument sûr que cela créera de "
+"l'agitation et que le problème sera vite résolu ! De cette manière, la "
+"partage des logiciels dans les distributions GNU/Linux est grandement basé "
+"sur la confiance, depuis le moment ou le développeur originel affiche à la "
+"vue de tous son code source, jusqu'aux discussions ouvertes sur le site de "
+"la distribution. Vous pouvez avoir confiance dans les logiciels que vous "
+"obtenez, non seulement grâce aux protocoles de sécurité mentionnés "
+"précédemment, mais aussi parce que si quelque chose va mal tout le monde en "
+"parlera !"
 
 #. Tag: para
 #, no-c-format
 msgid "Let's look again at our list of problems and see what we have solved:"
 msgstr ""
+"Revenons à notre liste de problèmes et voyons ce que nous avons résolu :"
 
 #. Tag: entry
 #, no-c-format
@@ -349,6 +439,11 @@ msgid ""
 "principle, but also because if they do they'll soon be getting lots of "
 "emails."
 msgstr ""
+"Vous savez que le logiciel disponible sur le dépôt a été minutieusement "
+"testé par le mainteneur du paquet et l'équipe de test pour fonctionner avec "
+"votre système d'exploitation. Ils ne rendront pas disponible un logiciel qui "
+"ne fonctionne pas, surtout par principe, mais aussi parce que si tel est le "
+"cas, il recevront en peu de temps énormément d'emails."
 
 #. Tag: entry
 #, no-c-format
@@ -372,6 +467,18 @@ msgid ""
 "on. Unless you are a beta tester, then you are unlikely to ever see such a "
 "conflict, because that's what beta testing is for."
 msgstr ""
+"De même, les mainteneurs de paquets font tout leur possible pour s'assurer "
+"que les paquets n'entreront pas en conflit avec d'autres paquets qu'ils ont "
+"eux-même distribué. Bien sûr, il se peut qu'ils n'aient pas les tout "
+"derniers paquets d'installés sur leurs machines de test (en réalité, les "
+"mainteneurs de paquets construisent généralement leurs paquets sur des "
+"installations toutes fraîches pour s'assurer qu'elles seront standards), "
+"mais si un membre de la communauté d'utilisateurs découvre qu'il y a un "
+"problème, il en informera sans aucun doute l'équipe de distribution, et le "
+"problème sera réglé, ou du moins elle travaillera à sa résolution. À moins "
+"que vous ne soyez un bêta-testeur, vous n'êtes donc pas susceptible de "
+"rencontrer de tels conflits, car c'est à les résoudre que sert le test en "
+"version bêta."
 
 #. Tag: entry
 #, no-c-format
@@ -380,6 +487,9 @@ msgid ""
 "developer that their software will not cause any harm, willful or negligent, "
 "to your system."
 msgstr ""
+"Il est difficile, voire impossible, de savoir si vous pouvez accorder votre "
+"confiance aux développeurs pour le fait que leur logiciel ne cause aucun "
+"dommage, délibéré ou par négligence, à votre système."
 
 #. Tag: entry
 #, no-c-format
@@ -388,6 +498,9 @@ msgid ""
 "harm people's computers (including their own)! Only software which is known "
 "and trusted will ever make it to the repository."
 msgstr ""
+"Les mainteneurs de paquets n'empaqueteront pas de logiciels qu'ils savent "
+"comme nuisible pour les ordinateurs des gens (et le leur) ! Seuls les "
+"logiciels connus et dignes de confiance se trouveront dans les dépôts."
 
 #. Tag: entry
 #, no-c-format
@@ -396,6 +509,10 @@ msgid ""
 "cannot be entirely sure that you are not downloading an executable that has "
 "been swapped out by a malicious third party for some type of malware."
 msgstr ""
+"Même si vous connaissez bien un logiciel ainsi que son développeur, vous ne "
+"pouvez pas être complètement sûr que vous n'êtes pas en train de télécharger "
+"un exécutable intercepté par une personne malveillante qui veut vous "
+"transmettre un virus."
 
 #. Tag: entry
 #, no-c-format
@@ -407,6 +524,13 @@ msgid ""
 "will tell you about it. The present author, in ten years of using Linux, has "
 "never once known anything to go wrong in this respect."
 msgstr ""
+"En plus des mesures de sécurité habituelles mises en place par les "
+"institutions qui détiennent les serveurs (généralement des institutions "
+"universitaires prestigieuses ou de recherche, ou des grandes entreprises), "
+"le dépôt et les paquets en eux-même sont sécurisés par des certificats et "
+"des clés GPG. Si quelque chose se passe mal, votre gestionnaire de paquets "
+"vous en informera. Le présent auteur, en dix ans d'utilisation de Linux, n'a "
+"jamais connu une seule fois de problèmes à cet égard."
 
 #. Tag: entry
 #, no-c-format
@@ -422,11 +546,15 @@ msgid ""
 "past, while ensuring that removing one package will not cause any other "
 "package to fail."
 msgstr ""
+"Le logiciel de gestion de paquets gardant une trace de toutes ses "
+"opérations, il peut annuler les actions qu'il a effectuées, tout en "
+"s'assurant que la suppression d'un paquet ne causera pas la défaillance d'un "
+"autre paquet."
 
 #. Tag: entry
 #, no-c-format
 msgid "Static packages are big and clunky."
-msgstr ""
+msgstr "Les paquets statiques prennent beaucoup d'espace."
 
 #. Tag: entry
 #, no-c-format
@@ -442,6 +570,18 @@ msgid ""
 "because you just know you'll need it later, then you can tell the package "
 "management software to do that, too."
 msgstr ""
+"Comme vous utilisez un gestionnaire de paquets, vous ne téléchargerez des "
+"librairies statiques que s'il n'y a pas l'alternative partagée. Si vous avez "
+"besoin de nouvelles librairies de données pour installer un programme donné, "
+"votre gestionnaire de paquets le verra et les installera automatiquement "
+"pour vous. Vous n'aurez besoin de télécharger une librairie partagée qu'une "
+"seule fois parce que, et bien, elle est partagée par tous les programmes qui "
+"en ont besoin. Si vous finissez par enlever le dernier paquet qui a besoin "
+"d'une librairie partagée, alors le logiciel de gestion des paquets "
+"l'enlèvera aussi. Mais, si vous décidez de garder quand même cet objet "
+"patagé, peut-être simplement parce que vous savez que vous en aurez besoin "
+"plus tard, alors vous pouvez également dire au logiciel de gestion des "
+"paquets de le garder."
 
 #. Tag: entry
 #, no-c-format
@@ -456,6 +596,11 @@ msgid ""
 "bears repeating that the package method of distribution in GNU/Linux relies "
 "on trust, so if there's a problem, we want to hear about it!"
 msgstr ""
+"Bien ! Écrivez un message sur les forums à ce sujet si vous avez un souci "
+"avec la gestion des paquets, ou pour demander des retours d'expériences "
+"d'autres personnes. Il est important de répéter que la méthode de partage de "
+"GNU/Linux repose sur la confiance, donc s'il y a un problème, nous voulons "
+"le savoir !"
 
 #. Tag: para
 #, no-c-format
@@ -479,6 +624,26 @@ msgid ""
 "the testers (in which case congratulations, you've just become a tester). "
 "It's a bit of a no-brainer, really."
 msgstr ""
+"Un dernier mot. Vous avez peut-être entendu les rumeurs disant que Linux "
+"n'était pas encore finit, ou que si vous utilisez Linux c'est que vous êtes "
+"un beta-testeur, ou que Linux est instable. Ce sont des semi-vérités. "
+"“Linux” ne sera jamais “terminé”, de la même manière que tous les autres "
+"systèmes d'exploitation ne peuvent pas être considérés comme “terminé”. Du "
+"noyau Linux jusqu'au visuel de votre écran, tous les éléments de votre "
+"système d'exploitation seront toujours dans une forme ou une autre de "
+"développement. Parce que les programmeurs travaillent dur pour nous garder à "
+"jour avec les dernières améliorations matérielles et en programmation. Cela "
+"ne veut pas dire que les logiciels disponibles sont de mauvaise qualité. Le "
+"système de base qui est le cœur de Linux Mint est en intense développement "
+"depuis maintenant deux décennies, est vraiment mature, stable et éprouvé. "
+"Bien qu'il existe effectivement des versions instables de la plupart des "
+"logiciels qui composent votre système d'exploitation, vous ne les utiliserez "
+"pas puisque vous n'êtes pas un beta-testeur. Vous savez que vous n'êtes pas "
+"un beta-testeur car vous êtes en train de lire ceci. Les logiciels "
+"disponibles dans les dépôts que vous utilisez seront toujours stables et "
+"bien testés, à moins que vous changiez ces dépôts pour ceux qu'utilisent les "
+"beta-testeurs (auquel cas félicitations, vous venez de devenir un testeur). "
+"Ce n'est pas compliqué, vraiment."
 
 #. Tag: para
 #, no-c-format
@@ -493,6 +658,15 @@ msgid ""
 "for your system by the Linux Mint and Ubuntu teams. All you need to do is "
 "choose what you want to do."
 msgstr ""
+"Donc, pour résumer avec un exemple, quand vous installez Opera, RealPlayer "
+"ou Google Earth sur Linux Mint, ces applications ne proviennent pas de leurs "
+"développeurs originels (Opera, Real et Google). Bien entendu l'application « "
+"upstream » provient de ces développeurs, mais c'est seulement après qu'elle "
+"ait été empaqueté et testée qu'elle vous est rendue disponible. En d'autres "
+"termes , vous ne devriez jamais aller naviguer sur Internet pour télécharger "
+"un logiciel, parce que tout ce dont vous avez besoin est disponible et testé "
+"pour vous et votre système par les équipes de Linux Mint et Ubuntu. Tout ce "
+"que vous avez à faire est de choisir ce que vous voulez faire."
 
 #. Tag: para
 #, no-c-format
@@ -501,16 +675,20 @@ msgid ""
 "Manager, which will update not only the base operating system, but all the "
 "software installed on your machine as well."
 msgstr ""
+"Linux Mint se mettra à jour automatiquement via un outil appelé le "
+"gestionnaire de mises à jour, qui mettra à jour non seulement le système "
+"d'exploitation de base, mais également tous les logiciels installés sur "
+"votre machine."
 
 #. Tag: para
 #, no-c-format
 msgid "It's that simple. Whew!"
-msgstr ""
+msgstr "C'est aussi simple que ça !"
 
 #. Tag: title
 #, no-c-format
 msgid "Installing software"
-msgstr ""
+msgstr "Installation de logiciels"
 
 #. Tag: para
 #, no-c-format
@@ -518,11 +696,14 @@ msgid ""
 "Some of the most popular applications that are not installed by default in "
 "Linux Mint are Opera, Skype, Acrobat Reader, Google Earth and Real Player."
 msgstr ""
+"Certaines des applications les plus populaires qui ne sont pas installées "
+"par défaut dans Linux Mint sont Opera, Skype, Acrobat Reader, Google Earth "
+"et Real Player."
 
 #. Tag: title
 #, no-c-format
 msgid "Using the Software Manager"
-msgstr ""
+msgstr "Avec le Gestionnaire de Logiciels"
 
 #. Tag: para
 #, no-c-format
@@ -530,11 +711,13 @@ msgid ""
 "The easiest way to install software in Linux Mint is to use the "
 "<wordasword>Software Manager</wordasword>."
 msgstr ""
+"La méthode la plus simple pour installer des logiciels dans Linux Mint est "
+"d'utiliser le <wordasword>Gestionnaire de Logiciels</wordasword>."
 
 #. Tag: title
 #, no-c-format
 msgid "The Software Manager"
-msgstr ""
+msgstr "Le Gestionnaire de Logiciels"
 
 #. Tag: para
 #, no-c-format
@@ -551,6 +734,10 @@ msgid ""
 "Mint. You can browse by category, search by keyword or sort the software by "
 "rating and popularity."
 msgstr ""
+"Le Gestionnaire de Logiciels vous permet de rechercher les logiciels "
+"disponibles pour Linux Mint. Vous pouvez effectuer votre recherche selon la "
+"catégorie, par mot-clé ou trier les logiciels par leur évaluation et leur "
+"popularité."
 
 #. Tag: title
 #, no-c-format
@@ -564,11 +751,14 @@ msgid ""
 "technical information about the packages, you can use "
 "<wordasword>Synaptic</wordasword>."
 msgstr ""
+"Si vous souhaitez installer plusieurs applications à la fois ou afficher des "
+"informations plus techniques sur les paquets, vous pouvez utiliser "
+"<wordasword>Synaptic</wordasword>."
 
 #. Tag: title
 #, no-c-format
 msgid "Synaptic, the Package Manager"
-msgstr ""
+msgstr "Synaptic, le gestionnaire de paquets"
 
 #. Tag: para
 #, no-c-format
@@ -599,6 +789,8 @@ msgid ""
 "Go through the list of packages and find the one corresponding to the Opera "
 "Web Browser."
 msgstr ""
+"Passez en revue la liste des paquets et trouvez le paquet correspondant au "
+"navigateur web Opera."
 
 #. Tag: para
 #, no-c-format
@@ -616,7 +808,7 @@ msgstr "Cliquez sur le bouton <guibutton>Appliquer</guibutton>."
 #. Tag: title
 #, no-c-format
 msgid "Using APT"
-msgstr ""
+msgstr "Avec APT"
 
 #. Tag: para
 #, no-c-format
@@ -624,6 +816,8 @@ msgid ""
 "APT is by far the most powerful package management tool in Linux Mint. Yet "
 "it's extremely simple to use."
 msgstr ""
+"APT est de loin le plus puissant outil de gestion des paquets dans Linux "
+"Mint. Il est de plus extrêmement simple à utiliser."
 
 #. Tag: para
 #, no-c-format
@@ -633,6 +827,10 @@ msgid ""
 "at first. As time goes on you'll likely enjoy things to be faster and more "
 "efficient."
 msgstr ""
+"Cependant il se matérialise par une commande, et non par un programme doté "
+"d'une interface graphique. Si vous êtes débutant avec Linux, vous préférerez "
+"probablement le Gestionnaire de Logiciels ou Synaptic dans un premier temps. "
+"Au fil du temps, vous apprécierez les choses les plus rapides et efficaces."
 
 #. Tag: para
 #, no-c-format
@@ -640,6 +838,8 @@ msgid ""
 "Now let's see how we could have installed Opera using the APT command line "
 "tool."
 msgstr ""
+"Maintenant, voyons comment installer Opera en utilisant l'outil APT en ligne "
+"de commande."
 
 #. Tag: para
 #, no-c-format
@@ -647,6 +847,8 @@ msgid ""
 "Open the <guimenu>Menu</guimenu> and select "
 "<guimenuitem>Terminal</guimenuitem>. Then type the following command:"
 msgstr ""
+"Ouvrez le <guimenu>Menu</guimenu> et sélectionnez "
+"<guimenuitem>Terminal</guimenuitem>. Tapez ensuite la commande suivante :"
 
 #. Tag: screen
 #, no-c-format
@@ -656,6 +858,10 @@ msgid ""
 "<replaceable>opera</replaceable></command>\n"
 "                "
 msgstr ""
+"\n"
+"                    <command>apt install "
+"<replaceable>opera</replaceable></command>\n"
+"                "
 
 #. Tag: para
 #, no-c-format
@@ -664,11 +870,14 @@ msgid ""
 "background so both can't run at the same time. The same goes for the "
 "Software Manager."
 msgstr ""
+"Assurez-vous que Synaptic est fermé avant d'utiliser APT. Synaptic utilise "
+"APT, ainsi les deux ne peuvent être utilisés simultanément. Cette règle est "
+"aussi valable pour le Gestionnaire de Logiciels."
 
 #. Tag: title
 #, no-c-format
 msgid "Removing software"
-msgstr ""
+msgstr "Suppression de logiciels"
 
 #. Tag: para
 #, no-c-format
@@ -676,6 +885,9 @@ msgid ""
 "You can use the Software Manager to remove software. Simply find the "
 "software you want to remove and click on <guibutton>Remove</guibutton>."
 msgstr ""
+"Vous pouvez utiliser le Gestionnaire de Logiciels pour supprimer un "
+"logiciel. Il suffit de trouver le logiciel que vous souhaitez supprimer et "
+"de cliquer sur <guibutton>Suppression</guibutton>."
 
 #. Tag: para
 #, no-c-format
@@ -708,11 +920,15 @@ msgid ""
 "<replaceable>opera</replaceable></command>\n"
 "            "
 msgstr ""
+"\n"
+"                    <command>apt remove "
+"<replaceable>opera</replaceable></command>\n"
+"            "
 
 #. Tag: title
 #, no-c-format
 msgid "Updating software"
-msgstr ""
+msgstr "Mise à jour de logiciels"
 
 #. Tag: para
 #, no-c-format
@@ -724,11 +940,21 @@ msgid ""
 "packages and any part of it can be updated by updating some of those "
 "packages. This means replacing the current package with a newer version."
 msgstr ""
+"Si une nouvelle version de n'importe quel logiciel installé sur votre "
+"ordinateur est rendue disponible, vous pouvez le mettre à niveau. Il peut "
+"s'agir d'une mise à jour de sécurité pour un composant du système "
+"d'exploitation, de l'optimisation d'une librairie particulière ou encore "
+"d'une nouvelle version de Firefox. Pour faire simple, votre système est "
+"constitué de paquets, et chaque partie de ce système peut être mise à niveau "
+"en mettant à jour certains de ces paquets. Ceci veut dire remplacer le "
+"paquet actuel par une version plus récente."
 
 #. Tag: para
 #, no-c-format
 msgid "There are many ways to do this but only one of them is recommended."
 msgstr ""
+"Il existe plusieurs façons de le faire, mais une seule d'entre elles est "
+"recommandée."
 
 #. Tag: para
 #, no-c-format
@@ -738,6 +964,11 @@ msgid ""
 "reason is that it doesn't make any distinctions in selecting which updates "
 "to apply and assumes that you want all of them."
 msgstr ""
+"Vous pourriez utiliser APT pour mettre à niveau tous vos paquets avec une "
+"simple commande (<command>apt upgrade</command>), mais nous vous "
+"recommandons de ne pas le faire. La raison est qu'il n'y a pas de "
+"distinction entre les mises à jour et que le système suppose que vous voulez "
+"toutes les faire."
 
 #. Tag: para
 #, no-c-format
@@ -748,6 +979,12 @@ msgid ""
 "wireless card support or even some applications (such as VMWare and "
 "Virtualbox) which are closely linked to the kernel."
 msgstr ""
+"Certains composants du système sont sûrs à mettre à niveau et d'autres ne le "
+"sont pas. Par exemple, en mettant à jour votre noyau (le composant "
+"responsable entre autres choses de la détection du matériel) vous pourriez "
+"supprimer le support de l'audio, de la carte réseau sans fil ou même de "
+"certains logiciels (comme VMWare et Virtualbox) qui sont étroitement lié au "
+"noyau."
 
 #. Tag: para
 #, no-c-format
@@ -757,6 +994,11 @@ msgid ""
 "before you want to apply it. It looks like a shield and sits on the bottom-"
 "right corner of your screen."
 msgstr ""
+"Linux Mint est fourni avec un outil appelé Gestionnaire de Mise à jour. Il "
+"donne des informations à propos des mises à niveau et vous laisse définir "
+"quel niveau de fiabilité une mise à niveau doit avoir avant d'être "
+"appliquée. Il a l'apparence d'un bouclier et est visible dans le coin en bas "
+"à droite de votre écran."
 
 #. Tag: para
 #, no-c-format
@@ -764,11 +1006,14 @@ msgid ""
 "If you place your mouse pointer on top of it, it will tell you either that "
 "your system is up to date or, if it isn't, how many updates are available."
 msgstr ""
+"Si vous placez le pointeur de votre souris au-dessus de celui-ci, il vous "
+"dira que votre système est à jour ou, si ce n'est pas le cas, combien de "
+"mises à jour sont disponibles."
 
 #. Tag: title
 #, no-c-format
 msgid "The list of available updates"
-msgstr ""
+msgstr "La liste des mises à jour disponibles"
 
 #. Tag: para
 #, no-c-format
@@ -782,6 +1027,16 @@ msgid ""
 "computer and which version is available for you to update to. Also you have "
 "a symbol showing if it's a package update or a security update."
 msgstr ""
+"Si vous cliquez sur l'icône de verrouillage, le Gestionnaire de Mises à jour "
+"s'ouvre et vous montre les mises à niveau disponibles. L'interface est très "
+"simple à utiliser. Pour chaque mise à niveau de paquet vous pouvez lire sa "
+"description, la liste des changements (l'endroit où les développeurs "
+"expliquent les changements quand ils modifient un paquet), et éventuellement "
+"si Linux Mint a signalé des avertissements ou des informations "
+"additionnelles à propos de cette mise à jour. Vous pouvez également savoir "
+"quelle version est actuellement installée sur votre ordinateur et quelle "
+"version est disponible en mise à jour. De plus, un symbole affiche si il "
+"s'agit d'une mise à jour de sécurité ou non."
 
 #. Tag: para
 #, no-c-format
@@ -792,6 +1047,12 @@ msgid ""
 "level is assigned to each package by Linux Mint and gives you an indication "
 "of how safe it is for you to apply an update."
 msgstr ""
+"Finalement, vous pouvez voir le niveau de stabilité assigné à une mise à "
+"jour. Chaque mise à niveau apporte des améliorations ou corrige des "
+"problèmes de sécurité, mais ça ne veut pourtant pas dire que celles-ci "
+"soient sans risque et qu'elles ne puissent pas introduire de nouveaux "
+"bogues. Le niveau de stabilité est définit pour chaque paquet par Linux Mint "
+"et vous donne une indication sur sa fiabilité."
 
 #. Tag: para
 #, no-c-format
@@ -801,6 +1062,11 @@ msgid ""
 "them by using the <guibutton>Clear</guibutton> and <guibutton>Select "
 "All</guibutton> buttons."
 msgstr ""
+"Bien sûr, vous pouvez cliquer sur les colonnes pour trier les éléments par "
+"niveau de stabilité, par statut, par nom de paquet ou par version. Vous "
+"pouvez sélectionner toutes les mises à jour, ou toutes les désélectionner "
+"avec les boutons <guibutton>Tout sélectionner</guibutton> et  "
+"<guibutton>Effacer</guibutton>."
 
 #. Tag: para
 #, no-c-format
@@ -812,11 +1078,17 @@ msgid ""
 "team so they can take measures to make that update a Level 4 or a Level 5 so "
 "as to warn or even discourage others against applying it."
 msgstr ""
+"Les mises à jour de Niveau 1 et de Niveau 2 sont sans risque et vous devriez "
+"toujours les appliquer. Celles de Niveau 3 devraient être sûres, mais nous "
+"vous recommandons de bien y prêter attention. Si vous rencontrez un problème "
+"avec une mise à jour de Niveau 3, dites-le à l'équipe de développement de "
+"Linux Mint pour qu'elle puisse la passer au Niveau 4 ou 5 afin de prévenir "
+"ou même dissuader les autres de l'appliquer."
 
 #. Tag: title
 #, no-c-format
 msgid "The Update Manager preferences"
-msgstr ""
+msgstr "Les préférences du Gestionnaire de Mises à jour"
 
 #. Tag: para
 #, no-c-format
@@ -829,6 +1101,14 @@ msgid ""
 "<guilabel>safe</guilabel> (although this is not recommended). This will "
 "cause them to be selected by default within the Update Manager."
 msgstr ""
+"Si vous cliquez sur le bouton <guibutton>Préférences</guibutton> vous "
+"devriez voir l'écran ci-dessus. Par défaut, le Gestionnaire de Mises à jour "
+"vous prévient des mises à jour de Niveau 1, 2 et 3. Vous pouvez décider de "
+"rendre <guilabel>visibles</guilabel> celles de Niveau 4 et 5. Cela affichera "
+"plus de mises à jour dans la liste. Si vous le souhaitez, vous pouvez même "
+"définir les mises à jour de Niveau 4 et 5 comme <guilabel>sûres</guilabel> "
+"(bien que ce ne soit pas recommandé). Cela aura pour conséquence de les "
+"sélectionner par défaut dans le Gestionnaire de Mises à jour."
 
 #. Tag: para
 #, no-c-format
@@ -837,11 +1117,17 @@ msgid ""
 "system is up to date, it means there are no updates available assigned with "
 "a level that you defined as being 'safe'."
 msgstr ""
+"Le Gestionnaire de Mises à jour ne compte que des mises à jour « fiables ». "
+"Alors, quand il vous dit que votre système est à jour, cela signifie qu'il "
+"n'y a aucune mise à jour disponible assignée à un niveau que vous avez "
+"défini comme étant « sûr »."
 
 #. Tag: para
 #, no-c-format
 msgid "The Update Manager only shows 'visible' updates in the list."
 msgstr ""
+"Le Gestionnaire de Mises à jour ne montre dans la liste que les mises à jour "
+"« visibles »."
 
 #. Tag: para
 #, no-c-format
@@ -850,6 +1136,10 @@ msgid ""
 "you would see a lot of updates in the list, but the Update Manager would "
 "probably tell you that your system was up to date."
 msgstr ""
+"Par exemple, si vous avez rendu « visibles » tous les niveaux et seulement « "
+"sûrs » les Niveaux 1 et 2, vous verriez beaucoup de mises à niveau dans la "
+"liste mais le Gestionnaire de Mises à jour vous dirais probablement que "
+"votre système est à jour."
 
 #. Tag: para
 #, no-c-format
@@ -857,6 +1147,9 @@ msgid ""
 "The <guilabel>Auto-Refresh</guilabel> tab allows you to define how often the "
 "Update Manager checks for updates."
 msgstr ""
+"L'onglet <guilabel>Rafraîchissement automatique</guilabel> vous permet de "
+"définir la fréquence de vérification des mises à jour par le Gestionnaire de "
+"Mises à jour."
 
 #. Tag: para
 #, no-c-format
@@ -864,6 +1157,9 @@ msgid ""
 "The <guilabel>Update Method</guilabel> tab lets you define how the Update "
 "Manager checks for new updates."
 msgstr ""
+"L'onglet <guilabel>Méthode de mise à jour</guilabel> vous permet de définir "
+"la manière dont le gestionnaire de mises à jour vérifie les nouvelles mises "
+"à jour."
 
 #. Tag: para
 #, no-c-format
@@ -874,6 +1170,12 @@ msgid ""
 "package A version 2 became available, but version 2 had a new dependency on "
 "package B which isn't installed on your computer... what would happen?"
 msgstr ""
+"L'option <guilabel>Inclure les paquets de mise à niveau de "
+"distribution</guilabel> vous permet de définir si le Gestionnaire de Mises à "
+"jour doit installer de nouvelles dépendances ou non. Par exemple, si la "
+"version 1 du paquet A est installée sur votre ordinateur et que la version 2 "
+"du paquet A devient disponible, mais que cette version 2 a une nouvelle "
+"dépendance du paquet B qui n'est pas installé… que se passerait-il ?"
 
 #. Tag: para
 #, no-c-format
@@ -881,6 +1183,8 @@ msgid ""
 "If you left this checkbox unchecked, version 2 would not appear as an update "
 "in the list of updates."
 msgstr ""
+"Si vous avez laissé cette case non cochée, la version 2 n'apparaîtra pas "
+"comme une mise à jour."
 
 #. Tag: para
 #, no-c-format
@@ -888,6 +1192,8 @@ msgid ""
 "If you checked this checkbox, it would, and if selected it would install "
 "package B as a dependency."
 msgstr ""
+"Si vous l'avez cochée, elle apparaîtrait comme une mise à jour, qui si elle "
+"était sélectionnée installerait le paquet B comme dépendance."
 
 #. Tag: para
 #, no-c-format
@@ -896,6 +1202,9 @@ msgid ""
 "behalf but they can also sometimes remove packages you already have "
 "installed."
 msgstr ""
+"Soyez prudent avec cette option, car les dépendances peuvent installer de "
+"nouveaux paquets pour vous mais aussi parfois supprimer des paquets déjà "
+"installés."
 
 #. Tag: para
 #, no-c-format
@@ -904,11 +1213,16 @@ msgid ""
 "which you do not want to receive updates. '?' and '*' wildcard characters "
 "are supported."
 msgstr ""
+"Dans l'onglet <guilabel>Paquets ignorés</guilabel>, vous pouvez définir les "
+"paquets pour lesquels vous ne souhaitez pas recevoir les mises à jour. Les "
+"caractères génériques « ? » et « * » sont pris en charge."
 
 #. Tag: para
 #, no-c-format
 msgid "The <guilabel>Proxy</guilabel> tab lets you define proxy settings."
 msgstr ""
+"L'onglet <guilabel>Proxy</guilabel> vous permet de définir les paramètres de "
+"proxy."
 
 #. Tag: para
 #, no-c-format
@@ -916,6 +1230,8 @@ msgid ""
 "The last tab lets you change the icons used by the Update Manager in the "
 "system tray."
 msgstr ""
+"Le dernier onglet vous permet de modifier les icônes utilisées par le "
+"Gestionnaire de Mises à jour dans la zone de notification."
 
 #. Tag: para
 #, no-c-format
@@ -924,11 +1240,15 @@ msgid ""
 "click on the lock icon in the system tray and select "
 "<guilabel>Information</guilabel>. The following screen appears:"
 msgstr ""
+"Si vous obtenez des erreurs avec le Gestionnaire de Mises à jour, vous "
+"pouvez consulter les journaux. Effectuez un clic-droit sur ​​l'icône du "
+"cadenas dans la zone de notification, et sélectionnez "
+"<guilabel>Information</guilabel>. L'écran suivant apparaît :"
 
 #. Tag: title
 #, no-c-format
 msgid "The Update Manager logs"
-msgstr ""
+msgstr "Les journaux du Gestionnaire de Mises à jour"
 
 #. Tag: para
 #, no-c-format
@@ -936,6 +1256,8 @@ msgid ""
 "In this screen you can see the process ID of the Update Manager and the "
 "content of its log file."
 msgstr ""
+"Dans cet écran, vous pouvez voir l'identifiant du processus du Gestionnaire "
+"de Mises à jour, et le contenu de son fichier journal."
 
 #. Tag: para
 #, no-c-format
@@ -944,8 +1266,11 @@ msgid ""
 "on the <guimenu>View</guimenu> menu and by selecting <guimenuitem>History of "
 "Updates</guimenuitem>."
 msgstr ""
+"Vous pouvez également consulter les mises à jour qui ont été appliquées sur "
+"votre système en cliquant sur le menu <guimenu>Vue</guimenu>, et en "
+"sélectionnant <guimenuitem>Historique des mises à jour</guimenuitem>."
 
 #. Tag: title
 #, no-c-format
 msgid "The history of updates"
-msgstr ""
+msgstr "L'historique des mises à jour"

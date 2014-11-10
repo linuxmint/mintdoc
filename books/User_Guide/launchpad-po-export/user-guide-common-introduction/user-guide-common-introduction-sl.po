@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-10-30 16:36+0000\n"
+"PO-Revision-Date: 2014-11-04 10:38+0000\n"
 "Last-Translator: Damir Jerovšek <Unknown>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
-"X-Generator: Launchpad (build 17211)\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:02+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
 #, no-c-format
@@ -121,6 +121,10 @@ msgid ""
 "advanced technologies, rather than by simplifying them (and thereby reducing "
 "their capabilities), or by copying the approaches taken by other developers."
 msgstr ""
+"Ena od želja projekta Linux Mint je, da postane najboljši operacijski sistem "
+"tako, da omogoči ljudem preprosto uporabo naprednih tehnologij, namesto njih "
+"poenostavljanje (ter posledično zmanjšanje njihove zmogljivosti), ali s "
+"kopiranjem pristopov, ki jih izvajajo drugi razvijalci."
 
 #. Tag: para
 #, no-c-format
@@ -129,6 +133,9 @@ msgid ""
 "is best to make the most out of the modern technologies that exist under "
 "Linux and make it easy for everybody to use its most advanced features."
 msgstr ""
+"Cilj je razviti našo lastno idejo popolnega namizja. Menimo, da je potrebno "
+"potegniti kar največ iz sodobnih tehnologij, ki obstajajo pod Linuxom in "
+"poenostaviti rokovanje z njihovimi najnaprednejšimi zmožnostmi za vsakogar."
 
 #. Tag: title
 #, no-c-format
@@ -146,6 +153,8 @@ msgid ""
 "Codenames provide a way to refer to versions of Linux Mint that is more "
 "familiar than using a version number."
 msgstr ""
+"Kodna imena zagotavljajo način sklicevanja na različice Linux Minta, ki je "
+"bolj domač kot uporaba številk različic."
 
 #. Tag: para
 #, no-c-format
@@ -154,6 +163,9 @@ msgid ""
 "simplified version scheme. The version number simply gets incremented every "
 "6 months."
 msgstr ""
+"Od različice 5 Linux Mint sledi 6-mesečnim izdajnem ciklu in uporablja "
+"poenostavljeno shemo izdaj. Številka različice se preprosto poveča vsakih 6 "
+"mesecev."
 
 #. Tag: para
 #, no-c-format
@@ -162,6 +174,9 @@ msgid ""
 "Windows) its version number gets a minor revision increment. For instance "
 "<wordasword>3</wordasword> becomes <wordasword>3.1</wordasword>."
 msgstr ""
+"Če se na določeni izdaji naredijo predelave (podobno Vzdrževalnim paketov v "
+"Windows), dobi njena številka različice povišano podrazličico. Na primer "
+"<wordasword>3</wordasword> postane <wordasword>3.1</wordasword>."
 
 #. Tag: para
 #, no-c-format
@@ -171,6 +186,9 @@ msgid ""
 "letter of the codename corresponds to the index of the version number in the "
 "alphabet."
 msgstr ""
+"Kodna imena v Linux Mintu so vedno ženska imena, ki se končajo z "
+"<wordasword>a</wordasword>. Sledijo abecednemu redu ter prva črka kodnega "
+"imena ustreza kazalu številke različice v abecedi."
 
 #. Tag: para
 #, no-c-format
@@ -404,6 +422,9 @@ msgid ""
 "certain set of needs. This guide covers the &EDITION; Edition. Here are some "
 "of the most popular editions:"
 msgstr ""
+"Različica je izdaja Linux Minta, ki je prilagojena za obravnavo določenemu "
+"nizu zahtev. Ta vodnik obsega različico &EDITION;. Tukaj je nekaj "
+"najpriljubljenejših različic:"
 
 #. Tag: para
 #, no-c-format
@@ -443,6 +464,9 @@ msgid ""
 "USA or in Japan and if you're not sure about patent legislation you should "
 "use the <guilabel>No Codecs</guilabel> installation images."
 msgstr ""
+"Če nameravate Linux Mint razširjati ali ga uporabiti v komercialne namene v "
+"ZDA ali na Japonskem ter če niste prepričani o patentni zakonodaji, "
+"uporabite namestitvene odtise <guilabel>Brez kodekov</guilabel>."
 
 #. Tag: title
 #, no-c-format
@@ -456,6 +480,9 @@ msgid ""
 "questions or a problem related to Linux Mint, you should be able to get help "
 "from other users online."
 msgstr ""
+"Skupnost Linux Minta je zelo dejavna in pripravljena pomagati. Če se vam "
+"porajajo vprašanja v povezavi z Linux Mintom, bi morali dobiti pomoč od "
+"ostalih uporabnikov na spletu."
 
 #. Tag: para
 #, no-c-format
@@ -481,6 +508,12 @@ msgid ""
 "channels <guilabel>#linuxmint-help</guilabel> and <guilabel>#linuxmint-"
 "chat</guilabel>."
 msgstr ""
+"Če želite klepetati z ostalimi uporabniki, se lahko povežete v klepetalnico "
+"na IRC-u. Pod Linux Mintom iz menija preprosto zaženite "
+"<guilabel>Hexchat</guilabel>. Če uporabljate drug operacijski sistem ali "
+"odjemalca IRC, se prepričajte, da se povežete s strežnikom "
+"<guilabel>irc.spotchat.org</guilabel> ter se pridružite kanaloma "
+"<guilabel>#linuxmint-help</guilabel> in <guilabel>#linuxmint-chat</guilabel>."
 
 #. Tag: para
 #, no-c-format
@@ -496,3 +529,14 @@ msgid ""
 "for Linux Mint. If you can’t find help on a specific subject, make sure to "
 "search on the same subject for Ubuntu."
 msgstr ""
+"Linux Mint uporablja Ubuntujeva<footnote><para>Ubuntu je drug operacijski "
+"sistem, ki temelji na GNU/Linuxu.</para></footnote> "
+"skladišča<footnote><para>Skladišče je spletna storitev, kjer je shranjena "
+"programska oprema ter na voljo operacijskemu sistemu, od koder namešča in "
+"posodablja. Večina operacijskih sistemov, temelječih na GNU/Linuxu, "
+"uporabljajo skladišča ter se z njimi povezujejo preko HTTP ali FTP za "
+"nameščanje in nadgrajevanje svoje programske opreme</para></footnote> (več o "
+"tem kasneje) ter je popolnoma združljiv z njim, tako da večina virov, "
+"člankov, vodnikov in programske opreme, ki je ustvarjena za Ubuntu, deluje "
+"na Linux Mintu. Če ne najdete pomoči glede določene zadeve, se prepričajte, "
+"da iščete tudi za Ubuntu."

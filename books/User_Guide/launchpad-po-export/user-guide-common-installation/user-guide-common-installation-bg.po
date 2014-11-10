@@ -1,0 +1,925 @@
+# Bulgarian translation for linuxmint
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2014-09-05 15:49+0200\n"
+"PO-Revision-Date: 2014-11-08 11:15+0000\n"
+"Last-Translator: spacy01 <Unknown>\n"
+"Language-Team: Bulgarian <bg@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:02+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Installation of Linux Mint"
+msgstr "Инсталиране на Линукс Минт"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You can download the Linux Mint operating system for free. It comes as an "
+"ISO file which you need to burn to a blank DVD<footnote><para>It is also "
+"possible to write the ISO image to a USB stick or other memory device and "
+"boot from that, or to boot from the ISO image on the hard drive, but these "
+"options are somewhat more advanced and the method presented here is "
+"recommended. For help with alternative methods of installing and running "
+"Linux Mint, please visit the forums.</para></footnote>. The liveDVD is then "
+"bootable and provides a fully-functional operating system which you can try "
+"without affecting your PC. In layman's terms, when you put Linux Mint on a "
+"DVD and place it into your computer, you can try it out while leaving your "
+"current system intact."
+msgstr ""
+"Можете да изтеглите Линукс Минт безплатно. Той идва като ISO файл, който "
+"трябва да се запише на празен DVD диск. <footnote><para>Възможно е също така "
+"да запишете ISO образа на USB флаш-памет или друго устойство за съхраняване "
+"на данни и да заредите ситемата от него или да заредите ISO образа от "
+"твърдия диск, но тези възможности са за малко по-напреднали. Методът, описан "
+"тук е за предпочитане. Посетете форумите и потърсете помощ за другите начини "
+"на инсталиране там.</para></footnote>. Живото DVD зарежда и осигурява "
+"напълно функционираща операционна система, която можете да опитате, без да "
+"променяте нищо на вашия компютър. Когато запишете Линукс Минт на DVD и го "
+"поставете във вашия компютър, можете да го изпробвате, оставяйки непокътната "
+"сегашната си система."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you like what you see when running the liveDVD you can decide to install "
+"the system to your hard drive. All the necessary tools (partitioning and "
+"installation tools) are present on the DVD."
+msgstr ""
+"Ако Ви хареса това, което виждате, когато сте стартирали живия диск, може да "
+"решите да го инсталирате на вашия твърд диск. Всички необходими инструменти "
+"(за разделяне на диска и инсталация) са налични в DVD-то."
+
+#. Tag: title
+#, no-c-format
+msgid "Download the ISO"
+msgstr "Сваляне на ISO файл"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To download Linux Mint, visit the download page at <ulink "
+"url=\"http://www.linuxmint.com/download.php\">http://www.linuxmint.com/downlo"
+"ad.php</ulink> and choose the edition you're interested in."
+msgstr ""
+"За да свалите Линукс Минт, посетете страницата <ulink "
+"url=\"http://www.linuxmint.com/download.php\">http://www.linuxmint.com/downlo"
+"ad.php</ulink> и изберете версията, която Ви интересува."
+
+#. Tag: para
+#, no-c-format
+msgid "From this page, you should find:"
+msgstr "На тази страница ще намерите:"
+
+#. Tag: para
+#, no-c-format
+msgid "an MD5 signature"
+msgstr "MD5  подпис"
+
+#. Tag: para
+#, no-c-format
+msgid "a torrent link"
+msgstr "торент линк"
+
+#. Tag: para
+#, no-c-format
+msgid "a list of download mirrors"
+msgstr "списък с алтернативни начини на сваляне (mirrors)"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The file you need to download is an ISO file. There are two ways to download "
+"this file, by torrent (a Peer to Peer protocol) or via a download mirror "
+"(HTTP or FTP protocol). Once your download is finished, you can ensure your "
+"ISO file isn’t corrupted by checking its signature with the MD5."
+msgstr ""
+"Файла, който трябва да свалите е ISO файл. Има два начина да свалите този "
+"файл, като торент (с протокола Потребител към Потребител) или да го свалите "
+"по алтернативен начин (чрез HTTP или FTP протокли). След като свалянето "
+"завърши, може да се уверите че ISO файла не е повреден, като проверите MD5 "
+"подписа."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you don't have a broadband connection, or if your Internet access is too "
+"slow you can order the DVD from <ulink "
+"url=\"http://www.osdisc.com\">http://www.osdisc.com</ulink>."
+msgstr ""
+"Ако не разполагате с широколентова връзка, или ако вашият достъп до интернет "
+"е твърде бавен, може да поръчате DVD от <ulink "
+"url=\"http://www.osdisc.com\">http://www.osdisc.com</ulink>."
+
+#. Tag: title
+#, no-c-format
+msgid "Via torrent"
+msgstr "Като рент"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Torrent is a Peer to Peer (P2P) protocol. Basically, instead of downloading "
+"from a central location, a torrent lets you download the ISO file in parts "
+"from different people across the Internet."
+msgstr ""
+"Торента използва протокола Потребител към Потребител (P2P). Всъщност, вместо "
+"да го свалите от централизирано място, торента ви позволява да вземете ISO "
+"файла на части, от различни хора в интернет пространството."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The more people who download the ISO file, the faster the download speed "
+"gets. This is the preferred and recommended way to download Linux Mint."
+msgstr ""
+"Колкото повече хора са свалили ISO файла, толкова скоростта на сваляне е по-"
+"висока. Това е предпочитания и препоръчителен начин да свалите Линукс Минт."
+
+#. Tag: title
+#, no-c-format
+msgid "Install a Torrent client"
+msgstr "Инсталиране на торент клиент"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You need a piece of software called a \"torrent client\" in order to "
+"download files via torrent."
+msgstr ""
+"Ще имате нужда от софтуер, наречено \"торент клиент\", за да може да сваляте "
+"торент файлове."
+
+#. Tag: para
+#, no-c-format
+msgid "If you run Linux Mint you already have a torrent client installed."
+msgstr ""
+"Ако сте стартирали Линукс Минт, Вие вече имате инсталиран торент клиент."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you run another Linux distribution, you can install \"Transmission\"."
+msgstr ""
+"Ако ползвате друга Линукс дистрибуция, може да инсталирате \"Transmission\"."
+
+#. Tag: para
+#, no-c-format
+msgid "If you run Windows you can use µTorrent."
+msgstr "Aко сте с Windows, може да ползвате µTorrent."
+
+#. Tag: title
+#, no-c-format
+msgid "Download the Torrent file"
+msgstr "Сваляне на торент файла"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The next step is to follow the torrent link from the Linux Mint website and "
+"to download the .torrent file. This file is very small. After it downloads, "
+"you should open it with your torrent client."
+msgstr ""
+"Следващата стъпка е да последвате линка в сайта на Линукс Минт и да свалите "
+".torrent файла. Той е много малък. След като го свалите, ще трябва да го "
+"отворите с Вашия торент клиент."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The torrent client will probably ask you where you want to save the ISO. "
+"Select a destination and then wait for the download to complete."
+msgstr ""
+"Вероятно торент клиента ще Ви попита къде искате да запазите ISO файла. "
+"Изберете място и изчакайте свалянето да завърши."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"For more information about the torrent protocol, visit <ulink "
+"url=\"http://en.wikipedia.org/wiki/BitTorrent\">http://en.wikipedia.org/wiki/"
+"BitTorrent</ulink>."
+msgstr ""
+"За повече информация относно торент портокала, посетете <ulink "
+"url=\"http://en.wikipedia.org/wiki/BitTorrent\">http://en.wikipedia.org/wiki/"
+"BitTorrent</ulink>."
+
+#. Tag: title
+#, no-c-format
+msgid "Via direct download"
+msgstr "Директно сваляне"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you can’t, or do not choose to use the torrent protocol, then look at the "
+"list of download mirrors and pick one of them. They’ll provide a link to the "
+"ISO file itself which you can just click to start the download."
+msgstr ""
+"Ако не можете, или не искате да използвате торент протокола, тогава "
+"разгледайте списъка с места за сваляне и изберете едно от тях. Всички те Ви "
+"предоставят връзка (линк) към ISO файла и Вие можете просто да кликнете и "
+"свалянето да започне."
+
+#. Tag: title
+#, no-c-format
+msgid "Read the release notes"
+msgstr "Прочетете бележките към версията"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Your download is probably going to last at least an hour, so now would be "
+"the perfect time for you to get familiar with the new features coming with "
+"the release you’re currently downloading."
+msgstr ""
+"Свалянето вероятно ще е около час, затова сега е точното време да се "
+"запознаете с бележките към версията, която сваляте."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The release notes are featured on the Linux Mint web page and answer the "
+"following questions:"
+msgstr ""
+"Бележките към версията са предоставени от сайта на Линукс Минт и отговарят "
+"на следните въпроси:"
+
+#. Tag: para
+#, no-c-format
+msgid "What are the new features delivered in this release?"
+msgstr "Какви са новите възможности на тази версия?"
+
+#. Tag: para
+#, no-c-format
+msgid "What are the known problems of this release?"
+msgstr "Какви са известните проблеми с тази версия?"
+
+#. Tag: para
+#, no-c-format
+msgid "How do I upgrade from the previous release?"
+msgstr "Как да надградя от предишана версия?"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"They also contain screenshots of the latest release. Of course, you could "
+"find out about most features highlighted in the release notes by simply "
+"using the operating system, but you might miss a few things, so it is most "
+"reliable to read the release notes."
+msgstr ""
+"Също така ще видите и снимки от последната версия. Разбира се, Вие може да "
+"видите всички функции, описани в бележките просто като използвате "
+"операционната система, но е възможно и да пропуснете някои неща, затова е по-"
+"добре да прочетете тези бележки."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The release notes for Linux Mint 17 Qiana are available at <ulink "
+"url=\"http://www.linuxmint.com/rel_qiana.php\">http://www.linuxmint.com/rel_q"
+"iana.php</ulink>"
+msgstr ""
+"Бележките относно Linux Mint 17 Qiana са налични на <ulink "
+"url=\"http://www.linuxmint.com/rel_qiana.php\">http://www.linuxmint.com/rel_q"
+"iana.php</ulink>"
+
+#. Tag: title
+#, no-c-format
+msgid "Check the MD5"
+msgstr "Проверка на MD5"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You’ve read the release notes, you just can’t wait to play with the new "
+"features or try Linux Mint, and your download just finished successfully. "
+"You’re ready to burn a DVD and to boot on it… but hey! Wait for a second!"
+msgstr ""
+"Вие вече прочетохте бележки, и вече нямате търпение да си поиграете с новите "
+"функции на Линукс Минт, и тъкмо свалянето приключи успешно. Готови сте да "
+"запишете DVD-то и да стартирате... Но хей! Изчакайте секунда!"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If that DVD is faulty you will experience weird bugs and will have a lot of "
+"trouble finding help. The two most common reasons for a DVD to be faulty are:"
+msgstr ""
+"Ако DVD-то е повредено, ще имате странни бъгове и ще Вие много трудно да "
+"получите помощ. Двете най-чести причини за повреда на DVD са:"
+
+#. Tag: para
+#, no-c-format
+msgid "An issue with the download causing problems in your ISO file"
+msgstr "Нередност в свалянето е причинила проблем в ISO файла"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"An error during the burn process that alters the contents of your burned "
+"liveDVD"
+msgstr "Грешка по време на записа е променила съдържанието на живия диск"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The MD5 signature, which is present on the download page, provides a quick "
+"way for you to make sure that your ISO file is exactly like it should be. "
+"So, let’s check the ISO file you just downloaded before we burn it and save "
+"ourselves from a lot of potential problems."
+msgstr ""
+"MD5 подписа, който се намира на страницата за сваляне, Ви предоставя лесен "
+"начин да проверите дали ISO файла е такъв, какъвто трябва да бъде. Затова, "
+"нека проверим какво сме свалили, преди да записваме и да се предпазим от "
+"много потенциални проблеми."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you run any version of Linux you probably already have the md5sum program "
+"installed. Open a terminal and “cd” to the directory where your ISO file is "
+"(for instance, if “linuxmint.iso” is on the Desktop), open a terminal and "
+"type:"
+msgstr ""
+"Ако използвате какъвто и да е Линукс, вие имате програма за проверка на "
+"md5sum. Отворете терминал и \"cd\" до директорията, където е ISO файла "
+"(например, ако  “linuxmint.iso” е на работния плот), например напишете:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                <command>cd ~/Desktop</command>\n"
+"                <command>md5sum "
+"<replaceable>myfile.iso</replaceable></command>\n"
+"            "
+msgstr ""
+"\n"
+"                <command>cd ~/Desktop</command>\n"
+"                <command>md5sum "
+"<replaceable>myfile.iso</replaceable></command>\n"
+"            "
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"This command should output a series of numbers and letters which comprise "
+"the MD5 sum, or signature, of your ISO file. By design, any small change to "
+"the ISO file will cause this signature to be significantly different, "
+"allowing us to verify that the file is exactly as it should be."
+msgstr ""
+"Тази команда ще изведе серия от букви и цифри, които представляват MD5 "
+"сумата, или подписа на Вашия ISO файл. По проект, всяка малка промяна в ISO "
+"файла би променила този подпис значително, позволявайки ни да проверим дали "
+"файла е точно такъв, какъвто трябва да бъде."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Compare that signature with the one on the download page of the Linux Mint "
+"website. If the two signatures are the same, then you know your ISO file is "
+"exactly the same as the original and you can now get ready to burn it on DVD."
+msgstr ""
+"Сравнете подписа с този от страницата за сваляне от сайта на Линукс Минт. "
+"Ако двата подписа са еднакви, тогава може да сте сигурни че Вашето ISO е "
+"точно като оригинала, и вече сте готови да го запишете на DVD."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you happen to run Windows, chances are you don’t have md5sum installed. "
+"You can get it from here: <ulink "
+"url=\"http://www.etree.org/md5com.html\">http://www.etree.org/md5com.html</ul"
+"ink>"
+msgstr ""
+"Ако случайно сте с Windows, най-вероятно нямате инсталирана програма за "
+"md5sum. Може да я вземете от тук: <ulink "
+"url=\"http://www.etree.org/md5com.html\">http://www.etree.org/md5com.html</ul"
+"ink>"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Place the ISO file and the md5sum.exe in the same place (let’s say in C:\\) "
+"and run “cmd.exe”. In the command line environment, type the following "
+"commands:"
+msgstr ""
+"Поставете ISO файла и md5sum.exe на едно място (да кажемв C:\\) и "
+"стартирайте “cmd.exe”. В командния ред напишете:"
+
+#. Tag: screen
+#, no-c-format
+msgid ""
+"\n"
+"                <command>C:</command>\n"
+"                <command>cd \\</command>\n"
+"                <command>md5sum "
+"<replaceable>myfile.iso</replaceable></command>\n"
+"            "
+msgstr ""
+"\n"
+"                <command>C:</command>\n"
+"                <command>cd \\</command>\n"
+"                <command>md5sum "
+"<replaceable>myfile.iso</replaceable></command>\n"
+"            "
+
+#. Tag: para
+#, no-c-format
+msgid "Then compare the signature to the one present on the website."
+msgstr "След това сравнете представения подпис с този от сайта."
+
+#. Tag: title
+#, no-c-format
+msgid "Burn the ISO to DVD"
+msgstr "Записване ISO на DVD"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Now that you have checked the ISO file with MD5, you are ready to burn it to "
+"a DVD."
+msgstr ""
+"Сега, след като проверихте ISO файла с MD5, вече сте готови да го запишете "
+"на DVD"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Get a blank DVD-R (a DVD-RW should work as well, but this type of media is "
+"known to have compatibility issues) and your favorite marker and label the "
+"DVD. Although labeling your DVDs sounds trivial, you should be sure to do "
+"so, as you can easily end up with 20 unlabeled and unidentifiable discs on "
+"your desk. :)"
+msgstr ""
+"Вземете празен DVD-R (DVD-RW също би работил, но е известно че този тип "
+"дискове създават проблеми със съвместимостта) от Вашата любима марка и го "
+"надпишете. Надписването на дисковете може да звучи тривиално, но ако спрете "
+"да го правите, бързо ще се сдобиете с 20 не надписани и неразпознаваеми "
+"диска на бюрото си. :)"
+
+#. Tag: para
+#, no-c-format
+msgid "Insert the blank DVD-R in the drive and get ready to burn the ISO."
+msgstr ""
+"Поставете празен DVD-R в записвачката и сте готови за запис на ISO файла."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you’re running Linux with Cinnamon right-click on the ISO file and "
+"select: open with: Brasero, choose “Burn image” and follow the steps given "
+"there."
+msgstr ""
+"Ако използвате Линукс Минт със Cinnamon, с десен клик на ISO-то изберете: "
+"отвори с: Brasero и изберете \"Запис на образ\" (Burn image) и следвайте "
+"стъпките."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you’re running Linux with KDE, launch K3B and in the “Tools” menu choose "
+"“Write ISO Image”."
+msgstr ""
+"Ако използвате Линукс с KDE, стартирайте K3B и от менюто \"Инструменти\" "
+"изберете \"Запис на ISO образ\" (Write ISO Image)."
+
+#. Tag: para
+#, no-c-format
+msgid "If you’re running Windows you can use a program like InfraRecorder."
+msgstr "Ако сте с Windows, може да използвате програма като InfraRecorder."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Make sure to burn the ISO image to disk, and not to write the ISO file to "
+"the disk. A very common mistake, especially for people using Nero, is to "
+"actually burn the ISO file on the disk as a data file. The ISO file is an "
+"image of a disk so it needs to be burnt not as a file which will appear on "
+"the disk, but as an ISO image which will be decompressed and whose content "
+"will be burnt onto the disc. After burning the DVD you shouldn't see the ISO "
+"file within the disc, but rather folders like “casper” or “isolinux”. Most "
+"burning software has a special option for this."
+msgstr ""
+"Убедете се че записвате ISO образа на диска, а не ISO файла. Това е много "
+"често срещана грешка, особено сред хората използващи Nero, те всъщност "
+"записват ISO файла като файл с данни. ISO файла е образ на диск, той трябва "
+"да се запише не като файл, който седи на диска, а като декомпресиран образ, "
+"чието съдържание съдържание се записва. След записа на DVD-то, там не трябва "
+"да има ISO файл, а редица папки като “casper” или “isolinux”. Повечето "
+"програми имат специална опция за това."
+
+#. Tag: title
+#, no-c-format
+msgid "Boot the LiveDVD"
+msgstr "Стартиране на живия диск"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Place the DVD in the drive and restart the computer. You should now see the "
+"following screen:"
+msgstr ""
+"Поставете DVD диска в устройството и рестартирайте компютъра. Трябва да "
+"видите следния екран:"
+
+#. Tag: title
+#, no-c-format
+msgid "The boot screen"
+msgstr "Стартиращ екран"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you don’t see this screen and your PC boots as usual it’s probably "
+"because your BIOS is not set to boot on DVD. Restart the computer and press "
+"F1, F2, Delete, or Escape (or whatever key lets you enter the BIOS "
+"configuration) and change your BIOS settings to tell your computer to boot "
+"from its DVD drive."
+msgstr ""
+"Ако не видите този екран и вашият компютър стартира по обичайния начин, "
+"вероятно BIOS-а не е настроен да стартира от DVD. Рестартирайте компютъра и "
+"натиснете F1, F2, Delete, или Escape (или клавиша, с който влизате в "
+"настройките на BIOS), за да промените настройките на BIOS, за да може да "
+"стартира от DVD устройството."
+
+#. Tag: title
+#, no-c-format
+msgid "Install Linux Mint on your hard drive"
+msgstr "Инсталиране на Линукс минт на хард диска"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"From the first screen choose the default <guilabel>Start Linux "
+"Mint</guilabel> option and press Enter. After a little while the live system "
+"should be ready and you should see the desktop."
+msgstr ""
+"В първия екран изберете опцията <guilabel>Start Linux Mint</guilabel> и "
+"натиснете Enter. След малко живата система ще е готова и трябва да видите "
+"работния плот."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"At this stage Linux Mint is not installed on your computer, it’s simply "
+"running from the DVD. The system you have in front of you is, however, "
+"almost exactly the same as the one you will have on your computer after the "
+"installation is finished."
+msgstr ""
+"На този етап Линукс Минт не е инсталиран на Вашия компютър, той просто е "
+"стартиран от DVD-то. Системата пред Вас е почти същата като тази, която ще "
+"имате след инсталацията."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Have fun with it and see if you like it. Bear in mind that when running from "
+"the DVD, Linux Mint runs significantly slower than it does when it is "
+"installed on a hard drive, since it has to read data from the DVD drive, "
+"which is a slower medium than the hard drive."
+msgstr ""
+"Позабавлявайте се, вижте дали Ви харесва. Имайте предвид че от DVD Линукс "
+"Минт работи значително по-бавно, отколкото ако е инсталирано на твърд диск, "
+"четенето на данни от диска е сравнително по-бавно, отколкото от хард диск."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"When you are ready, double-click on the <guilabel>Install Linux "
+"Mint</guilabel> icon located on the desktop. The Installer appears:"
+msgstr ""
+"Когато сте готови, двоен клик на иконката на <guilabel>Install Linux "
+"Mint</guilabel>. Ще се отвори инсталатора:"
+
+#. Tag: title
+#, no-c-format
+msgid "The language selection screen"
+msgstr "Екран за избор на език"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you haven’t read the release notes yet, and you have an Internet "
+"connection, then this an ideal opportunity to review them; simply click on "
+"the underlined link. It is highly recommended that users read the release "
+"notes prior to installation in order to advise themselves of new features, "
+"as well as any issues that might affect their particular hardware "
+"configuration."
+msgstr ""
+"Ако все още не сте прочели бележките за версията и имате интернет, сега "
+"имате идеална възможност да се запознаете с тях. Просто кликнете на "
+"подчертания линк. Силно препоръчително е потребителите да прочетат тези "
+"бележки преди инсталацията, както за да се запознаят с новите възможности, "
+"така и с някои проблеми, които биха могли да засегнат конкретен хардуер."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Select your language and press the <guibutton>Continue</guibutton> button."
+msgstr "Изберете Вашия език и натиснете бутона <guibutton>Напред</guibutton>"
+
+#. Tag: title
+#, no-c-format
+msgid "Checking that everything is fine..."
+msgstr "Проверка дали всичко е наред..."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In the next screen, make sure you're connected to a power source (if you're "
+"using a laptop), the Internet and that you have the recommended amount of "
+"disk space. Then press the <guibutton>Continue</guibutton> button."
+msgstr ""
+"В следващия екран ще проверите дали ще включили зарядното (ако сте с "
+"лаптоп), интернета и дали имате достатъчно дисково пространство. След това "
+"натиснете бутона <guibutton>Напред</guibutton>."
+
+#. Tag: title
+#, no-c-format
+msgid "Choosing an installation type"
+msgstr "Избиране на вид на инсталацията"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"In the next screen you can assign your entire hard drive to Linux Mint or "
+"install it alongside other operating systems. Alternatively, you can also "
+"define and assign the partitions manually."
+msgstr ""
+"От следващия екран, може да изберете дали да дадете целия диск на Линукс "
+"Минт или да го инсталирате заедно с друга операционна система. Също така "
+"може да отделите и зададете дял от диска ръчно."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you choose to use the entire disk, its content will be erased and Linux "
+"Mint will be installed as the only operating system on your computer."
+msgstr ""
+"Ако изберете да използвате целия диск, неговото съдържание ще бъде изтрито и "
+"Линукс Минт ще бъде инсталиран като единствена операционна система."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you choose to install it alongside other operating systems, the installer "
+"will use the free space available on other partitions to create a new one "
+"for Linux Mint. You will be asked how much space you want to allocate to it. "
+"The installer will then shrink a partition and take care of everything for "
+"you. Post-installation your computer will have a boot screen from which "
+"you'll be able to boot all your operating systems."
+msgstr ""
+"Ако изберете да го инсталирате заедно с друга операционни системи, "
+"инсталатора ще използва свободното място от друг дял, за да създаде от него "
+"дял за Линукс Минт. Ще бъдете попитани, колко място искате да отделите. "
+"Инсталатора ще свие съществуващия дял и ще се погрижи за всичко вместо Вас. "
+"След инсталацията, компютъра ще има стартиращ екран, от който ще може да "
+"стартирате всяка операционна система."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you choose to specify partitions manually, a partition editor will "
+"appear, giving you full control over the partitioning of your hard drive. "
+"This is recommended only to advanced users who understand how partitioning "
+"works under Linux. Note that Linux Mint requires a partition of at least 6GB "
+"and that the recommended size for a swap partition is 1.5 times the amount "
+"of RAM available on the computer."
+msgstr ""
+"Ако изберете да зададете дял ръчно, ще се отвори редактора на дискове и ще "
+"имате пълен контрол върху Вашия диск. Това се препоръчва само на опитни "
+"потребители, които знаят как да разделят диск под Линукс. Знайте че Линукс "
+"Минт изисква дял от поне 6ГБ и препоръчителния swap дял е 1,5 пъти размера "
+"на RAM."
+
+#. Tag: title
+#, no-c-format
+msgid "The installation summary screen"
+msgstr "Екран за обобщение на инсталация"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Choose the appropriate option and click on the <guibutton>Install "
+"Now</guibutton> button. At this stage, the installation is going on in the "
+"background and the installer asks you setup questions:"
+msgstr ""
+"Изберете подходящите опции и натиснете бутона "
+"<guibutton>Инсталация</guibutton>. На този етап инсталацията върви на заден "
+"фон а инсталатора Ви задава въпроси:"
+
+#. Tag: title
+#, no-c-format
+msgid "Choosing a timezone"
+msgstr "Избор на часова зона"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Choose your location on the map by clicking on the city which is the nearest "
+"to you. The purpose of this step is to identify your time zone. Make sure "
+"the <guilabel>Current time</guilabel> appears correctly and click the "
+"<guibutton>Continue</guibutton> button."
+msgstr ""
+"Изберете Вашата локация, като цъкнете на град, който е най-близо до Вас. "
+"Целта на тази стъпка е да определите часовата зона. Убедете се че "
+"<guilabel>Текущия час</guilabel> е правилен и натиснете бутона "
+"<guibutton>Напред</guibutton>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Sometimes the installer doesn't properly handle Summer/Winter time "
+"adjustments, so even by selecting the proper city you might see a difference "
+"of an hour or so with the correct time. Simply ignore this at this stage and "
+"remember to make sure that the time is correct after you reboot in your "
+"newly installed Linux Mint desktop."
+msgstr ""
+"Понякога инсталатора не се справя добре с Лятно/Зимно часово време, така че "
+"след правилна настройка на града, може да видите разлика от час. Игнорирайте "
+"това на този етап, но помнете да проверите дали часа е правилен след "
+"рестарта с новата инсталация на Линукс Минт."
+
+#. Tag: title
+#, no-c-format
+msgid "Choosing a keyboard layout"
+msgstr "Избор на клавиатурна подредба"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Select your keyboard layout. If you are not sure about exactly which layout "
+"matches the keyboard you have, click on the text field at the bottom of the "
+"screen and start typing with your keyboard. Make sure the keys you press "
+"match the characters that appear in the text field in order to ensure you "
+"have selected the right keyboard layout. Some layouts only differ with "
+"respect to accents, numbers and punctuation signs, so make sure to test "
+"these as well."
+msgstr ""
+"Изберете Вашата клавиатурна подредба. Ако не сте сигурни за точната "
+"подредба, съвпадаща с клавиатурата, която имате, кликнете на текстово поле в "
+"дъното на екрана и започнете да пишете. Убедете се че клавишите, които "
+"натискате съвпадат със символите, които се появяват в текстовото поле. Някои "
+"подредби се различават само по отношение на ударения, цифри и препинателни "
+"знаци, така че тествайте и тях и се уверете, че всичко е наред."
+
+#. Tag: para
+#, no-c-format
+msgid "When you’re ready click the <guibutton>Continue</guibutton> button."
+msgstr "Когато сте готови натиснете бутона <guibutton>Напред</guibutton>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Enter your real name and a username and password. Every time you’ll use "
+"Linux Mint you’ll use your account with this username and password. Once "
+"Linux Mint is installed you’ll be able to define other accounts if other "
+"people are to use this computer."
+msgstr ""
+"Въведете истинското си име, потребителско име и парола. Всеки път, като "
+"ползвате Линукс Минт, Вие ще използвате Вашия акаунт с това потребителско "
+"име и парола. След инсталацията ще може да създадете други акаунти, ако има "
+"и други хора, които ползват компютъра."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Also give your computer a name. This name will be used by your computer on "
+"the network or in various places of the system. If you’ve never really "
+"thought about naming your computers, then now is the time. People commonly "
+"pick flower (dahlia, rose, tulip) or planet (mars, jupiter, pluto) names for "
+"the computers on their network. It’s entirely up to you what you want to "
+"use, but make sure to pick a name you like and that you will easily remember."
+msgstr ""
+"Също така, дайте на компютъра име. Това ще бъде използвано от компютъра в "
+"мрежата и на други места в системата. Ако никога не сте замисляли да "
+"именувате компютрите си, сега е времето. Повечето хора избират имена на "
+"цветя (далия, роза, лале) или имена на планети (марс, юпитер, плутон), за да "
+"именуват компютрите в техните мрежи. Зависи изцяло от Вас, но избирайте "
+"имена, които Ви харесват, и които се помнят лесно."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Capital letters, spaces and special characters are not permitted in the "
+"username or in the name of the computer."
+msgstr ""
+"Главни букви, интервали и специални символи не се разрешени за потребителско "
+"име или за име на компютър."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you're the only one using the computer and you want to bypass the login "
+"screen, check the option <guilabel>Log in automatically</guilabel>."
+msgstr ""
+"Ако Вие сте единствения, който ползва компютъра и искате да пропуснете "
+"екрана за вписване, маркирайте опцията <guilabel>Автоматично "
+"вписване</guilabel>."
+
+#. Tag: para
+#, no-c-format
+msgid "When you’re ready click on the <guibutton>Forward</guibutton> button."
+msgstr "Когато сте готови натиснете бутона <guibutton>Напред</guibutton>."
+
+#. Tag: title
+#, no-c-format
+msgid "The user settings screen"
+msgstr "Екран за потребителски настройки"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The installer might detect other operating systems on your computer and ask "
+"you if you want to migrate some personal information. Typically this allows "
+"you to migrate bookmarks, contacts, favorites and other sorts of personal "
+"information from other operating systems installed on your hard disk drive "
+"into the newly installed Linux Mint. When you’re ready click on the "
+"<guibutton>Continue</guibutton> button."
+msgstr ""
+"Инсталатора може да засече други операционни системи, инсталирани на Вашия "
+"компютър и да попита дали искате да внесете някои лични данни. Обикновено "
+"това са отметки, контакти, предпочитани и други видове данни от другите "
+"операционни системи в новата инсталация на Линукс Минт. Когато сте готови "
+"натиснете бутона <guibutton>Напред</guibutton>."
+
+#. Tag: title
+#, no-c-format
+msgid "The installation usually takes between 10 and 15 minutes"
+msgstr "Инсталацията обичайно отнема между 10 и 15 минути"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The installer will download packages from the Internet to support the "
+"language you’ve selected. Your computer needs to be connected to the "
+"Internet for this to work. Otherwise just <guibutton>skip</guibutton> that "
+"step and you’ll be able to add support for your language after the "
+"installation is finished and you’ve rebooted into your new system."
+msgstr ""
+"Инсталатора ще свали пакетите от интернет, необходими за избрания от Вас "
+"език. Нужна е връзка с интернет, за да се случи това. Ако не, просто "
+"натиснете бутона <guibutton>skip</guibutton>. Ще имате възможност да "
+"добавите езиковата поддръжка след инсталацията, след като заредите новата "
+"система ."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Once the installation is done click the <guibutton>Restart Now</guibutton> "
+"button and the liveDVD or LiveUSB environment will shut down."
+msgstr ""
+"След приключване на инсталацията натиснете бутона <guibutton>Restart "
+"Now</guibutton> и живото DVD или USB ще се изключи."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"When prompted, remove the DVD from the drive or remove the USB and press "
+"Enter. Your PC is now ready to boot Linux Mint from the hard drive."
+msgstr ""
+"Когато бъдете подканени, извадете диска или флашката и натиснете Enter. "
+"Компютъра вече е готов да стартира с  Линукс Минт от твърдия диск."
+
+#. Tag: title
+#, no-c-format
+msgid "Reboot the computer"
+msgstr "Рестартиране на компютъра"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Upon reboot, if you have more than one operating system installed, you "
+"should see a boot menu. Once Linux Mint is finished loading you should see a "
+"new screen inviting you to enter your username and password. This screen is "
+"the “MDM Login Manager” and is commonly called “MDM”. Enter the password you "
+"chose during the installation."
+msgstr ""
+"Ако имате повече от една операционна система, по време на стартирането ще "
+"видите менюто за избор на система. След като Линукс Минт се зареди, ще Ви "
+"покани да въведете потребителско име и парола. Този екран се нарича “MDM "
+"Login Manager” , или накратко \"MDM\". Въведете паролата, която избрахте по "
+"време на инсталацията."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"By default, your “root” password is the same as the password you chose "
+"during the installation. If you do not know what this means, then don't "
+"worry about it."
+msgstr ""
+"По подразбиране, Вашата парола за \"Root\" е същата, като паролата, която си "
+"избрахте по време на инсталацията. Ако не знаете какво означава това, не се "
+"тревожете."

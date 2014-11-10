@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-10-14 19:16+0000\n"
+"PO-Revision-Date: 2014-11-05 18:50+0000\n"
 "Last-Translator: tomoe_musashi <hkg.musashi@gmail.com>\n"
 "Language-Team: Chinese (Hong Kong) <zh_HK@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-31 01:01+0000\n"
-"X-Generator: Launchpad (build 17211)\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:03+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
 #, no-c-format
@@ -53,7 +53,7 @@ msgid ""
 "middle button pastes. It's as simple as that!"
 msgstr ""
 "多數人習慣點擊 <guimenu>編輯</guimenu> 選單或按滑鼠右鍵選單來複製內容。在 Linux Mint "
-"您也可以這樣做，不過，您可以更輕鬆地使用滑鼠來複製和貼上內容。點擊滑鼠左鍵就可以複製，而點擊滑鼠中鍵就可以貼上。很簡單吧！"
+"您亦可以這樣做，不過，您可以更輕鬆地使用滑鼠來複製和貼上內容。點擊滑鼠左鍵就可以複製，而點擊滑鼠中鍵就可以貼上。很簡單吧！"
 
 #. Tag: para
 #, no-c-format

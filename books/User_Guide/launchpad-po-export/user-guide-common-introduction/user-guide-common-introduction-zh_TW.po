@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-10-11 17:19+0000\n"
+"PO-Revision-Date: 2014-11-06 20:23+0000\n"
 "Last-Translator: Steven Liao <stevenliao0119@yahoo.com.tw>\n"
 "Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
-"X-Generator: Launchpad (build 17211)\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:02+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
 #, no-c-format
@@ -40,9 +40,9 @@ msgid ""
 "as to which operating system to start at each boot-up) during its "
 "installation."
 msgstr ""
-"Linux Mint 的角色與微軟 Windows，蘋果 Mac OS，或 FreeBSD 等作業系統相似。Linux Mint "
+"Linux Mint 的角色與微軟 Windows，蘋果 Mac OS，或 FreeBSD 等作業系統類似。Linux Mint "
 "也是被設計來配合其他作業系統 (包含以上作業系統) 進行工作，並可以在安裝過程中自動設定一個 <wordasword>雙開機</wordasword> "
-"或 <wordasword>多重開機</wordasword> 環境 (使用者會被提示選擇欲啟動的作業系統)。"
+"或 <wordasword>多重開機</wordasword> 環境 (使用者會被提示選擇要啟動的作業系統)。"
 
 #. Tag: para
 #, no-c-format
@@ -74,7 +74,7 @@ msgid ""
 "desktop the operating system also provides a huge collection of available "
 "software and a very well integrated set of services."
 msgstr ""
-"Linux Mint 計畫專注於打造好上手，高效率，適合一般使用者日常使用的桌面環境。桌面下的作業系統，也提供了大量可用的軟體與整合完善的服務。"
+"Linux Mint 計畫專注於打造好上手，高效率，適合一般使用者日常使用的桌面環境。桌面底下的作業系統，也提供了大量可用的軟體與整合完善的服務。"
 
 #. Tag: para
 #, no-c-format
@@ -94,7 +94,7 @@ msgid ""
 "The purpose of Linux Mint is to provide a desktop operating system that home "
 "users and companies can use at no cost and which is as efficient, easy to "
 "use, and elegant as possible."
-msgstr "打造 Linux Mint 的目的，是要提供家庭與企業使用者一個免費又高效，簡潔而雅緻的桌面作業系統。"
+msgstr "打造 Linux Mint 的目的，是要提供家庭與企業使用者一個免費而高效，簡潔而雅緻的桌面作業系統。"
 
 #. Tag: para
 #, no-c-format
@@ -103,7 +103,7 @@ msgid ""
 "operating system available by making it easy for people to get to use "
 "advanced technologies, rather than by simplifying them (and thereby reducing "
 "their capabilities), or by copying the approaches taken by other developers."
-msgstr "Linux Mint 計畫的使命之一，是讓使用者能簡單地使用先進科技，而非簡化功能或抄襲其他開發者的構思，來打造最好的作業系統。"
+msgstr "Linux Mint 計畫的使命之一，是要讓使用者能輕鬆使用先進技術，而非簡化功能或抄襲其他開發者的構思，來打造最好的作業系統。"
 
 #. Tag: para
 #, no-c-format
@@ -111,7 +111,7 @@ msgid ""
 "The goal is to develop our own idea of the ideal desktop. We think that it "
 "is best to make the most out of the modern technologies that exist under "
 "Linux and make it easy for everybody to use its most advanced features."
-msgstr "我們的目標，是要用我們自己的點子，打造一個理想的桌面。我們希望能使用最先進的 Linux 科技，並讓每個人都能使用這些最進階的功能。"
+msgstr "我們的目標，是用我們自己的創意來打造一個理想桌面。我們想使用最先進的 Linux 技術，並讓每個人都能使用最進階的功能。"
 
 #. Tag: title
 #, no-c-format
@@ -136,7 +136,7 @@ msgid ""
 "Since version 5, Linux Mint has followed a 6 months release cycle and uses a "
 "simplified version scheme. The version number simply gets incremented every "
 "6 months."
-msgstr "從版本 5 開始，Linux Mint 依照一個 6 個月的發布週期，並使用簡化的版本計畫。版本數每 6 個月增加一次。"
+msgstr "從版本 5 開始，Linux Mint 依照一個 6 個月的發布週期，並使用簡化的版本計畫。版本數每 6 個月增加 1 次。"
 
 #. Tag: para
 #, no-c-format
@@ -156,7 +156,7 @@ msgid ""
 "letter of the codename corresponds to the index of the version number in the "
 "alphabet."
 msgstr ""
-"Linux Mint 的代號一向使用 <wordasword>a</wordasword> 結尾的女生名字。代號的第一個字母，會依照字母順序對應到版本數。"
+"Linux Mint 的代號一向使用 <wordasword>a</wordasword> 結尾的女性名稱。代號的第一個字母，會依照字母順序對應至版本數。"
 
 #. Tag: para
 #, no-c-format
@@ -426,8 +426,8 @@ msgid ""
 "USA or in Japan and if you're not sure about patent legislation you should "
 "use the <guilabel>No Codecs</guilabel> installation images."
 msgstr ""
-"如果您打算在美國或日本發行 Linux Mint，或拿來作為商業用途，卻不熟悉專利法規，您則應該使用 <guilabel>No "
-"Codecs</guilabel> 的安裝映像檔。"
+"如果您打算在美國或日本發行 Linux Mint，或拿來作為商業用途，卻不熟悉專利法規，您則應該使用 <guilabel>No Codecs "
+"(無編解碼器)</guilabel> 的安裝映像檔。"
 
 #. Tag: title
 #, no-c-format
@@ -440,7 +440,7 @@ msgid ""
 "The Linux Mint community is very helpful and very active. If you have "
 "questions or a problem related to Linux Mint, you should be able to get help "
 "from other users online."
-msgstr "Linux Mint 的社群非常熱心又有活力。如果您有與 Linux Mint 相關的問題，可以向其他線上使用者尋求協助。"
+msgstr "Linux Mint 的社群非常熱心也非常有活力。如果您有與 Linux Mint 相關的問題，可以向其他線上使用者尋求協助。"
 
 #. Tag: para
 #, no-c-format
@@ -451,9 +451,9 @@ msgid ""
 "url=\"http://www.linuxmint.com/forum\">http://www.linuxmint.com/forum</ulink>"
 "."
 msgstr ""
-"首先，記得在 <guilabel>Linux Mint Forums (討論區)</guilabel> 註冊。這是您最容易得到協助的地方: <ulink "
-"url=\"http://www.linuxmint.com/forum\">http://www.linuxmint.com/forum</ulink>"
-"。"
+"首先，記得在 <guilabel>Linux Mint Forums (討論區)</guilabel> 註冊。這裡是您最容易得到協助的地方: "
+"<ulink url=\"http://www.linuxmint.com/forum\">http://www.linuxmint.com/forum<"
+"/ulink>。"
 
 #. Tag: para
 #, no-c-format
@@ -465,8 +465,8 @@ msgid ""
 "channels <guilabel>#linuxmint-help</guilabel> and <guilabel>#linuxmint-"
 "chat</guilabel>."
 msgstr ""
-"您可以連接到 IRC 聊天室找其他使用者聊天。您可以從選單啟動 <guilabel>Hexchat</guilabel>。如果您使用其他作業系統或其他 "
-"IRC 客戶端軟體，請記得連接到 <guilabel>irc.spotchat.org</guilabel> 伺服器並加入下列頻道:  "
+"您可以連線至 IRC 聊天室找其他使用者聊天。您可以從選單啟動 <guilabel>Hexchat</guilabel>。您如果使用其他作業系統或其他 "
+"IRC 客戶端軟體，請記得連接至 <guilabel>irc.spotchat.org</guilabel> 伺服器並加入下列頻道:  "
 "<guilabel>#linuxmint-help</guilabel> 與 <guilabel>#linuxmint-chat</guilabel>。"
 
 #. Tag: para
@@ -485,6 +485,6 @@ msgid ""
 msgstr ""
 "Linux Mint 使用 Ubuntu <footnote><para>Ubuntu 是另外一個基於 GNU/Linux "
 "的作業系統。</para></footnote> 套件庫 <footnote><para>套件庫是一種提供作業系統軟體與更新的線上服務。多數基於 "
-"GNU/Linux 的作業系統都使用套件庫，並經由 HTTP 或 FTP 來連接以安裝或升級軟體。</para></footnote>，而且多數 "
-"Ubuntu 的資源，文章，教學，與軟體也可以應用在 Linux Mint。如果您無法從 Linux Mint 社群取得特定問題的解決方案，可以試著在 "
+"GNU/Linux 的作業系統都使用套件庫，並經由 HTTP 或 FTP 來連線以安裝或升級軟體。</para></footnote>，而且大多數的 "
+"Ubuntu 資源，文章，教學，與軟體也可以應用在 Linux Mint。如果您無法從 Linux Mint 社群取得特定問題的解決方案，可以試著在 "
 "Ubuntu 社群搜尋相關問題。"

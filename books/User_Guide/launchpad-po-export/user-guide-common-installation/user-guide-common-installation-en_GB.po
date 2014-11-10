@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-10-29 09:46+0000\n"
+"PO-Revision-Date: 2014-11-06 22:44+0000\n"
 "Last-Translator: Andi Chandler <Unknown>\n"
 "Language-Team: English (United Kingdom) <en_GB@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
-"X-Generator: Launchpad (build 17211)\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:02+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
 #, no-c-format
@@ -37,6 +37,17 @@ msgid ""
 "DVD and place it into your computer, you can try it out while leaving your "
 "current system intact."
 msgstr ""
+"You can download the Linux Mint operating system for free. It comes as an "
+"ISO file which you need to burn to a blank DVD<footnote><para>It is also "
+"possible to write the ISO image to a USB stick or other memory device and "
+"boot from that, or to boot from the ISO image on the hard drive, but these "
+"options are somewhat more advanced and the method presented here is "
+"recommended. For help with alternative methods of installing and running "
+"Linux Mint, please visit the forums.</para></footnote>. The liveDVD is then "
+"bootable and provides a fully-functional operating system which you can try "
+"without affecting your PC. In layman's terms, when you put Linux Mint on a "
+"DVD and place it into your computer, you can try it out while leaving your "
+"current system intact."
 
 #. Tag: para
 #, no-c-format
@@ -419,6 +430,12 @@ msgid ""
 "<replaceable>myfile.iso</replaceable></command>\n"
 "            "
 msgstr ""
+"\n"
+"                <command>C:</command>\n"
+"                <command>cd \\</command>\n"
+"                <command>md5sum "
+"<replaceable>myfile.iso</replaceable></command>\n"
+"            "
 
 #. Tag: para
 #, no-c-format
@@ -496,6 +513,14 @@ msgid ""
 "file within the disc, but rather folders like “casper” or “isolinux”. Most "
 "burning software has a special option for this."
 msgstr ""
+"Make sure to burn the ISO image to disk, and not to write the ISO file to "
+"the disk. A very common mistake, especially for people using Nero, is to "
+"actually burn the ISO file on the disk as a data file. The ISO file is an "
+"image of a disk so it needs to be burnt not as a file which will appear on "
+"the disk, but as an ISO image which will be decompressed and whose content "
+"will be burnt onto the disc. After burning the DVD you shouldn't see the ISO "
+"file within the disc, but rather folders like “casper” or “isolinux”. Most "
+"burning software has a special option for this."
 
 #. Tag: title
 #, no-c-format
@@ -508,6 +533,8 @@ msgid ""
 "Place the DVD in the drive and restart the computer. You should now see the "
 "following screen:"
 msgstr ""
+"Place the DVD in the drive and restart the computer. You should now see the "
+"following screen:"
 
 #. Tag: title
 #, no-c-format
@@ -523,11 +550,16 @@ msgid ""
 "configuration) and change your BIOS settings to tell your computer to boot "
 "from its DVD drive."
 msgstr ""
+"If you don’t see this screen and your PC boots as usual it’s probably "
+"because your BIOS is not set to boot on DVD. Restart the computer and press "
+"F1, F2, Delete, or Escape (or whatever key lets you enter the BIOS "
+"configuration) and change your BIOS settings to tell your computer to boot "
+"from its DVD drive."
 
 #. Tag: title
 #, no-c-format
 msgid "Install Linux Mint on your hard drive"
-msgstr ""
+msgstr "Install Linux Mint on your hard drive"
 
 #. Tag: para
 #, no-c-format
@@ -561,6 +593,10 @@ msgid ""
 "installed on a hard drive, since it has to read data from the DVD drive, "
 "which is a slower medium than the hard drive."
 msgstr ""
+"Have fun with it and see if you like it. Bear in mind that when running from "
+"the DVD, Linux Mint runs significantly slower than it does when it is "
+"installed on a hard drive, since it has to read data from the DVD drive, "
+"which is a slower medium than the hard drive."
 
 #. Tag: para
 #, no-c-format
@@ -568,11 +604,13 @@ msgid ""
 "When you are ready, double-click on the <guilabel>Install Linux "
 "Mint</guilabel> icon located on the desktop. The Installer appears:"
 msgstr ""
+"When you are ready, double-click on the <guilabel>Install Linux "
+"Mint</guilabel> icon located on the desktop. The Installer appears:"
 
 #. Tag: title
 #, no-c-format
 msgid "The language selection screen"
-msgstr ""
+msgstr "The language selection screen"
 
 #. Tag: para
 #, no-c-format
@@ -584,17 +622,24 @@ msgid ""
 "as well as any issues that might affect their particular hardware "
 "configuration."
 msgstr ""
+"If you haven’t read the release notes yet, and you have an Internet "
+"connection, then this an ideal opportunity to review them; simply click on "
+"the underlined link. It is highly recommended that users read the release "
+"notes prior to installation in order to advise themselves of new features, "
+"as well as any issues that might affect their particular hardware "
+"configuration."
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Select your language and press the <guibutton>Continue</guibutton> button."
 msgstr ""
+"Select your language and press the <guibutton>Continue</guibutton> button."
 
 #. Tag: title
 #, no-c-format
 msgid "Checking that everything is fine..."
-msgstr ""
+msgstr "Checking that everything is fine..."
 
 #. Tag: para
 #, no-c-format
@@ -603,11 +648,14 @@ msgid ""
 "using a laptop), the Internet and that you have the recommended amount of "
 "disk space. Then press the <guibutton>Continue</guibutton> button."
 msgstr ""
+"In the next screen, make sure you're connected to a power source (if you're "
+"using a laptop), the Internet and that you have the recommended amount of "
+"disk space. Then press the <guibutton>Continue</guibutton> button."
 
 #. Tag: title
 #, no-c-format
 msgid "Choosing an installation type"
-msgstr ""
+msgstr "Choosing an installation type"
 
 #. Tag: para
 #, no-c-format
@@ -616,6 +664,9 @@ msgid ""
 "install it alongside other operating systems. Alternatively, you can also "
 "define and assign the partitions manually."
 msgstr ""
+"In the next screen you can assign your entire hard drive to Linux Mint or "
+"install it alongside other operating systems. Alternatively, you can also "
+"define and assign the partitions manually."
 
 #. Tag: para
 #, no-c-format
@@ -623,6 +674,8 @@ msgid ""
 "If you choose to use the entire disk, its content will be erased and Linux "
 "Mint will be installed as the only operating system on your computer."
 msgstr ""
+"If you choose to use the entire disk, its content will be erased and Linux "
+"Mint will be installed as the only operating system on your computer."
 
 #. Tag: para
 #, no-c-format
@@ -634,6 +687,12 @@ msgid ""
 "you. Post-installation your computer will have a boot screen from which "
 "you'll be able to boot all your operating systems."
 msgstr ""
+"If you choose to install it alongside other operating systems, the installer "
+"will use the free space available on other partitions to create a new one "
+"for Linux Mint. You will be asked how much space you want to allocate to it. "
+"The installer will then shrink a partition and take care of everything for "
+"you. Post-installation your computer will have a boot screen from which "
+"you'll be able to boot all your operating systems."
 
 #. Tag: para
 #, no-c-format
@@ -645,11 +704,17 @@ msgid ""
 "and that the recommended size for a swap partition is 1.5 times the amount "
 "of RAM available on the computer."
 msgstr ""
+"If you choose to specify partitions manually, a partition editor will "
+"appear, giving you full control over the partitioning of your hard drive. "
+"This is recommended only to advanced users who understand how partitioning "
+"works under Linux. Note that Linux Mint requires a partition of at least 6GB "
+"and that the recommended size for a swap partition is 1.5 times the amount "
+"of RAM available on the computer."
 
 #. Tag: title
 #, no-c-format
 msgid "The installation summary screen"
-msgstr ""
+msgstr "The installation summary screen"
 
 #. Tag: para
 #, no-c-format
@@ -658,11 +723,14 @@ msgid ""
 "Now</guibutton> button. At this stage, the installation is going on in the "
 "background and the installer asks you setup questions:"
 msgstr ""
+"Choose the appropriate option and click on the <guibutton>Install "
+"Now</guibutton> button. At this stage, the installation is going on in the "
+"background and the installer asks you setup questions:"
 
 #. Tag: title
 #, no-c-format
 msgid "Choosing a timezone"
-msgstr ""
+msgstr "Choosing a timezone"
 
 #. Tag: para
 #, no-c-format
@@ -672,6 +740,10 @@ msgid ""
 "the <guilabel>Current time</guilabel> appears correctly and click the "
 "<guibutton>Continue</guibutton> button."
 msgstr ""
+"Choose your location on the map by clicking on the city which is the nearest "
+"to you. The purpose of this step is to identify your time zone. Make sure "
+"the <guilabel>Current time</guilabel> appears correctly and click the "
+"<guibutton>Continue</guibutton> button."
 
 #. Tag: para
 #, no-c-format
@@ -682,11 +754,16 @@ msgid ""
 "remember to make sure that the time is correct after you reboot in your "
 "newly installed Linux Mint desktop."
 msgstr ""
+"Sometimes the installer doesn't properly handle Summer/Winter time "
+"adjustments, so even by selecting the proper city you might see a difference "
+"of an hour or so with the correct time. Simply ignore this at this stage and "
+"remember to make sure that the time is correct after you reboot in your "
+"newly installed Linux Mint desktop."
 
 #. Tag: title
 #, no-c-format
 msgid "Choosing a keyboard layout"
-msgstr ""
+msgstr "Choosing a keyboard layout"
 
 #. Tag: para
 #, no-c-format
@@ -699,11 +776,18 @@ msgid ""
 "respect to accents, numbers and punctuation signs, so make sure to test "
 "these as well."
 msgstr ""
+"Select your keyboard layout. If you are not sure about exactly which layout "
+"matches the keyboard you have, click on the text field at the bottom of the "
+"screen and start typing with your keyboard. Make sure the keys you press "
+"match the characters that appear in the text field in order to ensure you "
+"have selected the right keyboard layout. Some layouts only differ with "
+"respect to accents, numbers and punctuation signs, so make sure to test "
+"these as well."
 
 #. Tag: para
 #, no-c-format
 msgid "When you’re ready click the <guibutton>Continue</guibutton> button."
-msgstr ""
+msgstr "When you’re ready click the <guibutton>Continue</guibutton> button."
 
 #. Tag: para
 #, no-c-format
@@ -713,6 +797,10 @@ msgid ""
 "Linux Mint is installed you’ll be able to define other accounts if other "
 "people are to use this computer."
 msgstr ""
+"Enter your real name and a username and password. Every time you’ll use "
+"Linux Mint you’ll use your account with this username and password. Once "
+"Linux Mint is installed you’ll be able to define other accounts if other "
+"people are to use this computer."
 
 #. Tag: para
 #, no-c-format
@@ -724,6 +812,12 @@ msgid ""
 "the computers on their network. It’s entirely up to you what you want to "
 "use, but make sure to pick a name you like and that you will easily remember."
 msgstr ""
+"Also give your computer a name. This name will be used by your computer on "
+"the network or in various places of the system. If you’ve never really "
+"thought about naming your computers, then now is the time. People commonly "
+"pick flower (Dahlia, Rose, Tulip) or planet (Mars, Jupiter) names for the "
+"computers on their network. It’s entirely up to you what you want to use, "
+"but make sure to pick a name you like and that you will easily remember."
 
 #. Tag: para
 #, no-c-format
@@ -731,6 +825,8 @@ msgid ""
 "Capital letters, spaces and special characters are not permitted in the "
 "username or in the name of the computer."
 msgstr ""
+"Capital letters, spaces and special characters are not permitted in the "
+"username or in the name of the computer."
 
 #. Tag: para
 #, no-c-format
@@ -738,16 +834,19 @@ msgid ""
 "If you're the only one using the computer and you want to bypass the login "
 "screen, check the option <guilabel>Log in automatically</guilabel>."
 msgstr ""
+"If you're the only one using the computer and you want to bypass the login "
+"screen, check the option <guilabel>Log in automatically</guilabel>."
 
 #. Tag: para
 #, no-c-format
 msgid "When you’re ready click on the <guibutton>Forward</guibutton> button."
 msgstr ""
+"When you’re ready click on the <guibutton>Forward</guibutton> button."
 
 #. Tag: title
 #, no-c-format
 msgid "The user settings screen"
-msgstr ""
+msgstr "The user settings screen"
 
 #. Tag: para
 #, no-c-format
@@ -759,11 +858,17 @@ msgid ""
 "into the newly installed Linux Mint. When you’re ready click on the "
 "<guibutton>Continue</guibutton> button."
 msgstr ""
+"The installer might detect other operating systems on your computer and ask "
+"you if you want to migrate some personal information. Typically this allows "
+"you to migrate bookmarks, contacts, favourites and other sorts of personal "
+"information from other operating systems installed on your hard disk drive "
+"into the newly installed Linux Mint. When you’re ready click on the "
+"<guibutton>Continue</guibutton> button."
 
 #. Tag: title
 #, no-c-format
 msgid "The installation usually takes between 10 and 15 minutes"
-msgstr ""
+msgstr "The installation usually takes between 10 and 15 minutes"
 
 #. Tag: para
 #, no-c-format
@@ -774,6 +879,11 @@ msgid ""
 "step and you’ll be able to add support for your language after the "
 "installation is finished and you’ve rebooted into your new system."
 msgstr ""
+"The installer will download packages from the Internet to support the "
+"language you’ve selected. Your computer needs to be connected to the "
+"Internet for this to work. Otherwise just <guibutton>skip</guibutton> that "
+"step and you’ll be able to add support for your language after the "
+"installation is finished and you’ve rebooted into your new system."
 
 #. Tag: para
 #, no-c-format
@@ -781,6 +891,8 @@ msgid ""
 "Once the installation is done click the <guibutton>Restart Now</guibutton> "
 "button and the liveDVD or LiveUSB environment will shut down."
 msgstr ""
+"Once the installation is done click the <guibutton>Restart Now</guibutton> "
+"button and the liveDVD or LiveUSB environment will shut down."
 
 #. Tag: para
 #, no-c-format
@@ -788,11 +900,13 @@ msgid ""
 "When prompted, remove the DVD from the drive or remove the USB and press "
 "Enter. Your PC is now ready to boot Linux Mint from the hard drive."
 msgstr ""
+"When prompted, remove the DVD from the drive or remove the USB and press "
+"Enter. Your PC is now ready to boot Linux Mint from the hard drive."
 
 #. Tag: title
 #, no-c-format
 msgid "Reboot the computer"
-msgstr ""
+msgstr "Reboot the computer"
 
 #. Tag: para
 #, no-c-format
@@ -803,6 +917,11 @@ msgid ""
 "the “MDM Login Manager” and is commonly called “MDM”. Enter the password you "
 "chose during the installation."
 msgstr ""
+"Upon reboot, if you have more than one operating system installed, you "
+"should see a boot menu. Once Linux Mint is finished loading you should see a "
+"new screen inviting you to enter your username and password. This screen is "
+"the “MDM Login Manager” and is commonly called “MDM”. Enter the password you "
+"chose during the installation."
 
 #. Tag: para
 #, no-c-format
@@ -811,3 +930,6 @@ msgid ""
 "during the installation. If you do not know what this means, then don't "
 "worry about it."
 msgstr ""
+"By default, your “root” password is the same as the password you chose "
+"during the installation. If you do not know what this means, then don't "
+"worry about it."

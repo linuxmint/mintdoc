@@ -8,19 +8,19 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-10-18 02:18+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-11-07 06:00+0000\n"
+"Last-Translator: Fernando Carvalho <phaetonkde@gmail.com>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
-"X-Generator: Launchpad (build 17211)\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:02+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Conclusion"
-msgstr ""
+msgstr "Conclusão"
 
 #. Tag: para
 #, no-c-format
@@ -34,8 +34,16 @@ msgid ""
 "and the community is there to help. Take your time and learn a little bit "
 "every day. There's always something new no matter how much you know already."
 msgstr ""
+"Há muito mais a aprender sobre o Linux Mint e Linux em geral. Este guia foi "
+"apenas uma visão geral de alguns dos aspectos relacionados com a sua área de "
+"trabalho. Até agora você deve sentir-se mais confortável em usá-lo, e você "
+"deve ter uma melhor compreensão de alguns dos seus componentes. Qual lugar "
+"será o próximo? Você vai aprender a usar o terminal? Você vai dar outras "
+"áreas de trabalho uma chance? É inteiramente até você. Lembre-se, o Linux é "
+"a diversão e a comunidade está lá para ajudar. Use seu tempo e aprenda um "
+"pouco a cada dia. Há sempre algo novo, não importa o quanto você já sabe."
 
 #. Tag: para
 #, no-c-format
 msgid "Enjoy Linux and thank you for choosing Linux Mint."
-msgstr ""
+msgstr "Aproveite o Linux, e obrigado por ter escolhido Linux Mint."

@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-10-18 02:14+0000\n"
+"PO-Revision-Date: 2014-11-06 21:11+0000\n"
 "Last-Translator: Steven Liao <stevenliao0119@yahoo.com.tw>\n"
 "Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-31 01:01+0000\n"
-"X-Generator: Launchpad (build 17211)\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:03+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
 #, no-c-format
@@ -28,7 +28,7 @@ msgid ""
 "This section of the guide will focus on the technologies and the tools that "
 "are specific to Linux Mint and provide information on some of the "
 "applications and technologies included by default in the MATE Edition."
-msgstr "這個章節會專注於 Linux Mint 特有的科技與工具，並提供一些與 Mate 版內建應用程式與科技相關的資訊。"
+msgstr "這個章節會專注於 Linux Mint 特有的技術與工具，並提供一些與 Mate 版內建應用程式或技術相關的資訊。"
 
 #. Tag: title
 #, no-c-format
@@ -44,9 +44,9 @@ msgid ""
 "of the Preferences menu or by starting to type &ldquo;Wel&rdquo; in the "
 "Search-bar."
 msgstr ""
-"當您第一次啟動新安裝的 Mate "
-"桌面時，您會看到歡迎畫面。您可以讓歡迎畫面每次開機都出現，或者是取消勾選底部的勾選框。您也可以捲動至偏好設定選單底部來找到歡迎畫面，或在搜尋列輸入 "
-"&ldquo;Wel&rdquo; 來啟動。"
+"當您初次啟動新安裝的 Mate 桌面時，您會看到歡迎畫面 "
+"(歡迎畫面每次開機都會出現，直到您取消勾選底端的勾選框)。另外，您也可以捲動至偏好設定選單底端，或在搜尋列輸入 &ldquo;Wel&rdquo; "
+"來啟動歡迎畫面。"
 
 #. Tag: title
 #, no-c-format

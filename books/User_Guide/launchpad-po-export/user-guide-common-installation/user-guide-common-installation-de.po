@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-10-04 00:00+0000\n"
+"PO-Revision-Date: 2014-11-08 13:17+0000\n"
 "Last-Translator: Tobias Bannert <Unknown>\n"
 "Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
-"X-Generator: Launchpad (build 17211)\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:02+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
 #, no-c-format
@@ -132,17 +132,21 @@ msgstr ""
 #, no-c-format
 msgid "If you run Linux Mint you already have a torrent client installed."
 msgstr ""
+"Wenn Sie Linux Mint benutzen, dann haben Sie bereits ein Torrent-Programm "
+"installiert."
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "If you run another Linux distribution, you can install \"Transmission\"."
 msgstr ""
+"Wenn Sie eine anderen Linux-Distribution benutzen, können Sie »Transmission« "
+"installieren."
 
 #. Tag: para
 #, no-c-format
 msgid "If you run Windows you can use µTorrent."
-msgstr ""
+msgstr "Wenn Sie Windows benutzen, können Sie µTorrent benutzen."
 
 #. Tag: title
 #, no-c-format

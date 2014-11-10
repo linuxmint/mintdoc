@@ -8,19 +8,19 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-10-21 21:01+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-11-07 10:28+0000\n"
+"Last-Translator: Fernando Carvalho <phaetonkde@gmail.com>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
-"X-Generator: Launchpad (build 17211)\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:02+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Introduction to Linux Mint"
-msgstr ""
+msgstr "Introdução ao Linux Mint"
 
 #. Tag: para
 #, no-c-format
@@ -28,6 +28,8 @@ msgid ""
 "Linux Mint is a computer operating system designed to work on most modern "
 "systems, including typical x86 and x64 PCs."
 msgstr ""
+"Linux Mint é um sistema operacional de computador projetado para funcionar "
+"na maioria dos sistemas modernos, incluindo PCs x86 e x64 típicos."
 
 #. Tag: para
 #, no-c-format
@@ -40,17 +42,26 @@ msgid ""
 "as to which operating system to start at each boot-up) during its "
 "installation."
 msgstr ""
+"Linux Mint pode ser pensado como preencher o mesmo papel que o Microsoft "
+"Windows, Mac OS, da Apple, e do sistema operacional livre BSD. Linux Mint "
+"também é projetado para trabalhar em conjunto com outros sistemas "
+"operacionais (incluindo os listados acima), e pode configurar "
+"automaticamente um <wordasword>dual boot</wordasword> ou <wordasword>multi-"
+"boot</wordasword>ambiente (onde o usuário é solicitado a respeito de qual "
+"sistema operacional a ser iniciado em cada boot) durante sua instalação."
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Linux Mint is a great operating system for individuals and for companies."
 msgstr ""
+"Linux Mint é um ótimo sistema operacional para os indivíduos e para as "
+"empresas."
 
 #. Tag: title
 #, no-c-format
 msgid "History"
-msgstr ""
+msgstr "Historial"
 
 #. Tag: para
 #, no-c-format
@@ -60,6 +71,11 @@ msgid ""
 "including the Linux kernel, the GNU tools and the &EDITION; desktop. It also "
 "relies on the Ubuntu and Debian projects and uses their systems as a base."
 msgstr ""
+"Linux Mint é um sistema operacional muito moderno; Seu desenvolvimento "
+"começou em 2006, é, no entanto, construído sobre camadas de software muito "
+"maduros e comprovados, incluindo o kernel Linux, as ferramentas GNU e o "
+"&Edition; desktop. Conta também com os projetos Ubuntu e Debian e usa seus "
+"sistemas como base."
 
 #. Tag: para
 #, no-c-format
@@ -69,6 +85,11 @@ msgid ""
 "desktop the operating system also provides a huge collection of available "
 "software and a very well integrated set of services."
 msgstr ""
+"O projeto Linux Mint concentra em tornar o ambiente de trabalho mais útil e "
+"mais eficiente para as tarefas diárias realizadas pelos utilizadores "
+"regulares. Debaixo do desktop o sistema operacional também fornece uma "
+"enorme coleção de software disponível e um conjunto de serviços muito bem "
+"integrados."
 
 #. Tag: para
 #, no-c-format
@@ -76,11 +97,13 @@ msgid ""
 "Linux Mint saw a rapid rise in popularity and more and more people use it "
 "every day."
 msgstr ""
+"Linux Mint viu um rápido crescimento em popularidade e mais e mais pessoas "
+"usá-lo todos os dias."
 
 #. Tag: title
 #, no-c-format
 msgid "Purpose"
-msgstr ""
+msgstr "Propósito"
 
 #. Tag: para
 #, no-c-format
@@ -89,6 +112,9 @@ msgid ""
 "users and companies can use at no cost and which is as efficient, easy to "
 "use, and elegant as possible."
 msgstr ""
+"O objetivo do Linux Mint é fornecer um sistema operacional de desktop que os "
+"utilizadores domésticos e empresas podem usar sem nenhum custo e que é tão "
+"eficiente, fácil de usar e o mais elegante possível."
 
 #. Tag: para
 #, no-c-format

@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-10-18 02:10+0000\n"
+"PO-Revision-Date: 2014-11-09 16:35+0000\n"
 "Last-Translator: Steven Liao <stevenliao0119@yahoo.com.tw>\n"
 "Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
-"X-Generator: Launchpad (build 17211)\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:02+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
 #, no-c-format
@@ -34,11 +34,11 @@ msgid ""
 "and the community is there to help. Take your time and learn a little bit "
 "every day. There's always something new no matter how much you know already."
 msgstr ""
-"還有許多關於 Linux Mint，與一般 Linux 的知識需要學習。這份指南只是與您桌面相關部分的總覽。現在您應該可以更輕鬆地使用 Linux "
+"還有許多關於 Linux Mint，與 Linux 的基本知識需要學習。這份指南只是與您桌面方面相關部分的總覽。現在您應該可以更輕鬆地使用 Linux "
 "Mint，並對其中元件有更好的理解。您的下一步要做什麼呢? 學習如何使用終端機? 試用另外一種桌面? 一切都是依照您的喜好。請記得，使用 Linux "
-"是非常有趣的，而整個社群都很樂意提供協助。慢慢來，每天學習一點，不論您已經知道多少，永遠都有新奇的知識在等著您。"
+"是非常有趣的，整個社群也都非常樂意提供協助。慢慢來，每天學習一點，不論您已經知道多少，永遠都會有新奇的知識在等著您。"
 
 #. Tag: para
 #, no-c-format
 msgid "Enjoy Linux and thank you for choosing Linux Mint."
-msgstr "請盡情地享受 Linux。感謝您選擇 Linux Mint!"
+msgstr "請盡情地享受 Linux，並感謝您選擇使用 Linux Mint!"

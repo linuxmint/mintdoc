@@ -8,19 +8,19 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-10-09 21:05+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-11-09 01:20+0000\n"
+"Last-Translator: KAMI <kami911@gmail.com>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
-"X-Generator: Launchpad (build 17211)\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:02+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Installation of Linux Mint"
-msgstr ""
+msgstr "A Linux Mint telepítése"
 
 #. Tag: para
 #, no-c-format
@@ -49,7 +49,7 @@ msgstr ""
 #. Tag: title
 #, no-c-format
 msgid "Download the ISO"
-msgstr ""
+msgstr "ISO lemezképfájl letöltése"
 
 #. Tag: para
 #, no-c-format
@@ -58,26 +58,30 @@ msgid ""
 "url=\"http://www.linuxmint.com/download.php\">http://www.linuxmint.com/downlo"
 "ad.php</ulink> and choose the edition you're interested in."
 msgstr ""
+"A Linux Mint letöltéséhez, látogassa meg a letöltési oldalt, a következő "
+"címen: <ulink "
+"url=\"http://www.linuxmint.com/download.php\">http://www.linuxmint.com/downlo"
+"ad.php</ulink> és válassza ki az Ön számára érdekes változatot."
 
 #. Tag: para
 #, no-c-format
 msgid "From this page, you should find:"
-msgstr ""
+msgstr "Ezen az oldalon a következőket találhatja:"
 
 #. Tag: para
 #, no-c-format
 msgid "an MD5 signature"
-msgstr ""
+msgstr "egy MD5 ellenőrzőösszeg"
 
 #. Tag: para
 #, no-c-format
 msgid "a torrent link"
-msgstr ""
+msgstr "egy torrent hivatkozás"
 
 #. Tag: para
 #, no-c-format
 msgid "a list of download mirrors"
-msgstr ""
+msgstr "egy lista a letöltési tükörszerverekről"
 
 #. Tag: para
 #, no-c-format
@@ -87,6 +91,11 @@ msgid ""
 "(HTTP or FTP protocol). Once your download is finished, you can ensure your "
 "ISO file isn’t corrupted by checking its signature with the MD5."
 msgstr ""
+"A fájl, amelyet le kell töltenie ISO lemezképfájl formátumú. Két módon tudja "
+"letölteni ezt a fájlt: torrent segítségével (Peer to Peer protokoll) vagy "
+"közvetlen letöltéssel (HTTP vagy FTP protokoll). Ha a letöltés véget ért, "
+"ellenőrizze az MD5 ellenőrzőösszeg segítségével, hogy az ISO lemezképfájl "
+"sértetlenségét."
 
 #. Tag: para
 #, no-c-format
@@ -95,11 +104,15 @@ msgid ""
 "slow you can order the DVD from <ulink "
 "url=\"http://www.osdisc.com\">http://www.osdisc.com</ulink>."
 msgstr ""
+"Ha nem rendelkezik széles sávú internet-kapcsolattal, vagy túl lassú az "
+"internet-kapcsolata, megrendelheti a DVD a <ulink "
+"url=\"http://www.osdisc.com\">http://www.osdisc.com</ulink> oldalon "
+"keresztül."
 
 #. Tag: title
 #, no-c-format
 msgid "Via torrent"
-msgstr ""
+msgstr "Torrent segítségével"
 
 #. Tag: para
 #, no-c-format
@@ -119,7 +132,7 @@ msgstr ""
 #. Tag: title
 #, no-c-format
 msgid "Install a Torrent client"
-msgstr ""
+msgstr "Torrent kliens telepítése"
 
 #. Tag: para
 #, no-c-format
@@ -127,27 +140,33 @@ msgid ""
 "You need a piece of software called a \"torrent client\" in order to "
 "download files via torrent."
 msgstr ""
+"Szüksége lesz egy „torrent kliens” programra, hogy torrent segítségével "
+"letölthesse a kért fájlt."
 
 #. Tag: para
 #, no-c-format
 msgid "If you run Linux Mint you already have a torrent client installed."
 msgstr ""
+"Amennyiben Linux Mintet használ, akkor már van torrent kliens a számítógépre "
+"telepítve."
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "If you run another Linux distribution, you can install \"Transmission\"."
 msgstr ""
+"Ha másik Linux disztribúciót használ, telepítse a „Transmission” nevű "
+"kliensprogramot."
 
 #. Tag: para
 #, no-c-format
 msgid "If you run Windows you can use µTorrent."
-msgstr ""
+msgstr "Ha Windowst használ, használja a „µTorrent” kliensprogramot."
 
 #. Tag: title
 #, no-c-format
 msgid "Download the Torrent file"
-msgstr ""
+msgstr "A torrent fájl letöltése"
 
 #. Tag: para
 #, no-c-format
@@ -188,7 +207,7 @@ msgstr ""
 #. Tag: title
 #, no-c-format
 msgid "Read the release notes"
-msgstr ""
+msgstr "Olvassa el a kiadási megjegyzéseket"
 
 #. Tag: para
 #, no-c-format
@@ -208,17 +227,17 @@ msgstr ""
 #. Tag: para
 #, no-c-format
 msgid "What are the new features delivered in this release?"
-msgstr ""
+msgstr "Milyen fejlesztések érkeztek ezzel a verzióval?"
 
 #. Tag: para
 #, no-c-format
 msgid "What are the known problems of this release?"
-msgstr ""
+msgstr "Milyen ismert problémák vannak ezzel a verzióval?"
 
 #. Tag: para
 #, no-c-format
 msgid "How do I upgrade from the previous release?"
-msgstr ""
+msgstr "Hogyan frissíthetek az előző verzióról?"
 
 #. Tag: para
 #, no-c-format
@@ -240,7 +259,7 @@ msgstr ""
 #. Tag: title
 #, no-c-format
 msgid "Check the MD5"
-msgstr ""
+msgstr "MD5 ellenőrzőösszeg ellenőrzése"
 
 #. Tag: para
 #, no-c-format
@@ -296,6 +315,11 @@ msgid ""
 "<replaceable>myfile.iso</replaceable></command>\n"
 "            "
 msgstr ""
+"\n"
+"                <command>cd ~/Desktop</command>\n"
+"                <command>md5sum "
+"<replaceable>myfile.iso</replaceable></command>\n"
+"            "
 
 #. Tag: para
 #, no-c-format
@@ -341,6 +365,12 @@ msgid ""
 "<replaceable>myfile.iso</replaceable></command>\n"
 "            "
 msgstr ""
+"\n"
+"                <command>C:</command>\n"
+"                <command>cd \\</command>\n"
+"                <command>md5sum "
+"<replaceable>myfile.iso</replaceable></command>\n"
+"            "
 
 #. Tag: para
 #, no-c-format
@@ -350,7 +380,7 @@ msgstr ""
 #. Tag: title
 #, no-c-format
 msgid "Burn the ISO to DVD"
-msgstr ""
+msgstr "ISO lemezképfájl DVD-re írása"
 
 #. Tag: para
 #, no-c-format
@@ -410,7 +440,7 @@ msgstr ""
 #. Tag: title
 #, no-c-format
 msgid "Boot the LiveDVD"
-msgstr ""
+msgstr "Rendszerindítás LiveDVD-ről"
 
 #. Tag: para
 #, no-c-format
@@ -695,7 +725,7 @@ msgstr ""
 #. Tag: title
 #, no-c-format
 msgid "Reboot the computer"
-msgstr ""
+msgstr "Számítógép újraindítása"
 
 #. Tag: para
 #, no-c-format

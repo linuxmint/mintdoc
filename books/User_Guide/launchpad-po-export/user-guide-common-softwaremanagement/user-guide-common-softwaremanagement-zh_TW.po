@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-10-19 04:26+0000\n"
+"PO-Revision-Date: 2014-11-08 23:17+0000\n"
 "Last-Translator: Steven Liao <stevenliao0119@yahoo.com.tw>\n"
 "Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
-"X-Generator: Launchpad (build 17211)\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:03+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
 #, no-c-format
@@ -53,11 +53,11 @@ msgid ""
 "should never need to look far and wide for extra software, even when the "
 "time comes that you do want more functionality from your Linux Mint system."
 msgstr ""
-"我們致力於自動偵測，並安裝所有或大多數您硬體的驅動程式，讓您的電腦在安裝完 Linux Mint "
-"後，就能立即運作。我們也試著讓您不用到網路上，尋求第三方軟體來做您想做的事。你或許已經發現，您所安裝的 Linux Mint，已經內建完整的 "
-"Office 套件，專業影像編輯軟體，IM 與 IRC 聊天客戶端，燒錄軟體，與數種媒體播放器 "
+"我們致力於自動偵測並安裝所有或大多數您硬體的驅動程式，讓您的電腦在安裝完 Linux Mint "
+"後，就能立即運作。我們也試著讓您不用到網路上尋求第三方軟體來做您想做的事。您或許已經發現，您所安裝的 Linux Mint "
+"已經內建完整的辦公室套件，專業影像編輯軟體，IM 與 IRC 聊天客戶端，燒錄軟體，與數種媒體播放器 "
 "(還有許多其他基本的附屬應用程式)。放輕鬆別擔心盜版問題! 我們用的都是自由軟體! 更棒的是，透過套件管理員，當您需要給您的 Linux Mint "
-"系統添加新功能時，你不用到到處尋找額外的軟體。"
+"系統加入更多功能時，您不必到處尋找新軟體。"
 
 #. Tag: para
 #, no-c-format
@@ -78,7 +78,7 @@ msgstr ""
 msgid ""
 "The problems with browsing software vendors' websites and downloading and "
 "installing the software they offer are many:"
-msgstr "透過瀏覽軟體商網站下載，並安裝軟體會造成許多問題:"
+msgstr "透過瀏覽軟體商網站下載並安裝軟體會造成許多問題:"
 
 #. Tag: para
 #, no-c-format
@@ -105,7 +105,7 @@ msgid ""
 "party for some type of malware."
 msgstr ""
 "要知道您是否可以信任未知開發者所開發的軟體，不會對您的系統造成任何危害 "
-"(無論是有心或無意)，是非常困難或不可能的。即便您對軟體及其開發者有所了解，也不能完全確定，下載的執行檔是否被第三方調包，或植入惡意程式。"
+"(無論是有心或無意)，是非常困難或不可能的。即便您對軟體及其開發者有所了解，也不能完全確定下載的執行檔是否被第三方調包，或植入惡意程式。"
 
 #. Tag: para
 #, no-c-format
@@ -121,10 +121,10 @@ msgid ""
 "gave up some of your control of your computer to a program written entirely "
 "by a complete stranger."
 msgstr ""
-"此外，從多個不同的開發者下載，並安裝多個不同的程式的另一個問題，是缺乏管理架構。在您覺得「沒什麼」之前，請您先想想，要如何讓這些不同的軟體，保持最新狀態。"
-"如果您想要移除一個程式，您如何知道該怎麼做? "
-"有問題的軟體可能沒有移除選項，即便它有，大多數的時候，您還是無法乾淨而完整地移除它。實際上，當您執行安裝程式時，您已經將您電腦的部分控制權，交給一個由陌生"
-"人所撰寫的程式。"
+"此外，從多個不同開發者下載，並安裝多個不同程式的另外一個問題，是缺乏管理架構。在您覺得「沒什麼」之前，請您先想想，要如何讓這些不同的軟體保持最新狀態。如果"
+"您想要移除一個程式，您要如何知道該怎麼做? "
+"有問題的軟體可能沒有移除選項，即便它有，大多數的時候您還是無法乾淨而完整地移除它。事實上，當您執行安裝程式時，您已經將您電腦的部分控制權，交給一個由陌生人"
+"所撰寫的程式。"
 
 #. Tag: para
 #, no-c-format
@@ -142,7 +142,7 @@ msgid ""
 "unnecessary duplication of a lot of work."
 msgstr ""
 "最後，以這種方式發行的軟體，不得不說，通常是「靜態」的。意思是您不只要下載程式，還要下載所有執行所需的資料函式庫。因為第三方軟體開發者無法知道，您的系統裡"
-"有哪些資料函式庫，所以，唯一有辦法保證程式能在您的系統成功執行的方法，是把所有必須的資料函式庫， "
+"有哪些資料函式庫，所以，唯一有辦法保證程式能在您的系統成功執行的方法，是把所有必要的資料函式庫， "
 "與程式一起提供下載。這代表著更大的下載量，也代表著當您需要更新函式庫時，無法一次完成，而是要為所有使用它的程式，個別進行更新。總之，靜態軟體的發行，造成了"
 "大量不必要的重複工作。"
 
@@ -154,9 +154,9 @@ msgid ""
 "managing software as it avoids all of these issues. We've been safely and "
 "automatically installing our software since the early 1990s."
 msgstr ""
-"Linux Mint 套件管理員，與一般 GNU/Linux "
-"作業系統，都已經建立一段時間。因為套件管理員能避免以上所有問題，所以是我們偏好的軟體管理方法。從上個世紀九零年代初開始，我們已經用這個方法，安全而且自動地"
-"安裝我們的軟體。"
+"Linux Mint 套件管理員與一般 GNU/Linux "
+"作業系統，都已經建立一段時間。因為套件管理員能避免以上所有問題，所以是我們偏好的軟體管理方法。從上個世紀九零年代初開始，我們就已經使用這個方法，安全而自動"
+"地安裝我們的軟體。"
 
 #. Tag: para
 #, no-c-format
@@ -183,9 +183,9 @@ msgid ""
 msgstr ""
 "軟體最先是由開發者所撰寫，生產鏈的這端稱為「上游」。身為 Linux "
 "發行版的使用者，您身在最遠端的「下游」(除非您是系統管理員，您的使用者才是最遠端的下游)。當開發者對他們所撰寫的程式或程式更新感到滿意時，他們會發布原始碼"
-"，並會透過文件溝通，告知他們所利用的資料函式庫或程式。這套作法已經行之有年，且已經建立標準作業流程。除了少數例外 (通常不是發布 Linux "
-"驅動程式的硬體製造商，如 NVIDIA 或 AMD, 就是我們可以信任的大公司，如 "
-"Adobe)，他們所發布的，是程式的實際原始碼，也就是人類可讀的指令列表格式。這代表著多重含意，但在這裡最重要的是，這代表著他們願意讓他們的軟體，接受任何"
+"，並會透過文件溝通，告知他們所利用的資料函式庫或程式。這套作法已經行之有年，而且已經建立標準作業流程。除了少數例外 (通常不是發布 Linux "
+"驅動程式的硬體製造商，如 NVIDIA 或 AMD，就是我們可以信任的大公司，如 "
+"Adobe)，開發者所發布的是程式的實際原始碼，也就是人類可讀的指令列表格式。這代表著多重含意，但在這裡最重要的是，這代表著他們願意讓他們的軟體，接受任何"
 "網路使用者的同儕審查。當您讓所有人查看您所撰寫的程式時，要在其中挾帶間諜軟體，是極端困難的!"
 
 #. Tag: para
@@ -212,10 +212,10 @@ msgid ""
 msgstr ""
 "軟體接著往下游移動至套件維護者手裡。套件維護者是為 Linux "
 "發行版工作的志願者或員工。他們負責編譯軟體原始碼，在發行版上測試軟體以確定可以運作，並解決任何遇到的問題，最後將編譯過 (即機器可讀) "
-"的軟體，打包成方便的套件格式。這個套件包含執行程式，組態檔案，與套件管理軟體所需的安裝指令。套件通常不會包含任何靜態函式庫，函式庫會由其他套件提供，因此被"
-"稱為共享函式庫。您的套件管理軟體會知道，安裝某個套件之前， 是否需要安裝其他套件 "
-"(如共享函式庫)。這是因為軟體所需的資料函式庫與相關套件，已被更上游所宣告，而且這個資訊已被包含在套件中。其指令詳細到足以請求特定版本的其他套件，來確保互"
-"通性。完成的套件，接著會被上傳到一個稱為軟體套件庫的特殊檔案伺服器。"
+"的軟體，打包成方便的套件格式。這個套件包含執行程式，組態檔案，與套件管理軟體所需要的安裝指令。套件通常不會包含任何靜態函式庫，函式庫會由其他套件提供，因此"
+"被稱為共享函式庫。您的套件管理軟體會知道安裝某個套件之前， 是否需要安裝其他套件 "
+"(如共享函式庫)。這是因為軟體所需要的資料函式庫與相關套件，已經被更上游所宣告，而且這個資訊已經被包含在套件裡。其指令詳細到足以請求特定版本的其他套件，來"
+"確保互通性。完成的套件，接著會被上傳至一個稱為軟體套件庫的特殊檔案伺服器。"
 
 #. Tag: para
 #, no-c-format
@@ -237,10 +237,9 @@ msgid ""
 "maintainer's computer, then it ought to on yours because the package manager "
 "will follow exactly the same procedure."
 msgstr ""
-"套件庫，是您可以下載與安裝所需軟體的單一位置。因為您的套件管理員，會檢查套件庫被簽發的憑證，所以您會知道這是一個善意位置。因為您的套件管理員，也會檢查個別"
-"套件被簽發的 GPG 金鑰，所以您也會知道，自己所安裝的套件是安全的。正如我們下載 LiveDVD ISO "
-"檔時一樣，您的套件管理員，甚至會為個別套件執行 MD5 校驗和，來確保下載時沒有出現錯誤。 "
-"當您所選擇的套件下載完成之後，套件管理員會依照套件中的指令，將您的軟體與其相依性套件，完美地以正確的順序安裝。"
+"套件庫，是您可以下載與安裝所需軟體的單一位置。因為您的套件管理員會檢查套件庫被簽發的憑證，所以您可以知道這是一個善意位置。因為您的套件管理員也會檢查各套件"
+"被簽發的 GPG 金鑰，所以您也可以知道自己所安裝的套件是安全的。正如我們下載 LiveDVD ISO 檔案時一樣，您的套件管理員甚至會為各套件執行 "
+"MD5 校驗和，以確保下載時沒有出現錯誤。 當您選擇的套件下載完成後，套件管理員會依照套件裡的指令，將您的軟體與其相依性套件，完美地以正確的順序安裝。"
 
 #. Tag: para
 #, no-c-format
@@ -254,13 +253,14 @@ msgid ""
 "taking care, of course, of all the dependencies for the newer version of the "
 "software."
 msgstr ""
-"檢查軟體更新時，套件管理員會自動比對，您現有的軟體版本，與套件庫上可用的軟體版本，並完成所有必要工作，讓您的系統能維持順暢而安全地運作。例如，假設您已安裝"
-" 2.3 版的 BestSoft，當 2.4 版被上傳至套件庫時，套件管理員會比對版本數，提供安裝最新版本，並妥善管理新版軟體的所有相依性套件。"
+"檢查軟體更新時，套件管理員會自動比對您現有的軟體版本與套件庫上可用的軟體版本，並完成所有的必要工作，讓您的系統能維持順暢而安全地運作。例如，假設您已經安裝"
+" 2.3 版的 BestSoft，當 2.4 "
+"版被上傳至套件庫時，套件管理員會比對版本數並提供您安裝最新版本。當然，套件管理員也會妥善管理新版軟體的所有相依性套件。"
 
 #. Tag: para
 #, no-c-format
 msgid "Sounding good yet? It gets better."
-msgstr "聽起來不錯吧? 它還在持續改善當中。"
+msgstr "聽起來不錯吧? 它還在持續改進當中。"
 
 #. Tag: para
 #, no-c-format
@@ -287,13 +287,12 @@ msgid ""
 "obtain, not only because of the security protocols already mentioned, but "
 "because if anything does go wrong everyone will be talking about it!"
 msgstr ""
-"人類不像電腦，非常容易犯錯。您可能不小心裝錯硬體驅動程式，而弄壞您的系統。程式開發者寫的程式可能有錯誤，或不小心移除您喜愛的功能。矛盾的是，這些問題說明了"
-"套件管理的長處與安全性。因為套件管理員近乎苛求地記錄所有做過的事，所以它有辦法乾淨而完整地反安裝。套件管理員可以確保移除某個套件不會損及其他任何套件，而您"
-"也可以要求它做特定的事情，例如不要自動升級特定套件，或將特定套件還原至舊版本。最後，整個過程都經過非常重度的同儕審查。您也是龐大 Linux "
-"使用者社群的一份子，大家都是使用同樣的套件庫來取得軟體，如果出錯，您可以想見，其必然會引起很大的騷動，所以問題會被很快地解決! 因此，在 "
-"GNU/Linux "
-"作業系統中的軟體發行，大多是基於信任，從原本的開發者，對所有人展示他們的原始碼開始，到發行網頁上的公開討論都是。您可以對您從套件庫下載的軟體有信心，不只是"
-"因為前面提到的安全協定，也是因為一旦出錯，很快就會引發討論!"
+"人類不像電腦，非常容易犯錯。您可能會不小心裝錯硬體驅動程式而弄壞您的系統。程式開發者可能在寫程式時出錯，或因為某些理由移除了您喜歡的功能。矛盾的是，這些問"
+"題說明了套件管理的長處與安全性。因為套件管理員近乎苛求地記錄所有做過的事，所以它有辦法乾淨而完整地反安裝。套件管理員可以確保移除某個套件不會損及其他任何套"
+"件，而您也可以要求它做特定的事情，例如不要自動升級特定套件，或將特定套件還原至舊版本。最後，整個過程都經過非常重度的同儕審查。您也是龐大 Linux "
+"使用者社群的一份子，大家都是使用同樣的套件庫來取得軟體，如果出錯，您可以想見，其必然會引起很大的騷動，所以問題會很快地被解決! 因此，GNU/Linux "
+"作業系統裡的軟體發行，大多是基於信任，從原始開發者對所有人展示其原始碼開始，到發行網頁上的公開討論都是如此。您可以對您從套件庫下載的軟體有信心，不只是因為"
+"前面所提到的安全協定，也是因為一旦出錯，很快就會引發討論!"
 
 #. Tag: para
 #, no-c-format
@@ -325,7 +324,7 @@ msgid ""
 "with your operating system. They won't want to get it wrong, mostly on "
 "principle, but also because if they do they'll soon be getting lots of "
 "emails."
-msgstr "當您可以從套件庫，取得某個軟體的時候，這個軟體已經被套件維護者，與測試團隊徹底地測試，而能在您的作業系統下運作。"
+msgstr "當您可以從套件庫取得某個軟體時，這個軟體已經被套件維護者與測試團隊徹底地測試，而能在您的作業系統下運作。"
 
 #. Tag: entry
 #, no-c-format
@@ -347,9 +346,9 @@ msgid ""
 "on. Unless you are a beta tester, then you are unlikely to ever see such a "
 "conflict, because that's what beta testing is for."
 msgstr ""
-"套件維護者盡力確保他們所提供的套件，不會在發行版中與其他套件發生衝突。當然，他們可能沒辦法將所有套件，都安裝在他們的測試機器上 "
-"(事實上，套件維護者通常都在全新安裝的系統上，建立他們的套件，以確保標準化)，不過，當使用者社群的成員發現問題的時候，他們會讓發行團隊知道，以設法解決問題"
-"。除非您是個 beta 測試者，否則您不會見到這類衝突，因為這類衝突會在 beta 測試中解決。"
+"套件維護者都盡力確保其所提供的套件，不會在發行版裡與其他套件發生衝突。當然，他們可能無法將所有套件都安裝在測試機器上 "
+"(事實上，套件維護者通常都在全新安裝的系統上建立他們的套件，以確保標準化)，不過，當使用者社群成員發現問題時，他們會讓發行團隊知道，以設法解決問題。除非您"
+"是個 beta 測試者，否則您不會見到這類衝突，因為這類衝突會在 beta 測試時解決。"
 
 #. Tag: entry
 #, no-c-format
@@ -365,7 +364,7 @@ msgid ""
 "Package maintainers are hardly likely to package software they know will "
 "harm people's computers (including their own)! Only software which is known "
 "and trusted will ever make it to the repository."
-msgstr "套件維護者幾乎不可能，將已知會危害個人電腦 (包括他們自己的電腦) 的軟體打包成套件! 只有已知可信賴的軟體，會被上傳至套件庫。"
+msgstr "套件維護者幾乎不可能，將已知會危害個人電腦 (包括他們自己的電腦) 的軟體打包成套件! 只有已知受信任的軟體，會被上傳至套件庫。"
 
 #. Tag: entry
 #, no-c-format
@@ -373,7 +372,7 @@ msgid ""
 "Even if you know about a specific piece of software and its developer, you "
 "cannot be entirely sure that you are not downloading an executable that has "
 "been swapped out by a malicious third party for some type of malware."
-msgstr "即便您對軟體及其開發者有所了解，也不能完全確定，下載的執行檔是否被第三方調包，或植入惡意程式。"
+msgstr "即便您對軟體及其開發者有所了解，也不能完全確定下載的執行檔是否被第三方調包，或植入惡意程式。"
 
 #. Tag: entry
 #, no-c-format
@@ -386,7 +385,7 @@ msgid ""
 "never once known anything to go wrong in this respect."
 msgstr ""
 "除了伺服器所屬機構所實施的例行安全措施之外，套件庫與套件本身，皆由憑證與 GPG "
-"金鑰提供擔保。如果出現錯誤，您的套件管理員會在第一時間告訴您。根據筆者十年來使用 Linux 的經驗，這類錯誤從來沒有出現過。"
+"金鑰提供擔保。如果出現錯誤，您的套件管理員會在第一時間告訴您。根據筆者十幾年來使用 Linux 的經驗，這類錯誤從來沒有出現過。"
 
 #. Tag: entry
 #, no-c-format
@@ -400,7 +399,7 @@ msgid ""
 "its actions, it is quite capable of reversing any steps that it took in the "
 "past, while ensuring that removing one package will not cause any other "
 "package to fail."
-msgstr "因為套件管理軟體，完整地保留所有做過動作的記錄，所以能夠回復任何做過的步驟，同時確保移除一個套件，不會造成其他套件失效。"
+msgstr "因為套件管理軟體完整地保留所有做過動作的記錄，所以能夠回復任何做過的步驟，同時確保移除一個套件，不會造成其他套件失效。"
 
 #. Tag: entry
 #, no-c-format
@@ -421,9 +420,9 @@ msgid ""
 "because you just know you'll need it later, then you can tell the package "
 "management software to do that, too."
 msgstr ""
-"因為您使用套件管理，所以除非真的沒有共享函式庫的代用品，您不會下載任何靜態函式庫。當您需要新的共享資料函式庫，來安裝特定程式時，您的套件管理員會知道該安裝"
-"哪些函式庫，並自動為您安裝。您只需下載共享函式庫一次，因為顧名思義，它可以被所有需要它的程式所共享。當您移除最後一個需要某個共享函式庫的套件時，套件管理軟"
-"體會移除該函式庫。當然，如果您將來可能還會用到這個共享函式庫，或者有其他理由讓您決定保留它，您也可以透過套件管理軟體，來保留該函式庫。"
+"因為您使用套件管理，所以除非真的沒有共享函式庫的代用品，您不會下載任何靜態函式庫。當您需要新的共享資料函式庫來安裝特定程式時，您的套件管理員會知道該安裝哪"
+"些函式庫，並自動為您安裝。您只需下載共享函式庫一次，因為顧名思義，它可以被所有需要它的程式所共享。當您移除最後一個需要某個共享函式庫的套件時，套件管理軟體"
+"會移除該函式庫。當然，如果您將來可能還會用到這個共享函式庫，或者有其他理由讓您決定保留它，您也可以透過套件管理軟體來保留該函式庫。"
 
 #. Tag: entry
 #, no-c-format
@@ -464,11 +463,11 @@ msgid ""
 "It's a bit of a no-brainer, really."
 msgstr ""
 "或許您曾經被流言洗腦，認為 Linux 是未完成的作品，而使用 Linux 是讓您自己當白老鼠 (beta 測試者)，或 Linux "
-"軟體都是不穩定的。這些都是片面說法。「Linux」永遠不會「完成」，不像其他主流作業系統，可以被視為「完成」。從 Linux "
-"核心到您畫面上的美術設計，所有您作業系統上的元素，一直都在開發改進當中。這是因為程式設計團隊，一直努力地讓我們的作業系統，跟得上程式與硬體科技的最新發展。"
-"這不代表著，提供您使用的軟體都是劣質品。Linux Mint "
-"核心的基礎系統，已經被重度開發近二十年，早已非常成熟，穩定，並通過時間的驗證。即便您作業系統上的大多數軟體，都有不穩定的版本，因為您不是 beta "
-"測試者，所以您不會有機會使用它們。套件庫上提供您使用的軟體，永遠都是穩定，且經過充分測試的，除非您將套件庫，變更為測試者使用的套件庫 "
+"軟體都是不穩定的。這些都是片面說法。「Linux」永遠不會「完成」，不像其他主流作業系統可以被視為「完成」。從 Linux "
+"核心到您畫面上的美術設計，所有您作業系統上的元素，一直都在開發改進當中。這是因為程式設計團隊，一直努力地讓我們的作業系統，跟得上程式與硬體技術的最新發展。"
+"這不代表著提供您使用的軟體都是劣質品。Linux Mint "
+"核心的基礎系統，已經被重度開發近二十年，早已經非常成熟穩定，並通過時間的驗證。即便您作業系統上的大多數軟體都有不穩定版本，因為您不是 beta "
+"測試者，所以您不會有機會使用它們。套件庫上提供您使用的軟體，一直都是穩定並經過充分測試的，除非您將套件庫變更為測試者使用的套件庫 "
 "(此時，我們會恭喜您晉身為測試者)。使用 Linux，真的完全不用擔心!"
 
 #. Tag: para
@@ -484,10 +483,10 @@ msgid ""
 "for your system by the Linux Mint and Ubuntu teams. All you need to do is "
 "choose what you want to do."
 msgstr ""
-"以一個例子做總結，當您在 Linux Mint 安裝 Opera，Real Player，或 Google Earth "
-"時，這些應用程式，並非來自於它們原本的開發者。雖然上游應用程式來自這些開發者，但是只有在它們被妥善測試並打包成套件之後，才會提供給您下載。換言之，理論上，"
-"您永遠都不用透過瀏覽網路，去尋找軟體，Linux Mint 與 Ubuntu "
-"團隊，已經為您與您的系統測試，並提供所有您需要的軟體。所以，您只要選擇您需要用到的軟體就行了!"
+"以一個例子作總結，當您在 Linux Mint 安裝 Opera，Real Player，或 Google Earth "
+"時，這些應用程式並非來自它們的原始開發者。雖然上游應用程式來自這些開發者，但是只有在它們被妥善測試並打包成套件之後，才會提供給您下載。換言之，理論上您永遠"
+"都不用透過瀏覽網路去尋找軟體，因為 Linux Mint 與 Ubuntu "
+"團隊已經為您與您的系統，測試並提供所有您需要的軟體。所以，您只需要選擇軟體即可!"
 
 #. Tag: para
 #, no-c-format
@@ -495,7 +494,7 @@ msgid ""
 "Linux Mint will update itself automatically through a tool called the Update "
 "Manager, which will update not only the base operating system, but all the "
 "software installed on your machine as well."
-msgstr "透過更新管理員，Linux Mint 會自動進行自我更新，不只更新基本的作業系統，還包含所有安裝在您電腦上的軟體。"
+msgstr "透過更新管理員，Linux Mint 會自動進行自我更新，不只更新基礎作業系統，還包含所有安裝在您電腦上的軟體。"
 
 #. Tag: para
 #, no-c-format
@@ -526,7 +525,7 @@ msgstr "使用軟體管理員"
 msgid ""
 "The easiest way to install software in Linux Mint is to use the "
 "<wordasword>Software Manager</wordasword>."
-msgstr "在 Linux Mint 上安裝軟體，最簡單的方式，是使用 <wordasword>軟體管理員</wordasword>。"
+msgstr "在 Linux Mint 上安裝軟體，最簡單的方式就是使用 <wordasword>軟體管理員</wordasword>。"
 
 #. Tag: title
 #, no-c-format
@@ -546,7 +545,7 @@ msgid ""
 "The Software Manager lets you browse the software made available for Linux "
 "Mint. You can browse by category, search by keyword or sort the software by "
 "rating and popularity."
-msgstr "軟體管理員，能讓您瀏覽 Linux Mint 上可用的軟體。您可以依類別瀏覽，搜尋關鍵字，依評等或人氣排序軟體。"
+msgstr "軟體管理員能讓您瀏覽 Linux Mint 上可用的軟體。您可以依類別瀏覽，搜尋關鍵字，依評分或人氣排序軟體。"
 
 #. Tag: title
 #, no-c-format
@@ -580,21 +579,21 @@ msgstr ""
 msgid ""
 "Let's see how we can install Opera (an alternative to the Firefox Web "
 "browser):"
-msgstr "讓我們看看，如何安裝 Opera (Firefox 瀏覽器的代用品)"
+msgstr "讓我們看看要如何安裝 Opera (Firefox 瀏覽器的代用品)"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Click on the <guibutton>Search</guibutton> button and type "
 "<wordasword>opera</wordasword>."
-msgstr "點擊 <guibutton>搜尋</guibutton> 按鈕，並輸入 <wordasword>opera</wordasword>。"
+msgstr "點擊 <guibutton>搜尋</guibutton> 按鍵，並輸入 <wordasword>opera</wordasword>。"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Go through the list of packages and find the one corresponding to the Opera "
 "Web Browser."
-msgstr "到套件列表中，尋找 Opera 瀏覽器。"
+msgstr "到套件列表裡尋找 Opera 瀏覽器。"
 
 #. Tag: para
 #, no-c-format
@@ -605,7 +604,7 @@ msgstr "請勾選勾選框，並選擇  <guimenuitem>標記為安裝</guimenuite
 #. Tag: para
 #, no-c-format
 msgid "Click on the <guibutton>Apply</guibutton> button."
-msgstr "點擊 <guibutton>套用</guibutton> 按鈕。"
+msgstr "點擊 <guibutton>套用</guibutton> 按鍵。"
 
 #. Tag: title
 #, no-c-format
@@ -627,15 +626,15 @@ msgid ""
 "at first. As time goes on you'll likely enjoy things to be faster and more "
 "efficient."
 msgstr ""
-"儘管，APT 使用指令，而不是圖形介面的程式。如果，您才剛開始使用 Linux，或許您一開始，會偏好使用 Software Manager 或 "
-"Synaptic。但是隨著時光流逝，您很可能會慢慢地，喜歡上 APT 的快速與效率。"
+"儘管，APT 是使用指令而非圖形介面的程式。如果您才剛開始使用 Linux，或許您一開始會偏好使用 Software Manager 或 "
+"Synaptic。但是隨著時光流逝，您很可能會慢慢地喜歡上 APT 的快速與效率。"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Now let's see how we could have installed Opera using the APT command line "
 "tool."
-msgstr "現在，我們來看看，如何使用 APT 命令列工具，來安裝 Opera。"
+msgstr "現在，讓我們看看如何使用 APT 指令列工具來安裝 Opera。"
 
 #. Tag: para
 #, no-c-format
@@ -665,7 +664,7 @@ msgid ""
 "background so both can't run at the same time. The same goes for the "
 "Software Manager."
 msgstr ""
-"在使用 APT 前，請先確認 Synaptic 已經關閉。Synaptic 在背景使用 APT，所以兩者不能同時執行。軟體管理員也不能與它們同時使用。"
+"在使用 APT 之前，請先確認 Synaptic 已經關閉。Synaptic 在背景使用 APT，所以兩者不能同時執行。軟體管理員也不能與它們同時執行。"
 
 #. Tag: title
 #, no-c-format
@@ -677,7 +676,7 @@ msgstr "移除軟體"
 msgid ""
 "You can use the Software Manager to remove software. Simply find the "
 "software you want to remove and click on <guibutton>Remove</guibutton>."
-msgstr "您可以使用軟體管理員來移除軟體。只要簡單地找到您要移除的軟體，並點擊 <guibutton>移除</guibutton>。"
+msgstr "您可以使用軟體管理員來移除軟體。只需簡單地找到您要移除的軟體，並點擊 <guibutton>移除</guibutton>。"
 
 #. Tag: para
 #, no-c-format
@@ -687,7 +686,7 @@ msgid ""
 "click on the <guibutton>Apply</guibutton> button."
 msgstr ""
 "使用 Synaptic 時，如果要移除套件，您可以點擊它們，並選擇 <guimenuitem>標記為移除</guimenuitem>。變更會在您點擊 "
-"<guibutton>套用</guibutton> 按鈕後生效。"
+"<guibutton>套用</guibutton> 按鍵後生效。"
 
 #. Tag: para
 #, no-c-format
@@ -696,7 +695,7 @@ msgid ""
 "<guimenuitem>Terminal</guimenuitem> from the <guimenu>Menu</guimenu> and "
 "type:"
 msgstr ""
-"使用 APT 就更簡單... 例如，如果您要移除 Opera，只要從 <guimenu>選單</guimenu> 開啟 "
+"使用 APT 就更簡單... 例如，如果您要移除 Opera，只需從 <guimenu>選單</guimenu> 開啟 "
 "<guimenuitem>終端機</guimenuitem>，並輸入:"
 
 #. Tag: screen
@@ -727,8 +726,8 @@ msgid ""
 "packages and any part of it can be updated by updating some of those "
 "packages. This means replacing the current package with a newer version."
 msgstr ""
-"當安裝在您電腦裡的任何套件，有新版本時，您可以為它進行升級。它可能是作業系統元件的安全性更新，可能是特定函式庫的最佳化，或甚至是新版的 "
-"Firefox。基本上，您的系統是由套件所組成，所以可以透過更新套件，來進行更新。換言之，就是以新版套件，來取代現有套件。"
+"當安裝在您電腦裡的任何套件有新版本時，您可以為其進行升級。它可能是作業系統元件的安全性更新，可能是特定函式庫的最佳化，或甚至是新版的 "
+"Firefox。基本上，您的系統是由套件所組成，所以可以透過更新套件來進行更新。換言之，就是以新版套件來取代現存套件。"
 
 #. Tag: para
 #, no-c-format
@@ -743,9 +742,8 @@ msgid ""
 "reason is that it doesn't make any distinctions in selecting which updates "
 "to apply and assumes that you want all of them."
 msgstr ""
-"您可以透過 APT，使用一個簡單的指令 (<command>apt "
-"upgrade</command>)，來升級您所有的套件，但是我們建議您不要這麼做。理由是，這個方法無法區別，或選擇要套用的更新，所以會自動假設您欲套用所"
-"有更新。"
+"您可以使用 APT，以一個簡單的指令 (<command>apt upgrade</command>) "
+"來升級您的所有套件，但是我們不建議您這麼做。理由是，這個方法無法區別或選擇要套用的更新，所以會自動假設您要套用所有更新。"
 
 #. Tag: para
 #, no-c-format
@@ -756,8 +754,8 @@ msgid ""
 "wireless card support or even some applications (such as VMWare and "
 "Virtualbox) which are closely linked to the kernel."
 msgstr ""
-"系統中，並非所有元件的更新都是安全的。例如，更新您的核心 "
-"(此元件負責硬體辨識)，可能會破壞您的音效支援，無線網卡支援，或甚至某些與核心緊密連結的應用程式 (如 VMWare 與 Virtualbox)。"
+"系統裡，並非更新所有元件都是安全的。例如，更新您的核心 (此元件負責硬體辨識) 可能會損壞您的音效支援，無線網卡支援，或甚至某些與核心緊密連結的應用程式 "
+"(如 VMWare 與 Virtualbox)。"
 
 #. Tag: para
 #, no-c-format
@@ -766,14 +764,14 @@ msgid ""
 "information about updates and lets you define how safe an update must be "
 "before you want to apply it. It looks like a shield and sits on the bottom-"
 "right corner of your screen."
-msgstr "Linux Mint 內建更新管理員。它給您更多關於更新的資訊，讓您在套用更新前，知道其安全性。它的圖示是盾牌狀，位於畫面的右下角。"
+msgstr "Linux Mint 內建更新管理員。它會給您更多關於更新的資訊，讓您在套用更新前知道其安全性。它的圖示是盾牌狀，位於畫面的右下角。"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "If you place your mouse pointer on top of it, it will tell you either that "
 "your system is up to date or, if it isn't, how many updates are available."
-msgstr "如果將您的滑鼠指標，移至盾牌圖示上方，它會告訴您，系統是否在最新狀態，或有多少更新可用。"
+msgstr "如果將您的滑鼠指標移至盾牌圖示上方，它會告訴您系統是否已是最新狀態，或有多少更新可用。"
 
 #. Tag: title
 #, no-c-format
@@ -792,9 +790,9 @@ msgid ""
 "computer and which version is available for you to update to. Also you have "
 "a symbol showing if it's a package update or a security update."
 msgstr ""
-"如果您點擊盾牌圖示，更新管理員會開啟，並顯示可用更新。其介面非常簡單易用。每個套件更新都提供說明，變更記錄 (開發者用以解釋修改套件時所做的變更)，與 "
+"如果您點擊盾牌圖示，更新管理員會開啟並顯示可用更新。其介面非常簡單易用。每個套件更新都會提供說明，變更記錄 (開發者用以解釋修改套件時所做的變更)，與 "
 "Linux Mint "
-"對該更新所發布的警告，或額外資訊。您也可以看到目前電腦中安裝的版本，與可供更新的版本。此外，更新旁邊會有個符號會告訴您，它是個套件更新，或是安全性更新。"
+"對此更新所發布的警示或額外資訊。您也可以看到目前電腦裡安裝的版本與可用的更新版本。此外，更新旁邊會有一個符號告訴您，它是個套件更新或是個安全性更新。"
 
 #. Tag: para
 #, no-c-format
@@ -805,8 +803,8 @@ msgid ""
 "level is assigned to each package by Linux Mint and gives you an indication "
 "of how safe it is for you to apply an update."
 msgstr ""
-"最後，您可以看到套件更新的穩定性等級。套件更新用以改良套件，或修正安全性問題，但這不代表著它們本身不帶風險，或不會帶來新的錯誤。套件更新的安全性等級，由 "
-"Linux Mint 評定，告訴您套用更新時的安全性有多高。"
+"最後，您可以看到套件更新的穩定性等級。套件更新是用以改進套件或修正安全性問題，但這並不代表它們沒有任何風險或錯誤。套件更新的安全性等級由 Linux "
+"Mint 評定，讓您在套用更新時知道其安全性有多高。"
 
 #. Tag: para
 #, no-c-format
@@ -816,8 +814,8 @@ msgid ""
 "them by using the <guibutton>Clear</guibutton> and <guibutton>Select "
 "All</guibutton> buttons."
 msgstr ""
-"您可以點擊欄位，來將更新依安全性等級，狀態，套件名稱，或版本數排序。您可以使用 <guibutton>全選</guibutton> 與 "
-"<guibutton>清除</guibutton> 按鈕，來全選或全不選套件更新。"
+"您可以點擊欄位，以依照安全性等級，狀態，套件名稱，或版本來排序更新。您可以使用 <guibutton>全選</guibutton> 或 "
+"<guibutton>清除</guibutton> 按鍵，來全選或取消全選所有更新。"
 
 #. Tag: para
 #, no-c-format
@@ -829,9 +827,9 @@ msgid ""
 "team so they can take measures to make that update a Level 4 or a Level 5 so "
 "as to warn or even discourage others against applying it."
 msgstr ""
-"等級 1 與等級 2 的更新沒有風險，所以您應該總是套用更新。等級 3 "
-"的更新應該安全，雖然我們建議您套用更新，不過在更新前，請先詳閱更新資訊。如果您在套用等級 3 更新時遇到問題，請告知 Linux Mint "
-"開發團隊，我們會將這個更新移至等級 4 或等級 5，來警告，或甚至阻止其他使用者套用更新。"
+"等級 1 與等級 2 的更新沒有風險，所以您應該總是套用這些更新。等級 3 "
+"的更新理論上安全，雖然我們建議您套用這些更新，不過在更新前，請先詳閱更新資訊。如果您在套用等級 3 的更新時遇到問題，請告知 Linux Mint "
+"開發團隊，我們會將此更新移至等級 4 或等級 5，以警告或阻止其他使用者套用更新。"
 
 #. Tag: title
 #, no-c-format
@@ -849,9 +847,9 @@ msgid ""
 "<guilabel>safe</guilabel> (although this is not recommended). This will "
 "cause them to be selected by default within the Update Manager."
 msgstr ""
-"如果您點擊 <guibutton>偏好設定</guibutton> 按鈕，您會看到以上畫面。更新管理員預設告知您關於等級 1，2，3 "
-"的更新。您可以決定是否讓等級 4，5 <guilabel>可見</guilabel>。這會讓更多更新，出現在列表當中。 您甚至可以將等級 4，5 "
-"的更新設定為 <guilabel>安全</guilabel> (儘管不建議您這麼做)。這會讓更新管理員，預設選擇等級 4，5 的更新。"
+"如果您點擊 <guibutton>偏好設定</guibutton> 按鍵，您會看到以上畫面。更新管理員預設告知您關於等級 1，2，3 "
+"的更新。您可以決定是否讓等級 4，5 <guilabel>可見</guilabel>。這會讓更多更新出現在列表裡。 您甚至可以將等級 4，5 "
+"的更新設定為 <guilabel>安全</guilabel> (儘管不建議您這麼做)。這會讓更新管理員預設選擇等級 4，5 的更新。"
 
 #. Tag: para
 #, no-c-format
@@ -859,12 +857,12 @@ msgid ""
 "The Update Manager only counts 'safe' updates. So when it tells you your "
 "system is up to date, it means there are no updates available assigned with "
 "a level that you defined as being 'safe'."
-msgstr "更新管理員只計算「安全」更新。所以當它告訴您，系統已經是最新狀態，代表著，沒有被您定義為「安全」等級的更新可用。"
+msgstr "更新管理員只計算「安全」更新。所以當它告訴您系統已是最新狀態，這代表目前沒有被您定義為「安全」的更新可用。"
 
 #. Tag: para
 #, no-c-format
 msgid "The Update Manager only shows 'visible' updates in the list."
-msgstr "更新管理員只在列表當中，顯示「可見」的更新。"
+msgstr "更新管理員只在列表裡顯示「可見」的更新。"
 
 #. Tag: para
 #, no-c-format
@@ -873,7 +871,7 @@ msgid ""
 "you would see a lot of updates in the list, but the Update Manager would "
 "probably tell you that your system was up to date."
 msgstr ""
-"例如，如果您設定所有等級「可見」，但是只有等級 1，2「安全」，您會在列表當中見到大量更新，但是更新管理員可能仍會告訴您，系統已經是最新狀態。"
+"例如，如果您設定所有等級「可見」，但是只有等級 1，2「安全」，您會在列表裡見到大量更新，但是更新管理員可能仍會告訴您，系統已是最新狀態。"
 
 #. Tag: para
 #, no-c-format
@@ -899,22 +897,22 @@ msgid ""
 "package B which isn't installed on your computer... what would happen?"
 msgstr ""
 "<guilabel>包含需要安裝或移除其他套件的更新</guilabel> "
-"選項，讓您可以定義更新管理員，是否安裝新的相依性套件。例如，如果您電腦上，裝有套件 A 版本 1，而現在有套件 A 版本 2 可用，可是版本 2 與套件 "
-"B 有新的相依性，而套件 B 並未安裝在您的電腦上... 結果會如何?"
+"選項，讓您可以定義更新管理員，是否安裝新的相依性套件。例如，如果您電腦裡裝有套件 A 版本 1，而現在有套件 A 版本 2 可用，可是版本 2 與套件 "
+"B 有新的相依性，而套件 B 並未安裝在您的電腦裡... 結果會如何?"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "If you left this checkbox unchecked, version 2 would not appear as an update "
 "in the list of updates."
-msgstr "如果您不勾選這個勾選框，版本 2 的更新，就不會出現在更新列表。"
+msgstr "如果您不勾選這個勾選框，版本 2 的更新將不會出現在更新列表。"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "If you checked this checkbox, it would, and if selected it would install "
 "package B as a dependency."
-msgstr "如果您勾選這個勾選框，而版本 2 被定義為「安全」，則更新管理員會選擇版本 2，並與其相依性套件 B，一起安裝到您的電腦上。"
+msgstr "如果您勾選這個勾選框，版本 2 會與其相依性套件 B 一起被安裝。"
 
 #. Tag: para
 #, no-c-format
@@ -922,7 +920,7 @@ msgid ""
 "Be careful with this option as dependency can install new packages on your "
 "behalf but they can also sometimes remove packages you already have "
 "installed."
-msgstr "小心這個相依性選項! 它除了會安裝新套件之外，有時也會將您已安裝的套件移除。"
+msgstr "小心這個相依性選項! 它除了會安裝新套件外，有時也會將您已安裝的套件移除。"
 
 #. Tag: para
 #, no-c-format
@@ -930,7 +928,7 @@ msgid ""
 "In the <guilabel>Ignored packages</guilabel> tab you can define packages for "
 "which you do not want to receive updates. '?' and '*' wildcard characters "
 "are supported."
-msgstr "<guilabel>忽略的套件</guilabel> 分頁，讓您可以定義，哪些套件不要接收更新。其支援萬用字元，如「?」與「*」。"
+msgstr "<guilabel>忽略的套件</guilabel> 分頁，讓您可以定義哪些套件不要接收更新。其支援萬用字元，如「?」與「*」。"
 
 #. Tag: para
 #, no-c-format
@@ -964,7 +962,7 @@ msgstr "更新管理員記錄"
 msgid ""
 "In this screen you can see the process ID of the Update Manager and the "
 "content of its log file."
-msgstr "在這個畫面，您可以看到更新管理員中的程序 ID，與其記錄檔內容。"
+msgstr "在這個畫面，您可以看到更新管理員裡的程序 ID 與其記錄檔內容。"
 
 #. Tag: para
 #, no-c-format
@@ -973,7 +971,7 @@ msgid ""
 "on the <guimenu>View</guimenu> menu and by selecting <guimenuitem>History of "
 "Updates</guimenuitem>."
 msgstr ""
-"您也可以閱覽這些套用到您系統上的更新: 點擊 <guimenu>檢視</guimenu> 選單，並選擇 "
+"您也可以回顧套用至您系統的更新: 點擊 <guimenu>檢視</guimenu> 選單，並選擇 "
 "<guimenuitem>更新歷史</guimenuitem>。"
 
 #. Tag: title

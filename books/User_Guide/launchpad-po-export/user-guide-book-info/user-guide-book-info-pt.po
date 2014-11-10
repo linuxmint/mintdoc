@@ -8,29 +8,29 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-10-16 20:26+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-11-07 05:58+0000\n"
+"Last-Translator: Migueluxo <migueluxo@gmail.com>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
-"X-Generator: Launchpad (build 17211)\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:02+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
 #, no-c-format
 msgid "User Guide"
-msgstr ""
+msgstr "Guia de utilizador"
 
 #. Tag: subtitle
 #, no-c-format
 msgid "&EDITION; Edition"
-msgstr ""
+msgstr "&EDIÇÃO;Edição"
 
 #. Tag: productname
 #, no-c-format
 msgid "&PRODUCT;"
-msgstr ""
+msgstr "&PRODUTO;"
 
 #. Tag: para
 #, no-c-format
@@ -39,3 +39,5 @@ msgid ""
 "started and make it easy for you to use Linux Mint and to feel comfortable "
 "with it."
 msgstr ""
+"Introdução ao Linux Mint. O Objectivo deste guia é de o iniciar ao Linux "
+"Mint e fazer com que se sinta confortável com o uso do mesmo."

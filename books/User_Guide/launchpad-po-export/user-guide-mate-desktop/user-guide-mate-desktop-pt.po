@@ -8,19 +8,19 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-10-16 20:31+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-11-07 06:13+0000\n"
+"Last-Translator: Fernando Carvalho <phaetonkde@gmail.com>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-31 01:01+0000\n"
-"X-Generator: Launchpad (build 17211)\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:03+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Introduction to the Linux Mint Desktop"
-msgstr ""
+msgstr "Introdução ao Desktop do Linux Mint"
 
 #. Tag: para
 #, no-c-format
@@ -29,11 +29,14 @@ msgid ""
 "are specific to Linux Mint and provide information on some of the "
 "applications and technologies included by default in the MATE Edition."
 msgstr ""
+"Esta secção do guia irá focar-se nas tecnologias e nas ferramentas que são "
+"específicas para Linux Mint, e fornece informações sobre algumas das "
+"aplicações e tecnologias incluídas por padrão no MATE Edition."
 
 #. Tag: title
 #, no-c-format
 msgid "The Welcome Screen"
-msgstr ""
+msgstr "O Ecrã de Boas Vindas"
 
 #. Tag: para
 #, no-c-format
@@ -44,11 +47,16 @@ msgid ""
 "of the Preferences menu or by starting to type &ldquo;Wel&rdquo; in the "
 "Search-bar."
 msgstr ""
+"A primeira vez que você iniciar o seu recém-instalado MATE desktop  (e todas "
+"as outras vezes até que você escolha para desmarcar a caixa de selecção na "
+"parte inferior), você verá o Ecrã de boas vindas. Você também pode encontrar "
+"este Ecrã ao rolar para a parte inferior do menu Preferências ou começando a "
+"escrever & ldquo;Wel&rdquo; na Barra de Pesquisa."
 
 #. Tag: title
 #, no-c-format
 msgid "Welcome Screen"
-msgstr ""
+msgstr "Ecrã de boas vindas"
 
 #. Tag: para
 #, no-c-format
@@ -59,3 +67,8 @@ msgid ""
 "database. Or you can ask questions in the Forums (or answer them of course). "
 "And Important information is Important too!"
 msgstr ""
+"Dê uma olhada neste Ecrã, tem um monte de links interessantes !! Você pode "
+"encontrar um link para o Guia do utilizador lá (sim, eu sei, você já está "
+"lendo). Mas também você pode colocar as informações da sua máquina no banco "
+"de dados de hardware. Ou você pode fazer perguntas nos fóruns (ou respondê-"
+"las, claro). E Informação também é importante!"

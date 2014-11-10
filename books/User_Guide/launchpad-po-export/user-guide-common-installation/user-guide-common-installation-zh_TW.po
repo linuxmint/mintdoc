@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-10-22 18:56+0000\n"
+"PO-Revision-Date: 2014-11-06 21:07+0000\n"
 "Last-Translator: Steven Liao <stevenliao0119@yahoo.com.tw>\n"
 "Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-31 01:00+0000\n"
-"X-Generator: Launchpad (build 17211)\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:02+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
 #, no-c-format
@@ -37,12 +37,12 @@ msgid ""
 "DVD and place it into your computer, you can try it out while leaving your "
 "current system intact."
 msgstr ""
-"您可以免費下載 Linux Mint 作業系統。您需要將下載的作業系統 ISO 檔，先燒錄至一片空白 DVD <footnote><para>您也可以將 "
-"ISO 映像檔，寫入 USB 隨身碟或其他儲存裝置，並用它們來開機，或從硬碟中的 ISO "
+"您可以免費下載 Linux Mint 作業系統。您需要將下載的作業系統 ISO 檔案，先燒錄至一片空白 DVD "
+"<footnote><para>您也可以將 ISO 映像檔，寫入 USB 隨身碟或其他儲存裝置，並用它們來開機，或從硬碟裡的 ISO "
 "映像檔來開機。不過這些選項比較進階，建議您從這裡介紹的方法開始著手。如果需要替代方法來安裝或執行 Linux "
 "Mint，請至討論區尋求協助。</para></footnote>。接著，您可以使用燒錄完成的 liveDVD "
 "開機，它提供了一個功能完全的作業系統讓您試用，而不會影響到您的 PC。簡言之，當您將 Linux Mint 燒錄在 DVD "
-"上，並放入您的電腦光碟機時，您可以在目前作業系統秋毫無損的情況下，試用 Linux Mint。"
+"上，並放入您的電腦光碟機時，您可以在目前作業系統毫髮無傷的情況下，試用 Linux Mint。"
 
 #. Tag: para
 #, no-c-format
@@ -57,7 +57,7 @@ msgstr ""
 #. Tag: title
 #, no-c-format
 msgid "Download the ISO"
-msgstr "下載 ISO 檔"
+msgstr "下載 ISO 檔案"
 
 #. Tag: para
 #, no-c-format
@@ -68,12 +68,12 @@ msgid ""
 msgstr ""
 "Linux Mint 可以在這個下載頁下載: <ulink "
 "url=\"http://www.linuxmint.com/download.php\">http://www.linuxmint.com/downlo"
-"ad.php</ulink> 您可以選擇自己喜歡的桌面版本下載。"
+"ad.php</ulink> (您可以選擇自己喜歡的桌面版本下載)。"
 
 #. Tag: para
 #, no-c-format
 msgid "From this page, you should find:"
-msgstr "從這頁開始，您可以找到:"
+msgstr "從此頁起，您可以找到:"
 
 #. Tag: para
 #, no-c-format
@@ -98,8 +98,8 @@ msgid ""
 "(HTTP or FTP protocol). Once your download is finished, you can ensure your "
 "ISO file isn’t corrupted by checking its signature with the MD5."
 msgstr ""
-"您需要下載一個 ISO 檔。有兩個方法可以下載這個檔案: 經由 torrent (點對點通訊協定) 或經由鏡像網站 (HTTP 或 FTP "
-"通訊協定)。下載完成後，您可以利用 MD5 檢查 ISO 檔的簽章，來確定其是否損壞。"
+"您需要下載一個 ISO 檔案。有兩個方法可以下載這個檔案: 經由 torrent (點對點通訊協定) 或經由鏡像網站 (HTTP 或 FTP "
+"通訊協定)。下載完成後，您可以利用 MD5 檢查 ISO 檔案的簽章，來確定其是否損壞。"
 
 #. Tag: para
 #, no-c-format
@@ -108,7 +108,7 @@ msgid ""
 "slow you can order the DVD from <ulink "
 "url=\"http://www.osdisc.com\">http://www.osdisc.com</ulink>."
 msgstr ""
-"如果您沒有寬頻網路，或者網路速度過慢，您可以在這裡訂購 DVD: <ulink "
+"如果您沒有寬頻網路，或是網路速度過慢，您可以在此訂購 DVD: <ulink "
 "url=\"http://www.osdisc.com\">http://www.osdisc.com</ulink>。"
 
 #. Tag: title
@@ -123,14 +123,14 @@ msgid ""
 "from a central location, a torrent lets you download the ISO file in parts "
 "from different people across the Internet."
 msgstr ""
-"Torrent 是種點對點 (P2P) 通訊協定。與傳統架構從一個中央位置下載不同，Torrent 能讓您從網路上的使用者，下載 ISO 檔的片段。"
+"Torrent 是種點對點 (P2P) 通訊協定。與傳統架構從一個中央位置下載不同，Torrent 可以讓您從網路使用者下載 ISO 檔案的片段。"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "The more people who download the ISO file, the faster the download speed "
 "gets. This is the preferred and recommended way to download Linux Mint."
-msgstr "越多人下載 ISO 檔，下載速度越快。這是我們建議您下載 Linux Mint 的方式。"
+msgstr "越多人下載 ISO 檔案，下載速度越快。這是我們建議您下載 Linux Mint 的方式。"
 
 #. Tag: title
 #, no-c-format
@@ -163,7 +163,7 @@ msgstr "如果您執行 Windows，您可以使用 µTorrent。"
 #. Tag: title
 #, no-c-format
 msgid "Download the Torrent file"
-msgstr "下載 Torrent 檔"
+msgstr "下載 Torrent 檔案"
 
 #. Tag: para
 #, no-c-format
@@ -172,15 +172,15 @@ msgid ""
 "to download the .torrent file. This file is very small. After it downloads, "
 "you should open it with your torrent client."
 msgstr ""
-"下一步，是從 Linux Mint 網站上的 torrent 連結下載 .torrent 檔。這個檔案非常小。下載完成後，您應該使用您的 torrent "
-"客戶端來開啟它。"
+"下一步，是從 Linux Mint 網站上的 torrent 連結下載 .torrent 檔案。這個檔案非常小。下載完成後，您應該使用您的 "
+"torrent 客戶端來開啟它。"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "The torrent client will probably ask you where you want to save the ISO. "
 "Select a destination and then wait for the download to complete."
-msgstr "Torrent 客戶端可能會在您儲存 ISO 檔時，詢問您要儲存的位置。選擇您要儲存的位置，然後等待下載完成。"
+msgstr "Torrent 客戶端可能會在您儲存 ISO 檔案時，詢問您要儲存的位置。選擇您要儲存的位置後等待下載完成。"
 
 #. Tag: para
 #, no-c-format
@@ -205,8 +205,8 @@ msgid ""
 "list of download mirrors and pick one of them. They’ll provide a link to the "
 "ISO file itself which you can just click to start the download."
 msgstr ""
-"如果不能或不選擇使用 torrent 通訊協定，您可以從下載鏡像網站列表中，挑選一個網站來下載。它們會提供一個 ISO "
-"檔的下載連結，您只要點擊連結，就可以開始下載。"
+"如果不能或不想使用 torrent 通訊協定，您可以從下載鏡像網站列表裡，挑選一個網站來下載。它們會提供一個 ISO "
+"檔案的下載連結，您只要點擊連結，就可以開始下載。"
 
 #. Tag: title
 #, no-c-format
@@ -219,7 +219,7 @@ msgid ""
 "Your download is probably going to last at least an hour, so now would be "
 "the perfect time for you to get familiar with the new features coming with "
 "the release you’re currently downloading."
-msgstr "您的下載可以需要至少 1 小時，所以現在是您熟悉您下載版本新功能的完美時機。"
+msgstr "您的下載可能至少需要 1 小時，所以現在是您熟悉下載版本新功能的完美時機。"
 
 #. Tag: para
 #, no-c-format
@@ -241,7 +241,7 @@ msgstr "這個版本有哪些已知問題?"
 #. Tag: para
 #, no-c-format
 msgid "How do I upgrade from the previous release?"
-msgstr "我該如何從之前版本升級?"
+msgstr "我該如何從舊版本升級?"
 
 #. Tag: para
 #, no-c-format
@@ -251,8 +251,8 @@ msgid ""
 "using the operating system, but you might miss a few things, so it is most "
 "reliable to read the release notes."
 msgstr ""
-"它們也包含最新版本的螢幕截圖。當然，您可以簡單地藉由使用作業系統，來發現大多數版本資訊中的重點功能，不過您仍有可能會錯過一些好東西，所以最保險的方法，還是"
-"閱讀版本資訊。"
+"網頁也包含了最新版本的螢幕截圖。當然，您也可以簡單地藉由使用作業系統，來發現大多數版本資訊裡的重點功能，不過您仍有可能會錯過一些好東西，所以最保險的方法，"
+"還是閱讀版本資訊。"
 
 #. Tag: para
 #, no-c-format
@@ -261,7 +261,7 @@ msgid ""
 "url=\"http://www.linuxmint.com/rel_qiana.php\">http://www.linuxmint.com/rel_q"
 "iana.php</ulink>"
 msgstr ""
-"Linux Mint 17 Qiana 的版本資訊，可以在這裡找到: <ulink "
+"Linux Mint 17 Qiana 的版本資訊，可以在此找到: <ulink "
 "url=\"http://www.linuxmint.com/rel_qiana.php\">http://www.linuxmint.com/rel_q"
 "iana.php</ulink>"
 
@@ -277,7 +277,7 @@ msgid ""
 "features or try Linux Mint, and your download just finished successfully. "
 "You’re ready to burn a DVD and to boot on it… but hey! Wait for a second!"
 msgstr ""
-"您已讀完版本資訊，並成功地完成下載。相信您一定迫不及待地，想玩玩新功能或試試 Linux Mint。您已經準備好要燒錄 DVD，並用它來開機... "
+"您已經讀完版本資訊，並成功地完成下載。相信您一定迫不及待地，想玩玩新功能或試試 Linux Mint。您已經準備好要燒錄 DVD，並用它來開機了... "
 "但是請先等一下!"
 
 #. Tag: para
@@ -285,12 +285,12 @@ msgstr ""
 msgid ""
 "If that DVD is faulty you will experience weird bugs and will have a lot of "
 "trouble finding help. The two most common reasons for a DVD to be faulty are:"
-msgstr "如果 DVD 有瑕疵，您會經歷到許多奇奇怪怪的錯誤，而需要費很大的功夫去尋求協助。造成 DVD 有瑕疵的兩個最常見因素為:"
+msgstr "如果 DVD 有瑕疵，您會經歷到許多奇奇怪怪的錯誤，而需要花很大的力氣去尋求協助。造成 DVD 有瑕疵最常見的因素有兩種:"
 
 #. Tag: para
 #, no-c-format
 msgid "An issue with the download causing problems in your ISO file"
-msgstr "下載過程中的因素，造成您的 ISO 檔出現問題"
+msgstr "下載過程中的因素，造成您的 ISO 檔案出現問題"
 
 #. Tag: para
 #, no-c-format
@@ -307,8 +307,8 @@ msgid ""
 "So, let’s check the ISO file you just downloaded before we burn it and save "
 "ourselves from a lot of potential problems."
 msgstr ""
-"下載網頁上的 MD5 簽章，提供您一個快速的方法，來確定您的 ISO 檔是否完整。所以在您燒錄之前，請先讓我們檢查您剛下載的 ISO "
-"檔，以避免一堆潛在的問題。"
+"下載網頁上的 MD5 簽章，提供您一個快速的方法，來確定您的 ISO 檔案是否完整。所以在您燒錄之前，請先讓我們檢查您剛下載的 ISO "
+"檔案，以避免一堆潛在的問題。"
 
 #. Tag: para
 #, no-c-format
@@ -318,7 +318,7 @@ msgid ""
 "(for instance, if “linuxmint.iso” is on the Desktop), open a terminal and "
 "type:"
 msgstr ""
-"大多數版本的 Linux，都內建 ms5sum 程式。您只要打開終端機，並使用「cd」指令，移至 ISO 檔所在的目錄 "
+"大多數的 Linux 版本都內建 ms5sum 程式。您只要打開終端機，並使用「cd」指令移至 ISO 檔案所在的目錄 "
 "(例如，假設「linuxmint.iso」位於桌面上)。請開啟終端機並輸入:"
 
 #. Tag: screen
@@ -344,8 +344,8 @@ msgid ""
 "the ISO file will cause this signature to be significantly different, "
 "allowing us to verify that the file is exactly as it should be."
 msgstr ""
-"這個指令會輸出一串數字與字母，其中包含 MD5 校驗和，或者說是您 ISO 檔的簽章。設計上，ISO "
-"檔有任何小變更，都會使這個簽章顯著不同，這讓我們可以驗證檔案是否完整。"
+"這個指令會輸出一串數字與字母，其中包含 MD5 校驗和，或者說是您 ISO 檔案的簽章。設計上，ISO "
+"檔案有任何小變更，都會使這個簽章顯著不同，這讓我們可以驗證檔案是否完整。"
 
 #. Tag: para
 #, no-c-format
@@ -353,7 +353,7 @@ msgid ""
 "Compare that signature with the one on the download page of the Linux Mint "
 "website. If the two signatures are the same, then you know your ISO file is "
 "exactly the same as the original and you can now get ready to burn it on DVD."
-msgstr "這個簽章，會與 Linux Mint 下載頁上的簽章相比對。如果兩個簽章吻合，您可以知道您的 ISO 檔完整，而可以將其燒錄至 DVD。"
+msgstr "這個簽章會與 Linux Mint 下載頁上的簽章相比對。如果兩個簽章吻合，您可以知道您的 ISO 檔案完整，而可以將其燒錄至 DVD。"
 
 #. Tag: para
 #, no-c-format
@@ -363,7 +363,7 @@ msgid ""
 "url=\"http://www.etree.org/md5com.html\">http://www.etree.org/md5com.html</ul"
 "ink>"
 msgstr ""
-"如果您執行 Windows，而且尚未安裝 md5sum，您可以在這裡下載: <ulink "
+"如果您執行 Windows，而且尚未安裝 md5sum。您可以在此下載: <ulink "
 "url=\"http://www.etree.org/md5com.html\">http://www.etree.org/md5com.html</ul"
 "ink>"
 
@@ -373,8 +373,7 @@ msgid ""
 "Place the ISO file and the md5sum.exe in the same place (let’s say in C:\\) "
 "and run “cmd.exe”. In the command line environment, type the following "
 "commands:"
-msgstr ""
-"將 ISO 檔與 md5sum.exe 放在同一個位置 (例如在 C:\\)，並執行「cmd.exe」。在命令提示字元命令列環境中，輸入以下指令:"
+msgstr "將 ISO 檔案與 md5sum.exe 放在同一個位置 (例如在 C:\\)，並執行「cmd.exe」。在指令列環境裡，輸入以下指令:"
 
 #. Tag: screen
 #, no-c-format
@@ -401,14 +400,14 @@ msgstr "接著，將簽章與網站上的簽章進行比對。"
 #. Tag: title
 #, no-c-format
 msgid "Burn the ISO to DVD"
-msgstr "將 ISO 檔燒錄至 DVD"
+msgstr "將 ISO 檔案燒錄至 DVD"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Now that you have checked the ISO file with MD5, you are ready to burn it to "
 "a DVD."
-msgstr "現在您已經使用 MD5 檢查完 ISO 檔，您已經可以將它燒錄至 DVD。"
+msgstr "現在您已經使用 MD5 檢查完 ISO 檔案，您已經可以將它燒錄至 DVD。"
 
 #. Tag: para
 #, no-c-format
@@ -424,7 +423,7 @@ msgstr ""
 #. Tag: para
 #, no-c-format
 msgid "Insert the blank DVD-R in the drive and get ready to burn the ISO."
-msgstr "將空白 DVD-R 插入光碟機，並開始燒錄 ISO 檔。"
+msgstr "將空白 DVD-R 插入光碟機，並開始燒錄 ISO 檔案。"
 
 #. Tag: para
 #, no-c-format
@@ -433,14 +432,14 @@ msgid ""
 "select: open with: Brasero, choose “Burn image” and follow the steps given "
 "there."
 msgstr ""
-"如果您執行的是 Cinnamon 版，在 ISO 檔上點擊右鍵，並選擇「以此開啟: Brasero」， 選擇「燒錄映像檔」，並依照提示步驟執行。"
+"如果您執行的是 Cinnamon 版，在 ISO 檔案上點擊右鍵，並選擇「以此開啟: Brasero」， 選取「燒錄映像檔」，並依照提示步驟執行。"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "If you’re running Linux with KDE, launch K3B and in the “Tools” menu choose "
 "“Write ISO Image”."
-msgstr "如果您執行的是 KDE 版，啟動 K3B 並在「工具」選單，選擇「寫入 ISO 映像檔」。"
+msgstr "如果您執行的是 KDE 版，啟動 K3B，並在「工具」選單裡選取「寫入 ISO 映像檔」。"
 
 #. Tag: para
 #, no-c-format
@@ -459,10 +458,10 @@ msgid ""
 "file within the disc, but rather folders like “casper” or “isolinux”. Most "
 "burning software has a special option for this."
 msgstr ""
-"請確認，您是將 ISO 映像檔燒錄至光碟，而不是將整個 ISO 檔寫入光碟。這是非常常見的錯誤，特別是 Nero 使用者，很容易將 ISO "
-"檔，當成一般資料檔燒錄至光碟。ISO "
-"檔是一張光碟的影像，所以不能把它當成一個檔案燒錄至光碟，而要讓燒錄軟體將它解壓縮，並將其內容燒錄至光碟上。燒錄完成後，您不應該在 DVD 上看到那個 "
-"ISO 檔，而是許多資料夾，如「casper」或「isolinux」。大多數的燒錄軟體，對此都有提供專用選項。"
+"請確認，您是將 ISO 映像檔燒錄至光碟，而不是將整個 ISO 檔案寫入光碟。這是非常常見的錯誤，特別是 Nero 使用者，很容易將 ISO "
+"檔案，當成一般資料檔案燒錄至光碟。ISO "
+"檔案是一張光碟的影像，所以不能把它當成一個檔案燒錄至光碟，而要讓燒錄軟體將其解壓縮，並將內容燒錄至光碟上。燒錄完成後，您不應該在 DVD 上看到那個 "
+"ISO 檔案，而是許多資料夾，如「casper」或「isolinux」。大多數燒錄軟體都對此有提供專用選項。"
 
 #. Tag: title
 #, no-c-format
@@ -490,8 +489,8 @@ msgid ""
 "configuration) and change your BIOS settings to tell your computer to boot "
 "from its DVD drive."
 msgstr ""
-"如果您沒有看到這個畫面，而您的電腦如往常一般地正常開機，這很可能是因為，您的 BIOS 沒有設定成使用 DVD 開機。重開機後按下 "
-"F1，F2，Delete，或 Esc (或任何進入 BIOS 組態的鍵)，並變更您的 BIOS 設定，來讓您的電腦從 DVD 光碟機開機。"
+"如果您沒有看到這個畫面，而且您的電腦如往常一般地正常開機，這很可能是因為您的 BIOS 沒有設定成使用 DVD 開機。請重開機後按下 "
+"F1，F2，Delete，或 Esc (或任何進入 BIOS 組態的按鍵)，並變更您的 BIOS 設定，來讓您的電腦從 DVD 光碟機開機。"
 
 #. Tag: title
 #, no-c-format
@@ -505,7 +504,7 @@ msgid ""
 "Mint</guilabel> option and press Enter. After a little while the live system "
 "should be ready and you should see the desktop."
 msgstr ""
-"在第一個畫面，選擇預設值 <guilabel>Start Linux Mint</guilabel> 選項，並按下 Enter "
+"在第一個畫面，選取預設值 <guilabel>Start Linux Mint</guilabel> 選項，並按下 Enter "
 "鍵。不久系統就會啟動完成，此時您就可以看到桌面。"
 
 #. Tag: para
@@ -516,7 +515,7 @@ msgid ""
 "almost exactly the same as the one you will have on your computer after the "
 "installation is finished."
 msgstr ""
-"此階段 Linux Mint 尚未安裝至您的電腦。它只是簡單地從 DVD 執行。然而，您眼前所見的系統，幾乎與之後安裝到您電腦裡的系統完全相同。"
+"此階段 Linux Mint 尚未安裝至您的電腦。它只是簡單地從 DVD 執行。然而，您眼前所見的系統，幾乎與之後安裝至您電腦裡的系統完全相同。"
 
 #. Tag: para
 #, no-c-format
@@ -534,7 +533,7 @@ msgstr ""
 msgid ""
 "When you are ready, double-click on the <guilabel>Install Linux "
 "Mint</guilabel> icon located on the desktop. The Installer appears:"
-msgstr "當您準備好之後，雙擊桌面上的 <guilabel>安裝 Linux Mint</guilabel> 圖示。安裝程式會出現:"
+msgstr "當您準備好之後，雙擊桌面上的 <guilabel>安裝 Linux Mint</guilabel> 圖示。此時安裝程式會出現:"
 
 #. Tag: title
 #, no-c-format
@@ -551,19 +550,19 @@ msgid ""
 "as well as any issues that might affect their particular hardware "
 "configuration."
 msgstr ""
-"如果您尚未閱讀版本資訊，而您現在有網路連線，則這是一個理想的閱覽機會，只需要簡單地點擊連結。強烈建議使用者在安裝之前，先閱讀版本資訊，以得知新功能與任何已"
-"知的硬體衝突。"
+"您如果尚未閱讀版本資訊，而且現在有網路連線，則這是一個理想的閱讀機會! "
+"您只需要簡單地點擊連結。強烈建議使用者在安裝之前，先閱讀版本資訊，以得知新功能與任何已知的硬體組態問題。"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Select your language and press the <guibutton>Continue</guibutton> button."
-msgstr "選擇您的語言，並按下 <guibutton>繼續</guibutton> 按鈕。"
+msgstr "選擇您的語言，並按下 <guibutton>繼續</guibutton> 按鍵。"
 
 #. Tag: title
 #, no-c-format
 msgid "Checking that everything is fine..."
-msgstr "正在仔細檢查是否有錯誤..."
+msgstr "仔細檢查是否有錯誤中..."
 
 #. Tag: para
 #, no-c-format
@@ -572,8 +571,8 @@ msgid ""
 "using a laptop), the Internet and that you have the recommended amount of "
 "disk space. Then press the <guibutton>Continue</guibutton> button."
 msgstr ""
-"在下個畫面，請確定您是否已連接至電源 (如果您使用筆記型電腦) 與網路，而且有足夠的磁碟空間。接著按下 "
-"<guibutton>繼續</guibutton> 按鈕。"
+"在下一個畫面，請確定您是否已經連接至電源 (如果您使用筆記型電腦) 與網路，並且有足夠的磁碟空間。接著請按下 "
+"<guibutton>繼續</guibutton> 按鍵。"
 
 #. Tag: title
 #, no-c-format
@@ -586,7 +585,7 @@ msgid ""
 "In the next screen you can assign your entire hard drive to Linux Mint or "
 "install it alongside other operating systems. Alternatively, you can also "
 "define and assign the partitions manually."
-msgstr "在下個畫面，您可以將整個硬碟分配給 Linux Mint，或把它跟其他作業系統安裝在一起。此外，您也可以手動定義與分配分割區。"
+msgstr "在下一個畫面，您可以將整個硬碟指派給 Linux Mint，或將其與其他作業系統安裝在一起。此外，您也可以手動定義與指派磁碟分割。"
 
 #. Tag: para
 #, no-c-format
@@ -605,9 +604,9 @@ msgid ""
 "you. Post-installation your computer will have a boot screen from which "
 "you'll be able to boot all your operating systems."
 msgstr ""
-"如果您選擇將 Linux Mint 與其他作業系統安裝在一起，安裝程式會使用其他分割區上的可用空間，來建立一個新分割區以安裝 Linux "
-"Mint。您會被詢問要配置多少空間給新分割區。安裝程式會自動縮小原有分割區，並建立新分割區。安裝完成後，您的電腦啟動時，會出現一個開機畫面，您可以選擇要以"
-"哪個作業系統開機。"
+"如果您選擇將 Linux Mint 與其他作業系統安裝在一起，安裝程式會使用其他磁碟分割上的可用空間，來建立一個新磁碟分割以安裝 Linux "
+"Mint。您會被詢問要配置多少空間給新磁碟分割。安裝程式會自動縮小原有磁碟分割，並建立新磁碟分割。安裝完成後，開機時會出現一個開機畫面，您可以選擇要用哪個"
+"作業系統開機。"
 
 #. Tag: para
 #, no-c-format
@@ -619,8 +618,8 @@ msgid ""
 "and that the recommended size for a swap partition is 1.5 times the amount "
 "of RAM available on the computer."
 msgstr ""
-"如果您選擇手動指定分割區，分割區編輯器會出現，讓您完全控制硬碟上的分割。這個選項，只建議給理解 Linux "
-"下磁碟分割方式的進階使用者使用。請注意，Linux Mint 需要一個至少 6GB 的分割區，置換分割區大小，建議為電腦記憶體容量的 1.5 倍。"
+"如果您選擇手動指定磁碟分割，磁碟分割編輯器會出現，讓您完全控制您硬碟上的磁碟分割。這個選項只建議給理解 Linux "
+"下磁碟分割方式的進階使用者使用。請注意，Linux Mint 需要一個至少 6GB 的磁碟分割，置換磁碟分割尺寸，建議為電腦記憶體的 1.5 倍。"
 
 #. Tag: title
 #, no-c-format
@@ -634,7 +633,7 @@ msgid ""
 "Now</guibutton> button. At this stage, the installation is going on in the "
 "background and the installer asks you setup questions:"
 msgstr ""
-"選擇一個適當的選項，並點擊 <guibutton>立刻安裝</guibutton> 按鈕。在這個階段，安裝會在背景執行，而且安裝程式會詢問您設定問題:"
+"選取一個適當的選項，並點擊 <guibutton>立刻安裝</guibutton> 按鍵。在這個階段，安裝會在背景執行，而且安裝程式會詢問您設定問題:"
 
 #. Tag: title
 #, no-c-format
@@ -650,7 +649,7 @@ msgid ""
 "<guibutton>Continue</guibutton> button."
 msgstr ""
 "在地圖上，點擊距離您最近的城市，來選擇您的位置。這個步驟的目的是識別您的時區。請確定 <guilabel>現在時間</guilabel> "
-"顯示正確，並點擊 <guibutton>繼續</guibutton> 按鈕。"
+"顯示正確，並點擊 <guibutton>繼續</guibutton> 按鍵。"
 
 #. Tag: para
 #, no-c-format
@@ -680,13 +679,13 @@ msgid ""
 "respect to accents, numbers and punctuation signs, so make sure to test "
 "these as well."
 msgstr ""
-"選擇您的鍵盤配置。如果您不確定何種配置與您的鍵盤相符，請點擊畫面底部的文字欄位，並開始用您的鍵盤打字。請確定您按的鍵，與出現在文字欄位的字元相符，以確認您"
-"選擇正確的鍵盤配置。有些配置只差在重音，數字，與標點符號，所以請同樣地確定這些部分。"
+"選擇您的鍵盤配置。如果您不確定何種配置與您的鍵盤相符，請點擊畫面底端的文字欄位，並開始使用您的鍵盤輸入。請確定您按下的按鍵，是否與出現在文字欄位的字元相符"
+"，以確認您選擇正確的鍵盤配置。有些配置只差在重音，數字，與標點符號，所以請同樣地確認這些部分。"
 
 #. Tag: para
 #, no-c-format
 msgid "When you’re ready click the <guibutton>Continue</guibutton> button."
-msgstr "當您準備好之後，請點擊 <guibutton>繼續</guibutton> 按鈕。"
+msgstr "當您準備好之後，請點擊 <guibutton>繼續</guibutton> 按鍵。"
 
 #. Tag: para
 #, no-c-format
@@ -696,7 +695,7 @@ msgid ""
 "Linux Mint is installed you’ll be able to define other accounts if other "
 "people are to use this computer."
 msgstr ""
-"輸入您的真實姓名，使用者名稱，與密碼。每次您使用 Linux Mint 時，您的帳號會使用到這組使用者名稱與密碼。Linux Mint "
+"輸入您的真實名稱，使用者名稱，與密碼。每次您使用 Linux Mint 時，您的帳號會使用到這組使用者名稱與密碼。Linux Mint "
 "安裝完成後，您可以定義別組帳號，來讓別人使用這台電腦。"
 
 #. Tag: para
@@ -718,19 +717,19 @@ msgstr ""
 msgid ""
 "Capital letters, spaces and special characters are not permitted in the "
 "username or in the name of the computer."
-msgstr "使用者名稱或電腦名稱，不允許使用大寫字母，空白，或特殊字元。"
+msgstr "使用者名稱或電腦名稱，不允許使用大寫字母，空格，或特殊字元。"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "If you're the only one using the computer and you want to bypass the login "
 "screen, check the option <guilabel>Log in automatically</guilabel>."
-msgstr "如果您是電腦的唯一使用者，而您想略過登入畫面，請點擊選項 <guilabel>自動登入</guilabel>。"
+msgstr "如果您是電腦唯一的使用者，而且您想略過登入畫面，請點擊選項 <guilabel>自動登入</guilabel>。"
 
 #. Tag: para
 #, no-c-format
 msgid "When you’re ready click on the <guibutton>Forward</guibutton> button."
-msgstr "當您準備好之後，請點擊 <guibutton>前進</guibutton> 按鈕。"
+msgstr "當您準備好之後，請點擊 <guibutton>前進</guibutton> 按鍵。"
 
 #. Tag: title
 #, no-c-format
@@ -747,8 +746,8 @@ msgid ""
 "into the newly installed Linux Mint. When you’re ready click on the "
 "<guibutton>Continue</guibutton> button."
 msgstr ""
-"安裝程式也許會偵測您電腦上的其他作業系統，並詢問您是否要匯入某些個人資料。這通常允許您從硬碟裡的其他作業系統，匯入書籤，聯絡人，喜好，與其他種類的基本資料"
-"，至新安裝的 Linux Mint。當您準備好之後，請點擊 <guibutton>繼續</guibutton> 按鈕。"
+"安裝程式也許會偵測您電腦上的其他作業系統，並詢問您是否想要匯入某些個人資訊。這通常允許您從硬碟裡的其他作業系統，匯入書籤，聯絡人，喜好，與其他種類的個人資"
+"訊至新安裝的 Linux Mint。當您準備好之後，請點擊 <guibutton>繼續</guibutton> 按鍵。"
 
 #. Tag: title
 #, no-c-format
@@ -764,15 +763,15 @@ msgid ""
 "step and you’ll be able to add support for your language after the "
 "installation is finished and you’ve rebooted into your new system."
 msgstr ""
-"安裝程式會從網路上下載套件，來支援您選擇的語言。您的電腦需要連接到網路，以讓工作順利進行。您也可以 <guibutton>略過</guibutton> "
-"這個步驟，並在安裝完成，重開機至您的新系統後，再加入語言的支援套件。"
+"安裝程式會從網路上下載套件，來支援您選擇的語言。您的電腦需要連接至網路。您也可以 <guibutton>略過</guibutton> "
+"這個步驟，並在安裝完成並重開機至您的新系統後，再加入語言的支援套件。"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Once the installation is done click the <guibutton>Restart Now</guibutton> "
 "button and the liveDVD or LiveUSB environment will shut down."
-msgstr "安裝完成後，請點擊 <guibutton>立即重新啟動</guibutton> 按鈕。LiveDVD 或 LiveUSB 環境會被關閉。"
+msgstr "安裝完成後，請點擊 <guibutton>立即重新啟動</guibutton> 按鍵。LiveDVD 或 LiveUSB 環境會被關閉。"
 
 #. Tag: para
 #, no-c-format
@@ -796,7 +795,7 @@ msgid ""
 "chose during the installation."
 msgstr ""
 "重開機時，如果您安裝多個作業系統，您會看到一個開機畫面。Linux Mint "
-"完成載入後，您會看到一個新的歡迎畫面，讓您輸入您的使用者名稱與密碼。這個畫面是「MDM 登入管理員」，或簡稱為「MDM」。請輸入您在安裝過程中選擇的密碼。"
+"完成載入後，您會看到一個新的歡迎畫面，讓您輸入您的使用者名稱與密碼。這個畫面是「MDM 登入管理員」，或簡稱「MDM」。請輸入您在安裝過程中選擇的密碼。"
 
 #. Tag: para
 #, no-c-format
@@ -804,4 +803,4 @@ msgid ""
 "By default, your “root” password is the same as the password you chose "
 "during the installation. If you do not know what this means, then don't "
 "worry about it."
-msgstr "您的「root」密碼，會被預設為您在安裝過程中所選擇的密碼 (如果不知道這是什麼意思不用擔心)。"
+msgstr "您的「根」密碼，會被預設為您在安裝過程中所選擇的密碼 (如果不知道這是什麼意思不必擔心)。"

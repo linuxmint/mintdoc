@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-10-13 16:34+0000\n"
+"PO-Revision-Date: 2014-11-05 18:50+0000\n"
 "Last-Translator: tomoe_musashi <hkg.musashi@gmail.com>\n"
 "Language-Team: Chinese (Hong Kong) <zh_HK@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-10-31 01:01+0000\n"
-"X-Generator: Launchpad (build 17211)\n"
+"X-Launchpad-Export-Date: 2014-11-10 17:03+0000\n"
+"X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
 #, no-c-format
@@ -45,7 +45,7 @@ msgid ""
 "Search-bar."
 msgstr ""
 "當您第一次啟動新安裝的 Mate 桌面時 ，您會看到歡迎畫面 "
-"(而且，歡迎畫面在每次開機後都會出現。取消勾選底部的勾選框以取消顯示歡迎畫面)。您也可以捲動至偏好設定選單底部或在搜尋列輸入 "
+"(而且，歡迎畫面在每次開機後都會出現。取消勾選底部的勾選框以取消顯示歡迎畫面)。您亦可以捲動至偏好設定選單底部或在搜尋列輸入 "
 "&ldquo;Wel&rdquo; 來找到歡迎畫面。"
 
 #. Tag: title
