@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-11-10 16:46+0000\n"
+"PO-Revision-Date: 2014-11-10 18:29+0000\n"
 "Last-Translator: tomoe_musashi <hkg.musashi@gmail.com>\n"
 "Language-Team: Chinese (Hong Kong) <zh_HK@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-11-10 17:02+0000\n"
+"X-Launchpad-Export-Date: 2014-11-11 10:34+0000\n"
 "X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
@@ -461,6 +461,10 @@ msgid ""
 "file within the disc, but rather folders like “casper” or “isolinux”. Most "
 "burning software has a special option for this."
 msgstr ""
+"請確保您是將 ISO 映像檔燒錄至光碟，而不是將 ISO 檔案寫入光碟。這是一個非常常見的錯誤，特別是 Nero 使用者，很容易將 ISO "
+"檔案當成一般資料檔案燒錄至光碟。ISO "
+"檔案是一張光碟的影像，所以不能把它當成一個檔案燒錄至光碟，而要讓燒錄軟件將其解壓縮，並將其內容燒錄至光碟上。燒錄完成後，您不應該在 DVD 上看到該 "
+"ISO 檔案，而是應該看到資料夾，如「casper」或「isolinux」。大多數燒錄軟件都為此提供專用選項。"
 
 #. Tag: title
 #, no-c-format

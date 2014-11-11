@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-05 15:49+0200\n"
-"PO-Revision-Date: 2014-11-10 15:03+0000\n"
+"PO-Revision-Date: 2014-11-11 08:14+0000\n"
 "Last-Translator: spacy01 <Unknown>\n"
 "Language-Team: Bulgarian <bg@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-11-10 17:03+0000\n"
+"X-Launchpad-Export-Date: 2014-11-11 10:34+0000\n"
 "X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
@@ -430,6 +430,8 @@ msgid ""
 "It is difficult or impossible to know how this software will interact with "
 "the other software installed on your system."
 msgstr ""
+"Трудно или невъзможното е да знаете как една програма би си взаимодействала "
+"с другите, вече инсталирани на Вашата система."
 
 #. Tag: entry
 #, no-c-format
@@ -444,6 +446,15 @@ msgid ""
 "on. Unless you are a beta tester, then you are unlikely to ever see such a "
 "conflict, because that's what beta testing is for."
 msgstr ""
+"Всъщност, пакетната поддръжка прави всичко възможно да се убеди че дадени "
+"пакети няма да са в конфликт с другите пакети, предлагани от диструбицията. "
+"Разбира се, поддръжката не може да има всеки последен пакет, инсталиран на "
+"тест машините си (обичайно е поддръжката да ползват \"чиста\" инсталация, за "
+"да са сигурни че всичко е по стандарт), но ако член на обществото от "
+"потребители открие проблем, той без съмнение ще се обади на екипа и проблема "
+"ще бъде оправен, или най-малко ще се работи по него. Вие едва ли сте видите "
+"такъв конфилкт, освен ако не сте бета тестер, защото за такива неща имаме "
+"бета тестери."
 
 #. Tag: entry
 #, no-c-format
@@ -452,6 +463,8 @@ msgid ""
 "developer that their software will not cause any harm, willful or negligent, "
 "to your system."
 msgstr ""
+"Трудно или невъзможното е да знаете дали може да се доверите на разработчик, "
+"че неговия софтуер, волно или неволно, няма да причини вреди на системата Ви."
 
 #. Tag: entry
 #, no-c-format
@@ -460,6 +473,9 @@ msgid ""
 "harm people's computers (including their own)! Only software which is known "
 "and trusted will ever make it to the repository."
 msgstr ""
+"Пакетната подръжка едва ли ще е склонна да пакетира софтуер, който ще увреди "
+"компютрите на хората (включително и техните)! Само софтуер, който е доказано "
+"надежден ще бъде качен в хранилището."
 
 #. Tag: entry
 #, no-c-format
@@ -468,6 +484,9 @@ msgid ""
 "cannot be entirely sure that you are not downloading an executable that has "
 "been swapped out by a malicious third party for some type of malware."
 msgstr ""
+"Дори и да познавате конкретен софтуер и неговия разработчик, не може да "
+"бъдете съвсем сигурни че не сваляте изпълним файл, който е бил заменен с "
+"вреден софтуер."
 
 #. Tag: entry
 #, no-c-format
@@ -479,11 +498,18 @@ msgid ""
 "will tell you about it. The present author, in ten years of using Linux, has "
 "never once known anything to go wrong in this respect."
 msgstr ""
+"В допълнение към обичайните мерки за сигурност, въведени от институциите, "
+"които притежават сървъри (обикновено престижни академични или "
+"изследователски институции, или големи компании), хранилищата и пакетите "
+"поотделно са подсигурени със сертификати и GPG ключове. Ако нещо е грешно, "
+"управлението на пакети ще Ви уведоми. Вашият автор, след десет годишно "
+"ползване на Линукс, никога не е чул някога, нещо да се объркало в това "
+"отнишение."
 
 #. Tag: entry
 #, no-c-format
 msgid "It is difficult to remove (all traces of) installed programs."
-msgstr ""
+msgstr "Трудно е да се премахнат всички следи от инсталираните програми."
 
 #. Tag: entry
 #, no-c-format
@@ -493,11 +519,14 @@ msgid ""
 "past, while ensuring that removing one package will not cause any other "
 "package to fail."
 msgstr ""
+"Тъй като управлението на пакети пази запис от всичките си действия, то е "
+"способно да се върне по стъпките си, докато проверява дали премахването на "
+"някой пакет няма да навреди на друг пакет."
 
 #. Tag: entry
 #, no-c-format
 msgid "Static packages are big and clunky."
-msgstr ""
+msgstr "Статичните пакети са големи и неудобни"
 
 #. Tag: entry
 #, no-c-format
@@ -513,11 +542,19 @@ msgid ""
 "because you just know you'll need it later, then you can tell the package "
 "management software to do that, too."
 msgstr ""
+"Тъй като Вие имате управление на пакети, ще Ви се наложи да използвте "
+"статични библиотеки, само ако няма споделени такива. Ако имате нужда от нови "
+"споделени библиотеки, за да инсталиране дадена програма, упеавлвнието на "
+"пакети ще Ви извести за тях и ще ги инсталира автоматично. А когато "
+"премахнете и последния пакет, който има нужда от споделенате библиотека, "
+"тогава упрвлвнието на пакети ще го премахне библиотеката. Но ако решите да "
+"запазите библиотеката, защото вероятно ще Ви трябва по-късно, може да кажете "
+"на управилението на пакети да я остави."
 
 #. Tag: entry
 #, no-c-format
 msgid "I'm still not convinced."
-msgstr ""
+msgstr "Все още не съм убеден"
 
 #. Tag: entry
 #, no-c-format
@@ -527,6 +564,10 @@ msgid ""
 "bears repeating that the package method of distribution in GNU/Linux relies "
 "on trust, so if there's a problem, we want to hear about it!"
 msgstr ""
+"Добре! Напишете съобщение че имате основателна тревога, относно управлението "
+"на пакети или попитайте какви са впечатленията на другите. Ще чуете че "
+"методът на пакетиране в ГНУ/Линукс е надежден и че ако има проблем, бихме "
+"искали да знаем за него."
 
 #. Tag: para
 #, no-c-format
@@ -550,6 +591,22 @@ msgid ""
 "the testers (in which case congratulations, you've just become a tester). "
 "It's a bit of a no-brainer, really."
 msgstr ""
+"Финални думи. Може да сте чували слуховр че Линукс още не завършен, или че "
+"ако ползвате Линукс, то Вие сте бета тестер, или че софтуера под линукс е "
+"нестабилен. Всичко това са полуистини. \"Линукс\" никога няма да бъде "
+"\"завършен\", както и всяка друга от големите операционни системи не меоже "
+"да е \"завършена\". От Линукс ядрото, до тапета на екрана, всички елементи "
+"от операционната система, винаги ще бъдат на някакъв етап на разработка. "
+"Това е така, защото програмистите се старят да имаме всички актуализации "
+"свързани с разработката на софтуер и хардуер. Това не означава че наличния "
+"софтуер е с ниско качество. Базовата система, ядрото на Линукс Минт се "
+"разработва от около две десетилетия и е зряло, стабилно и доказано. Докато "
+"дадена версия на софтуер, който ползвате е нестабилна, Вие няма да я "
+"ползвате, защото не сте бета тестер. Знаем че не сте бета тестер, защото "
+"четете това. Софтуера, наличен във Вашите хранилища винаги ще е стабилен и "
+"тестван, освен ако не смените хранилищата си с тези, използвани от тестрите, "
+"няма пречка да сторите това, наистина (ако сте го направили, честито, Вие "
+"сте бета тестер)."
 
 #. Tag: para
 #, no-c-format
@@ -564,6 +621,14 @@ msgid ""
 "for your system by the Linux Mint and Ubuntu teams. All you need to do is "
 "choose what you want to do."
 msgstr ""
+"Така, нека обобщим с пример, когато инсталирате Opera, Real Player или "
+"Google Земя на Линукс Минт, тези приложения не идват директно от техните "
+"разработчици (Opra, Real и Google). Разбира се в горния край на потока, тези "
+"приложения са от техните разработчици, но те достигат до Вас след като са "
+"били пакетирани и тествани. С други думи, няма нужда чрез интеренет да "
+"търсите даден софтуер, всичко от което имате нужда е налично и вече тествано "
+"в хранилищата. Всичко, което трябва да направите е да изберете това, което "
+"искате."
 
 #. Tag: para
 #, no-c-format
@@ -572,16 +637,19 @@ msgid ""
 "Manager, which will update not only the base operating system, but all the "
 "software installed on your machine as well."
 msgstr ""
+"Линукс Минт се актуализира автоматично, чрез инструмент наречен \"Управление "
+"на актуализациите\", той актуализира не само операционната система, но също "
+"така и софтуера, инсталиран на Вашата машина."
 
 #. Tag: para
 #, no-c-format
 msgid "It's that simple. Whew!"
-msgstr ""
+msgstr "Толкова е просто!"
 
 #. Tag: title
 #, no-c-format
 msgid "Installing software"
-msgstr ""
+msgstr "Инсталиране на софтуер"
 
 #. Tag: para
 #, no-c-format
@@ -589,11 +657,13 @@ msgid ""
 "Some of the most popular applications that are not installed by default in "
 "Linux Mint are Opera, Skype, Acrobat Reader, Google Earth and Real Player."
 msgstr ""
+"Някои популярни приложения, които не са инсталирани по подразбиране в Линукс "
+"Минт са Opera, Skype, Acrobat Reader, Google Зема и Real PLayer."
 
 #. Tag: title
 #, no-c-format
 msgid "Using the Software Manager"
-msgstr ""
+msgstr "Използване на Управлението на софтуер"
 
 #. Tag: para
 #, no-c-format
@@ -601,11 +671,13 @@ msgid ""
 "The easiest way to install software in Linux Mint is to use the "
 "<wordasword>Software Manager</wordasword>."
 msgstr ""
+"Най-лесният начин за инсталиране на софтуер в Линукс Минт е чрез "
+"<wordasword>Управлението на софтуер</wordasword> (Software Manager)."
 
 #. Tag: title
 #, no-c-format
 msgid "The Software Manager"
-msgstr ""
+msgstr "Управлвние на софтувер"
 
 #. Tag: para
 #, no-c-format
@@ -613,6 +685,8 @@ msgid ""
 "Open the <guimenu>Menu</guimenu> and select <guimenuitem>Software "
 "Manager</guimenuitem>."
 msgstr ""
+"Отворете <guimenu>Меню</guimenu> и изберете <guimenuitem>Управлвение на "
+"пакети</guimenuitem>."
 
 #. Tag: para
 #, no-c-format
@@ -621,11 +695,14 @@ msgid ""
 "Mint. You can browse by category, search by keyword or sort the software by "
 "rating and popularity."
 msgstr ""
+"Управлението на пакети Ви позволява да разгледате наличния софтуер за Линукс "
+"Минт. Може да търсите по категории, ключови думи или да подредите програмите "
+"по рейтинг и по популярност."
 
 #. Tag: title
 #, no-c-format
 msgid "Using Synaptic"
-msgstr ""
+msgstr "Използване на Synaptic"
 
 #. Tag: para
 #, no-c-format
@@ -634,11 +711,14 @@ msgid ""
 "technical information about the packages, you can use "
 "<wordasword>Synaptic</wordasword>."
 msgstr ""
+"Ако искате да инсталирате повече от едно приложение по едно и също време или "
+"ако искате да видите по-подробна техническа информация, може да използвате "
+"<wordasword>Synaptic</wordasword>."
 
 #. Tag: title
 #, no-c-format
 msgid "Synaptic, the Package Manager"
-msgstr ""
+msgstr "Пакетния мениджър Synaptic"
 
 #. Tag: para
 #, no-c-format
@@ -646,6 +726,8 @@ msgid ""
 "Open the <guimenu>Menu</guimenu> and select <guimenuitem>Synaptic Package "
 "Manager</guimenuitem>."
 msgstr ""
+"Отворете <guimenu>Меню</guimenu> и изберете <guimenuitem>Пакетен Мениджър "
+"(Synaptic)</guimenuitem>."
 
 #. Tag: para
 #, no-c-format
@@ -653,6 +735,7 @@ msgid ""
 "Let's see how we can install Opera (an alternative to the Firefox Web "
 "browser):"
 msgstr ""
+"Нека да видим как се инсталира Opera (Алтернативен на Firefox уеб браузър):"
 
 #. Tag: para
 #, no-c-format
@@ -660,29 +743,33 @@ msgid ""
 "Click on the <guibutton>Search</guibutton> button and type "
 "<wordasword>opera</wordasword>."
 msgstr ""
+"Кликнете на бутона <guibutton>Search</guibutton> (търсене) и напишете "
+"<wordasword>opera</wordasword>."
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Go through the list of packages and find the one corresponding to the Opera "
 "Web Browser."
-msgstr ""
+msgstr "Потърсете в списъка с пакети този, на който пише Opera Web Browser."
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Tick the box and select <guimenuitem>Mark for Installation</guimenuitem>."
 msgstr ""
+"Маркирайте кутийката и изберете <guimenuitem>Mark for "
+"Installation</guimenuitem> (отбелязване за инсталация)."
 
 #. Tag: para
 #, no-c-format
 msgid "Click on the <guibutton>Apply</guibutton> button."
-msgstr ""
+msgstr "Натиснете на бутона <guibutton>Apply</guibutton> (приложи)."
 
 #. Tag: title
 #, no-c-format
 msgid "Using APT"
-msgstr ""
+msgstr "Използване на APT"
 
 #. Tag: para
 #, no-c-format
@@ -690,6 +777,8 @@ msgid ""
 "APT is by far the most powerful package management tool in Linux Mint. Yet "
 "it's extremely simple to use."
 msgstr ""
+"APT е най-мощния инструмент за управление на пакети в Линукс Минт. И въпреки "
+"това е лесен за употреба."
 
 #. Tag: para
 #, no-c-format
@@ -699,13 +788,15 @@ msgid ""
 "at first. As time goes on you'll likely enjoy things to be faster and more "
 "efficient."
 msgstr ""
+"Това е команден инструмент, без графичен интерфейс. Ако тепърва започвате с "
+"Линукс, вероятно ще предпочетете Управлението на софтуер или Synaptic."
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Now let's see how we could have installed Opera using the APT command line "
 "tool."
-msgstr ""
+msgstr "Нека видим как се инсталира Opera чрез APT и командния ред."
 
 #. Tag: para
 #, no-c-format
@@ -713,6 +804,8 @@ msgid ""
 "Open the <guimenu>Menu</guimenu> and select "
 "<guimenuitem>Terminal</guimenuitem>. Then type the following command:"
 msgstr ""
+"Отворете <guimenu>Меню</guimenu> и изберете "
+"<guimenuitem>Терминал</guimenuitem>. След това напишете следната команда:"
 
 #. Tag: screen
 #, no-c-format
@@ -722,6 +815,10 @@ msgid ""
 "<replaceable>opera</replaceable></command>\n"
 "                "
 msgstr ""
+"\n"
+"                    <command>apt install "
+"<replaceable>opera</replaceable></command>\n"
+"                "
 
 #. Tag: para
 #, no-c-format
@@ -730,11 +827,14 @@ msgid ""
 "background so both can't run at the same time. The same goes for the "
 "Software Manager."
 msgstr ""
+"Проверете дали Synaptic е затворен, преди да използвате APT. Synaptic "
+"използва APT на заден фон и двете не могат да работят едновременно. Същото "
+"важи и за Управлението на пакети."
 
 #. Tag: title
 #, no-c-format
 msgid "Removing software"
-msgstr ""
+msgstr "Премахване на софтуер"
 
 #. Tag: para
 #, no-c-format
@@ -742,6 +842,9 @@ msgid ""
 "You can use the Software Manager to remove software. Simply find the "
 "software you want to remove and click on <guibutton>Remove</guibutton>."
 msgstr ""
+"Може да използвате Управлението на софтуер, за да прехвате програми. Просто "
+"намерете програмата, която искате да махнете и натиснете бутона "
+"<guibutton>Remove</guibutton> (Премахни)."
 
 #. Tag: para
 #, no-c-format
@@ -750,6 +853,10 @@ msgid ""
 "<guimenuitem>Mark for Removal</guimenuitem>. Changes are applied after you "
 "click on the <guibutton>Apply</guibutton> button."
 msgstr ""
+"Със Synaptic, премахвате пакет като кликнете на него и изберете "
+"<guimenuitem>Mark for Removal</guimenuitem> (отбелязване за премахване). "
+"Прилагате промените, като натиснете бутона <guibutton>Apply</guibutton> "
+"(Приложи)."
 
 #. Tag: para
 #, no-c-format
@@ -758,6 +865,8 @@ msgid ""
 "<guimenuitem>Terminal</guimenuitem> from the <guimenu>Menu</guimenu> and "
 "type:"
 msgstr ""
+"С APT е дори по-просто... Да кажем че искате да премахнете Opera, отворете "
+"<guimenuitem>Терминал</guimenuitem> и напишете:"
 
 #. Tag: screen
 #, no-c-format
@@ -767,11 +876,15 @@ msgid ""
 "<replaceable>opera</replaceable></command>\n"
 "            "
 msgstr ""
+"\n"
+"                    <command>apt remove "
+"<replaceable>opera</replaceable></command>\n"
+"            "
 
 #. Tag: title
 #, no-c-format
 msgid "Updating software"
-msgstr ""
+msgstr "Обновяване на софтуер"
 
 #. Tag: para
 #, no-c-format
@@ -783,11 +896,16 @@ msgid ""
 "packages and any part of it can be updated by updating some of those "
 "packages. This means replacing the current package with a newer version."
 msgstr ""
+"Ако е налична нова версия на пакет, инсталиран на Вашия компютър, Вие може "
+"да надградите до нея. Това може да е актуализация по сигурността, или "
+"оптимизация на библиотека, или пък новата версия на Firefox.  Всъщност "
+"Вашата система е изградена от различни пакети и всеки един може да обновен. "
+"Това означава да се замени текущият с по-нова версия."
 
 #. Tag: para
 #, no-c-format
 msgid "There are many ways to do this but only one of them is recommended."
-msgstr ""
+msgstr "Има много начини да се стори това, но само един е препоръчителен."
 
 #. Tag: para
 #, no-c-format
@@ -797,6 +915,10 @@ msgid ""
 "reason is that it doesn't make any distinctions in selecting which updates "
 "to apply and assumes that you want all of them."
 msgstr ""
+"Може да използвате APT, за да обновите пакетите с една проста команда "
+"(<command>apt upgrade</command>), но Ви препоръчваме да не го правите. "
+"Причината е че нямате никакъв контрол върху избора на обновявания, а се "
+"предполага че искате всички обновявания."
 
 #. Tag: para
 #, no-c-format
@@ -807,6 +929,11 @@ msgid ""
 "wireless card support or even some applications (such as VMWare and "
 "Virtualbox) which are closely linked to the kernel."
 msgstr ""
+"Някои части от системата са безопасни за обновявания, но други не са. "
+"Например при обновяването на ядрото (kernel), може да се счупи звука, "
+"мрежовата поддръжка или някое приложение (като VMWare и Virtualbox), които "
+"са тясно свързани с ядрото (ядрото е тази част, която е отговорна за "
+"хардуерното разпознаване)."
 
 #. Tag: para
 #, no-c-format
@@ -816,6 +943,10 @@ msgid ""
 "before you want to apply it. It looks like a shield and sits on the bottom-"
 "right corner of your screen."
 msgstr ""
+"Линукс Минт има инструмент наречен Управление на актуализации (Update "
+"Manager).  Той Ви дава повече информация за актуализациите и може да "
+"определите колко безопасни актуализации искате да приложите. Той прилича на "
+"щит и се намира в долния десен ъгъл на лентата."
 
 #. Tag: para
 #, no-c-format
@@ -823,11 +954,13 @@ msgid ""
 "If you place your mouse pointer on top of it, it will tell you either that "
 "your system is up to date or, if it isn't, how many updates are available."
 msgstr ""
+"Ако го посочите с мишката, той ще Ви каже дали системата е актуална, а ако "
+"не е, колко актуализации са налични"
 
 #. Tag: title
 #, no-c-format
 msgid "The list of available updates"
-msgstr ""
+msgstr "Списъка с налични актуализации"
 
 #. Tag: para
 #, no-c-format

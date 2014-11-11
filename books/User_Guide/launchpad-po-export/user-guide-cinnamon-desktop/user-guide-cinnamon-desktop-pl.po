@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-11-10 17:02+0000\n"
+"X-Launchpad-Export-Date: 2014-11-11 10:34+0000\n"
 "X-Generator: Launchpad (build 17241)\n"
 
 #. Tag: title
@@ -100,6 +100,10 @@ msgid ""
 "<wordasword>Music</wordasword>, <wordasword>Videos</wordasword>...etc which "
 "you can use to better organize your files."
 msgstr ""
+"Jak również twoje pliki, katalog ten zawiera również predefiniowane "
+"podkatalogi takie jak <wordasword>Dokumenty </wordasword>, "
+"<wordasword>Muzyka</wordasword>, <wordasword>Filmy</wordasword> itd, z "
+"których możesz korzystać, aby lepiej zorganizować swoje pliki."
 
 #. Tag: para
 #, no-c-format
@@ -110,6 +114,11 @@ msgid ""
 "the computer, the network and bookmarks (you can bookmark any directory to "
 "gain quick-access to it)."
 msgstr ""
+"Inne ważne miejsca są na twoim <wordasword>Pulpit</wordasword> (który "
+"zawiera pliki widoczne na pulpicie), system plików (który zawiera wszystkie "
+"pliki systemowe i katalogi), wymienne urządzenia podłączone do komputera, "
+"sieci i zakładki (możesz tworzyć zakładki dowolnego katalogu do zyskania "
+"szybkiej dostęp do niego)."
 
 #. Tag: para
 #, no-c-format
@@ -134,6 +143,10 @@ msgid ""
 "Then, within Nemo, you can access common places by clicking on them in the "
 "sidebar, on the left of the window."
 msgstr ""
+"Uruchom <wordasword>Nemo</wordasword>, menedżer plików Cinnamon, klikając na "
+"<guimenu>Menu</guimenu> i wybierając <guimenuitem>Plik</guimenuitem>. "
+"Następnie w ramach Nemo, można uzyskać dostęp do wspólnych miejsc, klikając "
+"na nie w pasku bocznym po lewej stronie okna."
 
 #. Tag: title
 #, no-c-format
@@ -141,6 +154,8 @@ msgid ""
 "Nemo, the file manager, listing the content of the Home directory and "
 "providing quick-access to common places from the left sidebar."
 msgstr ""
+"Nemo, menedżer plików z wykazem zawartości katalogu domowego oraz "
+"zapewniający szybki dostęp do wspólnych miejsc z lewego panelu."
 
 #. Tag: title
 #, no-c-format
