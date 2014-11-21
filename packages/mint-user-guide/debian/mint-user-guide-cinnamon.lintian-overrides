@@ -1,0 +1,2 @@
+# will be installed as a dependency
+mint-user-guide-cinnamon: desktop-command-not-in-package usr/share/applications/mint-user-guide.desktop yelp
