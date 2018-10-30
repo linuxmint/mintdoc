@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+<chapter id="faqs">
+    <title>Frequently Asked Questions</title>
+    <sect1 id="faqs">    
+        <sect2>
+            <title>How do I make Windows the default operating system to boot in the Grub menu?</title>
+            <para>Perhaps you want Windows (or another OS) to be the default operating system in the boot menu instead of Linux Mint. You can do this as follows:</para>
+            <para>First determine on which line of Grub’s boot menu is Windows (it’s often on line number 5, but not always). This line number is important to know, so write it down or remember it.</para>
+            <para>Launch a terminal window. Type in the terminal:</para> 
+            <screen>
+                    <command>gksudo xed /etc/default/grub</command>
+            </screen>
+            <para>Press enter. Find the default boot line (nearly at the beginning). It should currently read GRUB_DEFAULT=0</para>
+            <para>Grub starts counting at 0, so 0 refers to the first line in the boot menu (likely Linux Mint). Keep this in mind when making a change! For example, if Windows is at line 5 in your Grub menu, you have to change the Grub default value from 0 to 4 to make Windows the default boot option:
+GRUB_DEFAULT=4</para>
+            <para>Save and close the configuration file. Finally, apply the change by regenerating the Grub menu with the following command:</para>
+             <screen>
+                    <command>sudo update-grub</command>
+            </screen>
+            <para>Tip: Want to give yourself more time before Grub automatically selects your boot option? Follow the same instructions as above, but this time look for the line reading GRUB_TIMEOUT=10</para>
+            <para>Change the value 10 to 20 (or more) to give yourself more time when booting up your computer. Again, save and close the configuration file, and then apply the update with the command sudo update-grub</para> 
+        </sect2>
+
+        <sect2>
+            <title>Why is my system time changing between Windows and Linux Mint?</title>
+            <para>If you're dual-booting Linux Mint and Windows, you may find that changing time in one system affects the other and that the two systems can't display the same time. This happens because Linux Mint 18 interprets the hardware clock or real time clock (RTC) in universal time by default, while Windows maintains the clock in local time. You can fix this discrepancy by keeping RTC in local time in Linux Mint (the same as in Windows). Run the command below in the terminal:</para>
+            <screen>
+                    <command>timedatectl set-local-rtc 1 --adjust-system-clock</command>
+            </screen>
+        </sect2>
+    </sect1>
+</chapter>

@@ -5,8 +5,18 @@
 	<title>Introduction to Linux Mint</title>
     <para>Linux Mint is a computer operating system designed to work on most modern systems, including typical x86 and x64 PCs.</para>
     <para>Linux Mint can be thought of as filling the same role as Microsoft's Windows, Apple's Mac OS, and the free BSD OS. Linux Mint is also designed to work in conjunction with other operating systems (including those listed above), and can automatically set up a <wordasword>dual boot</wordasword> or <wordasword>multi-boot</wordasword> environment (where the user is prompted as to which operating system to start at each boot-up) during its installation.</para>
-    <para>Linux Mint is a great operating system for individuals and for companies.</para>
     
+    <para>The purpose of Linux Mint is to produce a modern, elegant and comfortable operating system which is both powerful and easy to use.</para>
+	<para>Linux Mint is one of the most popular desktop Linux distributions and used by millions of people.</para>
+	<para>Some of the reasons for the success of Linux Mint are:</para>
+	<itemizedlist>
+		<listitem><para>It works out of the box, with full multimedia support and is extremely easy to use.</para></listitem>
+		<listitem><para>It's both free of cost and open source.</para></listitem>
+		<listitem><para>It's community-driven. Users are encouraged to send feedback to the project so that their ideas can be used to improve Linux Mint.</para></listitem>
+		<listitem><para>Based on Debian and Ubuntu, it provides about 30,000 packages and one of the best software managers.</para></listitem>
+		<listitem><para>It's safe and reliable. Thanks to a conservative approach to software updates, a unique Update Manager and the robustness of its Linux architecture, Linux Mint requires very little maintenance (no regressions, no antivirus, no anti-spyware...etc).</para></listitem>
+	</itemizedlist>
+    <para>Linux Mint is a great operating system for individuals and for companies.</para>
 	<sect1 id="history">
 		<title>History</title>
 		<para>Linux Mint is a very modern operating system; Its development started in 2006. It is, however, built upon very mature and proven software layers, including the Linux kernel, the GNU tools and the &EDITION; desktop. It also relies on the Ubuntu and Debian projects and uses their systems as a base.</para>
@@ -128,6 +138,26 @@
                         <entry>17.1</entry>
                         <entry>Rebecca</entry>
                     </row>
+		    <row>
+			<entry>18</entry>
+                        <entry>Sarah</entry>
+		    </row>
+		    <row>
+			<entry>18.1</entry>
+                        <entry>Serena</entry>
+		    </row>	
+		    <row>
+			<entry>18.2</entry>
+                        <entry>Sonya</entry>
+		    </row>
+	            <row>
+			<entry>18.2</entry>
+                        <entry>Sonya</entry>
+		    </row>
+		    <row>
+			<entry>18.3</entry>
+                        <entry>Sylvia</entry>
+		    </row>
                 </tbody>
             </tgroup>
         </table>

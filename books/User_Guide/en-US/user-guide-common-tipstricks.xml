@@ -3,7 +3,7 @@
 ]>
 <chapter id="tipstricks">
     <title>Tips and Tricks</title>
-    <para>Are you making the most of your desktop? Do you usually press <keycombo><keycap>Ctrl</keycap><keycap>C</keycap></keycombo> on your keyboard to copy some text? Do you open a text editor to take a quick note? How do you share files with your friends? There are many ways to perform simple tasks, some more efficient than others. This chapter is going to show you a few particularities of the Linux Mint desktop, to make sure you make the most of your system.</para>
+    <para>Are you making the most of your desktop? Do you usually press <keycombo><keycap>Ctrl</keycap><keycap>C</keycap></keycombo> on your keyboard to copy some text? Do you open a text editor to take a quick note? Do you utilize shell commands to simplify tasks? There are many ways to perform simple tasks, some more efficient than others. This chapter is going to show you a few particularities of the Linux Mint desktop, to make sure you make the most of your system.</para>
     <sect1>
         <title>Copy and paste with the mouse!</title>
         <para>Most people are used to clicking on the <guimenu>Edit</guimenu> menu or to right clicking on the content they want to copy. In Linux Mint you can do this as well, but you can also copy and paste content from the comfort of your mouse. Here's how it works: The left button of the mouse copies and the middle button pastes. It's as simple as that!</para>
@@ -12,6 +12,194 @@
         <para>The more you get used to this the faster you'll get at copying and pasting content.</para>
         <note><para>The buffer used by the mouse is not the same as the one used by the desktop. So you can actually copy something with your mouse and copy something else with <keycombo><keycap>Ctrl</keycap><keycap>C</keycap></keycombo> or with the <guimenu>Edit</guimenu> menu. Thanks to this you can copy two elements at a time and depending on how you copied them you can paste them with either the middle mouse button or with <keycombo><keycap>Ctrl</keycap><keycap>V</keycap></keycombo> or the <guimenu>Edit</guimenu> menu.</para></note>
     </sect1>
+    <sect1>
+        <title>Keyboard Shorts</title>
+        <para>Show desktop: Super+D (Windows key + D)</para>
+        <para>Switch Workspaces: Ctrl+Alt+Right or Ctrl+Alt+Left</para>
+        <para>Launch Menu: Super L, or Super R (Super is an alternate names for the Window keys near Ctrl.)</para>
+        <para>Launch Terminal: Ctrl+Alt+T</para>
+        <para>Lock Screen: Ctrl+Alt+L</para>
+        <para>Open Home Folder: Super+E</para>
+        <para>Shut Down: Ctrl+Alt+End</para>
+        <para></para>
+        <para>Want to set up your own keyboard shortcuts? You can!</para>
+        <para>Menu -> Keyboard -> Shortcuts</para>
+    </sect1>
+    <sect1>
+        <title>Simple Terminal Commands for Beginners</title>
+        <para>A word on the terminal: </para>
+        <para>The command line has a somewhat notorious reputation among Linux beginners. Don’t worry; you generally won’t need to use the terminal to work with Linux Mint if you don’t want to. After all, Linux Mint comes with plenty of user-friendly tools with graphical interfaces, such as the Update Manager, Software Manager, and Driver Manager. Your desktop has been designed to make it as easy as possible to complete common system tasks without complicated terminal commands.</para>
+        <para>Nonetheless, it’s fun and useful to learn a few basic commands. In fact, once you get comfortable using the command line, you’ll find that it’s often the quickest and easiest way to accomplish many common tasks! </para>
+        <para></para>
+        <screen>
+                    <command>pwd</command>
+        </screen>
+        <para>Shows where you are in the system’s directory tree (pwd stands for “print working directory”). </para>
+        <para>Try it: Open a new terminal with Ctrl+Alt+T and then type pwd and press enter. You should see that your current working directory is /home/your_username.</para>
+        <figure id="pwd-figure">
+            <title>pwd</title>
+            <screenshot>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="images/desktops/cinnamon/pwd.png" format="PNG" width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </screenshot>
+        </figure>
+        <screen>
+                    <command>ls</command>
+        </screen>
+        <para>Lists the current directory’s contents.</para>
+        <para>Try it: From /home/username, type ls and press enter. You should see a listing of all the files and directories that are in your Home folder. Do you see the default directories Downloads, Pictures, Videos, Documents, and Desktop?</para>
+        <screen>
+                    <command>ls -a</command>
+        </screen>
+        <para>Lists all of the current directory’s contents, including hidden files and directories.</para>
+        <screen>
+                    <command>cd</command>
+        </screen>
+        <para>Changes directories (cd stands for “change directory”). Follow cd with the directory path you wish to navigate to. For example, from /home/username use the command: cd Documents. Now type pwd. You should see that you’re now in your Documents folder, /home/username/Documents </para>
+        <screen>
+                    <command>cd ~ </command>
+        </screen>
+        <para>This is a shortcut to change directories to your Home folder. </para>
+        <screen>
+                    <command>cd ../command>
+        </screen>
+        <para>This is a shortcut to move up exactly one level from the current directory to its parent directory. </para>
+            <para></para>
+            <para>Try it all: Launch a terminal with Ctrl+Alt+T. List all the contents of your current working directory with the command ls. Choose any directory, and then use the command cd to move into that directory. Now use the command ls again to see what’s inside the directory. Go as deep down the directory tree as you can with subsequent cd and ls commands, and then climb back up with directory tree with the command cd .. or cd ~</para>
+            <para>By combining just the simple commands pwd, cd, and ls, you can navigate all across your system via the terminal. It’s not that hard after all!</para>
+         <screen>
+                    <command>date</command>
+         </screen>
+        <para>Outputs the current time and date. </para>
+         <screen>
+                    <command>cal</command>
+         </screen>
+        <para>Outputs a simple calendar of the current month.</para>
+         <screen>
+             <command>cal 2018</command>
+         </screen>
+            <para>Outputs a calendar of the year 2018.</para>
+            <figure id="cal-figure">
+            <title>pwd</title>
+            <screenshot>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="images/desktops/cinnamon/cal.png" format="PNG" width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </screenshot>
+        </figure>
+         <screen>
+             <command>man</command>
+         </screen>
+            <para>This command stands for “manual page.” If you just type man and press enter in the terminal, the text, “What manual page do you want?” will be output. </para>
+            <para>To see the manual page for a particular command, type man command_name. For example, man ls will show you the manual page for the command ls. </para>
+            <para>Tip: Not every command has a manual page available. For example, type man cd and press enter. The terminal will output “No manual entry for cd.” If no manual page is available, try one of the following commands instead:</para>
+         <screen>
+             <command>info command_name</command>
+         </screen>
+         <screen>
+             <command>whatis command_name</command>
+         </screen>
+            <para></para>
+         <screen>
+             <command>history</command>
+         </screen>
+            <para>This command will show you a history list of commands entered into the terminal. This is handy if you can’t recall a command you need to use.</para>
+            <para>Tip: Press the up key to see the last command you entered into the terminal. Press the up key again to see the command you used before that. Press the down key to cycle back down the list of commands. You can keep pressing up to cycle through your most recently used commands.</para>
+            <screen>
+             <command>man bash</command>
+         </screen>
+            <para>For the bold and adventurous, this accesses the manual page for bash, which is the command line shell itself that Linux Mint uses. The shell's name, bash, is an acronym for Bourne-again shell.</para>
+            <para>If you would like additional guidance on learning the Linux comand line, there are many free resources available online to explore. “The Linux Command Line by William Shotts” is one such recommended free book: <ulink url="http://linuxcommand.org/tlcl.php">http://linuxcommand.org/tlcl.php</ulink></para>
+    </sect1>
+    
+     <sect1>
+        <title>Desktop Customization</title>
+         <para>Adjust window transparency by scrollwheel: </para>
+         <para>Menu -> System Settings -> Windows -> Titlebar</para>
+         <para>Update Action on title bar with mouse scroll to: Adjust opacity</para>
+         <para>This will allow you to use your mouse scrollwheel on a title bar to adjust the windows opacity.</para>
+         <figure id="windows-settings-figure">
+            <title>Windows settings</title>
+            <screenshot>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="images/desktops/cinnamon/windowsettings.png" format="PNG" width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </screenshot>
+        </figure>
+         <para>Try it out; simply hover your mouse over the title bar of any window, and scroll your wheel down to lighten the window.</para>
+         <figure id="window-figure">
+            <title>Windows customization</title>
+            <screenshot>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="images/desktops/cinnamon/transparentwindow.png" format="PNG" width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </screenshot>
+        </figure>
+        <para>Get window previews with Alt-Tab: </para>
+        <para>Menu -> System Settings -> Windows -> Alt-Tab </para>
+        <para>Update Alt-Tab switcher style to: Icons and window preview</para>
+        <para></para>
+        <para>You might be used to switching between windows on your desktop with Alt-Tab. This setting adjustment will give you helpful window previews as you cycle through your Alt-Tab list, instead of only showing icons. </para>
+        <para></para>
+        <para>Add Help launcher to panel bar: <para>
+        <para>Menu -> Accessories -> Help </para> 
+        <para>Right click on Help and select add to panel. (You can add any other program to the panel in the same manner.)</para>
+            <para></para>   
+            <para>Change Menu icon and text: </para>
+            <para>Right click on the Menu icon and select Configure.</para>
+            <para>Change Use a custom icon to: ON</para>
+            <para>Select the image file you want to use as a your Menu icon.</para>
+            <para>You can change the Text field to whatever you want. For example, START, GO, MENU, or whatever else. Here’s an example using the classic Playstation logo and the text START</para>
+            <figure id="panel-figure">
+            <title>Menu customization</title>
+            <screenshot>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="images/desktops/cinnamon/custompanel.png" format="PNG" width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </screenshot>
+        </figure>
+            <para>Add Cinnamon Spices (Desklets, Applets, and Extensions) to your desktop</para>
+            <para>Modify your Cinnamon desktop environment and extend its features with Cinnamon Spices. This is a large part of what makes using Linux Mint so fun. </para>
+            <para>Cinnamon supports the following types of spices: themes, applets, desklets and extensions.</para>
+            <para>You can add Themes, Desklets, Applets, or Extensions from the Menu:</para>
+            <para>Menu -> Preferences -> Themes</para>
+            <para>Menu -> Preferences -> Desklets (Alternatively, right click your desktop and select Add Desklets)</para>
+            <para>Menu -> Preferences -> Applets</para>
+            <para>Menu -> Preferences -> Extensions</para>
+            <para></para>
+            <para>Browse addons for your Cinnamon desktop online here: <ulink url="https://cinnamon-spices.linuxmint.com">https://cinnamon-spices.linuxmint.com</ulink></para>
+            <para></para>
+            <para>Desklet Example - Quote of the Day:</para>
+            <para>Want to get a quote of the day directly on your desktop? Just add the Desklet!</para>
+            <para>Right click your desktop and select Add Desklets. Change tabs to Available desklets (online). Search for Quote of the day desklet. Check the checkbox next to it, and then click the button to Install.</para>
+             <para>Now from the Installed desklets tab, right click Quote of the day desklet and select Add to deskto</para>
+             <figure id="qotd-figure">
+            <title>Quote of the day Desklet</title>
+            <screenshot>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="images/desktops/cinnamon/qotd.png" format="PNG" width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </screenshot>
+        </figure>
+             <para>There are other great Desklets, Applets, and Extensions available thanks to the wonderful community behind Linux Mint. Do some exploring, and have fun spicing up your desktop environment with Cinnamon Spices!</para>
+         
+     </sect1>
+    
+        
+        
     <sect1>
         <title>Take notes with Tomboy</title>
         <para>We all take notes. Whether it's an address given by someone over the phone, an ever-growing TODO list or some particular thing to remember, we're often faced with the situation where we need to take a quick note. Some of us have a lot of written notes around our computers and never seem to find a working pen when the situation arises, others waste time in launching tools that are not suitable for this particular use (LibreOffice Writer for instance is not very handy to take notes) and very few people actually use software dedicated to note-taking. Linux Mint happens to include a dedicated note-taking tool. It is called Tomboy Notes.</para>
